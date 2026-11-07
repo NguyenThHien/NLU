@@ -1,5 +1,20 @@
-# Full workspace is versioned at the owner's request.
-# Keep only private environment configuration out of the repository.
+# Secrets
 .env
 .env.*
 !.env.example
+
+# Python environments & cache (tạo lại bằng requirements.txt)
+.venv/
+.venv-*/
+__pycache__/
+*.pyc
+
+# Model gốc: tải lại bằng model/download_model.py
+model/phobert-base-v2/
+
+# Trọng số & checkpoint: model đã fine-tune lưu trên Hugging Face (Hienne/phobert-vi-intent)
+outputs/**/checkpoint-*/
+outputs/smoke_test/
+outputs/**/*.safetensors
+outputs/**/*.pt
+outputs/**/*.bin

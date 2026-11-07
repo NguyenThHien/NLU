@@ -1,5 +1,7 @@
 """Nhập câu qua terminal và dự đoán một trong năm ý định."""
 
+import json
+
 import torch
 from transformers import AutoModelForSequenceClassification, AutoTokenizer
 from vncorenlp import VnCoreNLP
@@ -23,6 +25,26 @@ def load_classifier(model_dir=TRAINED_MODEL_DIR):
     model.to("cpu")
     model.eval()
     return tokenizer, model
+
+
+THRESHOLDS_FILE = "thresholds.json"
+FALLBACK_LABEL = "UNKNOWN"
+
+
+def load_thresholds(model_dir=TRAINED_MODEL_DIR):
+    """Ngưỡng tối thiểu theo nhãn (do select_threshold.py sinh); thiếu file → không áp ngưỡng."""
+    path = model_dir / THRESHOLDS_FILE
+    if not path.is_file():
+        return {}
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def apply_thresholds(ranked_scores, thresholds):
+    """Trả nhãn cuối: nhãn top-1 có điểm dưới ngưỡng của nó thì chuyển thành UNKNOWN."""
+    label, score = ranked_scores[0]
+    if score < thresholds.get(label, 0.0):
+        return FALLBACK_LABEL
+    return label
 
 
 def predict_batch(texts, tokenizer, model, batch_size=16):
@@ -76,12 +98,15 @@ def predict_text(text, segmenter, tokenizer, model):
     return segmented, ranked_scores, was_truncated
 
 
-def print_prediction(segmented, ranked_scores, was_truncated):
-    label, score = ranked_scores[0]
+def print_prediction(segmented, ranked_scores, was_truncated, thresholds):
+    label = apply_thresholds(ranked_scores, thresholds)
+    score = ranked_scores[0][1]
     if was_truncated:
         print(f"Lưu ý: model chỉ nhận {MAX_LENGTH} token đầu.")
 
     print(f"Đã tách từ: {segmented}")
+    if label != ranked_scores[0][0]:
+        print(f"Model chọn {ranked_scores[0][0]} nhưng dưới ngưỡng → {label}")
     print(f"Nhãn dự đoán: {label}")
     print(f"ID nhãn: {LABEL2ID[label]}")
     print(f"Điểm softmax: {score:.2%}")
@@ -93,6 +118,7 @@ def print_prediction(segmented, ranked_scores, was_truncated):
 def main():
     print("Đang nạp model...", flush=True)
     tokenizer, model = load_classifier()
+    thresholds = load_thresholds()
 
     with VnCoreNLP(
         str(VNCORENLP_JAR),
@@ -113,7 +139,7 @@ def main():
             except ValueError as error:
                 print(error)
                 continue
-            print_prediction(*result)
+            print_prediction(*result, thresholds)
 
 
 if __name__ == "__main__":

@@ -1,104 +1,119 @@
+"""Nhập câu qua terminal và dự đoán một trong năm ý định."""
 
 import torch
 from transformers import AutoModelForSequenceClassification, AutoTokenizer
 from vncorenlp import VnCoreNLP
 
-
-from common import (
-    TRAINED_MODEL_DIR as MODEL_DIR, VNCORENLP_JAR,
-    LABEL2ID, MAX_LENGTH, segment_text,
-)
+from common import LABEL2ID, MAX_LENGTH, TRAINED_MODEL_DIR, VNCORENLP_JAR, segment_text
 
 
-def main():
-    if not MODEL_DIR.is_dir():
-        raise FileNotFoundError(f"Khong tim thay model: {MODEL_DIR}")
-
-    print("Dang nap model...", flush=True)
+def load_classifier(model_dir=TRAINED_MODEL_DIR):
+    if not model_dir.is_dir():
+        raise FileNotFoundError(f"Không tìm thấy model: {model_dir}")
 
     tokenizer = AutoTokenizer.from_pretrained(
-        str(MODEL_DIR),
+        str(model_dir),
         use_fast=False,
         local_files_only=True,
     )
-
     model = AutoModelForSequenceClassification.from_pretrained(
-        str(MODEL_DIR),
+        str(model_dir),
         local_files_only=True,
     )
-
     model.to("cpu")
-    model.eval()  # Chuyển sang chế độ dự đoán
+    model.eval()
+    return tokenizer, model
+
+
+def predict_batch(texts, tokenizer, model, batch_size=16):
+    """Nhận câu đã tách từ, trả ID gốc 1–5 và điểm softmax."""
+    predicted_ids = []
+    confidence_scores = []
+
+    with torch.inference_mode():
+        for start in range(0, len(texts), batch_size):
+            inputs = tokenizer(
+                texts[start:start + batch_size],
+                padding=True,
+                truncation=True,
+                max_length=MAX_LENGTH,
+                return_tensors="pt",
+            )
+            probabilities = model(**inputs).logits.softmax(dim=-1)
+            scores, model_ids = probabilities.max(dim=-1)
+
+            for model_id in model_ids.tolist():
+                label = model.config.id2label[model_id]
+                predicted_ids.append(LABEL2ID[label])
+            confidence_scores.extend(scores.tolist())
+
+    return predicted_ids, confidence_scores
+
+
+def predict_text(text, segmenter, tokenizer, model):
+    segmented = segment_text(segmenter, text)
+    if not segmented.strip():
+        raise ValueError("Không tách được từ, bạn thử câu khác nhé.")
+
+    token_ids = tokenizer(segmented, truncation=False)["input_ids"]
+    was_truncated = len(token_ids) > MAX_LENGTH
+
+    inputs = tokenizer(
+        segmented,
+        truncation=True,
+        max_length=MAX_LENGTH,
+        return_tensors="pt",
+    )
+    with torch.inference_mode():
+        probabilities = model(**inputs).logits.softmax(dim=-1)[0]
+
+    ranked_scores = []
+    for model_id in torch.argsort(probabilities, descending=True).tolist():
+        label = model.config.id2label[model_id]
+        score = float(probabilities[model_id].item())
+        ranked_scores.append((label, score))
+
+    return segmented, ranked_scores, was_truncated
+
+
+def print_prediction(segmented, ranked_scores, was_truncated):
+    label, score = ranked_scores[0]
+    if was_truncated:
+        print(f"Lưu ý: model chỉ nhận {MAX_LENGTH} token đầu.")
+
+    print(f"Đã tách từ: {segmented}")
+    print(f"Nhãn dự đoán: {label}")
+    print(f"ID nhãn: {LABEL2ID[label]}")
+    print(f"Điểm softmax: {score:.2%}")
+    print("\nĐiểm của cả 5 nhãn:")
+    for name, probability in ranked_scores:
+        print(f"  {name}: {probability:.2%}")
+
+
+def main():
+    print("Đang nạp model...", flush=True)
+    tokenizer, model = load_classifier()
 
     with VnCoreNLP(
         str(VNCORENLP_JAR),
         annotators="wseg",
         max_heap_size="-Xmx1g",
     ) as segmenter:
-
-        print("\nNhap cau can kiem tra.")
-        print("Go /exit de thoat.")
-
+        print("Nhập câu để kiểm tra. Gõ /exit để thoát.")
         while True:
-            text = input("\nVan ban: ").strip()
-
+            text = input("\nVăn bản: ").strip()
             if text.lower() == "/exit":
                 break
-
             if not text:
-                print("Ban chua nhap noi dung.")
+                print("Bạn chưa nhập nội dung.")
                 continue
 
-            # Chuẩn hóa và tách từ giống lúc train
-            segmented_text = segment_text(segmenter, text)
-
-            if not segmented_text.strip():
-                print("Khong tach duoc tu, ban thu cau khac nhe.")
+            try:
+                result = predict_text(text, segmenter, tokenizer, model)
+            except ValueError as error:
+                print(error)
                 continue
-
-            # Giữ cùng giới hạn token như lúc train
-            token_count = len(
-                tokenizer(
-                    segmented_text,
-                    truncation=False,
-                )["input_ids"]
-            )
-
-            if token_count > MAX_LENGTH:
-                print("Luu y: van ban dai, model chi nhan 128 token dau.")
-
-            inputs = tokenizer(
-                segmented_text,
-                truncation=True,
-                max_length=MAX_LENGTH,
-                return_tensors="pt",
-            )
-
-            # Không tính gradient vì chỉ dự đoán
-            with torch.inference_mode():
-                logits = model(**inputs).logits
-                probabilities = torch.softmax(logits, dim=-1)[0]
-
-            model_id = int(probabilities.argmax().item())
-            label = model.config.id2label[model_id]
-            original_id = LABEL2ID[label]
-            score = float(probabilities[model_id].item())
-
-            print(f"Da tach tu: {segmented_text}")
-            print(f"Nhan du doan: {label}")
-            print(f"ID nhan: {original_id}")
-            print(f"Diem softmax: {score:.2%}")
-
-            print("\nDiem cua ca 5 nhan:")
-            ranked_ids = torch.argsort(
-                probabilities,
-                descending=True,
-            ).tolist()
-
-            for index in ranked_ids:
-                name = model.config.id2label[index]
-                probability = float(probabilities[index].item())
-                print(f"  {name}: {probability:.2%}")
+            print_prediction(*result)
 
 
 if __name__ == "__main__":

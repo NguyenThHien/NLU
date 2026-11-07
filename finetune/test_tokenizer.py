@@ -1,42 +1,36 @@
-from pathlib import Path
+"""Xem tokenizer biến một câu đã tách từ thành ID và attention mask."""
 
 import pandas as pd
 from transformers import AutoTokenizer
 
+from common import BASE_MODEL_DIR, MAX_LENGTH, PROCESSED_DIR
 
-ROOT_DIR = Path(__file__).resolve().parent.parent
 
-MODEL_DIR = ROOT_DIR / "model" / "phobert-base-v2"
-DATA_FILE = ROOT_DIR / "dataset" / "processed" / "train_clean.csv"
+def main():
+    data = pd.read_csv(PROCESSED_DIR / "train_clean.csv", encoding="utf-8-sig")
+    sample = data.iloc[0]
 
-# Nạp tokenizer đã tải về máy
-tokenizer = AutoTokenizer.from_pretrained(
-    str(MODEL_DIR),
-    use_fast=False,
-    local_files_only=True,
-)
+    tokenizer = AutoTokenizer.from_pretrained(
+        str(BASE_MODEL_DIR),
+        use_fast=False,
+        local_files_only=True,
+    )
+    encoded = tokenizer(
+        sample["text_segmented"],
+        truncation=True,
+        max_length=MAX_LENGTH,
+        return_tensors="pt",
+    )
+    token_ids = encoded["input_ids"][0].tolist()
 
-# Đọc một câu đã tách từ
-df = pd.read_csv(DATA_FILE, encoding="utf-8-sig")
-text = df.loc[0, "text_segmented"]
+    print("Câu đã tách từ:", sample["text_segmented"])
+    print("Nhãn:", sample["label"])
+    print("ID nhãn trong dataset:", sample["labels"])
+    print("Chỉ số nhãn đưa vào model:", int(sample["labels"]) - 1)
+    print("Các token:", tokenizer.convert_ids_to_tokens(token_ids))
+    print("input_ids:", encoded["input_ids"])
+    print("attention_mask:", encoded["attention_mask"])
 
-# Chuyển câu thành đầu vào của model
-encoded = tokenizer(
-    text,
-    truncation=True,
-    max_length=128,
-    return_tensors="pt",
-)
 
-print("Cau da tach tu:", text)
-print("Nhan:", df.loc[0, "label"])
-print("ID nhan cho model:", df.loc[0, "labels"])
-
-print("\nCac token:")
-print(tokenizer.convert_ids_to_tokens(encoded["input_ids"][0].tolist()))
-
-print("\ninput_ids:")
-print(encoded["input_ids"])
-
-print("\nattention_mask:")
-print(encoded["attention_mask"])
+if __name__ == "__main__":
+    main()

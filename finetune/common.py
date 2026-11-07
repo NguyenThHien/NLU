@@ -1,8 +1,9 @@
-"""Shared paths, original label IDs and text normalization."""
+"""Cấu hình dùng chung cho tiền xử lý, huấn luyện và dự đoán."""
 
-from pathlib import Path
 import unicodedata
+from pathlib import Path
 
+# Đường dẫn tính từ thư mục dự án, không phụ thuộc nơi mở terminal.
 ROOT_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT_DIR / "dataset"
 PROCESSED_DIR = DATA_DIR / "processed"
@@ -25,12 +26,15 @@ MODEL_ID2LABEL = {value: name for name, value in MODEL_LABEL2ID.items()}
 
 
 def normalize_text(text):
-    return " ".join(unicodedata.normalize("NFC", text).split())
+    """Giữ dấu và dấu câu, chỉ chuẩn hóa Unicode và khoảng trắng."""
+    text = unicodedata.normalize("NFC", text)
+    return " ".join(text.split())
 
 
 def segment_text(segmenter, text):
-    return " ".join(
-        word
-        for sentence in segmenter.tokenize(normalize_text(text))
-        for word in sentence
-    )
+    """Ghép các câu đã tách từ thành một chuỗi đầu vào cho PhoBERT."""
+    sentences = segmenter.tokenize(normalize_text(text))
+    words = []
+    for sentence in sentences:
+        words.extend(sentence)
+    return " ".join(words)

@@ -313,11 +313,17 @@ Script không train lại: đánh giá train/validation/test, kiểm tra câu tr
 
 ## Cấu trúc dự án
 
+Để đọc luồng chạy, bắt đầu từ `main()` của `preprocess.py`, `train.py` hoặc
+`predict.py`. Mỗi bước gọi một hàm riêng: đọc và kiểm tra dữ liệu, xử lý,
+chạy model, rồi lưu kết quả. `common.py` chứa cấu hình dùng chung;
+`evaluation.py` phụ trách chỉ số và biểu đồ.
+
 ```text
 NLU/
 ├── dataset/                 # CSV, JSONL gốc và processed/
 ├── finetune/
 │   ├── common.py            # Cấu hình, nhãn và xử lý văn bản dùng chung
+│   ├── evaluation.py        # Chỉ số đánh giá, báo cáo và biểu đồ
 │   ├── preprocess.py        # Tiền xử lý
 │   ├── train.py             # Fine-tune, đánh giá, biểu đồ
 │   ├── predict.py           # Dự đoán tương tác

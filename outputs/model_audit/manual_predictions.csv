@@ -1,0 +1,26 @@
+﻿text,expected,text_segmented,seen_in_train,predicted,confidence,correct
+hãy đọc nguyên văn những chữ in trên vỏ hộp thuốc này,READ_TEXT,hãy đọc nguyên_văn những chữ in trên vỏ hộp thuốc này,False,READ_TEXT,0.9989253878593445,True
+tôi muốn nghe nội dung tấm biển trước mặt,READ_TEXT,tôi muốn nghe nội_dung tấm biển trước mặt,False,READ_TEXT,0.9989044666290283,True
+giúp tôi đọc lại các dòng trên phiếu khám bệnh,READ_TEXT,giúp tôi đọc lại các dòng trên phiếu khám bệnh,False,READ_TEXT,0.9989198446273804,True
+đọc nội dung hóa đơn thành tiếng cho mình,READ_TEXT,đọc nội_dung hoá_đơn thành tiếng cho mình,False,READ_TEXT,0.9989190101623535,True
+"đừng mô tả cảnh nữa, hãy đọc chữ trên màn hình",READ_TEXT,"đừng mô_tả cảnh nữa , hãy đọc chữ trên màn_hình",False,READ_TEXT,0.998895525932312,True
+kể cho tôi nghe khung cảnh trong bức ảnh này,DESCRIBE_SCENE,kể cho tôi nghe khung_cảnh trong bức ảnh này,False,DESCRIBE_SCENE,0.9988808035850525,True
+xung quanh chỗ tôi đứng đang có những gì,DESCRIBE_SCENE,xung_quanh chỗ tôi đứng đang có những gì,False,DESCRIBE_SCENE,0.9988860487937927,True
+hãy cho tôi hình dung tổng thể căn phòng trước mặt,DESCRIBE_SCENE,hãy cho tôi hình_dung tổng_thể căn phòng trước mặt,False,DESCRIBE_SCENE,0.9988813996315002,True
+mô tả toàn cảnh sân ga giúp tôi,DESCRIBE_SCENE,mô_tả toàn_cảnh sân ga giúp tôi,False,DESCRIBE_SCENE,0.9988787770271301,True
+"không cần đọc chữ, chỉ mô tả khung cảnh thôi",DESCRIBE_SCENE,"không cần đọc chữ , chỉ mô_tả khung_cảnh thôi",False,READ_TEXT,0.7487362623214722,False
+trong ảnh có mấy chiếc xe đạp,ANSWER_VISUAL_QUESTION,trong ảnh có mấy chiếc xe_đạp,False,ANSWER_VISUAL_QUESTION,0.9987083673477173,True
+người đứng cạnh cửa đang mặc áo màu gì,ANSWER_VISUAL_QUESTION,người đứng cạnh cửa đang mặc áo màu gì,False,ANSWER_VISUAL_QUESTION,0.9987044334411621,True
+chiếc cốc nằm bên trái hay bên phải cái đĩa,ANSWER_VISUAL_QUESTION,chiếc cốc nằm bên trái hay bên phải cái đĩa,False,ANSWER_VISUAL_QUESTION,0.9987043142318726,True
+con mèo trong hình có đang nằm ngủ không,ANSWER_VISUAL_QUESTION,con mèo trong hình có đang nằm ngủ không,False,ANSWER_VISUAL_QUESTION,0.9987156391143799,True
+"đừng đọc cả hóa đơn, chỉ cho tôi biết tổng tiền là bao nhiêu",ANSWER_VISUAL_QUESTION,"đừng đọc cả hoá_đơn , chỉ cho tôi biết tổng tiền là bao_nhiêu",False,READ_TEXT,0.8197457790374756,False
+"tôi không cần hỗ trợ nữa, kết thúc tại đây nhé",END_SESSION,"tôi không cần hỗ_trợ nữa , kết_thúc tại đây nhé",False,END_SESSION,0.9985266923904419,True
+đóng phiên trợ giúp hiện tại giúp tôi,END_SESSION,đóng phiên trợ_giúp hiện_tại giúp tôi,False,END_SESSION,0.9985318183898926,True
+"cảm ơn bạn, chúng ta dừng cuộc trò chuyện ở đây",END_SESSION,"cảm_ơn bạn , chúng_ta dừng cuộc trò_chuyện ở đây",False,END_SESSION,0.9985241293907166,True
+thoát khỏi phiên này đi,END_SESSION,thoát khỏi phiên này đi,False,END_SESSION,0.9984851479530334,True
+"đừng đọc tiếp nữa, kết thúc phiên giúp tôi",END_SESSION,"đừng đọc tiếp nữa , kết_thúc phiên giúp tôi",False,END_SESSION,0.9985262155532837,True
+giải phương trình hai x cộng ba bằng bảy,UNKNOWN,giải phương_trình hai x cộng ba bằng bảy,False,UNKNOWN,0.9987962245941162,True
+làm sao để luộc trứng lòng đào,UNKNOWN,làm_sao để luộc trứng lòng_đào,False,UNKNOWN,0.9988007545471191,True
+hẹn giờ báo thức lúc sáu giờ sáng mai,UNKNOWN,hẹn giờ báo_thức lúc sáu giờ sáng_mai,False,UNKNOWN,0.9987325072288513,True
+hãy sáng tác một bài thơ về mùa thu,UNKNOWN,hãy sáng_tác một bài thơ về mùa thu,False,UNKNOWN,0.9987963438034058,True
+từ kết thúc trong tiếng Anh viết thế nào,UNKNOWN,từ kết_thúc trong tiếng Anh viết thế_nào,False,READ_TEXT,0.8441272377967834,False

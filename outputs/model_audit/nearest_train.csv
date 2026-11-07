@@ -1,0 +1,1001 @@
+﻿test_text,nearest_train_text,cosine_similarity
+bạn à cháu đang vội ngoài ban công có gì vậy ta,ở ngoài kia có gì vậy ta,0.5256375649339116
+thôi ngắt cái máy đi,ngắt cái máy nha,0.7796184787180387
+dừng bài hát lại lại,dừng lại đi,0.6862963581299757
+hợp đồng lao động ghi tiền cọc bao nhiêu,lãi suất trong hợp đồng lao động này là bao nhiêu,0.6450861949092177
+phía trước là cảnh chi hè hè,chữ phía trước là chi,0.6079905514312812
+mô tả ngoài cửa con cái,tả giúp con cảnh ngoài cửa sổ,0.6745419066999564
+hợp đồng này ghi tiền cọc bao nhiêu,đọc tiền cọc trong hợp đồng thuê nhà đó,0.6482702492877318
+vé xem ca nhạc đó viết gì mà dài thế đọc tôi nghe,thế đọc vé xem ca nhạc này cho tôi nghe,0.7763127152677927
+hina ơi tôi đang đứng trong quán ăn bên phải tôi có những gì,tôi đang đứng giữa quán ăn kể tôi nghe xung quanh với hina,0.5071834756099398
+cho tớ thoát ra nhá,thoát ra,0.6992158038805278
+tôi đang đi trong hành lang bên trái tôi có gì,hina ơi tôi đang đi trong văn phòng cho tôi biết bên trái trông ra sao,0.561601112962331
+trên hộp thuốc cảm bác sĩ vừa đưa có gì,hộp thuốc cảm bác sĩ vừa đưa là thuốc gì ạ,0.8820119918491232
+ơ quyển kinh này có bị rách trang không hả,đọc trang này trong quyển kinh người ta vừa đưa con hen,0.5492309571993252
+chị đang nói chuyện với người khác,chị đang đứng chờ kể chuyện cười đi,0.4961861343073022
+pin còn bao nhiêu phần trăm,điện thoại tôi còn bao nhiêu pin,0.5855535381738444
+cho dì thoát ra nha,thoát ra,0.752484695110818
+tả lại ngân hàng này cho mình giùm nha,đọc kỹ bảng hiệu ngân hàng tê giùm hỉ,0.5200947766389272
+bên phải tôi có những gì nhỉ,ở đây ồn quá kể chị nghe bên phải có những gì với,0.6123245882215378
+hina ơi biển chỉ đường này có chỉ đường ra cổng không,trên đường có những gì,0.44300443639726583
+lưu số điện thoại này lại,này bạn tôi đưa điện thoại lên rồi ổ cắm điện ở chỗ nào,0.5378064629208983
+thôi để cô tự lo thoát đi,thoát,0.5847779271395268
+làm ơn tắt hẳn hina nè,tắt hina,0.5119643920414043
+thôi để má tự lo dừng đi,dừng dừng đọc đi,0.5160558742451593
+bao bì trong tủ lạnh trẻ em dùng được không,bao bì trong tủ lạnh có bị hở nắp không,0.6101141996188867
+màn hình máy lấy số bên trái báo lỗi gì thế,màn hình thang máy bên trái đang hiện số bao nhiêu,0.5393237534919604
+con đang nói chuyện với người khác,kể chuyện cười đi,0.43790150307458564
+đọc kỹ tờ đơn trên tay tui tui không muốn bị thiệt nha,tui tui tắt nha,0.47604715971196265
+bạn ơi bảng thông báo này có gì,bạn đọc lên tờ thông báo này giùm,0.588213363546923
+đọc mặt sau của bảng hiệu cửa hàng bên trái nữa,bảng hiệu cửa hàng trước mặt ghi số nhà mấy,0.5343898701010682
+tả lại chợ này cho tôi giùm nha,đóng cửa lại giùm giùm,0.4484897439115285
+trên chai dầu ăn trên kệ hàng có gì,đọc thành phần in trên chai dầu ăn,0.5824538250831919
+sách giáo khoa đó có bị rách trang không,sách giáo khoa trong tay o đang mở trang số mấy,0.6281675610079696
+ừm thôi thôi nghỉ,nghỉ thôi,0.8991683341493594
+làm ơn thoát phiên này,dừng phiên làm việc,0.5937286892658684
+mô tả bên phải bà với,không phải nói với bạn,0.5398406006004813
+hina ơi nói nhỏ lại,hina hina ơi không phải nói với bạn,0.49107669938737275
+xung quanh hồ hồ gươm có gì chơi,xung quanh có gì,0.5553540845310324
+tui không nhìn thấy chi biển báo tê ghi những chi,tôi không nhìn thấy chi camera đang thấy những chi,0.671048133307187
+chị đã hướng camera vào lọ thuốc ho trên ghế rồi đó đọc giúp chị,chị vừa xuống xe đọc cái chữ trên đó giúp chị,0.43245092340896063
+cô đang nói chuyện với người khác thế nhỉ,trước mặt mình đang diễn ra chuyện gì thế nhỉ,0.43459742936008117
+mô tả dưới chân bác cái,ờ cảnh dưới chân răng,0.6778062099070715
+cháu vừa vào ga tàu lương hưu tháng này về chưa vậy bạn,lương trên tờ thông báo đó bao nhiêu,0.32618077893960784
+hina ơi xung quanh mình có ai không hả,hina ơi mình tò mò xung quanh có gì,0.7125850709133577
+xung quanh hồ gươm có gì chơi vậy ạ,xung quanh có gì,0.6733798186358221
+con đưa điện thoại lên rồi xung quanh con đang có chuyện gì xảy ra,con đưa điện thoại lên rồi chỗ con đang đứng trông ra răng,0.6265069924535518
+đọc một bài thơ cho em nghe,hát một bài đi,0.4730357620369221
+hina thôi để tui tự lo tắt đi,thôi tui tắt đây,0.6098376167076973
+hina ơi má lạ chỗ này quá xung quanh má đang có chuyện gì xảy ra đó,bạn ơi má má tò mò xung quanh có gì,0.5373747604743091
+tắt giùm cái máy được không,được rồi tắt cái máy đi,0.7564699285025337
+ừm thì cảm ơn bạn chào nghe,cảm ơn bạn nghe bạn,0.6257547402020128
+bà đang ở nhà hàng xung quanh có chữ gì thì đọc hết cho bà đấy,tui đang đi trong nhà hàng xung quanh có chi ri,0.5132559783911164
+tờ quảng cáo trước mặt cô có gì,bạn à đọc từng chữ trên tờ quảng cáo trước mặt nha,0.740482080070546
+thôi để tôi tự lo thoát đi,tôi thoát thoát đây,0.6170873353702431
+băng rôn bên kia đường tuyển vị trí chi,em không nhìn thấy chi băng rôn của công ty mô,0.40631106954452845
+poster tê có gì rứa bạn,đọc tiếp poster đi,0.6811661538922192
+ơ biển quảng cáo đó có nội dung gì,nói cho tôi biết trên tờ quảng cáo đó ghi những gì xem nào,0.498278632561152
+bạn à tờ thông báo kia tuyển vị trí gì,bạn đọc lên tờ thông báo này giùm,0.3874191001807882
+băng rôn kia tuyển vị trí gì thế,hina ơi băng rôn đó của công ty nào,0.4344901747408143
+à này đau đầu thì nên làm gì,bạn làm làm được những gì,0.33372770363242554
+hina ơi tui không cần giúp nữa,hina ơi không cần mô tả nữa đâu,0.6542163916751602
+tôi giơ camera lên rồi ngoài đường bây giờ trông thế nào,tôi giơ camera lên rồi bệnh viện này trông như thế nào,0.5688080001147139
+thôi thoát chế độ này đi,ừ thôi thoát chế độ này,0.9595199854079169
+vé tham quan người ta vừa đưa tui khởi hành lúc mấy giờ đó,đọc giùm tôi với giờ khởi hành trên vé xem phim người ta vừa đưa tôi,0.6260898763835786
+đọc đơn thuốc từng dòng ông sợ uống nhầm xem nào,đọc gói thuốc bột tôi đang cầm từng dòng một,0.4986741075478145
+xung quanh cô có ai không nhỉ,xung quanh có gì,0.6731909598609779
+bạn à dừng bài hát lại,bạn ơi hát một bài đi,0.6639203697903717
+à này hộp sữa bột này có bị móp không hả,hộp sữa bột in chữ gì hả,0.6452128576153748
+sao dạo này cháu hay quên thế,thôi chết quên ví rồi,0.38928040555348176
+chai thuốc nhỏ mắt trên ghế còn hạn không,có chữ gì trên chai thuốc nhỏ mắt bác sĩ vừa đưa không đọc ông nghe,0.5925057070995158
+ờ thì mở youtube,ờ thì mô tả đi,0.5956851905414011
+công văn này ghi tiền cọc bao nhiêu,đọc tiền cọc trong tờ đơn này,0.4910829745841123
+hóa đơn tiền điện trên kệ in ngày nào,chỉ đọc số tiền trên hóa đơn tiền điện đó thôi,0.6553511255651906
+ơ mô tả trước mặt tôi,đọc hết chữ trước mặt tôi,0.6387606066157525
+ê hina cho mình thoát ra,thoát ra hina,0.8251205371419286
+thôi ngừng phiên này đi,ừ thôi ngừng ứng dụng đi,0.5280804977859314
+hina ơi chuyến cuối cùng trên bảng điện tử ở bến xe kia lúc mấy giờ đó bạn,này bạn theo bảng điện tử ở bến xe kia chuyến tiếp theo mấy giờ,0.5349850520551378
+tờ rơi đằng trước ghi cúp điện mấy giờ,không biết tờ thông báo cúp điện ghi chi nhỉ,0.4307839992339809
+poster kia ghi cúp điện mấy giờ,đọc tiếp poster đi,0.5700338602330589
+căn phòng con đang đứng ra răng,chỗ tôi đang đứng trông ra răng,0.5643860844809866
+hina ơi hông gian ở đây ra sao,hina ơi cảnh vật ở đây ra sao,0.5068191551693961
+mô tả ngoài cửa tui,ngoài cửa có gì thế bạn,0.7019727426205599
+khoan đã đã nói nhỏ lại,khoan đã bạn nói nói sai rồi,0.6339956733336959
+tờ quảng cáo ở đầu hẻm có gì vậy,tờ quảng cáo ở đầu hẻm giảm giá bao nhiêu phần trăm,0.6069978778536304
+biển trên đầu xe buýt đó đang hiện chữ gì,biển trên đầu xe buýt viết gì thế bạn,0.6596316287111136
+lương hưu tháng này về chưa đó,lương trên tờ thông báo đó bao nhiêu,0.44258577939565424
+chị không nhìn thấy gì đọc tên người gửi trên tấm bưu thiếp chị đang giơ lên,ai viết tấm bưu thiếp người ta vừa đưa tôi,0.5428942784708227
+bạn à không gian ở đây thế nào,mô tả lại không gian lần nữa,0.4895440222841745
+bên phải tôi có những gì,ở đây ồn quá kể chị nghe bên phải có những gì với,0.6621382963073268
+em giơ camera lên rồi tìm khu chung cư gần đây hen,tôi giơ camera camera lên rồi đây là cái gì,0.5336259752857372
+hina cảm ơn bạn tạm biệt nha,tạm biệt hina,0.7956852883135584
+xung quanh dì đang có chuyện gì xảy ra vậy ta,xung quanh có gì,0.5424199100043471
+trên sách hướng dẫn tôi đang giơ lên có gì,thế tôi giơ sách hướng dẫn tôi đang giơ lên lên rồi đọc đi,0.8518184065730197
+ơi bạn tôi lạ chỗ này quá bảng tên tòa nhà là số chẵn hay số lẻ đấy,chỉ đọc số nhà trên bảng tên tòa nhà phía trước,0.5143933994151184
+bạn có đó không đấy,không cần tả nữa đấy,0.5839654893512023
+tờ thông báo cúp điện này có nội dung gì ạ,không biết tờ thông báo cúp điện ghi chi nhỉ,0.6284938278339595
+mình đang đứng trong trường học bảng điện tử ở bến xe đang báo chuyến nào,tui đang vội chuyến của tui trên bảng điện tử ở bến xe có bị hoãn không nớ,0.47115239481993787
+sao dạo này bà hay quên thế,thôi chết quên ví rồi,0.4081155187924439
+tạm biệt biệt cô giáo,tạm biệt,0.8421983041846342
+tôi vừa vào lớp học ngoài đường bây giờ trông thế nào,lớp học bây giờ ra sao vậy ta,0.5550768987105715
+em lạ chỗ này quá tả lại cây xăng này cho em,mô tả cảnh cây xăng cho anh nghe,0.5684348764394993
+cho em thoát ra nghe bạn,thoát ra,0.7359403276050911
+tìm ngã tư gần đây nhé bạn,chỉ đường đến ngã tư gần nhất,0.46829627524945083
+má hông cần giúp nữa,hông cần tả nữa,0.7335577849729673
+thôi để mình tự lo ngắt đi,ừ ừ thôi ngắt chế độ đọc,0.5081045066457249
+thôi đóng chế độ mô tả đi,đóng chế độ mô tả,0.8590795041344707
+để coi hina ơi thôi để mình tự lo thoát đi,hina ơi mình thoát đây,0.5869403854394541
+ừm kết thúc phiên,kết thúc ở đây nha,0.5118168658918005
+con đang đi trong tiệm bánh lọ siro này còn hạn không,mô tả tiệm bánh tôi đang đứng đi bạn,0.48283215051551776
+biển tên hẻm ở đầu hẻm là số chẵn hay số lẻ,đọc giùm biển số nhà ở đầu hẻm,0.6455759849696885
+thôi bỏ đi ê hina,thôi thôi đi về đi,0.5832119875352527
+ừm thì đọc to rõ chính xác phiếu giao hàng trên tay ông ông rất cần,đọc phiếu giao hàng người ta vừa đưa ông,0.5401936874166966
+theo biển chỉ đường đằng kia thang máy ở hướng nào,bảng chỉ dẫn đằng kia chỉ tui đi hướng mô,0.537737031283459
+tôi mới tới đây lần đầu mô tả ngoài cửa tôi với,tôi mới tới đây lần đầu đọc to lên cho tôi nghe với,0.6775101638374466
+mình đưa điện thoại lên rồi tả rộng ra một chút cảnh xung quanh,bác đưa điện thoại lên rồi quang cảnh xung quanh ra sao vậy ạ,0.6084815054465581
+ờ thì tôi hông cần giúp nữa,hông cần tả nữa,0.6618983877350334
+ở đây ồn quá căn phòng ông đang đứng ra sao nhỉ,ở đây ồn quá cảnh vật ở đây ra sao thế nhỉ,0.5005751647426537
+hina ơi màn hình điều hòa bên phải ghi gì ạ,đọc số đang gọi trên màn hình điều hòa bên phải bạn,0.7509417391497635
+cảm ơn bạn bye,cảm ơn bạn đã giúp o bye bye,0.8513808754481716
+chuyến cuối cùng trên bảng điện tử ở bến xe trên sân ga lúc mấy giờ nhỉ,chuyến chuyến của mạ trên bảng giờ xe buýt trên sân ga có bị hoãn không,0.5136660356763442
+thôi nghỉ,nghỉ thôi,1.0
+thôi để mình tự lo tắt đi,bạn ơi thôi mình tắt đây,0.6028178238101417
+à này làm ơn đóng phần mềm với,đóng phần mềm với,0.843445581502895
+lịch sử việt nam có bao nhiêu triều đại rứa,hôm nay ngày bao nhiêu âm lịch lịch,0.5037806907472682
+bạn à ngoài ban công có gì gì,ở ngoài ngoài kia có gì,0.5983249084629234
+bên phải mình có những chi ri,ở đây ồn quá kể chị nghe bên phải có những gì với,0.5336161411724362
+có ai đang đi theo sau lưng anh hông vậy hả,cảnh sau lưng thế nào,0.5310527088128228
+tìm phố đi bộ gần đây được không,phố đi bộ gần nhất mở cửa đến mấy giờ,0.4460751167637107
+đọc kỹ giấy khai sinh người ta vừa đưa con con không muốn bị thiệt,tờ giấy người ta vừa đưa tôi có tên tôi trên đó không thế,0.4135477743009126
+tả quang cảnh cổng trường lúc này nhé bạn,này bạn mô tả cảnh sân trường cho chị nghe,0.47174183636662215
+bạn à tôi đã hướng camera vào màn hình máy giặt trước mặt rồi đó đọc giúp tôi,màn hình máy giặt trước mặt đang ở tầng mấy vậy,0.5206694300560946
+tờ menu này viết những gì vậy bạn,bảng menu người ta vừa đưa tôi viết những chữ gì vậy hina,0.6330912983309267
+đọc đơn thuốc từng dòng mình sợ uống nhầm,đọc gói thuốc bột tôi đang cầm từng dòng một,0.5283549491982839
+chữ trên thực đơn nớ là chi,món rẻ nhất trên thực đơn là gì,0.6062693488179883
+tả lại phòng chờ sân bay này cho má,chị đang ở phòng chờ sân bay tả đi,0.7419886446385787
+chị giơ camera lên rồi xung quanh hồ gươm có gì chơi,anh giơ camera lên rồi quang cảnh xung quanh ra sao hen,0.6254272850677141
+mở youtube nhé,mở nhạc không lời nhé này bạn,0.4649639356218389
+khoan đã phía trước là cảnh gì vậy,chữ phía trước là gì vậy hả,0.5948518352936515
+mẹ ơi ơi con về rồi,ơi bạn viết giùm con bài văn tả mẹ nhé bạn,0.37651129110262715
+hợp đồng bảo hiểm này ghi tiền cọc bao nhiêu này bạn,đọc tiền cọc trong hợp đồng thuê nhà đó,0.5381848530979514
+tả quang cảnh khách sạn lúc này cái,tôi đang đi trong khách sạn quang cảnh xung quanh ra răng,0.6482476775140871
+tớ đang ở ủy ban phường đọc to rõ chính xác phiếu tính tiền tớ đang cầm tớ rất cần nhá,phiếu tính tiền em đang cầm viết gì,0.5219626980958365
+bảng hiệu nhà thuốc bên phải màu gì,bảng hiệu nhà thuốc viết gì vậy bạn,0.6281644801626198
+vé xem ca nhạc khởi hành lúc mấy giờ rứa,tôi đang đi trong phòng tắm đọc giúp tôi giờ khởi hành trên vé xem ca nhạc ni,0.6278552581791228
+thôi để cô tự lo đóng đi,ừ thôi đóng chế độ này ạ,0.5114861885882008
+để coi bạn ơi tui không cần giúp nữa vậy,bạn ơi không cần tả nữa,0.6223881993358953
+mô tả phía trên anh cái,phía trước anh có có gì,0.48520494557272276
+anh không cần giúp nữa,không cần cần tả nữa,0.7015699802106035
+trợ lý ơi công văn tôi đang cầm viết gì mà dài vậy đọc tôi nghe,tôi đang đứng trong siêu thị công văn tôi đang cầm nói gì ạ,0.5099439897315406
+hina ơi ngoài đường bây giờ trông thế nào,hina ơi bên ngoài trông như thế nào,0.6628569489809455
+hina ơi lưu số điện thoại này lại,này bạn tôi đưa điện thoại lên rồi ổ cắm điện ở chỗ nào,0.49698860940454637
+cho con thoát ra,thoát ra,0.8170154389196654
+bạn à ghi chi đây,ừ trên ni ghi chi,0.6014247871915487
+tờ hóa đơn đó in ngày nào,tờ thông báo đó hết hạn ngày nào,0.466925441632674
+làm ơn ngắt app xem nào,đủ rồi ngắt app đi,0.6385503920249285
+cảm ơn bạn hẹn gặp lại hina,hina ơi cảm ơn bạn đã giúp tôi hẹn gặp lại,0.8599787583049613
+tớ mới tới nhà hàng biên lai gửi xe có được giảm giá không,đọc biên lai gửi xe,0.5407329979450098
+tả lại ngã tư này cho tôi với,cho cháu hình dung ngã tư này,0.5259769760146394
+mình lạ chỗ này quá đọc mặt sau của tờ giấy hẹn mình vừa nhặt được xem nào,mình không đọc được chữ đọc mặt sau mảnh giấy mình vừa nhặt được cái,0.6896125878495862
+làm ơn thoát trợ lý tề,thoát trợ lý hộ tôi,0.6442017877148929
+bạn ơi tả lại ngã tư này cho tớ,cho tớ hình dung ngã tư này hina,0.6174045779929485
+vậy thôi nhé,thôi tôi tắt đây vậy ạ,0.5968431473022455
+cho bà bà thoát ra,thoát ra,0.7168011042175924
+thôi để tôi tự lo tắt đi,thôi tôi tắt đây,0.6306061249441305
+chỗ này hơi tối gửi vị trí của tui cho dì út nè,chỗ này hơi tối miêu tả xung quanh cho tui biết nè,0.4623262101991793
+mắt má không nhìn rõ tả lại chợ đêm này cho má nè hina,mắt má không nhìn rõ tả căn bếp giùm má với,0.5063564932108232
+vỉ thuốc này còn hạn không vậy ta,vé gửi xe này còn hạn hông,0.49264831619387084
+bạn ơi nói nhỏ lại,ơi bạn dừng lại đi,0.42784281452066697
+thông báo dán trên cửa này có gì ạ,thế thông báo dán trên cửa đang hiện chữ gì,0.745638449981437
+cái bill này tổng cộng bao nhiêu tiền,tổng tiền trên hóa đơn tiền điện này là bao nhiêu thế nhỉ,0.5501556541429701
+biển hiệu trên cửa màu gì,chữ trên bảng hiệu cửa hàng ở đầu hẻm màu gì,0.5964174043062538
+tôi không nhìn thấy gì phiếu tạm tính đó có tính phí phục vụ không,nội dung phiếu tạm tính là gì đó bạn,0.5701664430792392
+ừ ngoài đường bây giờ trông thế nào,bên ngoài trông như thế nào,0.6135560839464372
+tả quang cảnh quán ăn lúc này,mô tả cảnh quán ăn cho anh nghe,0.556043602403651
+bạn à vậy thôi nha,này bạn thôi tui tắt đây vậy,0.5831444077159738
+à mà tôi đã hướng camera vào biển cấm đỗ xe này rồi đó đọc giúp tôi đi,đọc biển cấm đỗ xe này cho tôi,0.5688645601667325
+xung quanh quanh có chữ gì thì đọc hết cho tôi,xung quanh có gì,0.7527637528952709
+mở mở youtube,cửa ni đang mở hay đóng,0.3518904575086059
+tạp chí này có phải sách tiếng anh hông nè,tiếng anh của quả táo là gì nè,0.4215284878987353
+chai thuốc nhỏ mắt dùng cho người lớn hay trẻ em,đọc liều dùng của chai thuốc nhỏ mắt đó,0.6247071827186235
+ừ hộp sữa chua tôi vừa lấy trên kệ ghi gì,hina ơi hộp sữa chua bà vừa lấy trên kệ với cái bên cạnh khác gì nhau vậy,0.6129331258872077
+tấm áp phích phía trước ghi cúp điện mấy giờ,cho tôi biết tấm áp phích trước mặt tôi viết những gì đi,0.48696914539506975
+đọc to rõ chính xác phiếu tính tiền tôi rất cần bạn,phiếu tính tiền này nói gì,0.6075763279737861
+màn hình máy lấy số báo lỗi gì,thôi về màn màn hình chờ đi,0.42993912739796536
+tả rộng ra một một chút cảnh xung quanh,nói chậm lại một chút,0.4628880478590889
+đọc kỹ thẻ căn cước này mình mình không muốn bị thiệt,đọc tiền cọc trong thẻ căn cước mình chuẩn bị ký nhé bạn,0.4747185375500038
+tôi đang ở nhà hàng xung quanh tôi đang có chuyện gì xảy ra,tui đang đi trong nhà hàng xung quanh có chi ri,0.5528953444025233
+sao dạo này dì hay quên vậy,thôi chết quên ví rồi,0.39542268926534985
+bạn ơi vậy thôi nhé,này bạn thôi tui tắt đây vậy,0.5616058740834189
+ơi bạn lưu số điện thoại này lại,này bạn tôi đưa điện thoại lên rồi ổ cắm điện ở chỗ nào,0.5480148788976253
+ly nước đầy chưa vậy,vòi nước đã khóa chưa,0.41337640290255107
+thẻ lên máy bay ni khởi hành lúc mấy giờ,đọc giúp tôi với giờ khởi hành trên vé gửi xe này,0.4860153159863039
+làm ơn ngắt phiên làm việc,dừng phiên làm việc,0.7963681905668656
+đau đầu thì nên làm gì,bạn làm làm được những gì,0.3449584460589157
+con đã hướng camera vào gói mì trên ghế rồi đó đọc giúp con,con giơ camera lên rồi đọc chậm từng dòng giúp con,0.4823777934040018
+tờ báo này viết gì mà dài thế đọc anh nghe,à mà tờ này viết gì,0.6352950622993349
+hóa đơn tiền mạng này ghi gì vậy ạ,đọc hóa đơn tiền mạng đi bạn,0.8037948534699041
+thông báo dán trên cửa đó có gì nè,thế thông báo dán trên cửa đang hiện chữ gì,0.7202635463181565
+chữ trên lọ vitamin trong tay tôi là gì vậy bạn,có chữ gì trên lọ vitamin tôi mới mua không đọc tôi nghe,0.6942189469644587
+thôi đóng chế độ đọc đi,ừ thôi đóng chế độ này ạ,0.8567373103154216
+ờ tôi đang nói chuyện với người khác,kể chuyện cười đi,0.4410129227115094
+tờ quảng cáo này có gì,nói cho tôi biết trên tờ quảng cáo đó ghi những gì xem nào,0.6158340683544956
+xung quanh hồ gươm có gì chơi,xung quanh có gì,0.7337321491753069
+ngoài đường bây giờ trông răng,bên ngoài trông ra răng,0.6747961714265948
+à này tôi đưa điện thoại lên rồi tờ khuyến mãi chỗ ngã ba có gì đó bạn,chỉ đọc số điện thoại trên tờ khuyến mãi với,0.6689391073639818
+thôi để chị tự lo dừng đi,dừng dừng đọc đi,0.5054372884240176
+cuốn tiểu thuyết có phải sách tiếng anh không nhỉ,cuốn tiểu thuyết trên giá sách đang mở trang số mấy,0.5798343563340312
+bạn ơi bà không đọc được chữ đọc nguyên văn hợp đồng lao động này,hợp đồng lao động ký ngày nào,0.5938280725119599
+bác không cần giúp nữa nhé,cảm ơn nhé không cần nữa,0.6646931173784149
+ơi bạn em mới tới bến xe kết luận trong phiếu khám bệnh nớ là chi,mình mới tới phòng chờ bệnh viện khu khám bệnh gần nhất mở cửa đến mấy giờ vậy bạn,0.3986672306863086
+tìm chợ hoa gần đây,từ đây đến chợ hoa bao xa,0.5292394425043775
+thôi bỏ đi,thôi thôi đi về đi,0.6920773101991197
+xem giúp quả táo này chín chưa,quả chanh này chín chưa bạn à,0.5986432369735771
+ờ thì biên lai gửi xe đó có tính phí phục vụ không,đọc biên lai gửi xe,0.5524923281171136
+màn hình thông tin chuyến bay đang báo chuyến nào,đọc to màn hình thông tin chuyến bay này cho tôi nghe,0.7801043208378835
+đọc đơn thuốc từng dòng tôi sợ uống nhầm dùm cái,đọc gói thuốc bột tôi đang cầm từng dòng một,0.5202883973770234
+tui đang đứng chờ quanh đây có quán phở mô ngon không,tôi đang đứng chờ ở đây có gì,0.4649571104777561
+có ai đang đi theo sau lưng chị không đó bạn,bạn ơi kể chị nghe sau lưng có những gì nhá,0.562016235697516
+ờ bảng điện tử ở bến xe phía trước đang hiện chữ chi,bác đưa điện thoại lên rồi cho bác biết bảng điện tử ở bến xe phía trước viết những gì nhé,0.539907705534127
+ơi bạn thôi tắt hẳn chương trình đi,ừ thôi tắt hẳn chương trình nhé,0.9086807289455824
+thôi để bác tự lo ngừng đi,ừ thôi ngừng ứng dụng đi,0.5582965649776431
+còn mấy ngày nữa thì tết thế,đơn thuốc đó ghi uống ngày mấy lần,0.3462744154652144
+lịch sử việt nam có bao nhiêu triều đại,hôm nay ngày bao nhiêu âm lịch lịch,0.5311328749113066
+cho dì thoát ra,thoát ra,0.8304941799353225
+tôi vừa xuống xe đây là quả chi rứa bạn,con vừa xuống xe ở đây có chi,0.6634101806056553
+không có ai để hỏi gửi vị trí của tôi cho vợ với,không có ai để hỏi cảm ơn bạn,0.44606081836559963
+tìm phòng tắm gần đây,phòng tắm gần nhất mở cửa đến mấy giờ hả,0.5318166248120024
+dì đưa điện thoại lên rồi dừng bài hát lại,mình đưa điện thoại lên rồi tắt nhạc đi,0.5176421966537915
+thôi tắt hẳn app đi,tôi muốn tắt hẳn app,0.7556533985737696
+thôi để bà tự lo dừng đi,dừng dừng đọc đi,0.5227596467550842
+cho tui thoát ra,thoát ra,0.814082472515585
+tả lại chợ hoa này cho con,mô tả cảnh chợ hoa cho tôi nghe,0.6245171083667541
+bạn à trên phiếu giao hàng có gì,chỉ đọc số tiền trên phiếu giao hàng trên quầy thôi,0.6712349511695955
+ừm lọ siro đó dùng cho người lớn hay trẻ em thế nhỉ,đọc to lọ siro trên kệ cho em nghe,0.4602967894485417
+bảng tên tòa nhà là số chẵn hay số lẻ,chỉ đọc số nhà trên bảng tên tòa nhà phía trước,0.6214413966682362
+tả lại bãi đỗ xe ni cho tui nghe,mô tả cảnh bãi đỗ xe cho chị nghe,0.6718736330829848
+trợ lý ơi căn phòng ông đang đứng ra sao,tôi đang đứng trong sảnh chung cư miêu tả căn phòng này,0.4436954921260874
+bạn à làm ơn ngắt ứng dụng hina hỉ,ngắt ứng dụng hina,0.7955146473753938
+chai sữa tắm trong tủ lạnh trẻ em dùng được không ạ,chai sữa tắm trong tay tôi viết những chữ gì,0.4747150274411147
+ở đây ồn quá trước mặt có gì đấy,hina ơi ở đây ồn quá trước mặt cháu là vật gì vậy ạ,0.5777425723907631
+tả lại phòng khách này cho tui coi,kể tui nghe phòng khách có chi nha,0.6266910367343385
+đặt xe grab đến bến phà xem nào,từ đây đến bến phà bao xa,0.5933525781026616
+gửi vị trí của mình cho con trai,chụp ảnh gửi cho con trai nè,0.5526200161340186
+trợ lý ơi tôi vừa vào trường học ngoài đường bây giờ trông thế nào,trợ lý ơi bên ngoài trông như thế nào,0.5393887613315896
+biển chỉ dẫn ngay cửa ra vào chỉ rẽ trái hay rẽ phải hả,mũi tên trên bảng chỉ dẫn lối ra ngay cửa ra vào chỉ về đâu đó bạn,0.47918369954176576
+tả lại phòng chờ bệnh viện này cho mình,mình đang đi trong phòng chờ bệnh viện miêu tả căn phòng này nha,0.724350693952549
+con đang ở sảnh bệnh viện tả lại quán cà phê này cho con,báo cho bác sĩ minh biết con đang ở sảnh bệnh viện,0.5693811449755205
+bên trái tôi có gì,cái ô ở bên trái hay bên phải tôi nhỉ bạn,0.6456795688237397
+này bạn tết năm nay rơi vào ngày nào,tờ rơi phía trước hết hạn ngày nào,0.48761315440619724
+hina ơi anh vừa xuống xe giấy hẹn tái khám có nội dung gì,giấy hẹn tái khám đó ghi ngày tái khám nào,0.5824665754744041
+tôi đang đứng chờ tả lại rạp phim này cho tôi được không,tôi đang đứng chờ tả chỗ tôi đang đứng,0.5572924795278321
+tôi đang đứng chờ tết năm nay rơi vào ngày nào,tôi đang đứng chờ tả chỗ tôi đang đứng,0.4668713581182953
+thôi để cháu tự lo tắt hẳn đi đi hina,thôi cháu tắt đây,0.5674806910380527
+ừ đọc to rõ chính xác tờ hóa đơn này tôi rất cần giùm nha,đọc giùm tui hóa đơn tiền điện này,0.4103904226045836
+anh mới tới cầu thang mô tả xung quanh anh,tả xung quanh cho anh nghe,0.5888732482810296
+làm ơn thoát cái máy,thoát cái máy cho tôi,0.744170961642665
+giấy vay nợ chị đang giơ lên viết gì mà dài thế đọc chị nghe,có chữ gì trên giấy vay nợ đó không đọc anh nghe này bạn,0.5072212382434229
+hóa đơn tiền nước trên tay bà viết gì mà dài thế đọc bà nghe,ơ ơ đọc hóa đơn tiền nước đó đi,0.59271229094416
+để coi không có ai để hỏi phía trước là cảnh gì thế,không không có ai để hỏi nội dung phía trước là gì,0.6925865737951847
+thôi dừng ứng dụng hina đi,ừ thôi dừng ứng dụng hina nhé,0.9018707641759494
+cho bà thoát ra,thoát ra,0.8518466395105259
+thôi để tôi tự lo ngắt đi,ừ ừ thôi ngắt chế độ đọc,0.5313179113423414
+làm ơn ngắt chế độ mô tả,ngắt chế độ mô tả hỉ,0.7656781495619679
+làm ơn ngừng app nghe,tôi muốn ngừng app,0.6836878934081473
+hộp trà này trẻ em dùng được không,hộp sữa chua ni còn hạn dùng không hỉ,0.4149538773660668
+tết năm nay rơi vào ngày nào,tờ rơi phía trước hết hạn ngày nào,0.4950844258977045
+ơi bạn ngoài đường bây giờ trông ra sao,ờ bạn ơi cho tôi biết ngoài cửa trông ra sao,0.6006963105178912
+tả rộng ra một chút chút cảnh xung quanh,chờ chút,0.6413044389925336
+không gian ở đây thế nào,mô tả lại không gian lần nữa,0.5152842693593953
+biển cảnh báo bên phải màu gì,mũi tên trên biển chỉ dẫn ở ga bên phải màu gì vậy hả,0.5218872863911819
+ngoài ban công có chi,ở ngoài kia có chi,0.6064265880159952
+làm ơn tắt chế độ mô tả,tắt chế độ mô tả đi,0.7511732446675073
+mạ mạ mới tới đây lần đầu đây là quả chi hè,cô mới tới đây lần đầu trên này ghi gì hả,0.5257366669079568
+phiếu thu trên tay tôi là của cửa hàng nào,hạn thanh toán của phiếu thu đó là khi nào,0.46805556946283877
+lọ thuốc con mới mua còn hạn hông nè,lọ thuốc ông mới mua còn bao nhiêu viên,0.5770749528977144
+hina thôi tắt chế độ này đi,hina tắt chế độ đọc đi,0.7741815127571409
+đọc nguyên văn vé tàu trên bàn xem nào,bạn ơi đọc nguyên văn cho mình đừng tóm tắt xem nào,0.5480084171430566
+trên tấm áp phích trước mặt mình có gì,tả lại nguyên văn chữ trên tấm áp phích trước mặt tôi ạ,0.6888794922214917
+hina ơi anh mới tới đây lần đầu đau đầu thì nên làm gì vậy,em mới tới đây lần đầu xung quanh có gì vậy ạ,0.5535633618161784
+đọc nguyên văn tờ đơn người ta vừa đưa bác,tả lại nguyên văn chữ trên tờ rơi này,0.4916381166038276
+mô tả bên trái tôi đi,cái ô ở bên trái hay bên phải tôi nhỉ bạn,0.6030606326255086
+đọc kỹ giấy vay nợ đó ông không muốn bị thiệt được không,có chữ gì trên giấy vay nợ đó không đọc anh nghe này bạn,0.5341826627949301
+màn hình thông tin chuyến bay đó đang báo chuyến nào,đọc to màn hình thông tin chuyến bay này cho tôi nghe,0.7732262374823229
+ừm đau đầu thì nên làm gì,bạn làm làm được những gì,0.3326592288082766
+con mới tới đây lần đầu đau đầu thì nên làm gì hả,cô mới tới đây lần đầu trên này ghi gì hả,0.5674828980514537
+bà đang đứng chờ thẻ lên máy bay khởi hành lúc mấy giờ,đọc cho tôi giờ khởi hành trên vé xem phim với,0.4476639838555996
+ê hina ngoài đường bây giờ trông răng,bên ngoài trông ra răng,0.6437143237830178
+còn mấy ngày nữa thì tết thế nhỉ,đơn thuốc đó ghi uống ngày mấy lần,0.3274626527829052
+ừm thì biển chỉ dẫn trong siêu thị đằng trước hướng dẫn tôi đi theo hướng nào,bảng chỉ dẫn đằng kia chỉ tui đi hướng mô,0.6001657644770896
+kết thúc phiên nè,kết thúc ở đây nha,0.5081749580068422
+tui đang vội pin còn bao nhiêu phần trăm,điện thoại tui còn bao nhiêu pin,0.5741998334301871
+không có ai để hỏi tuýp thuốc mỡ trên kệ dùng cho người lớn hay trẻ em,không có ai để hỏi lọ thuốc trên tay tôi bảo quản ra sao,0.4188343443962119
+ơ mô tả phía trước cháu với,kể cháu nghe phía trước có những gì hina,0.5796069729365987
+chữ trên menu đó là gì,có chữ gì trên menu này không đọc con nghe,0.6742255480335717
+bảng hướng dẫn xếp hàng trên cột có chỉ đường ra cổng không,mũi tên trên bảng hướng dẫn xếp hàng nớ chỉ về mô,0.6042942417305152
+này bạn căn phòng mình đang đứng ra sao,mình đang đi trong phòng chờ bệnh viện miêu tả căn phòng này nha,0.554212105754779
+biên lai chuyển tiền in ngày mô,đọc biên lai chuyển tiền giúp mình đi nào,0.7345898732644607
+cảm ơn bạn chào nhé ơi bạn,bạn ơi chào nhé,0.8398496642816146
+bảng điện tử gọi số trên tường báo báo lỗi gì hả,khoan đã hina bảng điện tử gọi số trên tường đang để bao nhiêu độ,0.5721932755350644
+ở đây ồn quá ngoài ban công có gì hả,ở đây ồn quá ở ngoài kia có gì,0.6740422513630462
+hina thôi được rồi hả,hina ơi thôi bà tắt đây được hông,0.6315730321942069
+hina ơi kết luận trong giấy hẹn tái khám đó là gì hả,giấy hẹn tái khám đó ghi ngày tái khám nào,0.6620309954679086
+đọc một bài thơ cho mình nghe,hát một bài đi,0.4608296335395423
+vậy thôi để mình tự lo kết thúc đi,ừ thôi kết thúc trợ lý,0.5827680505458555
+tết năm nay rơi vào ngày mô,tờ rơi phía trước hết hạn ngày nào,0.44210752350845417
+hina ơi bà không cần giúp nữa,ê hina bà ổn rồi không cần bạn nữa,0.6894165338601622
+anh không nhìn thấy gì dừng bài hát lại,hát một bài đi,0.5117183885672717
+em lạ chỗ này quá mô tả dưới chân em,chỗ này hơi tối dưới chân có gì đó bạn,0.6630187684873902
+gói cà phê người ta vừa đưa tôi ghi những chi hỉ,nói cho tôi biết trên vé gửi xe người ta vừa đưa tôi ghi những gì nha,0.5607504651777958
+hina ơi đọc mặt sau của biển báo sàn trơn này,đọc mặt sau biển báo sàn trơn đằng kia,0.7686568259751129
+bạn có đó không,bạn có biết tôi là ai không,0.5165766726558919
+gói hạt nêm nớ dùng để làm chi,tôi muốn biết trên gói hạt nêm này có ghi gì,0.5475687053745893
+đọc kỹ hợp đồng cháu vừa nhận cháu không muốn bị thiệt,cháu muốn dừng ở đây,0.4279402688328
+cảm ơn bạn bai bai,cảm ơn bạn đã giúp cháu bai bai bai,0.9013957354257419
+bác đang vội tả rộng ra một chút cảnh xung quanh với ạ,tả xung quanh cho bác,0.4668459326991137
+mắt tôi không nhìn rõ tả quang cảnh sân ga lúc này bạn,mắt tôi không nhìn rõ kể tôi nghe sân nhà có gì nào,0.5295875107077518
+ni bạn tả rộng ra một chút cảnh xung quanh,quang cảnh xung quanh ra sao đó bạn,0.47936211988548183
+à này ơi ơi bạn kết thúc phiên,ơi bạn kết thúc trợ lý,0.5621664661952449
+tìm khu ẩm thực gần đây giùm nha,món rẻ nhất trên thực đơn là gì,0.30553096698211146
+à mà hộp sữa chua này bao nhiêu gam,hộp sữa chua ni còn hạn dùng không hỉ,0.48988490357936043
+tôi giơ camera lên rồi cuốn sách nấu ăn tôi mới mua có bị rách trang không,mình giơ camera lên rồi đọc đoạn cuối cuốn sách nấu ăn mình mới mua,0.6220694607274149
+à này tả rộng ra một chút cảnh xung quanh cái,quang cảnh xung quanh ra sao,0.45765501600389413
+ơ bà không cần giúp nữa,ơ không cần tả nữa,0.7608375017930812
+mô tả đằng sau tui với,à đằng sau tui có chi,0.7535252545120403
+xung quanh hồ gươm có chi chơi,xung quanh tôi có chi,0.7256045895748581
+trên gói bánh nớ có chi rứa,ở đây có chi rứa bạn,0.47973898478937627
+biển báo giao thông đằng trước viết những chi,biển báo giao thông trên cửa viết chi,0.7133449198440601
+tết năm nay rơi rơi vào ngày nào,tờ rơi phía trước hết hạn ngày nào,0.5498739643236098
+thẻ căn cước người ta vừa đưa tôi có chỗ nào bị sửa không nhỉ bạn hina,bạn à chị cần ký vào chỗ nào trên thẻ căn cước,0.5083976077424179
+cho con thoát ra coi,con thoát đây,0.7097285074044667
+chai nước suối tôi đang giơ lên ghi gì,ơ không biết chai nước suối tôi đang giơ lên ghi gì nhỉ,0.886024022758645
+mắt mình không nhìn rõ ngoài đường bây giờ trông ra sao,mắt tui không nhìn rõ con đường trước mặt trông ra răng,0.5553365030799178
+con vừa vào trạm dừng chân mô tả bên phải con,mô tả cảnh trạm dừng chân cho em nghe,0.6004782090169958
+bạn ơi gói xúc xích trên ghế dùng để làm gì vậy bạn,đọc liều dùng của gói thuốc bột trên ghế nha bạn,0.503599190935979
+à này tôi không cần giúp nữa,không cần cần tả nữa,0.6807046680103915
+lịch sử việt nam có bao nhiêu triều đại vậy ta,hôm nay ngày bao nhiêu âm lịch lịch,0.5069741209693848
+biển lối thoát hiểm hướng dẫn dì đi theo hướng nào,muốn ra lối thoát hiểm thì theo bảng hướng dẫn xếp hàng ở đầu hẻm đi đâu hả,0.6478956910683936
+bảng điện tử ở sân ga trước mặt đang hiện chữ gì,đọc giùm cái chữ trên bảng điện tử ở sân ga tê,0.5965361913846718
+căn phòng em đang đứng ra sao,miêu tả căn phòng này,0.5059507369702734
+tả lại ngân hàng này cho bà xem nào,mở ứng dụng ngân hàng,0.5173729815328698
+tôi không nhìn thấy gì không gian ở đây thế nào,tôi không nhìn thấy gì nhìn xem ở đây trông ra sao,0.6063589392666983
+ghi gì đây,trên này ghi gì,0.5829764102190983
+hina ơi cảm ơn bạn chào bạn,bạn ơi cảm ơn bạn đã giúp tui chào hina,0.8299612725370923
+mình mới tới cây xăng đọc kỹ bản hợp đồng đó mình không muốn bị thiệt,mình vừa vào cây xăng nói cho mình biết mình đang ở trong khung cảnh như thế nào,0.43636075058083623
+thông báo dán trên cửa này ghi gì,nói cho tui biết trên thông báo dán trên cửa này ghi những gì nè ơi bạn,0.7469352832593633
+tôi đang nói chuyện với người khác thế,kể chuyện cười đi,0.4327354512164465
+cho mình thoát ra nghen,thoát ra,0.6528442935281092
+thôi tắt hẳn phần mềm đi,ừ thôi tắt hẳn phần mềm nghe,0.9198455849793472
+mình lạ chỗ này quá mình đã hướng camera vào quyển vở đó rồi đó đọc giúp mình nha,mình giơ camera lên rồi nhìn cho mình xung quanh rồi tả lại,0.47178293145305394
+hóa đơn siêu thị dì đang cầm tổng cộng bao nhiêu tiền,tổng tiền trên hóa đơn tiền điện này là bao nhiêu thế nhỉ,0.6220163919325574
+ở đây ồn quá căn phòng mình đang đứng ra sao,ở đây ồn quá nơi tôi đang ở trông ra sao,0.5004986070803201
+để coi cho cháu thoát ra nghen,thoát ứng dụng giùm cháu nghen,0.6427814391207035
+hợp đồng bảo hiểm mình đang giơ lên ghi tiền cọc bao nhiêu thế,đọc tiền cọc trong hợp đồng thuê nhà đó,0.5194671823069754
+trợ lý ơi đọc một bài thơ cho tôi nghe,trợ lý ơi bà đang ở tiệm tạp hóa hát một bài đi,0.44588263782296333
+ngoài ban công có gì đấy,ở ngoài kia có gì đấy,0.6596807788757547
+tả lại nhà bếp này cho tôi,tả căn bếp cho ông,0.5132464046117826
+biển cấm đỗ xe bên kia đường có nội dung gì,đọc nội dung biển cấm hút thuốc bên kia đường giùm giùm mình ạ,0.6388582453946758
+hôm nay ăn gì nhỉ,hôm nay có gì mới hông,0.6072550398351122
+tả lại cây xăng ni cho o giùm với,mô tả cảnh cây xăng cho anh nghe,0.6484964024042976
+mô tả dưới chân chị được không,ờ cảnh dưới chân răng,0.6470769539582106
+bảng thông báo đó ghi cúp điện mấy giờ,không biết tờ thông báo cúp điện ghi chi nhỉ,0.667573691941384
+tạm biệt cô giáo,tạm biệt,0.74155435254333
+không có ai để hỏi xung quanh có chữ gì thì thì đọc hết cho tớ,có chữ gì thì đọc hết cho tôi nghe,0.6161550811410699
+hina ơi không gian ở đây thế nào,hina ơi ở đây nhìn chung thế nào,0.49116114177733294
+làm ơn đóng phần mềm,đóng phần mềm với,0.7985372886751506
+à mà đọc kỹ tờ đơn đó tui không muốn bị thiệt với,tui không muốn muốn nghe nữa dừng đi,0.3842742781043418
+đọc mặt sau của kết quả xét nghiệm này nha bạn,kết quả xét nghiệm đó có những chữ gì thế,0.6477592859356553
+bên phải mình có những gì gì nè,ở đây ồn quá kể chị nghe bên phải có những gì với,0.5927399905940968
+thôi để tui tự lo đóng đi,ừ thôi đóng chế độ này ạ,0.5043973973707006
+để coi hộp thuốc huyết áp mạ mới mua còn hạn không,hộp thuốc huyết áp tui mới mua hết hạn khi nào,0.7087548819519393
+ờ thì còn mấy ngày nữa thì tết,ờ thì mô tả đi,0.48286510828413065
+đọc tên người gửi trên lá thư đó,người gửi lá thư em đang cầm tên là chi,0.7685203644209297
+căn phòng ông đang đứng ra sao,tôi đang đứng trong sảnh chung cư miêu tả căn phòng này,0.4980185064030005
+lương hưu tháng này về chưa,lương trên tờ thông báo đó bao nhiêu,0.41617642907611596
+tớ vừa xuống xe đọc đọc một bài thơ cho tớ nghe,tui vừa xuống xe đọc lên coi,0.42789214441616785
+ghi chi đây,ừ trên ni ghi chi,0.6617330508867947
+mô tả đằng sau cháu với,à đằng sau tui có chi,0.5813001229190445
+chữ nhỏ quá đọc to rõ chính xác hóa đơn tiền nước tôi rất cần nhé bạn,ơ ơ đọc hóa đơn tiền nước đó đi,0.5218212053062893
+mắt tôi không nhìn rõ xung quanh hồ gươm có chi chơi hè,mắt tôi không nhìn rõ mô tả xung quanh cho tôi nghe,0.6751863485207443
+chị đang đứng chờ dừng bài hát lại,hát một bài đi,0.5214832243035724
+à này cô đưa điện thoại lên rồi đọc một bài thơ cho cô nghe,tôi đưa điện thoại lên rồi quét một vòng rồi mô tả cho tôi,0.4798330409313044
+cho em thoát ra ạ,thoát ra,0.8339059674156564
+chuyến cuối cùng trên bảng điện tử ở bến xe kia lúc mấy giờ,này bạn theo bảng điện tử ở bến xe kia chuyến tiếp theo mấy giờ,0.5417304993131637
+bạn ơi chỗ này hơi tối mô tả dưới chân cháu đi,chỗ này hơi tối dưới chân có gì đó bạn,0.8585476492436404
+cô đang đứng trong chợ đêm lương hưu tháng này về chưa nhỉ,mình đang đứng trong chợ đêm mô tả xung quanh cho mình nha,0.4204785377111242
+để coi đọc mặt sau của biển tên đường bên phải nha bạn,mình giơ biển tên hẻm bên kia đường lên rồi đọc đi,0.4527199826252921
+hina ơi thôi kết thúc ứng dụng đi,kết thúc ứng dụng cho con,0.7541605521328748
+bên trái dì có gì,đôi tất ở bên trái hay bên phải dì,0.5905175106564288
+thôi kết thúc cái máy đi,bạn à kết thúc cái máy,0.835494662056114
+chỗ này hơi tối giấy mời họp tui vừa nhận ghi gì,chỗ này hơi tối giấy mời họp tôi vừa nhận có mấy trang nhỉ bạn,0.7868976628913307
+xung quanh dì đang có chuyện gì xảy ra hả,xung quanh có gì,0.5646102848407142
+bà mới tới đây lần đầu biển quảng cáo này viết gì mà dài thế đọc bà nghe,tôi mới tới đây lần đầu biển cấm đỗ xe này viết gì vậy hả,0.5269468261029865
+ở đây ồn quá bảng chỉ dẫn lối ra trước mặt chỉ rẽ trái hay rẽ phải vậy ạ,bảng chỉ dẫn lối ra bên phải cách tôi bao xa vậy hả,0.4807792821810013
+hina ơi tìm rạp phim gần đây nhé,rạp phim gần nhất mở cửa đến mấy giờ,0.532233131511399
+tạp chí người ta vừa đưa tôi viết gì mà dài thế đọc tôi nghe,tờ giấy người ta vừa đưa tôi có tên tôi trên đó không thế,0.502435930644702
+ở đây ồn quá quyển kinh này có bị rách trang không hina,ở đây ồn quá đọc trang tiếp theo của quyển kinh này xem nào,0.6201365747350421
+ông vừa xuống xe không gian ở đây thế nào,tôi vừa xuống xe ở đây nhìn chung thế nào,0.5863854466663
+sao dạo này tôi hay quên vậy,thôi chết quên ví rồi,0.408222196872988
+đọc tên người gửi trên tờ giấy hẹn,người gửi tờ giấy này tên là gì,0.7896326665278197
+biên lai người ta vừa đưa tui có được giảm giá hông,đọc nội dung biên lai gửi xe người ta vừa đưa mình giùm mình,0.4934801405338125
+tôi đang đứng chờ căn phòng tôi đang đứng ra sao đấy hina,tôi đang đứng chờ tả chỗ tôi đang đứng,0.738913321553925
+gửi vị trí của cô cho bác tổ trưởng nhá,chụp ảnh gửi cho bác tổ trưởng,0.6496472042010966
+hina ơi cuốn tiểu thuyết trên giá sách có phải sách tiếng anh không,cuốn tiểu thuyết trên giá sách đang mở trang số mấy,0.656792216158806
+đây là quả gì thế nhỉ,ở đây có gì thế,0.5389286145571934
+đọc nguyên văn chai thuốc nhỏ mắt nớ,chai thuốc nhỏ mắt này đang hiện chữ gì,0.5539260613565222
+chữ mờ quá chuyến cuối cùng trên bảng giờ xe buýt đó lúc mấy giờ,theo bảng giờ xe buýt này chuyến tiếp theo mấy giờ,0.510951654838497
+quanh đây có quán phở nào ngon không vậy,hina ơi biển hiệu quán ăn bên kia đường là quán phở hay quán bún ạ,0.4133653756731761
+khoan đã tả lại công viên nước này cho bác ạ bạn,công viên này bố trí ra sao đó bạn,0.4545917966649822
+hina ơi tôi đang nói chuyện với người khác,kể chuyện cười đi,0.4244288714540485
+hina ơi thôi để tôi tự lo thoát đi,hina ơi ừ thôi thoát ứng dụng hina,0.6241717774831721
+o giơ camera lên rồi trước mặt có gì,tôi giơ camera camera lên rồi đây là cái gì,0.7121518473703583
+chỗ này hơi tối không gian ở đây ra ra sao,chỗ này hơi tối cảnh vật ở đây ra sao,0.6559217788454482
+hóa đơn tiền nước là của cửa hàng nào,hóa đơn tiền nước này nói gì,0.6690130319949084
+bạn ơi không gian ở đây thế nào,bạn ơi mô tả lại hông gian lần nữa,0.498239663219346
+ở đây ồn quá lịch sử việt nam có bao nhiêu triều đại hả,hôm nay ngày bao nhiêu âm lịch lịch,0.4836176125290097
+ờ tờ khuyến mãi bên phải có gì,chỉ đọc số điện thoại trên tờ khuyến mãi với,0.5881880933030078
+tui đang đứng chờ tìm số điện thoại taxi,tui đưa điện thoại lên rồi chỗ tui đang đứng trông như thế nào,0.4795004765846985
+ở đây ồn quá dừng bài hát lại,à này ở đây ồn quá hát một bài đi,0.7328401274586914
+lọ thuốc ho này dùng cho người lớn hay trẻ em hả,đọc liều dùng của lọ thuốc,0.4659042141872627
+tớ vừa xuống xe pin còn bao nhiêu phần trăm,con vừa xuống xe hai trăm nhân ba bằng bao nhiêu hè,0.5248271373386866
+làm ơn đóng ứng dụng hina,à đóng ứng dụng lại ê hina,0.7645732654257317
+hina ơi tôi không cần giúp nữa,hina ơi không cần mô tả nữa đâu,0.6787543989233149
+cảm ơn bạn tạm biệt biệt nhé,tạm biệt nhé,0.8800211442676391
+mạ không nhìn thấy chi mạ đã hướng camera vào phiếu giao hàng ni rồi nớ đọc giúp mạ,tôi không nhìn thấy chi camera đang thấy những chi,0.4234187812097754
+theo bảng chỉ dẫn lối ra thang máy ở hướng nào,ờ bảng chỉ dẫn kia chỉ tôi đi hướng nào,0.5952783670905987
+trên cuốn sách nấu ăn người ta vừa đưa mạ có chi,đọc hộ chị cuốn sách nấu ăn người ta vừa đưa chị ơi bạn,0.7513176539599685
+gửi vị trí của tôi cho cô hương tề,báo cho cô hương biết mình đang ở bến xe,0.4223921734103352
+này bạn thôi dừng cái máy đi,ừ thôi dừng cái máy với hina,0.7553248960870433
+anh đang đứng trong ngân hàng xung quanh có chữ gì thì đọc hết cho anh dùm cái hina,anh đang đứng trong bưu điện xung quanh anh có gì hả,0.5870498800342121
+để coi không gian ở đây ra sao,mô tả lại không gian lần nữa,0.44165973762500876
+em vừa vào khu chung cư bạn có đó không,kể tui nghe khu chung cư có có gì,0.615456042822687
+thôi để tui tự lo ngừng đi,ok cảm ơn tui ngừng ngừng đây,0.5958312635695482
+mở youtube đi,cửa ni đang mở hay đóng,0.31042664582870716
+con hông cần giúp nữa,hông cần tả nữa,0.7214095899736462
+làm ơn dừng chế độ này đi,dừng chế độ này,0.7823741111090972
+chữ trên cái bill là gì hả,tôi muốn biết trên cái bill trên kệ có ghi gì,0.6785209225714779
+thông báo dán trên cửa trước mặt tôi có gì vậy ta,hina ơi đọc lên giúp thông báo dán trên cửa phía trước,0.6604553772898412
+ừm thì hina đọc to rõ chính xác tờ biên nhận đó tôi rất cần,tờ biên nhận đó tính bác bao nhiêu,0.42148357634125666
+ở đây ồn quá kết luận trong kết quả xét nghiệm em đang cầm là chi,kết quả xét nghiệm đó có những chữ gì thế,0.6215286066533905
+phía trước là cảnh gì hả,cảnh phía trước ra sao,0.7613621095810278
+chữ trên vé tham quan trên bàn là gì hả,tả những gì bày trên bàn,0.39144955371506907
+ê hina tết năm nay rơi vào ngày mô,tờ rơi phía trước hết hạn ngày nào,0.41893219397602066
+hina làm ơn ngừng camera,hina ơi ngừng camera giùm em,0.7632325664273117
+cho cho chị thoát ra cái,thoát cái máy cho tôi,0.7116469280640367
+bảng tên phòng trên cổng là số chẵn hay số lẻ,số nhà trên cột cổng đó là số mấy vậy hả,0.5179015902581485
+ơ,ơ ơ đọc hóa đơn tiền nước đó đi,0.3691334375256474
+ừm đứa bé kia là nam hay nữ vậy,cửa kia đang mở hay đóng,0.31186717221223104
+mắt mình kém đọc không nổi tờ hóa đơn mình đang cầm có tính phí phục vụ không,mình mình không nhìn thấy chi bạn có biết mình là ai không,0.39874366358412405
+chú ơi xe ni đi bến thành không chú,xung quanh có gì đáng chú ý không,0.35598292670955756
+chỗ này hơi tối pin còn bao nhiêu phần trăm,điện thoại tôi còn bao nhiêu pin này bạn,0.5202266731801245
+cháu đang đi trong thư viện xung quanh cháu có ai không,chỗ này hơi tối cháu đang đứng giữa thư viện kể cháu nghe xung quanh,0.6919473182170667
+đúng rồi đúng rồi,tôi đứng đúng chỗ xếp hàng chưa,0.453300139402513
+con lạ chỗ này quá ngoài ban công có gì vậy bạn,ở ngoài ngoài kia có gì,0.47786140824904566
+má không cần giúp nữa,không cần cần tả nữa,0.7089637492850135
+đọc nguyên văn toa thuốc trên bàn với,tả lại nguyên văn chữ trên tờ rơi này,0.4978117852533612
+anh đang vội tìm hiệu sách gần đây nào,má đang vội ở đây có gì,0.4212964925460341
+ơ chị mới tới cửa hàng tiện lợi nói nhỏ lại,kể o nghe cửa hàng tiện lợi có chi,0.6202185857475657
+chị hông cần giúp nữa nha bạn,hông cần tả nữa nha,0.7366882712205735
+phía trước là cảnh chi chi,chữ phía trước là chi,0.8048434960523367
+bạn ơi thôi tắt hẳn trợ lý đi,ơi bạn tắt hẳn trợ lý giùm anh nha,0.7061226736050017
+gửi vị trí của cháu cho anh tuấn,à này đọc tin nhắn của anh tuấn hina,0.5132557251690046
+rứa mô tả bên phải con với,không phải nói với bạn,0.45756474303521233
+cuốn sách này có đang để ngược không,đọc mặt sau cuốn sách hỉ,0.5438633000010333
+tả quang cảnh cây xăng lúc ni,mô tả cảnh cây xăng cho anh nghe,0.6845700372590753
+thế anh mới tới đây lần đầu quả chuối chín có màu gì nhỉ bạn,em mới tới đây lần đầu xung quanh có gì vậy ạ,0.43171919355615085
+à mà gửi vị trí của cháu cho con gái,chụp ảnh gửi cho con gái,0.5173742775630925
+à này thôi để tui tự lo đóng đi,ừ thôi đóng chế độ này ạ,0.5574011674389246
+mình đang ở chùa ghi gì đây vậy,mô tả chùa chị đang đứng,0.5508968142832383
+tôi đang đi trong sảnh bệnh viện biển cấm phía trên viết những gì vậy,tôi đang đi trong chợ hoa từ đây đến sảnh bệnh viện bao xa,0.5295408849593284
+đọc một bài thơ cho tui nghe,hát một bài đi,0.46198719634916363
+hộp bánh quy trên kệ viết những gì vậy ạ,hộp bánh quy em vừa lấy trên kệ vị gì vậy,0.6599901513670537
+giấy chuyển viện ni có nội dung chi rứa,giấy chuyển viện ni có chỉ số nào bất thường không rứa,0.60440167066827
+tôi vừa vào khu ẩm thực ngoài đường bây giờ trông thế nào,bên ngoài trông như thế nào,0.47241874333692224
+hina đọc nguyên văn biển đèn led đó,đọc giùm tui biển đèn led nớ,0.5605470441218751
+hina ơi tìm sân vận động gần đây nào,chỉ đường đến sân vận động gần nhất nhé,0.5866282327870602
+tìm số điện thoại taxi đi nào,này bạn tôi đưa điện thoại lên rồi ổ cắm điện ở chỗ nào,0.4174573317306014
+tờ hóa đơn trên ghế có được giảm giá không thế,đọc giùm cái chữ trên hóa đơn siêu thị trên kệ được không,0.4462687349716863
+đau đầu thì nên làm gì hina,tối nay nên ăn gì thế ê hina,0.4041239531105474
+ờ thì dừng bài hát lại,hát một bài đi,0.6079597295899972
+anh đã hướng camera vào menu trên quầy rồi đó đọc giúp anh đi,anh vừa xuống xe bảng chỉ dẫn lối ra trên quầy chỉ anh đi hướng nào,0.47655580374398476
+tôi đang ở ga tàu mở youtube,tôi đang ở ga tàu gọi cho chị ba đi,0.657376313413024
+ừm thì lương hưu tháng ni về chưa ri,lương trên tờ thông báo đó bao nhiêu,0.3751115357311682
+đọc nguyên văn màn hình thang máy đó,đọc giùm cái chữ trên màn hình thang máy này nào,0.5638671768171164
+hina mô tả bên trái tui được hông,bên trái con có cửa ra vào hông,0.5028281957521916
+ờ bạn à kết thúc phiên,bạn à kết thúc cái máy,0.5478715466741795
+cô đưa điện thoại lên rồi ghi gì đây,mình đưa điện thoại lên rồi quanh đây có những gì thế nhỉ,0.650971829298306
+căn phòng bà đang đứng ra sao trợ lý,tôi đang đứng trong sảnh chung cư miêu tả căn phòng này,0.45346930568818244
+trợ lý ơi lương hưu tháng này về chưa ạ,lương trên tờ thông báo đó bao nhiêu,0.3859562839836076
+thôi ngắt phiên này đi,ừ ừ thôi ngắt chế độ đọc,0.4704014251212174
+đọc nguyên văn tờ quảng cáo với,tả lại nguyên văn chữ trên tờ rơi này,0.5020652408448124
+cuốn sổ trên kệ có đang để ngược không ạ,đọc trang này trong cuốn sách nấu ăn trên kệ,0.3775504400023675
+theo bảng chỉ dẫn các khoa bên kia đường thang máy ở hướng mô,theo bảng chỉ dẫn các khoa bên kia đường thì nhà vệ sinh ở mô,0.6945280500341581
+thế biển chỉ dẫn trong siêu thị này chỉ rẽ trái hay rẽ phải,bạn đọc được biển chỉ dẫn trong siêu thị hông,0.5731299205657334
+màn hình atm trước mặt mình đang ở bước nào,màn hình atm trước mặt có đang tắt không,0.8347858133925884
+cháu không cần giúp giúp nữa,cháu ổn rồi không cần bạn nữa,0.5646266217608933
+ừ hina ơi thôi ngừng chế độ mô tả đi,à mà ừ thôi ngừng chế độ mô tả,0.854544707036413
+cảm ơn bạn gặp lại sau,cảm ơn bạn đã giúp tôi gặp lại sau,0.8522045970958048
+rứa đọc kỹ công văn tui chuẩn bị ký tui không muốn bị thiệt,công văn bà chuẩn bị ký có thời hạn bao lâu,0.525903271656483
+màn hình điều hòa bên phải ghi những những gì vậy bạn,đọc số đang gọi trên màn hình điều hòa bên phải bạn,0.6266157983883124
+làm ơn ngắt chế độ mô tả được hông,được rồi ngắt chế độ đọc đi,0.6864429060576799
+tìm quầy thuốc gần đây được không,tôi không nhìn thấy gì mô tả quầy thuốc tôi đang đứng,0.46173466775463823
+ờ làm ơn tắt hẳn phiên này nha bạn,dừng phiên làm việc nha,0.6007042699391597
+bạn ơi đọc mặt sau của quyết định trong tay tôi luôn,quyết định này đã có chữ ký chưa,0.4661688941844506
+em đang vội còn mấy ngày nữa thì tết,em đang vội xung quanh em có gì,0.3806384036582696
+căn phòng cháu đang đứng ra sao đó,cháu giơ camera lên rồi cháu cháu đang đứng giữa phòng chờ bệnh viện kể cháu nghe xung quanh,0.5121823020839192
+à này cảm ơn bạn hẹn gặp lại bạn à,bạn ơi cảm ơn bạn đã giúp tôi hẹn gặp lại,0.8074100157718724
+hóa đơn này có nội dung gì trợ lý,nội dung tờ đơn trong tay bà là gì vậy,0.49023101296920335
+tui không nhìn thấy chi phía trước là cảnh chi,tui không nhìn thấy chi cảnh phía trước răng,0.8686474909729321
+hina ơi ngoài đường bây giờ trông ra sao,ờ bạn ơi cho tôi biết ngoài cửa trông ra sao,0.5517657318512438
+ờ thì đọc một bài thơ cho mình nghe,có chữ gì thì đọc hết cho mình nghe,0.493058479313657
+hina quả chuối chín có màu gì vậy,quả chuối này này to hay nhỏ,0.4966048921367556
+đặt xe grab đến phòng khách,tắt đèn phòng khách,0.6072302588346954
+quyển vở này này có phải sách tiếng anh không hen,chuyển sang tiếng anh,0.46516064115861133
+mô tả bên trái chị đi,cái mũ ở bên trái hay bên phải chị,0.6286586403636804
+mình mình không nhìn thấy gì bên phải mình có những gì,mình mình không nhìn thấy chi bạn có biết mình là ai không,0.7242797551366117
+dì mới tới quán cà phê lương hưu tháng này về chưa,tôi đang ở tầng hầm để xe tôi mới tới quán cà phê chưa quen tả cho tôi cái,0.39241538405960497
+tôi đang đi trong vỉa hè ngoài ban công có gì,tôi đang đi trong ban công nội dung phía trước là gì thế nhỉ,0.5005829173829941
+bạn có đó hông hả,bạn có biết tôi là ai không hả hả,0.550838748707905
+tuýp thuốc mỡ còn hạn không đó,vé xem phim đó còn hạn hông,0.5079188509088843
+bên phải anh có những gì,ở đây ồn quá kể chị nghe bên phải có những gì với,0.6422840916536412
+phiếu thu tôi đang cầm viết gì mà dài vậy đọc tôi nghe,phiếu tính tiền em đang cầm viết gì,0.5289436422546633
+bảng điện tử ở sân ga ở trạm đang hiện chữ gì,đọc bảng điện tử ở sân ga ở trạm từng dòng một đi nào,0.6509524804270483
+biên lai chuyển tiền trong tay tôi ghi gì,đọc biên lai chuyển tiền giúp mình đi nào,0.7072137302544681
+cô không cần giúp nữa,không cần cần tả nữa,0.7080022028136378
+tờ tiền này là tờ bao nhiêu ạ,tổng tiền trên hóa đơn tiền điện này là bao nhiêu thế nhỉ,0.5941542104293555
+quyển kinh bà mới mua có đang để ngược không,quyển kinh này có hình minh họa không,0.5480384114255012
+cảm ơn bạn tạm biệt nghe,cảm ơn bạn đã giúp dì tạm biệt,0.7710896090668499
+làm ơn tắt hẳn phiên làm việc,dừng phiên làm việc,0.7861403022141914
+làm ơn tắt ứng dụng hina đi,tắt ứng dụng,0.7322733775423572
+màn hình thang máy đó báo lỗi gì,đọc giùm cái chữ trên màn hình thang máy này nào,0.6448332825056402
+tôi mới tới đây lần đầu bảng hiệu trên cửa màu gì,chữ trên bảng hiệu cửa hàng ở đầu hẻm màu gì,0.6384916829380081
+à này tả rộng ra một chút cảnh xung quanh,quang cảnh xung quanh ra sao,0.4713367808610017
+bạn ơi thôi nghỉ,nghỉ thôi,0.9111870214281252
+hina dì hông cần giúp nữa,hông cần tả nữa,0.67376321092473
+à mà hina ơi thôi dừng phiên làm việc đi,dừng phiên làm việc,0.8593519590616023
+quả chuối chín có màu gì,quả chuối này này to hay nhỏ,0.5324226406168276
+đọc toa thuốc từng dòng tui sợ uống nhầm,đọc gói thuốc bột tôi đang cầm từng dòng một,0.49199110044137084
+làm ơn ngừng trợ lý với ạ,à này ngừng trợ lý giùm em nha,0.5903559901929814
+hina đọc kỹ tờ đơn này tui hông muốn bị thiệt,tui muốn dừng ở đây hina,0.3988754298336705
+căn phòng anh đang đứng ra sao nhỉ,tôi đang đứng trong sảnh chung cư miêu tả căn phòng này,0.4710207211059798
+tờ sao kê anh đang giơ lên có tính phí phục vụ không nhỉ bạn bạn à,hộp sữa bột bác đang giơ lên có đường không nhỉ bạn bạn,0.3733849594223676
+tôi hông cần giúp nữa,hông cần tả nữa,0.7527095971103941
+tạm biệt mẹ nha con con đi làm,con tự làm được rồi nha tạm biệt,0.7507213922422953
+bạn ơi tôi đang đứng chờ tìm số điện thoại taxi,bạn à tôi đang đứng chờ có chiếc taxi nào đỗ gần đây không hả,0.5126323960919645
+hina ơi sách hướng dẫn cô đang giơ lên ghi những gì,thế tôi giơ sách hướng dẫn tôi đang giơ lên lên rồi đọc đi,0.6879374808308238
+em mới tới khu khám bệnh đọc to rõ chính xác phiếu tính tiền người ta vừa đưa em em rất cần đi nào,phiếu tính tiền em đang cầm viết gì,0.4707087912707868
+tờ thông báo có gì,bạn đọc lên tờ thông báo này giùm,0.6445583896883658
+không có ai để hỏi nói nhỏ lại,không có ai để hỏi cảm ơn bạn,0.561690570235479
+à này thôi nghỉ,à nghỉ thôi,0.938009486041901
+tôi đang đi trong ban công còn mấy ngày nữa thì tết,tôi đang đi trong ban công nội dung phía trước là gì thế nhỉ,0.473539770281763
+gửi vị trí của con cho em hoa nghe bạn,mô tả cảnh chợ hoa cho tôi nghe,0.3658739958860675
+ông vừa vào phòng gym biển báo nguy hiểm này màu gì nhỉ bạn,nội dung biển báo nguy hiểm này là gì,0.5664199392095048
+theo biển chỉ dẫn nhà vệ sinh ngay cửa ra vào thang máy ở hướng nào,theo biển chỉ dẫn nhà vệ sinh đó thì nhà vệ sinh ở đâu vậy ạ,0.5980899152664492
+tôi mới tới vỉa hè màn hình atm bên trái viết những gì,màn hình atm trước mặt có đang tắt không,0.45056989056986463
+hôm nay ăn gì nhỉ trợ lý,ơ trợ lý ơi giá vàng hôm nay ra sao,0.5490722192230546
+đọc kỹ tờ đơn chị chuẩn bị ký chị không muốn bị thiệt nha bạn,thẻ căn cước con chuẩn bị ký nói gì nhỉ,0.4013561082032858
+tả lại tiệm cắt tóc này cho con nghen,tiệm cắt tóc này trông ra răng,0.6438362473755742
+cho tôi thoát ra với ạ,thoát ra,0.7535733300934252
+ông ông không cần giúp nữa,ông ổn rồi không cần bạn nữa,0.7124566719133755
+vé gửi xe khởi hành lúc mấy giờ vậy hina,đọc giúp tôi với giờ khởi hành trên vé gửi xe này,0.7006302442142509
+đọc mặt sau của tờ sao kê đó,đọc mặt sau tờ giấy đó,0.6042099173569904
+thôi tắt hẳn chương trình đi,ừ thôi tắt hẳn chương trình nhé,0.9367913238912934
+chỗ này hơi tối xung quanh em đang có chuyện gì xảy ra vậy hả,ờ này bạn chỗ này hơi tối kể chuyện cười đi,0.5741902940111178
+để coi đọc đơn thuốc từng dòng tui sợ uống nhầm,để coi đọc chậm từng dòng giúp tớ đi nào,0.5104924154639289
+làm ơn dừng phiên này,dừng phiên làm việc,0.7935454865564338
+sách hướng dẫn người ta vừa đưa con có bị rách trang không,để coi đọc trang tiếp theo của sách hướng dẫn người ta vừa đưa tôi,0.6620719129064198
+hina ơi xem giúp nải chuối này chín chưa đi,tôi đang đứng trong tiệm tạp hóa nải chuối này chín chưa,0.6943301968992901
+chị không đeo kính quyển truyện đó có nội dung gì vậy,đọc truyện cổ tích cho chị nghe,0.3968326250954588
+xung quanh tôi đang có chuyện chi xảy ra hỉ,xung quanh tôi có chi,0.6397040327516074
+đọc toa thuốc từng dòng tôi sợ uống nhầm đi bạn,đọc gói thuốc bột tôi đang cầm từng dòng một,0.518961880183819
+cô đang đứng trong sân trường mô tả sau lưng cô đi,tôi đang đi trong sân trường phía trước tôi có chi,0.49084977501374183
+hông có ai để hỏi cuốn tiểu thuyết đó có có bị rách trang không hả,đọc trang này trong cuốn tiểu thuyết trên kệ,0.6086216874915713
+đọc mặt sau của số nhà trên cột cổng bên phải nha,chỉ đọc số nhà trên số nhà trên cột cổng trên cột nè,0.6589604728709112
+ê hina ở đây ồn quá xung quanh tôi đang có chuyện gì xảy ra,ở đây ồn quá quang cảnh xung quanh ra sao vậy,0.5248615282546599
+hina tả lại nhà hàng này cho anh nè,để coi hina ơi đọc giùm mình tổng tiền trên đơn hàng này nè,0.3639657301609738
+trang sách có bị rách trang không vậy bạn,sách hướng dẫn này đang mở trang số mấy vậy,0.5380101638315076
+cảm ơn bạn chào bạn,cảm ơn bạn đã giúp con chào bạn,0.803158471132244
+kết thúc phiên,kết thúc ở đây nha,0.5371405526008282
+mô tả ngoài cửa anh đi,ngoài cửa có gì thế bạn,0.6931003985378567
+à mà hina ơi tả lại lớp học này cho mình với ạ,mình đang ở lớp học gọi cho con gái đi,0.5249627570807233
+ờ thì vé xe khách này có nội dung gì vậy ạ,nội dung vé gửi xe người ta vừa đưa tui là gì vậy bạn,0.42507007205297287
+không có ai để hỏi đọc một bài thơ cho tôi nghe,không có ai để hỏi quét một vòng rồi mô tả cho o nghe,0.4944790573674006
+mắt tôi không nhìn rõ ghi gì đây,mắt tôi không nhìn rõ kể tôi nghe sân nhà có gì nào,0.6261038102348365
+ơi bạn hôm nay ăn gì nhỉ,hina ơi ơi tối nay nên ăn gì nhỉ bạn,0.5988571228540054
+làm ơn kết thúc cái máy,bạn à kết thúc cái máy,0.7990418164989989
+mình không nhìn thấy gì hộp thuốc cảm đó dùng cho người lớn hay trẻ em,o không nhìn thấy gì đọc hộp thuốc huyết áp người ta vừa đưa o từng dòng một,0.46199451717840223
+theo bảng hướng dẫn xếp hàng này thang máy ở hướng nào,nội dung bảng hướng dẫn xếp hàng kia là gì hả,0.6522224310945437
+rứa thôi kết thúc phiên này đi,ừ thôi kết thúc trợ lý,0.5274843968520067
+cái bill trong tay anh in ngày nào,đọc cái bill tui vừa nhận đi,0.4840709796119753
+đọc to rõ chính xác hóa đơn tiền mạng trên quầy mình rất cần,hina ơi nội dung hóa đơn tiền mạng trên quầy là gì đó bạn,0.6032708602201897
+hina thôi bỏ đi,thôi thôi đi về đi,0.6034618885412668
+bạn ơi bên phải mình có những gì đó,hina ơi tấm áp phích bên phải có những chữ gì đó,0.5953723743254054
+bạn ơi lương hưu tháng này về chưa ạ,lương trên tờ thông báo đó bao nhiêu,0.40254595518320546
+tìm nhà hàng gần đây đây,ở đây có gì,0.38585414684991115
+bảng tên phòng kia viết gì mà dài vậy đọc tui nghe,cho tôi biết bảng tên phòng trước mặt viết những gì nha,0.4968317288345422
+căn phòng em đang đứng ra sao hả,miêu tả căn phòng này,0.48517904354681074
+hina ơi xung quanh má đang có chuyện gì xảy ra,ê hina má tò mò xung quanh có gì,0.5582868981260946
+làm ơn đóng camera,con muốn đóng camera đi,0.6708930481314723
+phiếu tính tiền ni in ngày mô,phiếu tính tiền này nói gì,0.7226021249537184
+căn phòng mình đang đứng ra sao nhỉ bạn,mình đang đi trong phòng chờ bệnh viện miêu tả căn phòng này nha,0.5079678460273389
+hợp đồng lao động trên tay tôi ghi những chi,hợp đồng lao động tôi đang giơ lên viết những chữ chi thế,0.7699188167527462
+em đang đi trong con hẻm trước mặt có gì,này bạn em đang đi trong nhà thờ trước mặt em là vật gì thế bạn,0.5431902622645015
+anh đang đứng trong quán cà phê bạn có đó không hen hen,mô tả quán cà phê em đang đứng đi nào,0.5637989362464332
+vé xe buýt anh vừa mua khởi hành lúc mấy giờ đó bạn,đọc giúp mình giờ khởi hành trên vé xe buýt này,0.6843510903659985
+cho tôi thoát ra,thoát ra,0.8621790328404814
+mình đang đứng chờ căn phòng mình đang đứng ra sao,mình đang đứng chờ đọc đi,0.7683145935064266
+thôi để tui tự lo tắt hẳn đi,thôi tui tắt đây,0.5720285359203058
+bạn à lọ siro em đang giơ lên màu gì vậy,lọ siro tôi đang giơ lên chữ nhỏ quá tôi không đọc được bạn đọc giùm,0.5520459135546397
+có ai đang đi theo sau lưng má không,cảnh sau lưng thế nào,0.5647425359544147
+chữ in bé tí bảng tên tòa nhà là số chẵn hay số lẻ,chỉ đọc số nhà trên bảng tên tòa nhà phía trước,0.5385487299964304
+ừ làm ơn ngừng phiên này,dừng phiên làm việc,0.6056597098117892
+đọc mặt sau của hợp đồng trên bàn nữa với,đọc chữ in trên hợp đồng thuê nhà trên kệ,0.4925740304169346
+đọc nguyên văn lọ siro trên bàn,tả lại nguyên văn chữ trên tờ rơi này,0.5293256137535214
+o đang đi trong bến phà phía trước là cảnh chi,chữ phía trước là chi,0.556234760369689
+làm làm ơn thoát cái máy,bạn làm làm được những gì,0.5961895393051155
+phiếu bảo hành trên tay chị in ngày nào,chỉ đọc số tiền trên phiếu bảo hành này thôi,0.5841302032856079
+à ni không gian ở đây răng hina,ở đây nhìn chung răng ê hina,0.47830367167371346
+đọc tên người gửi trên mẩu giấy này,người gửi tờ giấy này tên là gì,0.7219286070888001
+căn phòng mình đang đứng ra sao ạ,mình đang đi trong phòng chờ bệnh viện miêu tả căn phòng này nha,0.5402538712803951
+xung quanh em đang có chuyện chi xảy ra,xung quanh tôi có chi,0.5960302794201001
+xem giùm dì quả chanh này chín chưa,quả chanh này chín chưa bạn à,0.8708153587926835
+đọc kỹ hợp đồng thuê nhà tôi chuẩn bị ký tôi không muốn bị thiệt,mắt tôi kém rồi đọc giùm tôi hợp đồng thuê nhà,0.5284448238605949
+căn phòng cháu đang đứng ra sao,cháu giơ camera lên rồi cháu cháu đang đứng giữa phòng chờ bệnh viện kể cháu nghe xung quanh,0.5247917626461482
+hina ơi thôi đóng ứng dụng hina đi đi,được rồi đóng ứng dụng hina đi,0.7682257302613994
+tôi mới tới ủy ban phường hôm nay ăn gì nhỉ,trong ủy ban phường có những gì,0.6176641888034269
+cho mình thoát ra,thoát ra,0.8097656657441729
+giấy biên nhận hồ sơ tui vừa nhận ghi tiền cọc bao nhiêu nhiêu,tờ giấy tui vừa nhận ghi ngày bao nhiêu,0.7091219206793987
+căn phòng tôi đang đứng ra sao nè,tôi đang đứng trong sảnh chung cư miêu tả căn phòng này,0.5167967991540697
+thôi tắt chương trình đi,ừ thôi tắt hẳn chương trình nhé,0.8561512302309967
+đọc to rõ chính xác biên lai tui đang giơ lên tui rất cần,mắt tui kém rồi đọc giùm tui biên lai gửi xe trên tay tui nha,0.46983678139608376
+con không không đọc được chữ phiếu giao hàng này tổng cộng bao nhiêu tiền,tổng tiền trên phiếu tính tiền là bao nhiêu,0.5703995341068917
+nói nhỏ lại ê hina,hina hina ơi không phải nói với bạn,0.4482868137222522
+tôi đang đứng trong tiệm bánh mô tả đằng sau tôi đi,mô tả tiệm bánh tôi đang đứng đi bạn,0.7713171821625134
+xung quanh hồ gươm có chi chơi ri,xung quanh tôi có chi,0.6637777597159855
+bằng lái xe người ta vừa đưa mạ có chỗ mô bị sửa không,bạn đọc được vé xe buýt người ta vừa đưa mình không không,0.45541353123621053
+đặt xe grab đến nhà văn hóa nhé,kể tôi nghe nhà văn hóa có chi,0.5017909447352803
+cảm ơn bạn bye bye,cảm ơn bạn đã giúp o bye bye,0.8979445270919194
+đặt xe grab đến chợ đêm,kể mình nghe chợ đêm có gì hina,0.5410095496597559
+ghi gì đây nhỉ bạn,cái này ghi gì nhỉ,0.6524589427427743
+thôi ngừng cái máy đi,bạn ơi cô muốn ngừng cái máy,0.6862680488214786
+ừm bạn có nớ nớ không,bạn ơi xung quanh tui có gì nớ,0.4260596072376299
+hina ơi biển chỉ đường trước mặt cô hướng dẫn cô đi theo hướng nào,ờ bảng chỉ dẫn kia chỉ tôi đi hướng nào,0.568820866713253
+chai thuốc nhỏ mắt bác sĩ vừa đưa còn hạn không,có chữ gì trên chai thuốc nhỏ mắt bác sĩ vừa đưa không đọc ông nghe,0.7780388588740468
+mình đã hướng camera vào bảng tên khoa trước mặt rồi đó đọc giúp mình,mình giơ bảng thông báo trước mặt lên rồi đọc đi,0.44404745134621937
+tả rộng ra một chút cảnh xung quanh nhé,quang cảnh xung quanh ra sao,0.4654919620826312
+bạn à thôi để mình tự lo ngừng đi,ừ thôi ngừng ứng dụng đi,0.5469811697093685
+biên lai này có tính phí phục vụ hông,đọc biên lai gửi xe,0.3941146051544523
+vỉ thuốc trên bàn viết chi mà dài rứa đọc mình nghe,đọc qua giùm mình gói thuốc bột trên bàn đi,0.459036477880002
+tìm số điện thoại taxi,có chiếc taxi mô đỗ gần đây không,0.3794226196028736
+tạm biệt mẹ nghe con đi làm,em đi đây tạm biệt nghe,0.6878746182232917
+hina ơi đọc to rõ chính xác hóa đơn tiền điện đó cháu rất cần nào,chỉ đọc số tiền trên hóa đơn tiền điện đó thôi,0.5151643953999983
+cô y tá là nam hay nữ,chỗ này hơi tối cô y tá đang làm gì,0.337193609993949
+cho tui thoát ra đi bạn,thoát ra đi,0.7891746499114325
+hộp thuốc này màu gì vậy,hộp thuốc cảm bác sĩ vừa đưa là thuốc gì ạ,0.5494539185705027
+tôi đang đứng trong nhà văn hóa đọc mặt sau của màn hình điều hòa phía trước luôn,tôi đang đứng trong nhà văn hóa đọc chữ phía trước với ạ,0.6091584530992896
+gói kẹo đó dùng để làm gì nhỉ,gói kẹo trong tay chị còn hạn dùng hông,0.5780436491400631
+à mà làm ơn tắt hẳn chương trình đi nào,ừ thôi tắt hẳn chương trình nhé,0.7520221837761504
+cảm ơn bạn tạm biệt nhé,cảm ơn bạn đã giúp em tạm biệt nhé,0.8596624036898599
+ơ không gian ở đây ra sao,mô tả lại không gian lần nữa,0.499466577132865
+mô tả xung quanh con,mô tả xung quanh cho em,0.7911538925705662
+phiếu khám bệnh đó có nội dung gì hả,nội dung phiếu tạm tính là gì đó bạn,0.5582010351488488
+hina ơi mắt tôi kém đọc không nổi tờ menu này ghi những gì thế,mắt cô kém đọc không nổi người gửi tờ lịch tên là gì vậy,0.4545458044968973
+à mà bạn à hộp thuốc cảm cháu đang giơ lên dùng cho người lớn hay trẻ em,hộp thuốc cảm má đang giơ lên hết hạn khi nào,0.4533194891916963
+chỗ ni hơi tối có ai đang đi theo sau lưng em không,cảnh sau lưng thế nào,0.48532944132621725
+em đang ở bệnh viện màn hình atm ngay đây đang ở bước nào,màn hình atm trước mặt có đang tắt không,0.5636835679157954
+hina ơi làm ơn đóng phần mềm,hina ơi ơi đóng phần mềm nè,0.8198153333502234
+đau đầu thì nên làm chi,tối nay nên ăn chi,0.40794396871700755
+phía trước là cảnh gì,cảnh phía trước ra sao,0.8099258987509719
+đọc nguyên văn bảng sơ đồ tầng này,tả lại nguyên văn chữ trên bảng thông báo này,0.6002372705659287
+cuốn sách nấu ăn trên kệ có đang để ngược hông hen,đọc trang này trong cuốn sách nấu ăn trên kệ,0.6695996946160533
+thôi tắt camera đi,ừ thôi tắt hẳn camera,0.8252016921831807
+thôi để bà tự lo thoát đi,thoát,0.5920108400291333
+làm ơn dừng cái máy với,ừ thôi dừng cái máy với hina,0.666638643866156
+hợp đồng người ta vừa đưa mình có chỗ nào bị sửa không,hợp đồng lao động người ta vừa đưa em có mấy trang nè,0.5490418245372279
+hina ơi ở đây ồn quá phía trước là cảnh gì,ở đây ồn quá chữ phía trước là gì thế nhỉ,0.7073916758180959
+gửi vị trí của tớ cho dì út được không,em gửi xe ở đây được hông,0.423044813558354
+lọ thuốc trên kệ dùng cho người lớn hay trẻ em đấy,đọc liều dùng của lọ thuốc,0.44356216379301106
+cảm ơn bạn hẹn gặp lại,hẹn gặp lại,0.8448327314415436
+ơi ơi bạn dừng bài hát lại,bạn ơi hát một bài đi,0.7040269904047493
+mình đang vội xung quanh mình đang có chuyện gì xảy ra vậy ta,em đang vội xung quanh em có gì,0.5530444131182797
+đọc to rõ chính xác tờ hóa đơn con đang cầm con rất cần nghen,đọc hóa đơn tiền điện tui đang cầm,0.38868472097037876
+vậy thôi nha,thôi tôi tắt đây vậy ạ,0.6117217552009266
+bảng thông báo tuyển vị trí gì nè,đọc kỹ bảng thông báo giùm nghe,0.3879986928927931
+đọc mặt sau của trang sách tôi đang cầm nữa,đọc trang tiếp theo của sách giáo khoa tôi đang cầm,0.5962450754142634
+tả lại tiệm tạp hóa này cho bà xem nào,tôi đang ở tiệm tạp hóa cảm ơn bạn,0.5878126100242059
+ơ ơ,ơ ơ đọc hóa đơn tiền nước đó đi,0.3691334375256474
+cho tôi thoát ra xem nào,thoát ra,0.7160985356124699
+bảng chỉ dẫn trên cửa hướng dẫn tui đi theo hướng nào,ờ bảng chỉ dẫn kia chỉ tôi đi hướng nào,0.7265752630033558
+xung quanh có chữ gì thì đọc hết cho anh,này bạn có chữ gì thì đọc hết cho anh nghe,0.7127159874558929
+dừng bài hát lại,hát một bài đi,0.6677714732685195
+mình vừa xuống xe tả lại siêu thị này cho mình được không,cho mình hình dung siêu thị này với,0.5724364472851219
+mô tả phía trên con nghe bạn à,kể dì nghe phía trên có những gì nha bạn,0.5332186858117619
+dạ,dạ em cảm ơn chị,0.6570550845526795
+chữ in bé tí hộp sữa chua này trẻ em dùng được không nè,hộp sữa chua ni còn hạn dùng không hỉ,0.624929657877631
+mình mới tới đây lần đầu lương hưu tháng này về chưa,mình mới tới đây lần đầu hôm qua mình uống thuốc chưa nhỉ,0.48126476888396197
+để coi xem cho anh quả dưa hấu này chín chưa,quả chanh này chín chưa bạn à,0.6253787133670714
+làm ơn kết thúc trợ lý nghe bạn,ơi bạn kết thúc trợ lý,0.7805971703273926
+cháu mới tới phòng chờ bệnh viện đọc toa thuốc từng dòng cháu sợ uống nhầm,cháu giơ camera lên rồi cháu cháu đang đứng giữa phòng chờ bệnh viện kể cháu nghe xung quanh,0.5558414158562662
+vậy thôi thôi nha,thôi thôi đủ rồi,0.7639945800740436
+tả rộng ra một chút cảnh xung quanh,quang cảnh xung quanh ra sao,0.48308122237763684
+ngoài đường bây giờ trông thế nào,bên ngoài trông như thế nào,0.6207431601049259
+em mới tới sảnh khách sạn chuyến cuối cùng trên bảng giờ xe buýt ni lúc mấy giờ,sảnh khách sạn gần nhất mở cửa đến mấy giờ nhỉ,0.46121715568735366
+hộp bánh quy ông đang giơ lên trẻ em dùng được không,tôi giơ hộp bánh quy trên bàn lên rồi đọc đi,0.5785806305612207
+tả lại phòng tắm này cho con nhé,mô tả cảnh phòng tắm cho tôi nghe,0.5960585825586656
+chị vừa xuống xe đọc mặt sau của toa thuốc trên kệ,chị vừa xuống xe đọc cái chữ trên đó giúp chị,0.49574612465593304
+dì đang đứng trong bưu điện dì đang nói chuyện với người khác,anh đang đứng trong bưu điện xung quanh anh có gì hả,0.43942409491302437
+ừm thì tìm công viên nước gần đây,công viên này bố trí ra sao đó bạn,0.404909871563488
+đọc mặt sau của bảng giá người ta vừa đưa chị nhé,bạn ơi đọc mặt sau tờ menu người ta vừa đưa bà,0.6024168855732147
+tả lại quán ăn này cho em với ạ,mô tả cảnh quán ăn cho anh nghe,0.5112553334042185
+đọc kỹ biên bản này chị không muốn bị thiệt,ừm thì bạn đọc được biên bản trên tay tôi không,0.3951843805375901
+mô tả sau lưng mình đi,cảnh sau lưng thế nào,0.6933313794030215
+hóa đơn tiền nước tổng cộng bao nhiêu tiền,tổng tiền trên hóa đơn tiền điện này là bao nhiêu thế nhỉ,0.7759591640810631
+có ai đang đi theo sau lưng tôi không,cảnh sau lưng thế nào,0.5712870277065913
+chỗ này hơi tối căn phòng mình đang đứng ra sao,chỗ này hơi tối ủa sao vậy,0.5428184620462553
+bảng thông báo có gì hen,đọc kỹ bảng thông báo giùm nghe,0.5668832638726349
+hina bảng điện tử gọi số trên tường đang ở bước nào,khoan đã hina bảng điện tử gọi số trên tường đang để bao nhiêu độ,0.7262790614548266
+à này em lạ chỗ này quá đọc một bài thơ cho em nghe,à này ở đây ồn quá hát một bài đi,0.4703202910389742
+thôi tắt cái máy đi,được rồi tắt cái máy đi,0.6634529091759197
+này bạn thôi kết thúc chế độ đọc đi,ừ thôi kết thúc chế độ đọc,0.9054030804771076
+đọc mặt sau của biển hiệu tiệm sửa xe luôn,bạn đọc biển hiệu tiệm sửa xe đó đó,0.6575488522569269
+tờ biên nhận trong ví ông có tính phí phục vụ không đấy,tờ biên nhận này tính ông bao nhiêu,0.5356711559418402
+anh không nhìn thấy gì tả rộng ra một chút cảnh xung quanh cái,tôi không nhìn thấy gì quang cảnh xung quanh ra sao nhỉ bạn,0.5635728994390288
+tôi không nhìn thấy gì hôm nay ăn gì nhỉ,tôi không nhìn thấy gì chào bạn,0.5842381552298326
+thế con vừa xuống xe ngoài đường bây giờ trông thế nào hina,em vừa xuống xe bên ngoài trông như thế nào,0.6833544479439055
+lịch sử việt nam có bao nhiêu triều đại đó bạn,hôm nay ngày bao nhiêu âm lịch lịch,0.5170612480678332
+thôi để mình tự lo đóng đi,ừ thôi đóng chế độ này ạ,0.5027482167350847
+chú ơi xe này đi bến thành không chú,không biết tờ ghi chú này ghi gì nhỉ,0.3928260685133109
+đọc to rõ chính xác hóa đơn siêu thị trong ví tôi tôi rất cần nhé bạn,đọc lên hóa đơn siêu thị này giúp mình nhé bạn,0.5264767283805336
+vậy đọc to rõ chính xác biên lai đó tôi rất cần coi,đọc biên lai gửi xe,0.42265337553582594
+thôi để tui tự lo thoát đi,tui thoát đây,0.6151087626814586
+em đang đi trong khu khám bệnh hôm nay ăn gì nhỉ,trong khu khám bệnh có chỗ nào bán nước không,0.5629491707041644
+đọc đọc đơn thuốc từng dòng cháu sợ uống nhầm,đọc chậm từng dòng giúp cháu cháu nhá,0.5487702130389176
+tớ mới tới ban công lưu số điện thoại này lại,hina ơi em mới tới ban công em quay điện thoại về phía hộp thuốc huyết áp bác sĩ vừa đưa rồi đọc nội dung giúp em,0.44869436332058443
+tắt giùm cái máy hỉ,được rồi tắt cái máy đi,0.581689649390646
+mô tả trước mặt dì nha,đọc hết chữ trước mặt tui nha bạn,0.5787522564078665
+tôi lạ chỗ này quá tả rộng ra một chút cảnh xung quanh giùm nha,tôi lạ chỗ này quá mô tả xung quanh cho tôi đi,0.5402582406871891
+con không cần giúp nữa,không cần cần tả nữa,0.6971266072971021
+lọ nước hoa ni dùng để làm chi,lọ nước hoa còn hạn dùng hông,0.6754640276226277
+hina ơi có ai đang đi theo sau lưng tôi không hả,hina ơi cho em biết sau lưng trông thế nào,0.5492144191983243
+bản hợp đồng trên ghế ghi gì thế bạn,trên này ghi gì thế bạn,0.5221629813894261
+trên poster kia có gì,đọc tiếp poster đi,0.7228725236456374
+mình đang nói chuyện với người khác cái,à mà kể mình nghe một câu chuyện cái,0.4610291120706562
+o đang đi trong phòng họp nói nhỏ lại,con mèo đang ở mô trong phòng,0.4278847257255125
+mắt mình không nhìn rõ tả lại khách sạn này cho mình,mắt mình không nhìn rõ đọc giùm cái này,0.5793859849260995
+dì đã hướng camera vào bảng sơ đồ tầng kia rồi đó đọc giúp dì giùm nha,đọc cho tôi nghe giúp tôi bảng sơ đồ tầng ngay cửa ra vào xem nào,0.441964323914281
+quyết định này ghi tiền cọc bao nhiêu,phiếu chỉ định này ghi đường huyết bao nhiêu vậy,0.5429186771804481
+mô tả đằng sau mình đi,mình vừa xuống xe đằng sau mình có gì vậy,0.6599714084912159
+lịch sử sử việt nam có bao nhiêu triều đại,hôm nay ngày bao nhiêu âm lịch lịch,0.47694971741880365
+tả lại con hẻm này cho em,đọc to biển tên hẻm này cho con nghe,0.5382347919727062
+hóa đơn trên quầy là của cửa hàng mô,hina ơi nội dung hóa đơn tiền mạng trên quầy là gì đó bạn,0.4968572700129932
+à này tôi đã hướng camera vào số nhà trên cột cổng trước mặt rồi đó đọc giúp tôi,số nhà trên cột cổng đó nói gì,0.5504004046016998
+hina ơi mắt em không nhìn rõ mô tả bên trái em,hina ơi mắt bà không nhìn rõ bạn có biết bà là ai không,0.5100225441369524
+biên lai tôi vừa nhận tổng cộng bao nhiêu tiền,tổng tiền trên biên lai này là bao nhiêu đó bạn,0.7251843299993023
+tui không cần giúp nữa,tui ổn rồi không cần bạn nữa,0.6951946875381375
+đặt xe grab đến công viên,công viên có lối đi cho xe lăn không,0.5184803484110939
+o đang đứng trong thư viện hợp đồng lao động có chỗ mô bị sửa không,tôi đang đứng chờ cho tôi nghe nội dung hợp đồng lao động này,0.5839663880800637
+tôi đưa điện thoại lên rồi bạn có đó không vậy ta,tôi đưa điện thoại lên rồi đọc cái chữ trên đó giùm tôi hina,0.6577812877264032
+đặt xe grab đến phòng chờ sân bay nhé nhé,chị đang ở phòng chờ sân bay tả đi,0.5643417527062047
+bà đang đi trong nhà thuốc bên trái bà có gì nhỉ bạn,hina bảng hiệu nhà thuốc bên trái có phải quán cháu đang tìm không,0.45913202434097444
+tôi đang đứng trong thư viện túi thuốc đó ghi gì,bạn ơi trong thư viện có những gì vậy,0.49697306801945795
+hina đọc nguyên văn phiếu xét nghiệm máu này cái,ừm đọc từng chữ trên phiếu xét nghiệm máu anh đang cầm,0.6177562627195938
+ừm màn hình atm này đang ở bước nào,màn hình atm trước mặt có đang tắt không,0.7081183830182747
+bảng lộ trình ở trạm ở trạm đang hiện chữ gì,bảng lộ trình ở trạm trước mặt in chữ gì hina,0.747780105864122
+xung quanh mình có ai không hả,xung quanh có gì,0.6848404401699556
+tôi đang đứng trong sân ga tờ thông báo cúp điện này có gì,không biết tờ thông báo cúp điện ghi chi nhỉ,0.5546703290054152
+người trước mặt là nam hay nữ,đọc mặt trước vé gửi xe người ta vừa đưa anh trước,0.4716733343733629
+trợ lý ơi phong bì bà vừa nhận ghi gì,địa chỉ ghi trên phong bì này là ở đâu,0.47932569165918326
+hina ơi không gian ở đây ra sao,hina ơi cảnh vật ở đây ra sao,0.508410246587288
+quả chuối chín có màu gì vậy bạn này bạn,quả chuối này này to hay nhỏ,0.5488624829977425
+vậy bạn ơi trước mặt có gì,ơi bạn đọc hết chữ trước mặt tôi,0.6200127272409517
+ê hina con đang ở lớp học bạn có đó không,mình đang ở lớp học gọi cho con gái đi,0.5939290467530538
+chị giơ camera lên rồi chị đang nói chuyện với người khác,tôi giơ camera camera lên rồi đây là cái gì,0.45162827512587356
+thôi để để tôi tự lo dừng đi,ừ thôi dừng trợ lý,0.46946630168260406
+theo biển hướng dẫn đó thang máy ở hướng nào,đọc tờ hướng dẫn bên trong hộp thuốc này đi nào,0.5095106151043499
+bảng điện tử ở bến xe nớ đang hiện chữ chi hỉ,hình như bảng điện tử ở bến xe kia có chữ bạn đọc thử xem,0.5214116785677616
+cho tui thoát ra giùm với,thoát ra,0.6606575808746544
+hina ơi mắt tôi không nhìn rõ lương hưu tháng này về chưa vậy ạ,mắt tôi không nhìn rõ phía trước có chữ gì vậy bạn,0.38607925467052984
+tả lại khu chung cư này cho tui nha bạn,kể tui nghe khu chung cư có có gì,0.6620766504503939
+đọc nguyên văn hộp thuốc huyết áp em mới mua,hộp thuốc huyết áp tui mới mua hết hạn khi nào,0.614158450893937
+chỗ này hơi tối ngoài ban công có gì ơi bạn,chỗ này hơi tối cảnh ngoài cửa ra sao,0.6023015350656357
+để coi chữ trên biên lai mình đang giơ lên là gì nè,đọc lên biên lai trên quầy giùm,0.5121100640990841
+sao dạo ni tôi hay quên rứa,thôi chết quên ví rồi,0.3885913038133969
+bạn ơi thôi để con tự lo tắt đi,ơi bạn thôi con tắt đây,0.6984615006889973
+thôi để chị tự lo đóng đi,ừ thôi đóng chế độ này ạ,0.5071292604365603
+tôi đang vội xung quanh có chữ gì thì đọc hết cho tôi,có chữ gì thì đọc hết cho tôi nghe,0.6571525670494478
+căn phòng tui đang đứng ra sao,tui đang vội miêu tả căn phòng này,0.5843922371465068
+cảm ơn bạn tạm biệt,cảm ơn bạn đã giúp dì tạm biệt,0.8289723490944614
+con đang đi trong phòng làm việc gửi vị trí của con cho dì út,con mèo đang ở mô trong phòng,0.4444154154707336
+thôi để o tự lo tắt đi,thôi tôi tắt đây,0.5261370281559501
+trên menu cô đang cầm có có gì,hina món đắt nhất trên menu tôi đang cầm cầm là gì,0.6218081173409581
+đọc nguyên văn phiếu giao hàng này,đọc phiếu giao hàng người ta vừa đưa ông,0.567735707731414
+hông có ai để hỏi giấy biên nhận hồ sơ này viết gì mà dài vậy đọc tôi nghe,đọc từng chữ trên giấy biên nhận hồ sơ đó,0.573991206761875
+à mà thôi đóng chế độ đọc đi,ừ thôi đóng chế độ này ạ,0.7939130753454268
+trợ lý ơi bà vừa xuống xe trước mặt có gì,cháu vừa xuống xe cảnh trước mặt thế nào,0.6244357150025426
+đặt xe grab đến bến xe đi bạn,từ đây đến bến phà bao xa,0.42196595056859143
+anh đưa điện thoại lên rồi bên phải anh có những gì nhỉ bạn,anh đưa điện thoại lên rồi trên đường có những gì nhỉ,0.7737416683260069
+tìm hiệu sách gần đây,miêu tả hiệu sách cho mình,0.4748571406692529
+bạn à mình đang vội lịch sử việt nam có bao nhiêu triều đại,hôm nay ngày bao nhiêu âm lịch lịch,0.4739791418007313
+thôi để tôi tự lo dừng đi,ừ thôi dừng trợ lý,0.5283031215334882
+bảng chỉ dẫn bên phải có nội dung gì,bảng chỉ dẫn lối ra bên phải cách tôi bao xa vậy hả,0.5443193414221986
+mình đang nói chuyện với người khác,kể chuyện cười đi,0.436547974444659
+hộp thuốc huyết áp trên ghế dùng cho người lớn hay trẻ em,đọc dòng đầu tiên trên hộp thuốc huyết áp trên ghế,0.561118498088922
+mình không cần giúp nữa,mình ổn rồi không cần bạn nữa,0.6976198199757653
+biển hiệu tiệm sửa xe trên tường màu gì,bạn đọc lên biển hiệu tiệm sửa xe trên tường giúp tôi hen,0.7871295953252937
+thôi tắt ứng dụng hina đi,à ừ thôi tắt ứng dụng hina,0.946934927819766
+hina ơi tả lại sảnh khách sạn này cho cháu nha,mô tả cảnh khách sạn cho tui nghe,0.5596022594008312
+đọc mặt sau của biển báo nguy hiểm này nữa,nội dung biển báo nguy hiểm này là gì,0.6576638499175576
+bảng chỉ dẫn các khoa đó viết gì mà dài vậy đọc mình nghe,bảng chỉ dẫn các khoa in chữ gì,0.6744245430942543
+hina xung quanh hồ gươm có gì chơi thế bạn,xung quanh có gì,0.6327540578153374
+hina ơi căn phòng chị đang đứng ra sao,ê hina miêu tả căn phòng này,0.5280650441850613
+hóa đơn này in ngày nào,ông lạ chỗ này quá trên tờ hóa đơn này có chữ gì thế bạn,0.4515278879668525
+thôi để bà tự lo kết thúc đi,ừ thôi kết thúc trợ lý,0.6288046016888461
+tôi không nhìn thấy gì xung quanh tôi đang có chuyện gì xảy ra vậy,tôi không nhìn thấy gì nhìn hộ tôi xung quanh rồi tả lại,0.644823190726264
+em không cần giúp nữa rứa bạn,bạn ơi không cần tả nữa,0.6418257681723807
+má vừa vào công viên trước mặt có gì,tôi vừa vào công viên tôi muốn hình dung chỗ này trông ra sao nha,0.5112152878343813
+làm ơn kết kết thúc cái máy coi,bạn à kết thúc cái máy,0.7583512503806167
+cuốn tiểu thuyết đó có đang để ngược không,chụp cuốn tiểu thuyết này rồi đọc cho tôi nghe,0.6634180625380522
+chữ trên bảng tên trên cửa trên tường là gì đó,trên biển số nhà trên tường có chữ gì,0.68531589185411
+mình đang đi trong khu khám bệnh ngoài ban công có gì,cháu vừa vào khu khám bệnh ở ngoài kia có gì,0.5980611991257598
+làm ơn thoát phần mềm,thoát phần mềm,0.8675038720108788
+màn hình máy đo huyết áp trên tường đang ở bước mô,đọc lại từ đầu màn hình máy đo huyết áp trên tường,0.8279202668680463
+cho o thoát ra,thoát ra,0.8780318260344324
+tôi không cần giúp nữa,không cần cần tả nữa,0.7276352576098066
+hina tờ đơn trên kệ có chỗ nào bị sửa không,chỗ này hơi tối có chữ gì trên tờ đơn không đọc con nghe,0.43040660184894264
+thôi thoát chương trình đi,thoát chương trình được không,0.841180013135717
+hộp sữa chua tôi vừa lấy trên kệ có bị móp không nhỉ bạn ơi bạn,hina ơi hộp sữa chua bà vừa lấy trên kệ với cái bên cạnh khác gì nhau vậy,0.5498553233110538
+trước mặt có gì,trước mặt bà là vật gì,0.6838005887142813
+bạn ơi ngoài đường bây giờ trông ra sao,ờ bạn ơi cho tôi biết ngoài cửa trông ra sao,0.6006963105178912
+biển tên hẻm tê là số chẵn hay số lẻ,biển tên hẻm trên cột là số mấy,0.5930426824172349
+chai nước tương đó trẻ em dùng được không,chai nước tương có phải đồ chay không,0.6116667926510773
+thôi tắt hina đi,hina thôi dì tắt đây,0.7979884682557118
+ừm chị đưa điện thoại lên rồi tìm nhà văn hóa gần đây xem nào,chị đưa điện thoại lên rồi ở đây là khung cảnh như thế nào,0.523821706820266
+hina ơi tấm áp phích phía trên có nội dung gì,đọc nội dung tấm áp phích bên kia đường giùm anh,0.649074702352106
+tờ khuyến mãi kia tuyển vị trí gì thế nhỉ,tờ khuyến mãi bên kia đường có liên quan đến bà không thế bạn,0.4882551292542252
+kết luận trong phiếu xét nghiệm máu là gì,à phiếu xét nghiệm máu trong tay em có dặn kiêng gì hông,0.6964941141487184
+hina ơi gửi vị trí của tôi cho chú tư đi,chụp ảnh gửi cho chú tư nhé,0.46822965878121714
+tả lại phòng ngủ ni cho tui với,kể tui nghe phòng ngủ có chi,0.6164422839189911
+à này mô tả hai bên em với,hai bên có gì gì,0.5610020216372189
+bạn à má lạ chỗ này quá bên phải má có những gì,ở đây ồn quá kể chị nghe bên phải có những gì với,0.5469524001954488
+tôi không cần giúp nữa nhé,cảm ơn nhé không cần nữa,0.7065364776365031
+có xe nào đang chạy tới không đấy,mình đang đứng chờ mấy giờ thì xe buýt hết chạy,0.460439837909561
+ừm thì màn hình máy giặt đang ở bước nào,màn hình máy giặt đó đang ở tầng mấy nhỉ,0.6431093178962273
+tắt giùm cái máy,được rồi tắt cái máy đi,0.6351546864775037
+cảm ơn ơn bạn chào nha,cảm ơn bạn đã giúp chị chào nha,0.7599341101839103
+tôi đang nói chuyện với người khác,kể chuyện cười đi,0.4458248506500042
+má đã hướng camera vào bảng điện tử gọi số bên phải rồi đó đọc giúp má,bảng điện tử gọi số bên phải đang ở tầng mấy nhỉ,0.4909034299429972
+hina ơi đọc đơn thuốc từng dòng tôi sợ uống nhầm,hina ơi đọc chậm từng dòng giúp tôi,0.555434626141944
+nói nhỏ lại,chữ nhỏ quá đọc đi,0.41808912306371016
+à mà thôi để mình tự lo tắt đi,bạn ơi thôi mình tắt đây,0.560915440986523
+mình đã hướng camera vào biên lai chuyển tiền này rồi đó đọc giúp mình với ạ,đọc biên lai chuyển tiền giúp mình đi nào,0.7235940784131962
+không có ai để hỏi bản hợp đồng người ta vừa đưa cô có chỗ nào bị sửa không thế bạn,hợp đồng lao động người ta vừa đưa em có mấy trang nè,0.46457034385805385
+để coi đọc kỹ giấy biên nhận hồ sơ ni tui không muốn bị thiệt,đọc từng chữ trên giấy biên nhận hồ sơ đó,0.5525903193437685
+tả lại phòng chờ sân bay này cho tớ được không,cho tớ hình dung phòng chờ sân bay này,0.7231945006585064
+đọc đơn thuốc từng dòng tôi sợ uống nhầm,đọc gói thuốc bột tôi đang cầm từng dòng một,0.5730650990635527
+bạn ơi mình không cần giúp nữa,bạn ơi không cần tả nữa,0.7532215036442406
+cho tôi thoát ra nhé bạn,thoát ra,0.7319858033299997
+tui vừa vào khu chung cư hôm nay ăn chi nhỉ,kể tui nghe khu chung cư có có gì,0.5647667507747941
+làm ơn tắt trợ lý,tắt trợ lý,0.7489012497012354
+bạn ơi tôi đang đi trong nhà thuốc bên trái tôi có gì,hina ơi tôi đang đi trong văn phòng cho tôi biết bên trái trông ra sao,0.5601689262656822
+trang sách đó có bị rách trang không,cái ô ni có bị rách không,0.5032902839181891
+tôi vừa xuống xe bạn có đó hông vậy,con vừa xuống xe ở đây có chi,0.5956635329113649
+mình đã hướng camera vào tờ quảng cáo bên kia đường rồi đó đọc giúp mình nhé,mình giơ biển tên hẻm bên kia đường lên rồi đọc đi,0.3981724465173273
+bên phải o có những chi rứa,bạn làm được những chi rứa,0.5668625411958871
+hóa đơn siêu thị có tính phí phục vụ không,hóa đơn siêu thị ni đã tính thuế chưa,0.5531397649710283
+pin còn bao nhiêu phần trăm rứa bạn,điện thoại tôi còn bao nhiêu pin này bạn,0.5483763828227082
+à này không có ai để hỏi không gian ở đây thế nào,ờ thì không có ai để hỏi giới thiệu hộ tôi không gian nhà thờ này được không,0.6290833061326117
+đọc một bài thơ cho anh nghe,hát một bài đi,0.4644794163970526
+mở youtube ạ,cửa ni đang mở hay đóng,0.3141949022845605
+hôm nay ăn chi nhỉ,hôm nay có chi mới không,0.644928051615271
+thẻ lên máy bay trên kệ khởi hành lúc mấy giờ,đọc giúp tôi với giờ khởi hành trên vé gửi xe này,0.5152672557889354
+thôi để con tự lo tắt hẳn đi,thôi con tắt đây đi bạn,0.5666997998374964
+đọc một bài thơ cho tôi nghe,hát một bài đi,0.4742467655946744
+tôi lạ chỗ này quá còn mấy ngày nữa thì tết hen,bà lạ chỗ này quá mô tả tổng quan chỗ này hen hen,0.47446489412496984
+chữ trên đơn hàng là chi,chụp đơn hàng ni rồi đọc lên,0.47204847029047015
+cho mình thoát ra đi bạn,thoát ra đi,0.7855511450783921
+đọc đơn thuốc từng dòng mình sợ uống nhầm với ơi bạn,ê hina đọc thực đơn này từng dòng một với ạ,0.5106026798455594
+mẹ ơi con về rồi,bạn à con xong rồi con tắt máy đây,0.3825758289158947
+tui vừa xuống xe đặt xe grab đến khách sạn nha bạn,mô tả cảnh khách sạn cho tui nghe,0.49963193178977816
+tả quang cảnh sân ga lúc này nè,quang cảnh xung quanh ra sao,0.47705682496967405
+ông vừa vào tầng hầm để xe vé xem ca nhạc này viết gì mà dài thế đọc ông nghe,thế đọc vé xem ca nhạc này cho tôi nghe,0.5559104977560329
+bà không cần giúp nữa,không cần cần tả nữa,0.7207441609586483
+gửi vị trí của tôi cho chị mai,chụp ảnh gửi cho chị ba,0.34524473397123234
+thôi để tôi tự lo ngừng đi,ừ thôi ngừng ứng dụng đi,0.5897203374551816
+mô tả đằng sau tôi,à đằng sau tui có chi,0.688273389126813
+đặt xe grab đến khu khám bệnh hina,khu khám bệnh này bố trí ra sao,0.5471066216568065
+làm ơn ngắt cái máy,ngắt cái máy nha,0.7418492608380222
+bạn ơi ghi gì đây vậy ta,cái này ghi gì vậy bạn hina,0.5756299448178867
+tạm biệt mẹ nhé con đi làm,tạm biệt nhé,0.7441746041974652
+mình đã hướng camera vào tờ ghi chú mình đang cầm rồi nớ đọc giúp mình nghe,ừm thì đọc giúp mình với gói kẹo mình đang cầm,0.47574623053364706
+quanh đây có quán phở nào ngon hông,hina ơi biển hiệu quán ăn bên kia đường là quán phở hay quán bún ạ,0.4273255871716497
+chỗ này hơi tối đọc mặt sau của bệnh án đó nữa nhé,chỗ này hơi tối đọc mặt sau bảng chỉ dẫn các khoa,0.48204083107410334
+tui vừa xuống xe tìm phòng tắm gần đây được hông,con vừa xuống xe ở đây có chi,0.4452793543776403
+hina ơi trước mặt có chi,hina ơi đọc hết chữ trước mặt mạ,0.6520373640691901
+lon nước ngọt người ta vừa đưa tui ghi những chi rứa bạn,người gửi tờ giấy báo người ta vừa đưa tui tên là chi,0.5113792775308383
+mô tả trước mặt má đi,mô tả tả cảnh đường phố trước mặt đi,0.593357640576705
+bảng tên trên cửa trên cột là số chẵn hay số lẻ,đọc chữ in trên bảng tên phòng trên cột,0.5872066016693028
+này bạn đọc tên người gửi trên tờ giấy khen chị vừa nhận nè,người gửi tờ giấy này tên là gì,0.636435100076489
+tạm biệt mẹ nha con đi làm,con tự làm được rồi nha tạm biệt,0.7630043232268436
+đọc nguyên văn tấm thiệp trong hộp thư được không,ờ đọc nguyên văn cho tôi đừng tóm tắt được không,0.4892092821449886
+mô tả bên phải em đi,không phải hông phải,0.5713839505178339
+con đã hướng camera vào vé xe khách này rồi đó đọc giúp con đi bạn,con giơ camera lên rồi đọc chậm từng dòng giúp con,0.4712260021482466
+trên biển báo sàn trơn phía trước có gì đó bạn,ê hina đọc rõ ràng nội dung biển báo sàn trơn phía trên,0.6618846447994963
+theo biển lối thoát hiểm trên cửa thang máy ở hướng nào,muốn ra lối thoát hiểm thì theo biển chỉ dẫn đi đâu,0.5693234771623584
+phía trước là cảnh chi,chữ phía trước là chi,0.8018434037311477
+làm ơn tắt hẳn chương trình nè,ừ thôi tắt hẳn chương trình nhé,0.7791426383864865
+quanh đây có quán phở nào ngon không,hina ơi biển hiệu quán ăn bên kia đường là quán phở hay quán bún ạ,0.42805797559406744
+hông gian ở đây ra sao,bạn ơi mô tả lại hông gian lần nữa,0.49379572030628194
+tạp chí đó viết những gì thế nhỉ,không biết tạp chí tôi đang cầm ghi chi nhỉ,0.5150967397889866
+tôi đang vội ngoài đường bây giờ trông ra sao,tôi đang vội bây giờ là mấy giờ,0.5754699549867189
+trên chai nước suối tui vừa lấy trên kệ có gì,đọc hết chữ trên chai nước suối trên ghế nhé,0.6748514991532466
+hộp thuốc huyết áp bác sĩ vừa đưa dùng cho người lớn hay trẻ em,hina ơi đọc hộp thuốc huyết áp bác sĩ vừa đưa to và rõ ạ,0.6398275232576074
+biển cấm đỗ xe này màu gì hen,đọc biển cấm đỗ xe này cho tôi,0.6836317456725015
+à đau đầu thì nên làm chi,tối nay nên ăn chi,0.4046213688262392
+người phía trước mặc áo màu gì,người đi phía trước có đang nhìn con không,0.5264720022868016
+à ni tả quang quang cảnh sân nhà lúc này,quang cảnh xung quanh ra sao,0.6093292221614505
+chỗ này hơi tối mở youtube,chỗ này hơi tối ở đây có gì,0.7948036125862129
+mô tả xung quanh tôi đi,mô tả xung quanh cho tôi đi,0.9428857901756206
+anh đã hướng camera vào sổ tiết kiệm anh đang cầm rồi đó đọc giúp anh nhá,sổ tiết kiệm đang hiện chữ chi,0.408089520723796
+bạn ơi chị đang nói chuyện với người khác,chị đang đứng chờ kể chuyện cười đi,0.482206486946233
+ừm tôi đang đi trong nhà ga tàu điện không gian ở đây ra sao,trong ga tàu có những gì,0.46969305796552996
+ở đây ồn quá hóa đơn tiền mạng người ta vừa đưa cháu là của cửa hàng nào,đọc hóa đơn tiền mạng đi bạn,0.5624947361365032
+bảng thông báo đó đó tuyển vị trí gì,bảng thông báo đó áp dụng đến khi nào,0.39913496181722796
+mình vừa xuống xe mình đang nói chuyện với người khác,mình vừa xuống xe tả căn bếp giúp mình với,0.5297318268232197
+bảng tên khoa trên cột là số chẵn hay số lẻ,chỉ đọc số nhà trên bảng tên khoa đó,0.6124662181137156
+thôi tắt hẳn chế độ đọc đi,tắt hẳn chế độ này,0.7840997893336558
+ừm thì không có ai để hỏi đọc đơn thuốc từng dòng mình sợ uống nhầm nhé,không có ai để hỏi nhắc tôi uống thuốc lúc tối nay được không bạn,0.43931028398386673
+chai nước tương tôi mới mua trẻ em dùng được không,tôi muốn biết trên chai nước tương tôi mới mua có ghi gì,0.6594151778346474
+căn phòng tôi đang đứng ra sao,tôi đang đứng trong sảnh chung cư miêu tả căn phòng này,0.5457126529128163
+cháu đang ở hiệu sách dừng bài hát lại,hát một bài đi,0.48136683002989833
+cho bà thoát ra đi nào,thoát ra đi,0.7982022430607759
+ông không cần giúp nữa,không không cần tả nữa,0.7240351344061609
+này bạn cháu hông cần giúp nữa,cháu ổn rồi không cần bạn nữa,0.6718323209245448
+sổ tiết kiệm trên kệ ghi tiền cọc bao nhiêu,đọc tiền cọc trong sổ tiết kiệm cháu vừa nhận,0.6595727767103421
+chỗ này hơi tối biển cấm đỗ xe trên quầy ghi những gì,biển cấm đỗ xe trên quầy có cấm đi bộ không đó bạn,0.6242005638740847
+dì đang vội hôm nay ăn gì nhỉ,chị đang vội giá vàng hôm nay thế nào,0.5386812230226231
+hộp sữa bột trẻ em dùng được hông,hộp sữa bột in chữ gì hả,0.53353023969355
+hina ơi bảng giờ xe buýt này đang hiện chữ gì thế nhỉ,bảng giờ xe buýt ghi số mấy hen hina,0.5450144509457517
+bạn ơi tìm số điện thoại taxi,này bạn tôi đưa điện thoại lên rồi ổ cắm điện ở chỗ nào,0.3909341361463985
+mô tả xung quanh mình đi,mô tả xung quanh hộ mình,0.8807223335932638
+màn hình máy đo huyết áp này đang ở bước nào,à này bạn đọc màn hình máy đo huyết áp đó giùm nào,0.8338298250031032
+đọc nguyên văn phiếu bảo hành người ta vừa đưa chị đi nào,cho cháu biết phiếu bảo hành người ta vừa đưa cháu viết những gì xem nào,0.5551806662484281
+quả chuối chín có màu gì thế,quả chuối này này to hay nhỏ,0.5171779813327203
+em đang ở phòng làm việc bên trái em có gì,tôi đang ở phòng làm việc ở đây là khung cảnh như thế nào,0.5294483964583495
+ê hina thôi bỏ đi,thôi thôi đi về đi,0.5832119875352527
+đọc to rõ chính xác phiếu tính tiền trên ghế tớ rất cần được không,phiếu tính tiền này nói gì,0.549229957184361
+biển hiệu màu gì,à biển tên hẻm màu gì nhỉ bạn,0.5057155611479675
+xung quanh có chữ chi thì đọc hết cho tôi,xung quanh tôi có chi,0.720653493908184
+thôi để mình tự lo ngừng đi,ừ thôi ngừng ứng dụng đi,0.5672194002886037
+tờ thông báo cúp điện này có gì ạ,không biết tờ thông báo cúp điện ghi chi nhỉ,0.7200516996699291
+chị đang vội chị đang nói chuyện với người khác,chị chị đang vội bạn đang nhìn thấy gì đấy,0.5190564707992446
+chai dầu gội tôi đang cầm bao nhiêu gam,tờ báo tớ đang cầm giá bao nhiêu,0.5057978952546531
+mình đang đứng trong khách sạn pin còn bao nhiêu phần trăm nghen,à này hina ơi bà đang đứng trong phòng khách bạn bao nhiêu tuổi,0.46732232170950994
+thôi để tôi tự lo kết thúc đi,ừ thôi kết thúc trợ lý,0.6360792313600641
+tờ báo trên bàn có bị rách trang không,cái ô ni có bị rách không,0.5890057421357193
+đọc kỹ giấy mời họp đó mình không muốn bị thiệt hen,chị tò mò không biết giấy mời họp này viết gì,0.4771089436632431
+bạn ơi tờ tuyển dụng này ghi cúp điện mấy giờ đó bạn,tờ tuyển dụng phía trước có số điện thoại liên hệ không,0.4331168326758795
+phía trước là cảnh gì vậy ta,chữ phía trước là gì vậy hả,0.7258723747572355
+bạn à chai nước rửa chén đó bao nhiêu gam nhỉ,đọc hết chữ trên chai nước rửa chén này đi nào,0.6766715294092125
+hóa đơn này ghi ghi gì,trên này ghi gì,0.6405604817075965
+hóa đơn tiền mạng này in ngày nào,đọc hóa đơn tiền mạng đi bạn,0.7513503887255033
+thôi dừng cái máy đi,ừ thôi dừng cái máy với hina,0.8191004639800915
+tôi mới tới đây lần đầu hôm nay ăn gì nhỉ bạn,tôi mới tới đây lần đầu hôm nay thứ mấy,0.752375207736607
+đọc kỹ hợp đồng bảo hiểm đó tôi không muốn bị thiệt đi nào,bạn ơi bạn đọc được hợp đồng thuê nhà trên kệ không,0.36963164466112497
+màn hình thông tin chuyến bay đằng kia đang hiện chữ chi,đọc to màn hình thông tin chuyến bay này cho tôi nghe,0.6638189926282229
+thôi dừng phiên làm việc đi,dừng phiên làm việc,0.9324882397129199
+đọc một bài thơ cho mạ nghe,hát một bài đi,0.46176505306589344
+cho cháu thoát ra,à này cháu thoát đây,0.7830761704535869
+kết luận trong đơn thuốc em đang cầm là chi,chỉ đọc tên thuốc trên trên hộp thuốc cảm em đang cầm thôi,0.45953181111898966
+quanh đây có quán phở nào ngon không thế bạn,hina ơi biển hiệu quán ăn bên kia đường là quán phở hay quán bún ạ,0.4096130886844821
+thôi đóng phiên này đi,ừ thôi đóng chế độ này ạ,0.5374669096324439
+em mới tới bến xe bên phải em có những gì vậy,ở đây ồn quá kể chị nghe bên phải có những gì với,0.467920342935246
+bên trái tui có chi,kể tui nghe bên trái có những chi,0.779453320426161
+ờ chỗ này hơi tối trước mặt có gì,chỗ này hơi tối phía trước có chữ gì đó bạn,0.7368001722453996
+thôi đóng ứng dụng hina đi,thế ừ thôi đóng ứng dụng,0.8562027230675122
+kết thúc thúc phiên,kết thúc ở đây nha,0.6489107186064939
+chú ơi xe này đi bến thành hông chú,xung quanh có gì đáng chú ý hông,0.35987137526706325
+chị mới tới đây lần đầu tả quang cảnh phố đi bộ lúc này,ừm thì cô mới tới đây lần đầu mô tả cảnh đường phố trước mặt,0.5570826879667519
+làm ơn ngừng chương trình,được rồi ngừng chương trình đi,0.8260880654553747
+ê hina chuyến cuối cùng trên màn hình thông tin chuyến bay trên cao lúc mấy giờ,đọc to màn hình thông tin chuyến bay này cho tôi nghe,0.6096739431899876
+không có ai để hỏi bên phải tôi có những chi hỉ,không có ai để hỏi trên đường có những gì,0.6168749730018535
+quanh đây có quán phở mô ngon không,hina ơi biển hiệu quán ăn bên kia đường là quán phở hay quán bún ạ,0.43119735511485247
+quả chuối chín có màu chi,quả chuối này này to hay nhỏ,0.5189418309005267
+làm ơn ngừng chương trình giùm nha,được rồi ngừng chương trình đi,0.7630336295065083
+không gian ở đây răng,mô tả lại không gian lần nữa,0.4904587680414064
+màn hình máy bán nước này có nội dung gì,màn hình máy bán nước kia có đang tắt không thế,0.6694651671735248
+bảng thông báo này viết những gì vậy bạn,cho tôi biết tờ thông báo trên quầy viết những gì nhé bạn,0.6023268503747156
+cho bà thoát ra giùm nha,thoát ra,0.6839129849959648
+biển chỉ dẫn trong siêu thị đằng trước chỉ rẽ trái hay rẽ phải thế nhỉ,đọc mặt trước biển chỉ dẫn trong siêu thị đằng trước trước,0.6071544665241017
+mô tả trước mặt bà,trước mặt bà là vật gì,0.6621691957679315
+à thôi để tôi tự lo đóng đi,ừ thôi đóng chế độ này ạ,0.5204638334974923
+ơi bạn vé xe khách trên kệ viết những gì,vé xe buýt này viết những chữ gì hả,0.500989810131898
+tui vừa vào ủy ban phường bạn có đó hông vậy ta,bà vừa ra khỏi ủy ban phường rồi,0.6489696481601225
+biển hiệu quán ăn trước mặt có nội dung gì hả,đọc nội dung biển hiệu quán cà phê trước mặt giùm tôi được hông,0.7037960733474803
+tôi vừa vào khu chung cư không gian ở đây ra sao,ở đây nhìn chung ra sao,0.5244617127802309
+mình đang ở sảnh khách sạn tả rộng ra một chút cảnh xung quanh nghen,tôi đang đi trong khách sạn quang cảnh xung quanh ra răng,0.546925007010667
+không có ai để hỏi đọc to rõ chính xác tờ biên nhận cháu rất cần được hông,không có ai để hỏi đọc mỗi nội dung tờ biên nhận này thôi,0.4901213115398214
+trên giấy ủy quyền bác chuẩn bị ký có gì nhỉ bạn,giấy vay nợ mình chuẩn bị ký đứng tên ai thế nhỉ,0.5935910880673876
+hina ơi căn phòng ông đang đứng ra sao hả,ê hina miêu tả căn phòng này,0.511579791883656
+bà đang đi trong phòng chờ bệnh viện gửi vị trí của bà cho mẹ,mình đang đi trong phòng chờ bệnh viện miêu tả căn phòng này nha,0.5623559105303543
+ở đây ồn quá biển chỉ đường đó hướng dẫn con đi theo hướng nào trợ lý,ờ bảng chỉ dẫn kia chỉ tôi đi hướng nào,0.5770118499017554
+đọc to rõ chính xác tờ biên nhận ni tui rất cần đi,tờ biên nhận đó tính bác bao nhiêu,0.4143026754568192

@@ -1,0 +1,42 @@
+{
+  "duplicates_within_split": {
+    "train": 0,
+    "val": 0,
+    "test": 0
+  },
+  "overlap": {
+    "train_val": 0,
+    "train_test": 0,
+    "val_test": 0
+  },
+  "train": {
+    "accuracy": 0.999,
+    "precision_macro": 0.9990049751243781,
+    "recall_macro": 0.999,
+    "f1_macro": 0.998999993749961
+  },
+  "val": {
+    "accuracy": 0.96,
+    "precision_macro": 0.9598952180341632,
+    "recall_macro": 0.96,
+    "f1_macro": 0.9594299908852456
+  },
+  "test": {
+    "accuracy": 0.945,
+    "precision_macro": 0.9492404778173993,
+    "recall_macro": 0.945,
+    "f1_macro": 0.9435620541539084
+  },
+  "test_train_lexical_similarity": {
+    "mean": 0.5889234094469573,
+    "at_least_0.9": 13
+  },
+  "manual_new_sentences": {
+    "accuracy": 0.88,
+    "precision_macro": 0.925,
+    "recall_macro": 0.8800000000000001,
+    "f1_macro": 0.8871794871794872
+  },
+  "manual_case_count": 25,
+  "manual_cases_seen_in_train": 0
+}

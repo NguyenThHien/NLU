@@ -1,0 +1,116 @@
+﻿text,label,label_id,error_type,review,source,pred_1,pred_2
+dừng xe trên cầu có bị phạt không,UNKNOWN,5,A_dung_tambiet,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+tạm biệt trong tiếng hàn là gì,UNKNOWN,5,A_dung_tambiet,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+làm sao tắt thông báo zalo,UNKNOWN,5,A_dung_tambiet,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+tắt nguồn máy giặt giúp tôi,UNKNOWN,5,A_dung_tambiet,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+kết thúc bài phát biểu thế nào cho hay,UNKNOWN,5,A_dung_tambiet,ok_ai,claude_draft,END_SESSION,UNKNOWN
+thoát khỏi chế độ an toàn của điện thoại,UNKNOWN,5,A_dung_tambiet,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+ngừng đăng ký nhận email từ ngân hàng,UNKNOWN,5,A_dung_tambiet,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+dừng tự động gia hạn gói nhạc,UNKNOWN,5,A_dung_tambiet,ok_ai,claude_draft,END_SESSION,UNKNOWN
+bài hát nói lời tạm biệt hay nhất,UNKNOWN,5,A_dung_tambiet,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+tắt bếp điện từ bằng nút nào,UNKNOWN,5,A_dung_tambiet,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+khi nào tàu dừng ở ga vinh,UNKNOWN,5,A_dung_tambiet,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+kết thúc kỳ thi đại học vào ngày nào,UNKNOWN,5,A_dung_tambiet,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+thôi việc phải báo trước bao lâu,UNKNOWN,5,A_dung_tambiet,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+nghỉ phép năm được mấy ngày,UNKNOWN,5,A_dung_tambiet,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+tạm biệt năm cũ đón năm mới nên làm gì,UNKNOWN,5,A_dung_tambiet,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+dừng ăn tối sau tám giờ có giảm cân không,UNKNOWN,5,A_dung_tambiet,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+tắt máy lạnh khi ra ngoài có tiết kiệm điện không,UNKNOWN,5,A_dung_tambiet,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+chào buổi tối nha bạn khỏe không,UNKNOWN,5,A_dung_tambiet,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+thoát khỏi khu rừng khi bị lạc phải làm gì,UNKNOWN,5,A_dung_tambiet,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+ngừng chạy bộ một tuần có sao không,UNKNOWN,5,A_dung_tambiet,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+dừng nhạc chuông điện thoại giúp tôi,UNKNOWN,5,A_dung_tambiet,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+kết thúc truyện cổ tích tấm cám thế nào,UNKNOWN,5,A_dung_tambiet,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+xin chào mình mới dùng ứng dụng lần đầu,UNKNOWN,5,A_dung_tambiet,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+thôi dừng hina nhé tôi về rồi,END_SESSION,4,A_dung_tambiet,ok_ai,claude_draft,END_SESSION,END_SESSION
+tạm biệt hina hẹn mai nhé,END_SESSION,4,A_dung_tambiet,ok_ai,claude_draft,END_SESSION,END_SESSION
+tắt camera giúp tôi đủ rồi,END_SESSION,4,A_dung_tambiet,ok_ai,claude_draft,END_SESSION,END_SESSION
+kết thúc phiên hỗ trợ đi bạn,END_SESSION,4,A_dung_tambiet,ok_ai,claude_draft,END_SESSION,END_SESSION
+đóng ứng dụng lại giúp mình,END_SESSION,4,A_dung_tambiet,ok_ai,claude_draft,END_SESSION,END_SESSION
+cảm ơn nhiều tôi tắt đây,END_SESSION,4,A_dung_tambiet,ok_ai,claude_draft,END_SESSION,END_SESSION
+không cần giúp nữa thoát nhé,END_SESSION,4,A_dung_tambiet,ok_ai,claude_draft,END_SESSION,END_SESSION
+chào hina tôi xong việc rồi,END_SESSION,4,A_dung_tambiet,ok_ai,claude_draft,END_SESSION,END_SESSION
+ngừng phiên đi pin sắp hết,END_SESSION,4,A_dung_tambiet,ok_ai,claude_draft,END_SESSION,END_SESSION
+hết rồi bạn tắt luôn đi,END_SESSION,4,A_dung_tambiet,ok_ai,claude_draft,END_SESSION,END_SESSION
+thôi đủ rồi dừng hẳn nhé,END_SESSION,4,A_dung_tambiet,ok_ai,claude_draft,END_SESSION,END_SESSION
+bye nha hina,END_SESSION,4,A_dung_tambiet,ok_ai,claude_draft,END_SESSION,END_SESSION
+cái quạt trước mặt đang tắt hay bật,ANSWER_VISUAL_QUESTION,3,A_dung_tambiet,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+xe trước mặt đã dừng hẳn chưa,ANSWER_VISUAL_QUESTION,3,A_dung_tambiet,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+xung quanh hồ xuân hương có chỗ thuê xe đạp không,UNKNOWN,5,B_xung_quanh,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+quanh đây có quán bún bò nào mở sớm,UNKNOWN,5,B_xung_quanh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,UNKNOWN
+gần nhà tôi có trung tâm tiếng anh nào tốt,UNKNOWN,5,B_xung_quanh,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+khu vực quanh chợ bến thành có gì ăn,UNKNOWN,5,B_xung_quanh,ok_ai,claude_draft,DESCRIBE_SCENE,UNKNOWN
+xung quanh sao thổ có vành đai gì,UNKNOWN,5,B_xung_quanh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,UNKNOWN
+viết bài văn tả cảnh sân trường giờ ra chơi,UNKNOWN,5,B_xung_quanh,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+tả cảnh mặt trời mọc trên biển cho bài thơ,UNKNOWN,5,B_xung_quanh,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+miêu tả phong cảnh tây bắc mùa lúa chín,UNKNOWN,5,B_xung_quanh,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+cảnh đêm ở đà nẵng có đẹp không,UNKNOWN,5,B_xung_quanh,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+quanh đây chỗ nào bán sim điện thoại,UNKNOWN,5,B_xung_quanh,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+xung quanh bệnh viện bạch mai có nhà trọ không,UNKNOWN,5,B_xung_quanh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,UNKNOWN
+khu này buổi tối có an toàn không,UNKNOWN,5,B_xung_quanh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,UNKNOWN
+quanh quận một có công viên nào rộng,UNKNOWN,5,B_xung_quanh,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+ở gần đây có tiệm cắt tóc nào rẻ,UNKNOWN,5,B_xung_quanh,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+xung quanh thành phố huế có lăng tẩm nào,UNKNOWN,5,B_xung_quanh,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+quang cảnh lễ hội đền hùng thế nào,UNKNOWN,5,B_xung_quanh,ok_ai,claude_draft,DESCRIBE_SCENE,UNKNOWN
+không gian ở bảo tàng dân tộc học ra sao,UNKNOWN,5,B_xung_quanh,ok_ai,claude_draft,DESCRIBE_SCENE,UNKNOWN
+tả cho tôi nghe biển nha trang trông thế nào,UNKNOWN,5,B_xung_quanh,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+quanh nhà có nhiều muỗi thì làm gì,UNKNOWN,5,B_xung_quanh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,UNKNOWN
+xung quanh gốc cây nên bón phân gì,UNKNOWN,5,B_xung_quanh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,UNKNOWN
+gần đây có rạp chiếu phim nào,UNKNOWN,5,B_xung_quanh,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+quanh trường đại học bách khoa có ký túc xá không,UNKNOWN,5,B_xung_quanh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,UNKNOWN
+khung cảnh trong phim titanic thế nào,UNKNOWN,5,B_xung_quanh,ok_ai,claude_draft,DESCRIBE_SCENE,UNKNOWN
+phố đi bộ quanh đây mở vào ngày nào,UNKNOWN,5,B_xung_quanh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,UNKNOWN
+cảnh quan xung quanh vịnh lan hạ có gì,UNKNOWN,5,B_xung_quanh,ok_ai,claude_draft,DESCRIBE_SCENE,DESCRIBE_SCENE
+nhìn quanh chỗ tôi rồi tả lại giúp,DESCRIBE_SCENE,2,B_xung_quanh,ok_ai,claude_draft,DESCRIBE_SCENE,DESCRIBE_SCENE
+xung quanh mình bây giờ có gì vậy,DESCRIBE_SCENE,2,B_xung_quanh,ok_ai,claude_draft,DESCRIBE_SCENE,DESCRIBE_SCENE
+tả cảnh trước ống kính giúp tôi,DESCRIBE_SCENE,2,B_xung_quanh,ok_ai,claude_draft,DESCRIBE_SCENE,DESCRIBE_SCENE
+quanh tôi đang có những gì,DESCRIBE_SCENE,2,B_xung_quanh,ok_ai,claude_draft,DESCRIBE_SCENE,DESCRIBE_SCENE
+tôi đang đứng ở chỗ như thế nào,DESCRIBE_SCENE,2,B_xung_quanh,ok_ai,claude_draft,DESCRIBE_SCENE,DESCRIBE_SCENE
+quang cảnh trước mặt tôi ra sao,DESCRIBE_SCENE,2,B_xung_quanh,ok_ai,claude_draft,DESCRIBE_SCENE,DESCRIBE_SCENE
+mô tả căn phòng quanh tôi,DESCRIBE_SCENE,2,B_xung_quanh,ok_ai,claude_draft,DESCRIBE_SCENE,DESCRIBE_SCENE
+kể tôi nghe khu vực xung quanh này,DESCRIBE_SCENE,2,B_xung_quanh,ok_ai,claude_draft,DESCRIBE_SCENE,DESCRIBE_SCENE
+nhìn giúp xung quanh cửa ra vào,DESCRIBE_SCENE,2,B_xung_quanh,ok_ai,claude_draft,DESCRIBE_SCENE,DESCRIBE_SCENE
+quanh chân tôi có vật cản gì không,ANSWER_VISUAL_QUESTION,3,B_xung_quanh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+gần tôi có cái ghế trống nào không,ANSWER_VISUAL_QUESTION,3,B_xung_quanh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+xung quanh có ai đang đi tới không,ANSWER_VISUAL_QUESTION,3,B_xung_quanh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+bên trái tôi có bức tường không,ANSWER_VISUAL_QUESTION,3,B_xung_quanh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+quanh cái bàn có đồ gì rơi không,ANSWER_VISUAL_QUESTION,3,B_xung_quanh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+trong khung hình gần đây có cột điện không,ANSWER_VISUAL_QUESTION,3,B_xung_quanh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+hina còn nghe tôi không,UNKNOWN,5,C_hoi_khong_can_anh,ok_ai,claude_draft,END_SESSION,UNKNOWN
+bạn có hiểu tiếng miền trung không,UNKNOWN,5,C_hoi_khong_can_anh,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+hôm nay là thứ mấy,UNKNOWN,5,C_hoi_khong_can_anh,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+quả xoài chín thường có màu gì,UNKNOWN,5,C_hoi_khong_can_anh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,UNKNOWN
+nước biển có vị gì,UNKNOWN,5,C_hoi_khong_can_anh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,UNKNOWN
+một năm có bao nhiêu tuần,UNKNOWN,5,C_hoi_khong_can_anh,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+uống cà phê buổi tối có mất ngủ không,UNKNOWN,5,C_hoi_khong_can_anh,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+tôi có được hưởng bảo hiểm thất nghiệp không,UNKNOWN,5,C_hoi_khong_can_anh,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+xe lửa từ sài gòn ra hà nội đi mấy tiếng,UNKNOWN,5,C_hoi_khong_can_anh,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+chó có ăn được nho không,UNKNOWN,5,C_hoi_khong_can_anh,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+lương tối thiểu vùng một là bao nhiêu,UNKNOWN,5,C_hoi_khong_can_anh,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+trời hôm nay có nắng không,UNKNOWN,5,C_hoi_khong_can_anh,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+màu đỏ và màu trắng pha thành màu gì,UNKNOWN,5,C_hoi_khong_can_anh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,UNKNOWN
+ai là tác giả truyện kiều,UNKNOWN,5,C_hoi_khong_can_anh,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+cái tủ lạnh hai cánh giá khoảng bao nhiêu,UNKNOWN,5,C_hoi_khong_can_anh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,UNKNOWN
+gạo lứt có tốt hơn gạo trắng không,UNKNOWN,5,C_hoi_khong_can_anh,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+mấy giờ thì ngân hàng đóng cửa,UNKNOWN,5,C_hoi_khong_can_anh,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+bạn có thể kể chuyện cười không,UNKNOWN,5,C_hoi_khong_can_anh,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+người mù có được làm căn cước không,UNKNOWN,5,C_hoi_khong_can_anh,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+trăng tròn vào ngày nào âm lịch,UNKNOWN,5,C_hoi_khong_can_anh,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+bạn có biết nấu ăn không,UNKNOWN,5,C_hoi_khong_can_anh,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+đi máy bay có được mang sạc dự phòng không,UNKNOWN,5,C_hoi_khong_can_anh,ok_ai,claude_draft,UNKNOWN,UNKNOWN
+tôm luộc chín có màu gì,UNKNOWN,5,C_hoi_khong_can_anh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,UNKNOWN
+quả xoài trong tay tôi chín chưa,ANSWER_VISUAL_QUESTION,3,C_hoi_khong_can_anh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+áo khoác này màu gì vậy,ANSWER_VISUAL_QUESTION,3,C_hoi_khong_can_anh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+trên bàn còn mấy cái bánh,ANSWER_VISUAL_QUESTION,3,C_hoi_khong_can_anh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+trước cửa có người đứng không,ANSWER_VISUAL_QUESTION,3,C_hoi_khong_can_anh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+cốc nước này còn nhiều không,ANSWER_VISUAL_QUESTION,3,C_hoi_khong_can_anh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+đèn phía trước đang xanh hay đỏ,ANSWER_VISUAL_QUESTION,3,C_hoi_khong_can_anh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+tờ tiền này là bao nhiêu,ANSWER_VISUAL_QUESTION,3,C_hoi_khong_can_anh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+tủ lạnh trước mặt đang mở cửa không,ANSWER_VISUAL_QUESTION,3,C_hoi_khong_can_anh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+trên ghế có đồ gì không,ANSWER_VISUAL_QUESTION,3,C_hoi_khong_can_anh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+quả táo này có bị dập không,ANSWER_VISUAL_QUESTION,3,C_hoi_khong_can_anh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+hộp này có bị rách không,ANSWER_VISUAL_QUESTION,3,C_hoi_khong_can_anh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+hai chiếc tất này có cùng màu không,ANSWER_VISUAL_QUESTION,3,C_hoi_khong_can_anh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+đôi dép trước mặt là của trẻ con hay người lớn,ANSWER_VISUAL_QUESTION,3,C_hoi_khong_can_anh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+có con chó nào gần tôi không,ANSWER_VISUAL_QUESTION,3,C_hoi_khong_can_anh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+bánh mì này có bị mốc không,ANSWER_VISUAL_QUESTION,3,C_hoi_khong_can_anh,ok_ai,claude_draft,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION

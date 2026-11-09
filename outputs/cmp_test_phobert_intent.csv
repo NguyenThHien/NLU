@@ -1,0 +1,1001 @@
+﻿text,label,label_id,pred_1,pred_2
+lịch sử việt nam có bao nhiêu triều đại vậy ta,UNKNOWN,5,UNKNOWN,UNKNOWN
+mô tả xung quanh tôi đi,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tìm phòng tắm gần đây,UNKNOWN,5,UNKNOWN,UNKNOWN
+đặt xe grab đến bến phà xem nào,UNKNOWN,5,UNKNOWN,UNKNOWN
+hina ơi gửi vị trí của tôi cho chú tư đi,UNKNOWN,5,UNKNOWN,UNKNOWN
+cho bà thoát ra,END_SESSION,4,END_SESSION,END_SESSION
+ghi chi đây,READ_TEXT,1,READ_TEXT,READ_TEXT
+ở đây ồn quá ngoài ban công có gì hả,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tả lại tiệm tạp hóa này cho bà xem nào,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+đọc nguyên văn vé tàu trên bàn xem nào,READ_TEXT,1,READ_TEXT,READ_TEXT
+băng rôn kia tuyển vị trí gì thế,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+hina mô tả bên trái tui được hông,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+thông báo dán trên cửa trước mặt tôi có gì vậy ta,READ_TEXT,1,ANSWER_VISUAL_QUESTION,DESCRIBE_SCENE
+hộp sữa bột trẻ em dùng được hông,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+ông vừa vào tầng hầm để xe vé xem ca nhạc này viết gì mà dài thế đọc ông nghe,READ_TEXT,1,READ_TEXT,READ_TEXT
+mình mình không nhìn thấy gì bên phải mình có những gì,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+cho mình thoát ra,END_SESSION,4,END_SESSION,END_SESSION
+em đang đi trong con hẻm trước mặt có gì,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+hina ơi tôi không cần giúp nữa,END_SESSION,4,END_SESSION,END_SESSION
+mắt tôi không nhìn rõ ghi gì đây,READ_TEXT,1,READ_TEXT,READ_TEXT
+tôi vừa vào khu chung cư không gian ở đây ra sao,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+cho cháu thoát ra,END_SESSION,4,END_SESSION,END_SESSION
+phiếu thu tôi đang cầm viết gì mà dài vậy đọc tôi nghe,READ_TEXT,1,READ_TEXT,READ_TEXT
+poster tê có gì rứa bạn,READ_TEXT,1,READ_TEXT,READ_TEXT
+gửi vị trí của cô cho bác tổ trưởng nhá,UNKNOWN,5,UNKNOWN,UNKNOWN
+hợp đồng bảo hiểm này ghi tiền cọc bao nhiêu này bạn,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+đặt xe grab đến chợ đêm,UNKNOWN,5,UNKNOWN,UNKNOWN
+tui vừa vào khu chung cư hôm nay ăn chi nhỉ,UNKNOWN,5,UNKNOWN,UNKNOWN
+đọc mặt sau của kết quả xét nghiệm này nha bạn,READ_TEXT,1,READ_TEXT,READ_TEXT
+tờ quảng cáo này có gì,READ_TEXT,1,READ_TEXT,DESCRIBE_SCENE
+ơ biển quảng cáo đó có nội dung gì,READ_TEXT,1,READ_TEXT,READ_TEXT
+trợ lý ơi căn phòng ông đang đứng ra sao,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+để coi đọc kỹ giấy biên nhận hồ sơ ni tui không muốn bị thiệt,READ_TEXT,1,READ_TEXT,READ_TEXT
+tả lại bãi đỗ xe ni cho tui nghe,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+mình vừa xuống xe mình đang nói chuyện với người khác,UNKNOWN,5,UNKNOWN,UNKNOWN
+hóa đơn này in ngày nào,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+cho tôi thoát ra xem nào,END_SESSION,4,END_SESSION,END_SESSION
+mình đã hướng camera vào bảng tên khoa trước mặt rồi đó đọc giúp mình,READ_TEXT,1,READ_TEXT,READ_TEXT
+đọc to rõ chính xác hóa đơn tiền mạng trên quầy mình rất cần,READ_TEXT,1,READ_TEXT,READ_TEXT
+poster kia ghi cúp điện mấy giờ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+gửi vị trí của tôi cho chị mai,UNKNOWN,5,UNKNOWN,UNKNOWN
+ở đây ồn quá bảng chỉ dẫn lối ra trước mặt chỉ rẽ trái hay rẽ phải vậy ạ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+trợ lý ơi lương hưu tháng này về chưa ạ,UNKNOWN,5,UNKNOWN,UNKNOWN
+căn phòng bà đang đứng ra sao trợ lý,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tớ đang ở ủy ban phường đọc to rõ chính xác phiếu tính tiền tớ đang cầm tớ rất cần nhá,READ_TEXT,1,READ_TEXT,READ_TEXT
+xem giùm dì quả chanh này chín chưa,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+vé gửi xe khởi hành lúc mấy giờ vậy hina,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+không có ai để hỏi bản hợp đồng người ta vừa đưa cô có chỗ nào bị sửa không thế bạn,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+căn phòng tôi đang đứng ra sao nè,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tôi vừa xuống xe đây là quả chi rứa bạn,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+hina tả lại nhà hàng này cho anh nè,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+hina ơi thôi để tôi tự lo thoát đi,END_SESSION,4,END_SESSION,END_SESSION
+mình đã hướng camera vào tờ ghi chú mình đang cầm rồi nớ đọc giúp mình nghe,READ_TEXT,1,READ_TEXT,READ_TEXT
+lọ thuốc trên kệ dùng cho người lớn hay trẻ em đấy,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+thôi thoát chế độ này đi,END_SESSION,4,END_SESSION,END_SESSION
+mở youtube nhé,UNKNOWN,5,UNKNOWN,UNKNOWN
+ông vừa xuống xe không gian ở đây thế nào,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+hôm nay ăn gì nhỉ trợ lý,UNKNOWN,5,UNKNOWN,UNKNOWN
+thôi dừng cái máy đi,END_SESSION,4,END_SESSION,END_SESSION
+cô đang nói chuyện với người khác thế nhỉ,UNKNOWN,5,UNKNOWN,UNKNOWN
+làm ơn thoát trợ lý tề,END_SESSION,4,END_SESSION,END_SESSION
+anh đang đứng trong ngân hàng xung quanh có chữ gì thì đọc hết cho anh dùm cái hina,READ_TEXT,1,READ_TEXT,READ_TEXT
+thẻ lên máy bay trên kệ khởi hành lúc mấy giờ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+tôi vừa vào lớp học ngoài đường bây giờ trông thế nào,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tui vừa xuống xe đặt xe grab đến khách sạn nha bạn,UNKNOWN,5,UNKNOWN,UNKNOWN
+thôi bỏ đi,END_SESSION,4,END_SESSION,END_SESSION
+khoan đã đã nói nhỏ lại,UNKNOWN,5,READ_TEXT,UNKNOWN
+biển trên đầu xe buýt đó đang hiện chữ gì,READ_TEXT,1,READ_TEXT,READ_TEXT
+bạn ơi thôi nghỉ,END_SESSION,4,END_SESSION,END_SESSION
+ngoài ban công có gì đấy,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+chai thuốc nhỏ mắt trên ghế còn hạn không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+không có ai để hỏi đọc to rõ chính xác tờ biên nhận cháu rất cần được hông,READ_TEXT,1,READ_TEXT,READ_TEXT
+tả quang cảnh khách sạn lúc này cái,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+mắt tôi không nhìn rõ xung quanh hồ gươm có chi chơi hè,UNKNOWN,5,DESCRIBE_SCENE,DESCRIBE_SCENE
+rứa mô tả bên phải con với,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+hina đọc kỹ tờ đơn này tui hông muốn bị thiệt,READ_TEXT,1,READ_TEXT,READ_TEXT
+trên hộp thuốc cảm bác sĩ vừa đưa có gì,READ_TEXT,1,READ_TEXT,READ_TEXT
+này bạn tết năm nay rơi vào ngày nào,UNKNOWN,5,UNKNOWN,UNKNOWN
+ờ tôi đang nói chuyện với người khác,UNKNOWN,5,UNKNOWN,UNKNOWN
+à này tả rộng ra một chút cảnh xung quanh cái,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+ở đây ồn quá hóa đơn tiền mạng người ta vừa đưa cháu là của cửa hàng nào,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+đọc nguyên văn tờ đơn người ta vừa đưa bác,READ_TEXT,1,READ_TEXT,READ_TEXT
+tôi đang đứng chờ tết năm nay rơi vào ngày nào,UNKNOWN,5,UNKNOWN,UNKNOWN
+này bạn thôi dừng cái máy đi,END_SESSION,4,END_SESSION,END_SESSION
+hina ơi anh vừa xuống xe giấy hẹn tái khám có nội dung gì,READ_TEXT,1,READ_TEXT,READ_TEXT
+hina ơi tả lại sảnh khách sạn này cho cháu nha,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+ờ thì tôi hông cần giúp nữa,END_SESSION,4,END_SESSION,END_SESSION
+cho bà thoát ra giùm nha,END_SESSION,4,END_SESSION,END_SESSION
+tạm biệt biệt cô giáo,UNKNOWN,5,END_SESSION,END_SESSION
+hina ơi tìm sân vận động gần đây nào,UNKNOWN,5,UNKNOWN,UNKNOWN
+hóa đơn siêu thị dì đang cầm tổng cộng bao nhiêu tiền,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+cháu đang ở hiệu sách dừng bài hát lại,UNKNOWN,5,UNKNOWN,UNKNOWN
+tôi vừa vào khu ẩm thực ngoài đường bây giờ trông thế nào,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tôi mới tới đây lần đầu bảng hiệu trên cửa màu gì,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+đọc nguyên văn màn hình thang máy đó,READ_TEXT,1,READ_TEXT,READ_TEXT
+làm ơn thoát phần mềm,END_SESSION,4,END_SESSION,END_SESSION
+cháu vừa vào ga tàu lương hưu tháng này về chưa vậy bạn,UNKNOWN,5,UNKNOWN,UNKNOWN
+làm ơn ngừng app nghe,END_SESSION,4,END_SESSION,END_SESSION
+tôi đang nói chuyện với người khác,UNKNOWN,5,UNKNOWN,UNKNOWN
+màn hình máy bán nước này có nội dung gì,READ_TEXT,1,READ_TEXT,READ_TEXT
+cháu không cần giúp giúp nữa,END_SESSION,4,END_SESSION,END_SESSION
+đọc kỹ tờ đơn trên tay tui tui không muốn bị thiệt nha,READ_TEXT,1,READ_TEXT,READ_TEXT
+đọc to rõ chính xác tờ biên nhận ni tui rất cần đi,READ_TEXT,1,READ_TEXT,READ_TEXT
+đọc nguyên văn bảng sơ đồ tầng này,READ_TEXT,1,READ_TEXT,READ_TEXT
+à này thôi để tui tự lo đóng đi,END_SESSION,4,END_SESSION,END_SESSION
+người phía trước mặc áo màu gì,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+trên giấy ủy quyền bác chuẩn bị ký có gì nhỉ bạn,READ_TEXT,1,ANSWER_VISUAL_QUESTION,READ_TEXT
+công văn này ghi tiền cọc bao nhiêu,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+tạp chí người ta vừa đưa tôi viết gì mà dài thế đọc tôi nghe,READ_TEXT,1,READ_TEXT,READ_TEXT
+con đang ở sảnh bệnh viện tả lại quán cà phê này cho con,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tả quang cảnh quán ăn lúc này,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+hina ơi làm ơn đóng phần mềm,END_SESSION,4,END_SESSION,END_SESSION
+ừm màn hình atm này đang ở bước nào,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+cuốn sách này có đang để ngược không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+mình đang ở chùa ghi gì đây vậy,READ_TEXT,1,READ_TEXT,READ_TEXT
+có ai đang đi theo sau lưng má không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+ông vừa vào phòng gym biển báo nguy hiểm này màu gì nhỉ bạn,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+em mới tới khu khám bệnh đọc to rõ chính xác phiếu tính tiền người ta vừa đưa em em rất cần đi nào,READ_TEXT,1,READ_TEXT,READ_TEXT
+mạ mạ mới tới đây lần đầu đây là quả chi hè,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+gửi vị trí của tớ cho dì út được không,UNKNOWN,5,UNKNOWN,UNKNOWN
+khoan đã phía trước là cảnh gì vậy,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tui vừa vào ủy ban phường bạn có đó hông vậy ta,UNKNOWN,5,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+đọc to rõ chính xác hóa đơn siêu thị trong ví tôi tôi rất cần nhé bạn,READ_TEXT,1,READ_TEXT,READ_TEXT
+thôi tắt cái máy đi,END_SESSION,4,END_SESSION,END_SESSION
+đọc mặt sau của số nhà trên cột cổng bên phải nha,READ_TEXT,1,READ_TEXT,READ_TEXT
+thông báo dán trên cửa này ghi gì,READ_TEXT,1,READ_TEXT,READ_TEXT
+gửi vị trí của con cho em hoa nghe bạn,UNKNOWN,5,UNKNOWN,UNKNOWN
+anh đang đứng trong quán cà phê bạn có đó không hen hen,UNKNOWN,5,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+tôi lạ chỗ này quá còn mấy ngày nữa thì tết hen,UNKNOWN,5,UNKNOWN,UNKNOWN
+hina ơi có ai đang đi theo sau lưng tôi không hả,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+quả chuối chín có màu chi,UNKNOWN,5,ANSWER_VISUAL_QUESTION,UNKNOWN
+biển cấm đỗ xe bên kia đường có nội dung gì,READ_TEXT,1,READ_TEXT,READ_TEXT
+thôi kết thúc cái máy đi,END_SESSION,4,END_SESSION,END_SESSION
+chai nước suối tôi đang giơ lên ghi gì,READ_TEXT,1,READ_TEXT,READ_TEXT
+cho tôi thoát ra nhé bạn,END_SESSION,4,END_SESSION,END_SESSION
+hina ơi không gian ở đây thế nào,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+cho tớ thoát ra nhá,END_SESSION,4,END_SESSION,END_SESSION
+tôi đang ở nhà hàng xung quanh tôi đang có chuyện gì xảy ra,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+hôm nay ăn chi nhỉ,UNKNOWN,5,UNKNOWN,UNKNOWN
+sách giáo khoa đó có bị rách trang không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+lương hưu tháng này về chưa,UNKNOWN,5,UNKNOWN,UNKNOWN
+xem giúp quả táo này chín chưa,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+kết thúc phiên,END_SESSION,4,END_SESSION,END_SESSION
+tờ biên nhận trong ví ông có tính phí phục vụ không đấy,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+bảng thông báo đó ghi cúp điện mấy giờ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+chuyến cuối cùng trên bảng điện tử ở bến xe kia lúc mấy giờ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+tả lại quán ăn này cho em với ạ,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+đọc mặt sau của bảng giá người ta vừa đưa chị nhé,READ_TEXT,1,READ_TEXT,READ_TEXT
+ơ bà không cần giúp nữa,END_SESSION,4,END_SESSION,END_SESSION
+hông có ai để hỏi cuốn tiểu thuyết đó có có bị rách trang không hả,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+ngoài đường bây giờ trông thế nào,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+cảm ơn bạn hẹn gặp lại,END_SESSION,4,END_SESSION,END_SESSION
+hina ơi mắt tôi kém đọc không nổi tờ menu này ghi những gì thế,READ_TEXT,1,READ_TEXT,READ_TEXT
+làm ơn ngừng trợ lý với ạ,END_SESSION,4,END_SESSION,END_SESSION
+hina ơi xung quanh má đang có chuyện gì xảy ra,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+hina thôi được rồi hả,END_SESSION,4,END_SESSION,END_SESSION
+bà không cần giúp nữa,END_SESSION,4,END_SESSION,END_SESSION
+căn phòng cháu đang đứng ra sao,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+bạn à ghi chi đây,READ_TEXT,1,READ_TEXT,READ_TEXT
+hina xung quanh hồ gươm có gì chơi thế bạn,UNKNOWN,5,DESCRIBE_SCENE,UNKNOWN
+thôi đóng phiên này đi,END_SESSION,4,END_SESSION,END_SESSION
+quanh đây có quán phở nào ngon không,UNKNOWN,5,ANSWER_VISUAL_QUESTION,UNKNOWN
+mô tả xung quanh con,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+đọc nguyên văn toa thuốc trên bàn với,READ_TEXT,1,READ_TEXT,READ_TEXT
+à mà đọc kỹ tờ đơn đó tui không muốn bị thiệt với,READ_TEXT,1,READ_TEXT,READ_TEXT
+bạn ơi bà không đọc được chữ đọc nguyên văn hợp đồng lao động này,READ_TEXT,1,READ_TEXT,READ_TEXT
+đọc nguyên văn phiếu bảo hành người ta vừa đưa chị đi nào,READ_TEXT,1,READ_TEXT,READ_TEXT
+đọc nguyên văn tờ quảng cáo với,READ_TEXT,1,READ_TEXT,READ_TEXT
+biển tên hẻm ở đầu hẻm là số chẵn hay số lẻ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+đọc tên người gửi trên lá thư đó,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+tôi không nhìn thấy gì xung quanh tôi đang có chuyện gì xảy ra vậy,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tôi mới tới ủy ban phường hôm nay ăn gì nhỉ,UNKNOWN,5,UNKNOWN,UNKNOWN
+mình mới tới cây xăng đọc kỹ bản hợp đồng đó mình không muốn bị thiệt,READ_TEXT,1,READ_TEXT,READ_TEXT
+tớ vừa xuống xe đọc đọc một bài thơ cho tớ nghe,UNKNOWN,5,READ_TEXT,UNKNOWN
+làm ơn tắt hẳn hina nè,END_SESSION,4,END_SESSION,END_SESSION
+hina thôi bỏ đi,END_SESSION,4,END_SESSION,END_SESSION
+chú ơi xe ni đi bến thành không chú,UNKNOWN,5,UNKNOWN,UNKNOWN
+bạn ơi đọc mặt sau của quyết định trong tay tôi luôn,READ_TEXT,1,READ_TEXT,READ_TEXT
+cảm ơn bạn gặp lại sau,END_SESSION,4,END_SESSION,END_SESSION
+tuýp thuốc mỡ còn hạn không đó,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+đọc mặt sau của hợp đồng trên bàn nữa với,READ_TEXT,1,READ_TEXT,READ_TEXT
+để coi cho cháu thoát ra nghen,END_SESSION,4,END_SESSION,END_SESSION
+ừm thì hina đọc to rõ chính xác tờ biên nhận đó tôi rất cần,READ_TEXT,1,READ_TEXT,READ_TEXT
+vậy đọc to rõ chính xác biên lai đó tôi rất cần coi,READ_TEXT,1,READ_TEXT,READ_TEXT
+hina ơi màn hình điều hòa bên phải ghi gì ạ,READ_TEXT,1,READ_TEXT,READ_TEXT
+bà mới tới đây lần đầu biển quảng cáo này viết gì mà dài thế đọc bà nghe,READ_TEXT,1,READ_TEXT,READ_TEXT
+à này em lạ chỗ này quá đọc một bài thơ cho em nghe,UNKNOWN,5,UNKNOWN,UNKNOWN
+đặt xe grab đến khu khám bệnh hina,UNKNOWN,5,UNKNOWN,UNKNOWN
+tôi hông cần giúp nữa,END_SESSION,4,END_SESSION,END_SESSION
+đọc kỹ giấy mời họp đó mình không muốn bị thiệt hen,READ_TEXT,1,READ_TEXT,READ_TEXT
+bạn à lọ siro em đang giơ lên màu gì vậy,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+ờ chỗ này hơi tối trước mặt có gì,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+ở đây ồn quá trước mặt có gì đấy,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+thôi để tui tự lo đóng đi,END_SESSION,4,END_SESSION,END_SESSION
+cô y tá là nam hay nữ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,UNKNOWN
+thôi tắt hẳn chương trình đi,END_SESSION,4,END_SESSION,END_SESSION
+trên tấm áp phích trước mặt mình có gì,READ_TEXT,1,READ_TEXT,DESCRIBE_SCENE
+tôi không nhìn thấy gì hôm nay ăn gì nhỉ,UNKNOWN,5,UNKNOWN,UNKNOWN
+hina ơi nói nhỏ lại,UNKNOWN,5,UNKNOWN,UNKNOWN
+con đã hướng camera vào gói mì trên ghế rồi đó đọc giúp con,READ_TEXT,1,READ_TEXT,READ_TEXT
+bạn ơi mình không cần giúp nữa,END_SESSION,4,END_SESSION,END_SESSION
+làm ơn tắt hẳn chương trình nè,END_SESSION,4,END_SESSION,END_SESSION
+thôi để tui tự lo thoát đi,END_SESSION,4,END_SESSION,END_SESSION
+làm ơn tắt ứng dụng hina đi,END_SESSION,4,END_SESSION,END_SESSION
+gửi vị trí của mình cho con trai,UNKNOWN,5,UNKNOWN,UNKNOWN
+bảng thông báo đó đó tuyển vị trí gì,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+biển tên hẻm tê là số chẵn hay số lẻ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+đọc to rõ chính xác tờ hóa đơn con đang cầm con rất cần nghen,READ_TEXT,1,READ_TEXT,READ_TEXT
+chữ trên lọ vitamin trong tay tôi là gì vậy bạn,READ_TEXT,1,READ_TEXT,READ_TEXT
+đọc đơn thuốc từng dòng ông sợ uống nhầm xem nào,READ_TEXT,1,READ_TEXT,READ_TEXT
+màn hình máy lấy số bên trái báo lỗi gì thế,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+bà đang đứng chờ thẻ lên máy bay khởi hành lúc mấy giờ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,UNKNOWN
+tôi giơ camera lên rồi cuốn sách nấu ăn tôi mới mua có bị rách trang không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+tờ báo này viết gì mà dài thế đọc anh nghe,READ_TEXT,1,READ_TEXT,READ_TEXT
+à thôi để tôi tự lo đóng đi,END_SESSION,4,END_SESSION,END_SESSION
+mẹ ơi ơi con về rồi,UNKNOWN,5,UNKNOWN,END_SESSION
+bạn ơi ghi gì đây vậy ta,READ_TEXT,1,READ_TEXT,READ_TEXT
+kết luận trong phiếu xét nghiệm máu là gì,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+bạn có đó không đấy,UNKNOWN,5,UNKNOWN,ANSWER_VISUAL_QUESTION
+quyết định này ghi tiền cọc bao nhiêu,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+để coi đọc mặt sau của biển tên đường bên phải nha bạn,READ_TEXT,1,READ_TEXT,READ_TEXT
+à này đau đầu thì nên làm gì,UNKNOWN,5,UNKNOWN,UNKNOWN
+bạn có đó hông hả,UNKNOWN,5,UNKNOWN,UNKNOWN
+ê hina tết năm nay rơi vào ngày mô,UNKNOWN,5,UNKNOWN,UNKNOWN
+cảm ơn bạn tạm biệt,END_SESSION,4,END_SESSION,END_SESSION
+cảm ơn bạn bye bye,END_SESSION,4,END_SESSION,END_SESSION
+đau đầu thì nên làm chi,UNKNOWN,5,UNKNOWN,UNKNOWN
+kết thúc phiên nè,END_SESSION,4,END_SESSION,END_SESSION
+à này ơi ơi bạn kết thúc phiên,END_SESSION,4,END_SESSION,END_SESSION
+chai thuốc nhỏ mắt bác sĩ vừa đưa còn hạn không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+bạn ơi tôi đang đi trong nhà thuốc bên trái tôi có gì,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+bạn à làm ơn ngắt ứng dụng hina hỉ,END_SESSION,4,END_SESSION,END_SESSION
+xung quanh mình có ai không hả,ANSWER_VISUAL_QUESTION,3,DESCRIBE_SCENE,ANSWER_VISUAL_QUESTION
+ê hina con đang ở lớp học bạn có đó không,UNKNOWN,5,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+cô đang đứng trong chợ đêm lương hưu tháng này về chưa nhỉ,UNKNOWN,5,UNKNOWN,UNKNOWN
+con đang nói chuyện với người khác,UNKNOWN,5,UNKNOWN,UNKNOWN
+bạn ơi tôi đang đứng chờ tìm số điện thoại taxi,UNKNOWN,5,UNKNOWN,UNKNOWN
+bên phải mình có những chi ri,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+cho em thoát ra ạ,END_SESSION,4,END_SESSION,END_SESSION
+ừm đau đầu thì nên làm gì,UNKNOWN,5,UNKNOWN,UNKNOWN
+cho o thoát ra,END_SESSION,4,END_SESSION,END_SESSION
+dì đang vội hôm nay ăn gì nhỉ,UNKNOWN,5,UNKNOWN,UNKNOWN
+đọc mặt sau của biển báo nguy hiểm này nữa,READ_TEXT,1,READ_TEXT,READ_TEXT
+chị đang vội chị đang nói chuyện với người khác,UNKNOWN,5,UNKNOWN,UNKNOWN
+trợ lý ơi công văn tôi đang cầm viết gì mà dài vậy đọc tôi nghe,READ_TEXT,1,READ_TEXT,READ_TEXT
+bạn ơi bên phải mình có những gì đó,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+đọc đọc đơn thuốc từng dòng cháu sợ uống nhầm,READ_TEXT,1,READ_TEXT,READ_TEXT
+bảng hiệu nhà thuốc bên phải màu gì,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+anh đang vội tìm hiệu sách gần đây nào,UNKNOWN,5,UNKNOWN,UNKNOWN
+ờ bảng điện tử ở bến xe phía trước đang hiện chữ chi,READ_TEXT,1,READ_TEXT,READ_TEXT
+lọ thuốc con mới mua còn hạn hông nè,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+này bạn đọc tên người gửi trên tờ giấy khen chị vừa nhận nè,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+đọc một bài thơ cho mạ nghe,UNKNOWN,5,UNKNOWN,UNKNOWN
+dừng bài hát lại,UNKNOWN,5,END_SESSION,UNKNOWN
+mở mở youtube,UNKNOWN,5,UNKNOWN,UNKNOWN
+cho tôi thoát ra,END_SESSION,4,END_SESSION,END_SESSION
+thôi để mình tự lo ngắt đi,END_SESSION,4,END_SESSION,END_SESSION
+đặt xe grab đến phòng khách,UNKNOWN,5,UNKNOWN,UNKNOWN
+chỗ này hơi tối ngoài ban công có gì ơi bạn,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tạp chí này có phải sách tiếng anh hông nè,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+bạn à ngoài ban công có gì gì,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+thôi để tôi tự lo thoát đi,END_SESSION,4,END_SESSION,END_SESSION
+làm ơn kết thúc trợ lý nghe bạn,END_SESSION,4,END_SESSION,END_SESSION
+sách hướng dẫn người ta vừa đưa con có bị rách trang không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+ở đây ồn quá lịch sử việt nam có bao nhiêu triều đại hả,UNKNOWN,5,UNKNOWN,UNKNOWN
+chữ trên thực đơn nớ là chi,READ_TEXT,1,READ_TEXT,READ_TEXT
+hộp trà này trẻ em dùng được không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+đặt xe grab đến phòng chờ sân bay nhé nhé,UNKNOWN,5,UNKNOWN,UNKNOWN
+ông ông không cần giúp nữa,END_SESSION,4,END_SESSION,END_SESSION
+phía trước là cảnh chi,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+hina ơi căn phòng ông đang đứng ra sao hả,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tạm biệt mẹ nha con con đi làm,UNKNOWN,5,END_SESSION,END_SESSION
+em vừa vào khu chung cư bạn có đó không,UNKNOWN,5,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+màn hình máy đo huyết áp này đang ở bước nào,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+hợp đồng bảo hiểm mình đang giơ lên ghi tiền cọc bao nhiêu thế,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+tờ quảng cáo ở đầu hẻm có gì vậy,READ_TEXT,1,READ_TEXT,READ_TEXT
+em mới tới bến xe bên phải em có những gì vậy,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+đọc một bài thơ cho em nghe,UNKNOWN,5,UNKNOWN,UNKNOWN
+chữ trên cái bill là gì hả,READ_TEXT,1,READ_TEXT,READ_TEXT
+lịch sử việt nam có bao nhiêu triều đại đó bạn,UNKNOWN,5,UNKNOWN,UNKNOWN
+tả lại ngân hàng này cho mình giùm nha,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+thôi để cô tự lo đóng đi,END_SESSION,4,END_SESSION,END_SESSION
+thôi để chị tự lo đóng đi,END_SESSION,4,END_SESSION,END_SESSION
+xung quanh hồ gươm có chi chơi ri,UNKNOWN,5,DESCRIBE_SCENE,DESCRIBE_SCENE
+à mà hina ơi thôi dừng phiên làm việc đi,END_SESSION,4,END_SESSION,END_SESSION
+thôi để tui tự lo ngừng đi,END_SESSION,4,END_SESSION,END_SESSION
+tôi đang đứng chờ tả lại rạp phim này cho tôi được không,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+làm ơn đóng camera,END_SESSION,4,END_SESSION,END_SESSION
+bên phải o có những chi rứa,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+hina ơi chuyến cuối cùng trên bảng điện tử ở bến xe kia lúc mấy giờ đó bạn,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+con mới tới đây lần đầu đau đầu thì nên làm gì hả,UNKNOWN,5,UNKNOWN,UNKNOWN
+tả lại nhà bếp này cho tôi,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+thôi ngừng phiên này đi,END_SESSION,4,END_SESSION,END_SESSION
+thôi để mình tự lo đóng đi,END_SESSION,4,END_SESSION,END_SESSION
+thôi nghỉ,END_SESSION,4,END_SESSION,END_SESSION
+mô tả trước mặt má đi,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tôi giơ camera lên rồi ngoài đường bây giờ trông thế nào,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+vậy thôi thôi nha,END_SESSION,4,END_SESSION,END_SESSION
+bạn ơi nói nhỏ lại,UNKNOWN,5,UNKNOWN,UNKNOWN
+con đưa điện thoại lên rồi xung quanh con đang có chuyện gì xảy ra,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+hôm nay ăn gì nhỉ,UNKNOWN,5,UNKNOWN,UNKNOWN
+đọc nguyên văn lọ siro trên bàn,READ_TEXT,1,READ_TEXT,READ_TEXT
+mô tả đằng sau tui với,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+mình vừa xuống xe tả lại siêu thị này cho mình được không,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+xung quanh tôi đang có chuyện chi xảy ra hỉ,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+còn mấy ngày nữa thì tết thế,UNKNOWN,5,UNKNOWN,UNKNOWN
+tả lại phòng chờ bệnh viện này cho mình,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+hina ơi hông gian ở đây ra sao,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+không có ai để hỏi bên phải tôi có những chi hỉ,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tả lại ngã tư này cho tôi với,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+biển hiệu trên cửa màu gì,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+con vừa vào trạm dừng chân mô tả bên phải con,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+hina ơi xung quanh mình có ai không hả,ANSWER_VISUAL_QUESTION,3,DESCRIBE_SCENE,ANSWER_VISUAL_QUESTION
+kết luận trong đơn thuốc em đang cầm là chi,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+cái bill này tổng cộng bao nhiêu tiền,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+hina ơi bảng giờ xe buýt này đang hiện chữ gì thế nhỉ,READ_TEXT,1,READ_TEXT,READ_TEXT
+biển lối thoát hiểm hướng dẫn dì đi theo hướng nào,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+theo biển hướng dẫn đó thang máy ở hướng nào,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+lương hưu tháng này về chưa đó,UNKNOWN,5,UNKNOWN,UNKNOWN
+lưu số điện thoại này lại,UNKNOWN,5,UNKNOWN,UNKNOWN
+không có ai để hỏi đọc một bài thơ cho tôi nghe,UNKNOWN,5,UNKNOWN,UNKNOWN
+hina ơi lưu số điện thoại này lại,UNKNOWN,5,UNKNOWN,UNKNOWN
+vé xe buýt anh vừa mua khởi hành lúc mấy giờ đó bạn,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+giấy vay nợ chị đang giơ lên viết gì mà dài thế đọc chị nghe,READ_TEXT,1,READ_TEXT,READ_TEXT
+dì mới tới quán cà phê lương hưu tháng này về chưa,UNKNOWN,5,UNKNOWN,UNKNOWN
+hina bảng điện tử gọi số trên tường đang ở bước nào,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+mô tả dưới chân chị được không,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+hina cảm ơn bạn tạm biệt nha,END_SESSION,4,END_SESSION,END_SESSION
+mô tả dưới chân bác cái,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+thôi ngắt phiên này đi,END_SESSION,4,END_SESSION,END_SESSION
+mô tả trước mặt bà,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tui đang đứng chờ quanh đây có quán phở mô ngon không,UNKNOWN,5,ANSWER_VISUAL_QUESTION,UNKNOWN
+thông báo dán trên cửa đó có gì nè,READ_TEXT,1,READ_TEXT,READ_TEXT
+tả lại phòng khách này cho tui coi,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+em lạ chỗ này quá mô tả dưới chân em,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+mô tả bên trái chị đi,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tìm số điện thoại taxi đi nào,UNKNOWN,5,UNKNOWN,UNKNOWN
+chỗ này hơi tối đọc mặt sau của bệnh án đó nữa nhé,READ_TEXT,1,READ_TEXT,READ_TEXT
+hina ơi tôi đang nói chuyện với người khác,UNKNOWN,5,UNKNOWN,UNKNOWN
+cho bà thoát ra đi nào,END_SESSION,4,END_SESSION,END_SESSION
+tờ tiền này là tờ bao nhiêu ạ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+đọc toa thuốc từng dòng tôi sợ uống nhầm đi bạn,READ_TEXT,1,READ_TEXT,READ_TEXT
+tết năm nay rơi rơi vào ngày nào,UNKNOWN,5,UNKNOWN,UNKNOWN
+làm ơn ngừng chương trình,END_SESSION,4,END_SESSION,END_SESSION
+tả lại chợ hoa này cho con,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+sổ tiết kiệm trên kệ ghi tiền cọc bao nhiêu,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+trên chai dầu ăn trên kệ hàng có gì,READ_TEXT,1,READ_TEXT,DESCRIBE_SCENE
+đọc nguyên văn phiếu giao hàng này,READ_TEXT,1,READ_TEXT,READ_TEXT
+chỗ này hơi tối căn phòng mình đang đứng ra sao,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+đọc mặt sau của tờ sao kê đó,READ_TEXT,1,READ_TEXT,READ_TEXT
+thôi tắt hẳn app đi,END_SESSION,4,END_SESSION,END_SESSION
+tìm ngã tư gần đây nhé bạn,UNKNOWN,5,UNKNOWN,UNKNOWN
+tìm khu ẩm thực gần đây giùm nha,UNKNOWN,5,UNKNOWN,UNKNOWN
+trang sách có bị rách trang không vậy bạn,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+con hông cần giúp nữa,END_SESSION,4,END_SESSION,END_SESSION
+sao dạo này dì hay quên vậy,UNKNOWN,5,UNKNOWN,UNKNOWN
+bảng điện tử ở sân ga ở trạm đang hiện chữ gì,READ_TEXT,1,READ_TEXT,READ_TEXT
+tết năm nay rơi vào ngày nào,UNKNOWN,5,UNKNOWN,UNKNOWN
+đọc nguyên văn hộp thuốc huyết áp em mới mua,READ_TEXT,1,READ_TEXT,READ_TEXT
+còn mấy ngày nữa thì tết thế nhỉ,UNKNOWN,5,UNKNOWN,UNKNOWN
+mở youtube đi,UNKNOWN,5,UNKNOWN,UNKNOWN
+tôi không nhìn thấy gì phiếu tạm tính đó có tính phí phục vụ không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+này bạn căn phòng mình đang đứng ra sao,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+xung quanh quanh có chữ gì thì đọc hết cho tôi,READ_TEXT,1,READ_TEXT,READ_TEXT
+hina ơi biển chỉ đường trước mặt cô hướng dẫn cô đi theo hướng nào,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+bạn ơi vậy thôi nhé,END_SESSION,4,END_SESSION,END_SESSION
+căn phòng tôi đang đứng ra sao,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+gửi vị trí của tôi cho cô hương tề,UNKNOWN,5,UNKNOWN,UNKNOWN
+ở đây ồn quá kết luận trong kết quả xét nghiệm em đang cầm là chi,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+cho tôi thoát ra với ạ,END_SESSION,4,END_SESSION,END_SESSION
+mô tả bên phải bà với,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+thôi để má tự lo dừng đi,END_SESSION,4,END_SESSION,END_SESSION
+bảng thông báo này viết những gì vậy bạn,READ_TEXT,1,READ_TEXT,READ_TEXT
+hina ơi không gian ở đây ra sao,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+bạn à thôi để mình tự lo ngừng đi,END_SESSION,4,END_SESSION,END_SESSION
+bạn ơi thôi tắt hẳn trợ lý đi,END_SESSION,4,END_SESSION,END_SESSION
+tôi đang vội xung quanh có chữ gì thì đọc hết cho tôi,READ_TEXT,1,READ_TEXT,READ_TEXT
+màn hình máy lấy số báo lỗi gì,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+mình đã hướng camera vào tờ quảng cáo bên kia đường rồi đó đọc giúp mình nhé,READ_TEXT,1,READ_TEXT,READ_TEXT
+mô tả đằng sau tôi,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+không gian ở đây thế nào,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+ngoài ban công có chi,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+xung quanh dì đang có chuyện gì xảy ra vậy ta,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+hina ơi ngoài đường bây giờ trông ra sao,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+căn phòng tui đang đứng ra sao,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+thôi đóng ứng dụng hina đi,END_SESSION,4,END_SESSION,END_SESSION
+đặt xe grab đến công viên,UNKNOWN,5,UNKNOWN,UNKNOWN
+mô tả xung quanh mình đi,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+để coi hộp thuốc huyết áp mạ mới mua còn hạn không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+chỗ này hơi tối mở youtube,UNKNOWN,5,UNKNOWN,UNKNOWN
+à mà gửi vị trí của cháu cho con gái,UNKNOWN,5,UNKNOWN,UNKNOWN
+à này không có ai để hỏi không gian ở đây thế nào,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+chai nước tương đó trẻ em dùng được không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+má không cần giúp nữa,END_SESSION,4,END_SESSION,END_SESSION
+tôi đang nói chuyện với người khác thế,UNKNOWN,5,UNKNOWN,UNKNOWN
+em đang vội còn mấy ngày nữa thì tết,UNKNOWN,5,UNKNOWN,UNKNOWN
+ờ bạn à kết thúc phiên,END_SESSION,4,END_SESSION,END_SESSION
+ừm chị đưa điện thoại lên rồi tìm nhà văn hóa gần đây xem nào,UNKNOWN,5,UNKNOWN,UNKNOWN
+làm ơn thoát cái máy,END_SESSION,4,END_SESSION,END_SESSION
+à mà hina ơi tả lại lớp học này cho mình với ạ,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+chú ơi xe này đi bến thành không chú,UNKNOWN,5,UNKNOWN,UNKNOWN
+tôi đang vội ngoài đường bây giờ trông ra sao,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+trên poster kia có gì,READ_TEXT,1,READ_TEXT,DESCRIBE_SCENE
+ơi ơi bạn dừng bài hát lại,UNKNOWN,5,END_SESSION,END_SESSION
+hina ơi cảm ơn bạn chào bạn,END_SESSION,4,END_SESSION,END_SESSION
+sao dạo này tôi hay quên vậy,UNKNOWN,5,UNKNOWN,UNKNOWN
+à mà thôi để mình tự lo tắt đi,END_SESSION,4,END_SESSION,END_SESSION
+theo bảng hướng dẫn xếp hàng này thang máy ở hướng nào,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+hóa đơn tiền mạng này ghi gì vậy ạ,READ_TEXT,1,READ_TEXT,READ_TEXT
+giấy chuyển viện ni có nội dung chi rứa,READ_TEXT,1,READ_TEXT,READ_TEXT
+cho tui thoát ra giùm với,END_SESSION,4,END_SESSION,END_SESSION
+phía trước là cảnh chi hè hè,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+gửi vị trí của cháu cho anh tuấn,UNKNOWN,5,UNKNOWN,UNKNOWN
+chú ơi xe này đi bến thành hông chú,UNKNOWN,5,UNKNOWN,UNKNOWN
+tả rộng ra một chút cảnh xung quanh,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tớ mới tới ban công lưu số điện thoại này lại,UNKNOWN,5,UNKNOWN,UNKNOWN
+màn hình điều hòa bên phải ghi những những gì vậy bạn,READ_TEXT,1,READ_TEXT,READ_TEXT
+tôi đang đi trong sảnh bệnh viện biển cấm phía trên viết những gì vậy,READ_TEXT,1,READ_TEXT,READ_TEXT
+hóa đơn siêu thị có tính phí phục vụ không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+thôi tắt camera đi,END_SESSION,4,END_SESSION,END_SESSION
+cho mình thoát ra nghen,END_SESSION,4,END_SESSION,END_SESSION
+cuốn sách nấu ăn trên kệ có đang để ngược hông hen,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+tết năm nay rơi vào ngày mô,UNKNOWN,5,UNKNOWN,UNKNOWN
+tạm biệt cô giáo,UNKNOWN,5,END_SESSION,END_SESSION
+tả lại cây xăng ni cho o giùm với,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+à này làm ơn đóng phần mềm với,END_SESSION,4,END_SESSION,END_SESSION
+ừ hina ơi thôi ngừng chế độ mô tả đi,END_SESSION,4,END_SESSION,END_SESSION
+ừm thì không có ai để hỏi đọc đơn thuốc từng dòng mình sợ uống nhầm nhé,READ_TEXT,1,READ_TEXT,READ_TEXT
+bảng điện tử gọi số trên tường báo báo lỗi gì hả,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+làm ơn ngắt app xem nào,END_SESSION,4,END_SESSION,END_SESSION
+bên trái tôi có gì,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+quyển kinh bà mới mua có đang để ngược không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+ở đây ồn quá căn phòng ông đang đứng ra sao nhỉ,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+trên cuốn sách nấu ăn người ta vừa đưa mạ có chi,READ_TEXT,1,READ_TEXT,READ_TEXT
+đọc toa thuốc từng dòng tui sợ uống nhầm,READ_TEXT,1,READ_TEXT,READ_TEXT
+ở đây ồn quá biển chỉ đường đó hướng dẫn con đi theo hướng nào trợ lý,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+mình đang đứng trong trường học bảng điện tử ở bến xe đang báo chuyến nào,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+thôi ngừng cái máy đi,END_SESSION,4,END_SESSION,END_SESSION
+em đang đi trong khu khám bệnh hôm nay ăn gì nhỉ,UNKNOWN,5,UNKNOWN,UNKNOWN
+tắt giùm cái máy được không,END_SESSION,4,END_SESSION,END_SESSION
+đọc một bài thơ cho mình nghe,UNKNOWN,5,UNKNOWN,UNKNOWN
+tôi đang đứng trong thư viện túi thuốc đó ghi gì,READ_TEXT,1,READ_TEXT,READ_TEXT
+đọc tên người gửi trên tờ giấy hẹn,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+hina ơi xem giúp nải chuối này chín chưa đi,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+rứa đọc kỹ công văn tui chuẩn bị ký tui không muốn bị thiệt,READ_TEXT,1,READ_TEXT,READ_TEXT
+đọc kỹ giấy khai sinh người ta vừa đưa con con không muốn bị thiệt,READ_TEXT,1,READ_TEXT,READ_TEXT
+tờ sao kê anh đang giơ lên có tính phí phục vụ không nhỉ bạn bạn à,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+làm ơn đóng ứng dụng hina,END_SESSION,4,END_SESSION,END_SESSION
+mắt tôi không nhìn rõ tả quang cảnh sân ga lúc này bạn,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+ừm thì biển chỉ dẫn trong siêu thị đằng trước hướng dẫn tôi đi theo hướng nào,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+làm ơn đóng phần mềm,END_SESSION,4,END_SESSION,END_SESSION
+trên sách hướng dẫn tôi đang giơ lên có gì,READ_TEXT,1,READ_TEXT,READ_TEXT
+bảng chỉ dẫn trên cửa hướng dẫn tui đi theo hướng nào,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+ni bạn tả rộng ra một chút cảnh xung quanh,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+chai nước tương tôi mới mua trẻ em dùng được không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+mô tả bên phải em đi,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+làm ơn dừng chế độ này đi,END_SESSION,4,END_SESSION,END_SESSION
+hộp bánh quy trên kệ viết những gì vậy ạ,READ_TEXT,1,READ_TEXT,READ_TEXT
+biển chỉ dẫn trong siêu thị đằng trước chỉ rẽ trái hay rẽ phải thế nhỉ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+quanh đây có quán phở nào ngon không thế bạn,UNKNOWN,5,ANSWER_VISUAL_QUESTION,UNKNOWN
+hộp sữa chua tôi vừa lấy trên kệ có bị móp không nhỉ bạn ơi bạn,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+đọc nguyên văn tấm thiệp trong hộp thư được không,READ_TEXT,1,READ_TEXT,READ_TEXT
+tớ mới tới nhà hàng biên lai gửi xe có được giảm giá không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+bảng thông báo có gì hen,READ_TEXT,1,READ_TEXT,READ_TEXT
+bảng hướng dẫn xếp hàng trên cột có chỉ đường ra cổng không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+làm ơn ngắt chế độ mô tả,END_SESSION,4,END_SESSION,END_SESSION
+ơi bạn vé xe khách trên kệ viết những gì,READ_TEXT,1,READ_TEXT,READ_TEXT
+hina ơi cuốn tiểu thuyết trên giá sách có phải sách tiếng anh không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+biên lai chuyển tiền in ngày mô,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+biên lai này có tính phí phục vụ hông,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+mô tả ngoài cửa anh đi,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+thôi để con tự lo tắt hẳn đi,END_SESSION,4,END_SESSION,END_SESSION
+trên menu cô đang cầm có có gì,READ_TEXT,1,READ_TEXT,READ_TEXT
+theo biển chỉ dẫn nhà vệ sinh ngay cửa ra vào thang máy ở hướng nào,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+tôi mới tới đây lần đầu hôm nay ăn gì nhỉ bạn,UNKNOWN,5,UNKNOWN,UNKNOWN
+bạn à chai nước rửa chén đó bao nhiêu gam nhỉ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+hộp thuốc huyết áp bác sĩ vừa đưa dùng cho người lớn hay trẻ em,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+ghi gì đây,READ_TEXT,1,READ_TEXT,READ_TEXT
+chữ nhỏ quá đọc to rõ chính xác hóa đơn tiền nước tôi rất cần nhé bạn,READ_TEXT,1,READ_TEXT,READ_TEXT
+ừ ngoài đường bây giờ trông thế nào,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tôi đang đứng trong tiệm bánh mô tả đằng sau tôi đi,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+ừm lọ siro đó dùng cho người lớn hay trẻ em thế nhỉ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+vậy thôi để mình tự lo kết thúc đi,END_SESSION,4,END_SESSION,END_SESSION
+mạ không nhìn thấy chi mạ đã hướng camera vào phiếu giao hàng ni rồi nớ đọc giúp mạ,READ_TEXT,1,READ_TEXT,READ_TEXT
+biển hiệu màu gì,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+thẻ căn cước người ta vừa đưa tôi có chỗ nào bị sửa không nhỉ bạn hina,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+à mà tôi đã hướng camera vào biển cấm đỗ xe này rồi đó đọc giúp tôi đi,READ_TEXT,1,READ_TEXT,READ_TEXT
+hina ơi sách hướng dẫn cô đang giơ lên ghi những gì,READ_TEXT,1,READ_TEXT,READ_TEXT
+ừm thì tìm công viên nước gần đây,UNKNOWN,5,UNKNOWN,UNKNOWN
+trang sách đó có bị rách trang không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+làm ơn tắt chế độ mô tả,END_SESSION,4,END_SESSION,END_SESSION
+chị mới tới đây lần đầu tả quang cảnh phố đi bộ lúc này,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+thôi để tôi tự lo ngừng đi,END_SESSION,4,END_SESSION,END_SESSION
+hóa đơn tiền điện trên kệ in ngày nào,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+tấm áp phích phía trước ghi cúp điện mấy giờ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+ơi bạn em mới tới bến xe kết luận trong phiếu khám bệnh nớ là chi,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+hina đọc nguyên văn phiếu xét nghiệm máu này cái,READ_TEXT,1,READ_TEXT,READ_TEXT
+cuốn sổ trên kệ có đang để ngược không ạ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+mở youtube ạ,UNKNOWN,5,UNKNOWN,UNKNOWN
+làm ơn thoát phiên này,END_SESSION,4,END_SESSION,END_SESSION
+bên trái dì có gì,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+chữ trên menu đó là gì,READ_TEXT,1,READ_TEXT,READ_TEXT
+mình đã hướng camera vào biên lai chuyển tiền này rồi đó đọc giúp mình với ạ,READ_TEXT,1,READ_TEXT,READ_TEXT
+tôi đang đứng trong nhà văn hóa đọc mặt sau của màn hình điều hòa phía trước luôn,READ_TEXT,1,READ_TEXT,READ_TEXT
+thôi để mình tự lo ngừng đi,END_SESSION,4,END_SESSION,END_SESSION
+hông có ai để hỏi giấy biên nhận hồ sơ này viết gì mà dài vậy đọc tôi nghe,READ_TEXT,1,READ_TEXT,READ_TEXT
+biển báo giao thông đằng trước viết những chi,READ_TEXT,1,READ_TEXT,READ_TEXT
+o giơ camera lên rồi trước mặt có gì,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+thôi tắt hẳn chế độ đọc đi,END_SESSION,4,END_SESSION,END_SESSION
+tôi đưa điện thoại lên rồi bạn có đó không vậy ta,UNKNOWN,5,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+hóa đơn tiền mạng này in ngày nào,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+giấy biên nhận hồ sơ tui vừa nhận ghi tiền cọc bao nhiêu nhiêu,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+không có ai để hỏi nói nhỏ lại,UNKNOWN,5,UNKNOWN,UNKNOWN
+vé xem ca nhạc đó viết gì mà dài thế đọc tôi nghe,READ_TEXT,1,READ_TEXT,READ_TEXT
+trợ lý ơi tôi vừa vào trường học ngoài đường bây giờ trông thế nào,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+con không không đọc được chữ phiếu giao hàng này tổng cộng bao nhiêu tiền,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+chỗ này hơi tối không gian ở đây ra ra sao,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+căn phòng mình đang đứng ra sao ạ,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tớ vừa xuống xe pin còn bao nhiêu phần trăm,UNKNOWN,5,UNKNOWN,UNKNOWN
+hóa đơn tiền nước trên tay bà viết gì mà dài thế đọc bà nghe,READ_TEXT,1,READ_TEXT,READ_TEXT
+cho mình thoát ra đi bạn,END_SESSION,4,END_SESSION,END_SESSION
+bạn à cháu đang vội ngoài ban công có gì vậy ta,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+ơi bạn tôi lạ chỗ này quá bảng tên tòa nhà là số chẵn hay số lẻ đấy,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+hina thôi tắt chế độ này đi,END_SESSION,4,END_SESSION,END_SESSION
+hina ơi căn phòng chị đang đứng ra sao,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+đọc một bài thơ cho tui nghe,UNKNOWN,5,UNKNOWN,UNKNOWN
+tả rộng ra một một chút cảnh xung quanh,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+bao bì trong tủ lạnh trẻ em dùng được không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+ừm thì đọc to rõ chính xác phiếu giao hàng trên tay ông ông rất cần,READ_TEXT,1,READ_TEXT,READ_TEXT
+chị giơ camera lên rồi xung quanh hồ gươm có gì chơi,UNKNOWN,5,DESCRIBE_SCENE,DESCRIBE_SCENE
+đọc kỹ hợp đồng cháu vừa nhận cháu không muốn bị thiệt,READ_TEXT,1,READ_TEXT,READ_TEXT
+đọc nguyên văn chai thuốc nhỏ mắt nớ,READ_TEXT,1,READ_TEXT,READ_TEXT
+tôi không nhìn thấy gì không gian ở đây thế nào,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+cô đưa điện thoại lên rồi ghi gì đây,READ_TEXT,1,READ_TEXT,READ_TEXT
+chuyến cuối cùng trên bảng điện tử ở bến xe trên sân ga lúc mấy giờ nhỉ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+xung quanh hồ gươm có gì chơi,UNKNOWN,5,DESCRIBE_SCENE,UNKNOWN
+cho tui thoát ra,END_SESSION,4,END_SESSION,END_SESSION
+rứa thôi kết thúc phiên này đi,END_SESSION,4,END_SESSION,END_SESSION
+quyển vở này này có phải sách tiếng anh không hen,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+đây là quả gì thế nhỉ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+thôi để bà tự lo kết thúc đi,END_SESSION,4,END_SESSION,END_SESSION
+hina ơi kết luận trong giấy hẹn tái khám đó là gì hả,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+vé tham quan người ta vừa đưa tui khởi hành lúc mấy giờ đó,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+ờ thì mở youtube,UNKNOWN,5,UNKNOWN,UNKNOWN
+dì đưa điện thoại lên rồi dừng bài hát lại,UNKNOWN,5,UNKNOWN,UNKNOWN
+ơ,UNKNOWN,5,UNKNOWN,UNKNOWN
+ừm thì màn hình máy giặt đang ở bước nào,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+căn phòng em đang đứng ra sao,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+chị không nhìn thấy gì đọc tên người gửi trên tấm bưu thiếp chị đang giơ lên,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+thôi để cô tự lo thoát đi,END_SESSION,4,END_SESSION,END_SESSION
+chị vừa xuống xe đọc mặt sau của toa thuốc trên kệ,READ_TEXT,1,READ_TEXT,READ_TEXT
+cảm ơn bạn tạm biệt nghe,END_SESSION,4,END_SESSION,END_SESSION
+thôi tắt hẳn phần mềm đi,END_SESSION,4,END_SESSION,END_SESSION
+trước mặt có gì,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+ừm kết thúc phiên,END_SESSION,4,END_SESSION,END_SESSION
+hông gian ở đây ra sao,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+hộp thuốc huyết áp trên ghế dùng cho người lớn hay trẻ em,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+à này tôi đưa điện thoại lên rồi tờ khuyến mãi chỗ ngã ba có gì đó bạn,READ_TEXT,1,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+à này tả rộng ra một chút cảnh xung quanh,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+có ai đang đi theo sau lưng anh hông vậy hả,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+đọc kỹ hợp đồng bảo hiểm đó tôi không muốn bị thiệt đi nào,READ_TEXT,1,READ_TEXT,READ_TEXT
+ừm tôi đang đi trong nhà ga tàu điện không gian ở đây ra sao,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+thôi để tôi tự lo kết thúc đi,END_SESSION,4,END_SESSION,END_SESSION
+màn hình máy đo huyết áp trên tường đang ở bước mô,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+này bạn cháu hông cần giúp nữa,END_SESSION,4,END_SESSION,END_SESSION
+à ni tả quang quang cảnh sân nhà lúc này,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+chai dầu gội tôi đang cầm bao nhiêu gam,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+bạn có đó không,UNKNOWN,5,UNKNOWN,ANSWER_VISUAL_QUESTION
+theo bảng chỉ dẫn lối ra thang máy ở hướng nào,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+căn phòng mình đang đứng ra sao nhỉ bạn,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+bà đang ở nhà hàng xung quanh có chữ gì thì đọc hết cho bà đấy,READ_TEXT,1,READ_TEXT,READ_TEXT
+dạ,UNKNOWN,5,UNKNOWN,UNKNOWN
+hina làm ơn ngừng camera,END_SESSION,4,END_SESSION,END_SESSION
+nói nhỏ lại,UNKNOWN,5,UNKNOWN,UNKNOWN
+hina tờ đơn trên kệ có chỗ nào bị sửa không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+bảng tên tòa nhà là số chẵn hay số lẻ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+gói cà phê người ta vừa đưa tôi ghi những chi hỉ,READ_TEXT,1,READ_TEXT,READ_TEXT
+biển hiệu tiệm sửa xe trên tường màu gì,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+băng rôn bên kia đường tuyển vị trí chi,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+cảm ơn bạn tạm biệt nhé,END_SESSION,4,END_SESSION,END_SESSION
+không có ai để hỏi xung quanh có chữ gì thì thì đọc hết cho tớ,READ_TEXT,1,READ_TEXT,READ_TEXT
+cảm ơn bạn bai bai,END_SESSION,4,END_SESSION,END_SESSION
+ừm đứa bé kia là nam hay nữ vậy,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+tìm phố đi bộ gần đây được không,UNKNOWN,5,UNKNOWN,UNKNOWN
+tui không nhìn thấy chi biển báo tê ghi những chi,READ_TEXT,1,READ_TEXT,READ_TEXT
+đúng rồi đúng rồi,UNKNOWN,5,END_SESSION,END_SESSION
+làm ơn dừng cái máy với,END_SESSION,4,END_SESSION,END_SESSION
+đọc kỹ giấy vay nợ đó ông không muốn bị thiệt được không,READ_TEXT,1,READ_TEXT,READ_TEXT
+ở đây ồn quá quyển kinh này có bị rách trang không hina,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+căn phòng con đang đứng ra răng,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+ơ mô tả trước mặt tôi,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tôi đang đi trong ban công còn mấy ngày nữa thì tết,UNKNOWN,5,UNKNOWN,UNKNOWN
+đọc một bài thơ cho anh nghe,UNKNOWN,5,UNKNOWN,UNKNOWN
+tôi đang ở ga tàu mở youtube,UNKNOWN,5,UNKNOWN,UNKNOWN
+gói hạt nêm nớ dùng để làm chi,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+vậy thôi nhé,END_SESSION,4,END_SESSION,END_SESSION
+cuốn tiểu thuyết có phải sách tiếng anh không nhỉ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+thế biển chỉ dẫn trong siêu thị này chỉ rẽ trái hay rẽ phải,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+tả quang cảnh cây xăng lúc ni,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tờ menu này viết những gì vậy bạn,READ_TEXT,1,READ_TEXT,READ_TEXT
+bạn ơi tìm số điện thoại taxi,UNKNOWN,5,UNKNOWN,UNKNOWN
+hina ơi má lạ chỗ này quá xung quanh má đang có chuyện gì xảy ra đó,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+phiếu tính tiền ni in ngày mô,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+hina ơi anh mới tới đây lần đầu đau đầu thì nên làm gì vậy,UNKNOWN,5,UNKNOWN,UNKNOWN
+xung quanh cô có ai không nhỉ,ANSWER_VISUAL_QUESTION,3,DESCRIBE_SCENE,ANSWER_VISUAL_QUESTION
+anh đã hướng camera vào menu trên quầy rồi đó đọc giúp anh đi,READ_TEXT,1,READ_TEXT,READ_TEXT
+ừ làm ơn ngừng phiên này,END_SESSION,4,END_SESSION,END_SESSION
+người trước mặt là nam hay nữ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+đọc mặt sau của biển hiệu tiệm sửa xe luôn,READ_TEXT,1,READ_TEXT,READ_TEXT
+thế con vừa xuống xe ngoài đường bây giờ trông thế nào hina,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+cháu mới tới phòng chờ bệnh viện đọc toa thuốc từng dòng cháu sợ uống nhầm,READ_TEXT,1,READ_TEXT,READ_TEXT
+ừm thì lương hưu tháng ni về chưa ri,UNKNOWN,5,UNKNOWN,UNKNOWN
+tôi không cần giúp nữa nhé,END_SESSION,4,END_SESSION,END_SESSION
+thôi đóng chế độ đọc đi,END_SESSION,4,END_SESSION,END_SESSION
+biển hiệu quán ăn trước mặt có nội dung gì hả,READ_TEXT,1,READ_TEXT,READ_TEXT
+chữ trên vé tham quan trên bàn là gì hả,READ_TEXT,1,ANSWER_VISUAL_QUESTION,READ_TEXT
+chữ in bé tí bảng tên tòa nhà là số chẵn hay số lẻ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+bạn à tờ thông báo kia tuyển vị trí gì,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+chữ mờ quá chuyến cuối cùng trên bảng giờ xe buýt đó lúc mấy giờ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+tìm hiệu sách gần đây,UNKNOWN,5,UNKNOWN,UNKNOWN
+cái bill trong tay anh in ngày nào,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+ừm thôi thôi nghỉ,END_SESSION,4,END_SESSION,END_SESSION
+hina dì hông cần giúp nữa,END_SESSION,4,END_SESSION,END_SESSION
+chữ in bé tí hộp sữa chua này trẻ em dùng được không nè,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+hina ơi mắt em không nhìn rõ mô tả bên trái em,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+ờ thì vé xe khách này có nội dung gì vậy ạ,READ_TEXT,1,READ_TEXT,READ_TEXT
+hợp đồng này ghi tiền cọc bao nhiêu,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+sao dạo ni tôi hay quên rứa,UNKNOWN,5,UNKNOWN,UNKNOWN
+xung quanh hồ gươm có chi chơi,UNKNOWN,5,DESCRIBE_SCENE,DESCRIBE_SCENE
+à này tôi không cần giúp nữa,END_SESSION,4,END_SESSION,END_SESSION
+màn hình thang máy đó báo lỗi gì,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+biển cảnh báo bên phải màu gì,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+bạn ơi thôi để con tự lo tắt đi,END_SESSION,4,END_SESSION,END_SESSION
+mắt mình kém đọc không nổi tờ hóa đơn mình đang cầm có tính phí phục vụ không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+ơ chị mới tới cửa hàng tiện lợi nói nhỏ lại,UNKNOWN,5,UNKNOWN,UNKNOWN
+thôi đóng chế độ mô tả đi,END_SESSION,4,END_SESSION,END_SESSION
+ơ quyển kinh này có bị rách trang không hả,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+bản hợp đồng trên ghế ghi gì thế bạn,READ_TEXT,1,READ_TEXT,READ_TEXT
+để coi không gian ở đây ra sao,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+à mà thôi đóng chế độ đọc đi,END_SESSION,4,END_SESSION,END_SESSION
+hộp bánh quy ông đang giơ lên trẻ em dùng được không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+mô tả đằng sau mình đi,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+à này mô tả hai bên em với,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+cho con thoát ra,END_SESSION,4,END_SESSION,UNKNOWN
+để coi hina ơi thôi để mình tự lo thoát đi,END_SESSION,4,END_SESSION,END_SESSION
+bảng chỉ dẫn bên phải có nội dung gì,READ_TEXT,1,READ_TEXT,READ_TEXT
+ê hina thôi bỏ đi,END_SESSION,4,END_SESSION,END_SESSION
+đọc một bài thơ cho tôi nghe,UNKNOWN,5,UNKNOWN,UNKNOWN
+bảng điện tử ở bến xe nớ đang hiện chữ chi hỉ,READ_TEXT,1,READ_TEXT,READ_TEXT
+thôi để tôi tự lo tắt đi,END_SESSION,4,END_SESSION,END_SESSION
+chỗ này hơi tối gửi vị trí của tui cho dì út nè,UNKNOWN,5,UNKNOWN,UNKNOWN
+xung quanh có chữ gì thì đọc hết cho anh,READ_TEXT,1,READ_TEXT,READ_TEXT
+tờ rơi đằng trước ghi cúp điện mấy giờ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+bảng tên phòng trên cổng là số chẵn hay số lẻ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+em không cần giúp nữa rứa bạn,END_SESSION,4,END_SESSION,END_SESSION
+đọc đơn thuốc từng dòng tôi sợ uống nhầm dùm cái,READ_TEXT,1,READ_TEXT,READ_TEXT
+đau đầu thì nên làm gì,UNKNOWN,5,UNKNOWN,UNKNOWN
+mình đang đứng chờ căn phòng mình đang đứng ra sao,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+vậy thôi nha,END_SESSION,4,END_SESSION,END_SESSION
+có ai đang đi theo sau lưng tôi không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+hợp đồng lao động ghi tiền cọc bao nhiêu,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,UNKNOWN
+quanh đây có quán phở mô ngon không,UNKNOWN,5,UNKNOWN,UNKNOWN
+à này hộp sữa bột này có bị móp không hả,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+làm ơn ngừng chương trình giùm nha,END_SESSION,4,END_SESSION,END_SESSION
+có ai đang đi theo sau lưng chị không đó bạn,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+chỗ này hơi tối pin còn bao nhiêu phần trăm,UNKNOWN,5,UNKNOWN,UNKNOWN
+biên lai chuyển tiền trong tay tôi ghi gì,READ_TEXT,1,READ_TEXT,READ_TEXT
+tìm nhà hàng gần đây đây,UNKNOWN,5,UNKNOWN,UNKNOWN
+vỉ thuốc này còn hạn không vậy ta,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+phía trước là cảnh chi chi,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+đọc to rõ chính xác phiếu tính tiền tôi rất cần bạn,READ_TEXT,1,READ_TEXT,READ_TEXT
+trợ lý ơi phong bì bà vừa nhận ghi gì,READ_TEXT,1,READ_TEXT,READ_TEXT
+hina ơi ở đây ồn quá phía trước là cảnh gì,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+cháu đang đi trong thư viện xung quanh cháu có ai không,ANSWER_VISUAL_QUESTION,3,DESCRIBE_SCENE,ANSWER_VISUAL_QUESTION
+pin còn bao nhiêu phần trăm rứa bạn,UNKNOWN,5,UNKNOWN,UNKNOWN
+chị không đeo kính quyển truyện đó có nội dung gì vậy,READ_TEXT,1,READ_TEXT,READ_TEXT
+thôi để để tôi tự lo dừng đi,END_SESSION,4,END_SESSION,END_SESSION
+ừ hộp sữa chua tôi vừa lấy trên kệ ghi gì,READ_TEXT,1,READ_TEXT,READ_TEXT
+mô tả ngoài cửa con cái,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+mô tả ngoài cửa tui,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+ờ làm ơn tắt hẳn phiên này nha bạn,END_SESSION,4,END_SESSION,END_SESSION
+hóa đơn này ghi ghi gì,READ_TEXT,1,READ_TEXT,READ_TEXT
+ở đây ồn quá dừng bài hát lại,UNKNOWN,5,UNKNOWN,UNKNOWN
+cảm ơn ơn bạn chào nha,END_SESSION,4,END_SESSION,END_SESSION
+tui không nhìn thấy chi phía trước là cảnh chi,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+à ni không gian ở đây răng hina,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tờ báo trên bàn có bị rách trang không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+xung quanh hồ hồ gươm có gì chơi,UNKNOWN,5,DESCRIBE_SCENE,UNKNOWN
+phía trước là cảnh gì,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+thông báo dán trên cửa này có gì ạ,READ_TEXT,1,ANSWER_VISUAL_QUESTION,READ_TEXT
+thôi thoát chương trình đi,END_SESSION,4,END_SESSION,END_SESSION
+bảng lộ trình ở trạm ở trạm đang hiện chữ gì,READ_TEXT,1,READ_TEXT,READ_TEXT
+bạn à dừng bài hát lại,UNKNOWN,5,END_SESSION,END_SESSION
+tôi mới tới vỉa hè màn hình atm bên trái viết những gì,READ_TEXT,1,READ_TEXT,READ_TEXT
+quanh đây có quán phở nào ngon không vậy,UNKNOWN,5,ANSWER_VISUAL_QUESTION,UNKNOWN
+ngoài đường bây giờ trông răng,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+hina ơi tìm rạp phim gần đây nhé,UNKNOWN,5,UNKNOWN,UNKNOWN
+mình lạ chỗ này quá đọc mặt sau của tờ giấy hẹn mình vừa nhặt được xem nào,READ_TEXT,1,READ_TEXT,READ_TEXT
+bảng chỉ dẫn các khoa đó viết gì mà dài vậy đọc mình nghe,READ_TEXT,1,READ_TEXT,READ_TEXT
+phía trước là cảnh gì vậy ta,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+mình đang ở sảnh khách sạn tả rộng ra một chút cảnh xung quanh nghen,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+bảng tên trên cửa trên cột là số chẵn hay số lẻ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+trên chai nước suối tui vừa lấy trên kệ có gì,READ_TEXT,1,ANSWER_VISUAL_QUESTION,READ_TEXT
+mắt mình không nhìn rõ ngoài đường bây giờ trông ra sao,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tạm biệt mẹ nghe con đi làm,UNKNOWN,5,END_SESSION,UNKNOWN
+căn phòng ông đang đứng ra sao,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+bảng điện tử ở sân ga trước mặt đang hiện chữ gì,READ_TEXT,1,READ_TEXT,READ_TEXT
+bác đang vội tả rộng ra một chút cảnh xung quanh với ạ,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+thôi để bác tự lo ngừng đi,END_SESSION,4,END_SESSION,END_SESSION
+tả lại khu chung cư này cho tui nha bạn,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tui đang đứng chờ tìm số điện thoại taxi,UNKNOWN,5,UNKNOWN,UNKNOWN
+cho con thoát ra coi,END_SESSION,4,END_SESSION,END_SESSION
+làm làm ơn thoát cái máy,END_SESSION,4,END_SESSION,END_SESSION
+lịch sử việt nam có bao nhiêu triều đại rứa,UNKNOWN,5,UNKNOWN,UNKNOWN
+bên phải tôi có những gì,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+cảm ơn bạn tạm biệt biệt nhé,END_SESSION,4,END_SESSION,END_SESSION
+cho em thoát ra nghe bạn,END_SESSION,4,END_SESSION,END_SESSION
+ê hina ngoài đường bây giờ trông răng,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+bằng lái xe người ta vừa đưa mạ có chỗ mô bị sửa không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+hina ơi trước mặt có chi,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+đọc kỹ biên bản này chị không muốn bị thiệt,READ_TEXT,1,READ_TEXT,READ_TEXT
+vé xem ca nhạc khởi hành lúc mấy giờ rứa,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+bạn ơi gói xúc xích trên ghế dùng để làm gì vậy bạn,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+phiếu bảo hành trên tay chị in ngày nào,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+lon nước ngọt người ta vừa đưa tui ghi những chi rứa bạn,READ_TEXT,1,READ_TEXT,READ_TEXT
+tắt giùm cái máy,END_SESSION,4,END_SESSION,END_SESSION
+tạm biệt mẹ nha con đi làm,UNKNOWN,5,END_SESSION,END_SESSION
+hina ơi đọc đơn thuốc từng dòng tôi sợ uống nhầm,READ_TEXT,1,READ_TEXT,READ_TEXT
+à mà hộp sữa chua này bao nhiêu gam,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+tạp chí đó viết những gì thế nhỉ,READ_TEXT,1,READ_TEXT,READ_TEXT
+căn phòng anh đang đứng ra sao nhỉ,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+thôi để tôi tự lo ngắt đi,END_SESSION,4,END_SESSION,END_SESSION
+mình mới tới đây lần đầu lương hưu tháng này về chưa,UNKNOWN,5,UNKNOWN,UNKNOWN
+mình đang đi trong khu khám bệnh ngoài ban công có gì,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+lịch sử việt nam có bao nhiêu triều đại,UNKNOWN,5,UNKNOWN,UNKNOWN
+mắt mình không nhìn rõ tả lại khách sạn này cho mình,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+làm ơn dừng phiên này,END_SESSION,4,END_SESSION,END_SESSION
+thôi ngắt cái máy đi,END_SESSION,4,END_SESSION,END_SESSION
+có xe nào đang chạy tới không đấy,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+hóa đơn tiền nước tổng cộng bao nhiêu tiền,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,UNKNOWN
+dừng bài hát lại lại,UNKNOWN,5,END_SESSION,UNKNOWN
+ê hina cho mình thoát ra,END_SESSION,4,END_SESSION,END_SESSION
+tôi không cần giúp nữa,END_SESSION,4,END_SESSION,END_SESSION
+hợp đồng lao động trên tay tôi ghi những chi,READ_TEXT,1,READ_TEXT,READ_TEXT
+để coi chữ trên biên lai mình đang giơ lên là gì nè,READ_TEXT,1,ANSWER_VISUAL_QUESTION,READ_TEXT
+mô tả đằng sau cháu với,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+mô tả phía trên con nghe bạn à,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+thôi dừng phiên làm việc đi,END_SESSION,4,END_SESSION,END_SESSION
+tui vừa xuống xe tìm phòng tắm gần đây được hông,UNKNOWN,5,UNKNOWN,UNKNOWN
+ly nước đầy chưa vậy,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+thôi để bà tự lo thoát đi,END_SESSION,4,END_SESSION,END_SESSION
+hina quả chuối chín có màu gì vậy,UNKNOWN,5,ANSWER_VISUAL_QUESTION,UNKNOWN
+tả lại con hẻm này cho em,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+em giơ camera lên rồi tìm khu chung cư gần đây hen,UNKNOWN,5,UNKNOWN,UNKNOWN
+bảng tên phòng kia viết gì mà dài vậy đọc tui nghe,READ_TEXT,1,READ_TEXT,READ_TEXT
+em đang ở bệnh viện màn hình atm ngay đây đang ở bước nào,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+màn hình atm trước mặt mình đang ở bước nào,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+biên lai người ta vừa đưa tui có được giảm giá hông,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+tôi đang đi trong vỉa hè ngoài ban công có gì,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+o đang đi trong bến phà phía trước là cảnh chi,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tui không cần giúp nữa,END_SESSION,4,END_SESSION,END_SESSION
+hina ơi biển chỉ đường này có chỉ đường ra cổng không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+đọc mặt sau của trang sách tôi đang cầm nữa,READ_TEXT,1,READ_TEXT,READ_TEXT
+làm ơn ngắt cái máy,END_SESSION,4,END_SESSION,END_SESSION
+sao dạo này bà hay quên thế,UNKNOWN,5,UNKNOWN,UNKNOWN
+mô tả trước mặt dì nha,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+hina ơi tấm áp phích phía trên có nội dung gì,READ_TEXT,1,READ_TEXT,READ_TEXT
+cho bà bà thoát ra,END_SESSION,4,END_SESSION,END_SESSION
+tả lại phòng ngủ ni cho tui với,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+ê hina chuyến cuối cùng trên màn hình thông tin chuyến bay trên cao lúc mấy giờ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+o đang đi trong phòng họp nói nhỏ lại,UNKNOWN,5,UNKNOWN,UNKNOWN
+à đau đầu thì nên làm chi,UNKNOWN,5,UNKNOWN,UNKNOWN
+tôi vừa xuống xe bạn có đó hông vậy,UNKNOWN,5,ANSWER_VISUAL_QUESTION,UNKNOWN
+bên phải mình có những gì gì nè,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+xung quanh dì đang có chuyện gì xảy ra hả,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+bảng tên khoa trên cột là số chẵn hay số lẻ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+chỗ này hơi tối biển cấm đỗ xe trên quầy ghi những gì,READ_TEXT,1,READ_TEXT,READ_TEXT
+trên gói bánh nớ có chi rứa,READ_TEXT,1,READ_TEXT,READ_TEXT
+hina ơi bà không cần giúp nữa,END_SESSION,4,END_SESSION,END_SESSION
+tả lại phòng chờ sân bay này cho tớ được không,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+hợp đồng người ta vừa đưa mình có chỗ nào bị sửa không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+bạn ơi không gian ở đây thế nào,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+bạn ơi tờ tuyển dụng này ghi cúp điện mấy giờ đó bạn,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+mô tả bên trái tôi đi,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+mình đang nói chuyện với người khác cái,UNKNOWN,5,UNKNOWN,UNKNOWN
+chị giơ camera lên rồi chị đang nói chuyện với người khác,UNKNOWN,5,UNKNOWN,UNKNOWN
+ê hina ở đây ồn quá xung quanh tôi đang có chuyện gì xảy ra,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tờ thông báo cúp điện này có nội dung gì ạ,READ_TEXT,1,READ_TEXT,READ_TEXT
+em mới tới sảnh khách sạn chuyến cuối cùng trên bảng giờ xe buýt ni lúc mấy giờ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+ừ đọc to rõ chính xác tờ hóa đơn này tôi rất cần giùm nha,READ_TEXT,1,READ_TEXT,READ_TEXT
+làm ơn kết thúc cái máy,END_SESSION,4,END_SESSION,END_SESSION
+tạm biệt mẹ nhé con đi làm,UNKNOWN,5,END_SESSION,END_SESSION
+bạn ơi chỗ này hơi tối mô tả dưới chân cháu đi,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+à này cảm ơn bạn hẹn gặp lại bạn à,END_SESSION,4,END_SESSION,END_SESSION
+thôi tắt hina đi,END_SESSION,4,END_SESSION,END_SESSION
+thôi tắt ứng dụng hina đi,END_SESSION,4,END_SESSION,END_SESSION
+ơ mô tả phía trước cháu với,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+màn hình thông tin chuyến bay đó đang báo chuyến nào,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+tả rộng ra một chút chút cảnh xung quanh,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+biển chỉ dẫn ngay cửa ra vào chỉ rẽ trái hay rẽ phải hả,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+bạn à tôi đã hướng camera vào màn hình máy giặt trước mặt rồi đó đọc giúp tôi,READ_TEXT,1,READ_TEXT,READ_TEXT
+à mà bạn à hộp thuốc cảm cháu đang giơ lên dùng cho người lớn hay trẻ em,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+chai thuốc nhỏ mắt dùng cho người lớn hay trẻ em,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+thôi để tôi tự lo dừng đi,END_SESSION,4,END_SESSION,END_SESSION
+má đã hướng camera vào bảng điện tử gọi số bên phải rồi đó đọc giúp má,READ_TEXT,1,READ_TEXT,READ_TEXT
+kết thúc thúc phiên,END_SESSION,4,END_SESSION,END_SESSION
+hóa đơn trên quầy là của cửa hàng mô,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+ơ ơ,UNKNOWN,5,UNKNOWN,UNKNOWN
+mình không nhìn thấy gì hộp thuốc cảm đó dùng cho người lớn hay trẻ em,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+ơi bạn hôm nay ăn gì nhỉ,UNKNOWN,5,UNKNOWN,UNKNOWN
+anh không cần giúp nữa,END_SESSION,4,END_SESSION,END_SESSION
+tôi đang đi trong hành lang bên trái tôi có gì,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tả quang cảnh sân ga lúc này nè,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+à này cô đưa điện thoại lên rồi đọc một bài thơ cho cô nghe,UNKNOWN,5,UNKNOWN,UNKNOWN
+thôi để o tự lo tắt đi,END_SESSION,4,END_SESSION,END_SESSION
+trên biển báo sàn trơn phía trước có gì đó bạn,READ_TEXT,1,READ_TEXT,READ_TEXT
+mình đưa điện thoại lên rồi tả rộng ra một chút cảnh xung quanh,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+ờ tờ khuyến mãi bên phải có gì,READ_TEXT,1,READ_TEXT,READ_TEXT
+đọc to rõ chính xác phiếu tính tiền trên ghế tớ rất cần được không,READ_TEXT,1,READ_TEXT,READ_TEXT
+bà đang đi trong nhà thuốc bên trái bà có gì nhỉ bạn,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+hina ơi tui không cần giúp nữa,END_SESSION,4,END_SESSION,END_SESSION
+biển cấm đỗ xe này màu gì hen,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+hina ơi ngoài đường bây giờ trông thế nào,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+theo biển chỉ đường đằng kia thang máy ở hướng nào,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+tìm chợ hoa gần đây,UNKNOWN,5,UNKNOWN,UNKNOWN
+à này thôi nghỉ,END_SESSION,4,END_SESSION,END_SESSION
+em lạ chỗ này quá tả lại cây xăng này cho em,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+màn hình thông tin chuyến bay đang báo chuyến nào,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+bạn ơi lương hưu tháng này về chưa ạ,UNKNOWN,5,UNKNOWN,UNKNOWN
+làm ơn ngắt phiên làm việc,END_SESSION,4,END_SESSION,END_SESSION
+à mà làm ơn tắt hẳn chương trình đi nào,END_SESSION,4,END_SESSION,END_SESSION
+tờ thông báo cúp điện này có gì ạ,READ_TEXT,1,READ_TEXT,READ_TEXT
+lọ thuốc ho này dùng cho người lớn hay trẻ em hả,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+làm ơn tắt hẳn phiên làm việc,END_SESSION,4,END_SESSION,END_SESSION
+để coi đọc đơn thuốc từng dòng tui sợ uống nhầm,READ_TEXT,1,READ_TEXT,READ_TEXT
+con không cần giúp nữa,END_SESSION,4,END_SESSION,END_SESSION
+thôi để chị tự lo dừng đi,END_SESSION,4,END_SESSION,END_SESSION
+ừm thì cảm ơn bạn chào nghe,END_SESSION,4,END_SESSION,END_SESSION
+đọc đơn thuốc từng dòng mình sợ uống nhầm với ơi bạn,READ_TEXT,1,READ_TEXT,READ_TEXT
+đọc đơn thuốc từng dòng tôi sợ uống nhầm,READ_TEXT,1,READ_TEXT,READ_TEXT
+quả chuối chín có màu gì thế,UNKNOWN,5,ANSWER_VISUAL_QUESTION,UNKNOWN
+hina ơi đọc to rõ chính xác hóa đơn tiền điện đó cháu rất cần nào,READ_TEXT,1,READ_TEXT,READ_TEXT
+vậy bạn ơi trước mặt có gì,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+bảng thông báo tuyển vị trí gì nè,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+quả chuối chín có màu gì,UNKNOWN,5,ANSWER_VISUAL_QUESTION,UNKNOWN
+đọc kỹ thẻ căn cước này mình mình không muốn bị thiệt,READ_TEXT,1,READ_TEXT,READ_TEXT
+mình đang nói chuyện với người khác,UNKNOWN,5,UNKNOWN,UNKNOWN
+cuốn tiểu thuyết đó có đang để ngược không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+tờ khuyến mãi kia tuyển vị trí gì thế nhỉ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+đọc đơn thuốc từng dòng mình sợ uống nhầm,READ_TEXT,1,READ_TEXT,READ_TEXT
+tìm số điện thoại taxi,UNKNOWN,5,UNKNOWN,UNKNOWN
+hina ơi thôi đóng ứng dụng hina đi đi,END_SESSION,4,END_SESSION,END_SESSION
+ờ thì còn mấy ngày nữa thì tết,UNKNOWN,5,UNKNOWN,UNKNOWN
+này bạn thôi kết thúc chế độ đọc đi,END_SESSION,4,END_SESSION,END_SESSION
+cho tui thoát ra đi bạn,END_SESSION,4,END_SESSION,END_SESSION
+bạn à mình đang vội lịch sử việt nam có bao nhiêu triều đại,UNKNOWN,5,UNKNOWN,UNKNOWN
+màn hình thông tin chuyến bay đằng kia đang hiện chữ chi,READ_TEXT,1,READ_TEXT,READ_TEXT
+làm ơn kết kết thúc cái máy coi,END_SESSION,4,END_SESSION,END_SESSION
+căn phòng em đang đứng ra sao hả,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+hina ơi tôi đang đứng trong quán ăn bên phải tôi có những gì,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+bà đang đi trong phòng chờ bệnh viện gửi vị trí của bà cho mẹ,UNKNOWN,5,ANSWER_VISUAL_QUESTION,UNKNOWN
+cô không cần giúp nữa,END_SESSION,4,END_SESSION,END_SESSION
+theo biển lối thoát hiểm trên cửa thang máy ở hướng nào,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+đọc kỹ tờ đơn chị chuẩn bị ký chị không muốn bị thiệt nha bạn,READ_TEXT,1,READ_TEXT,READ_TEXT
+hộp thuốc này màu gì vậy,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+mắt má không nhìn rõ tả lại chợ đêm này cho má nè hina,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+sao dạo này cháu hay quên thế,UNKNOWN,5,UNKNOWN,UNKNOWN
+tả quang cảnh cổng trường lúc này nhé bạn,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+ơi bạn ngoài đường bây giờ trông ra sao,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tôi đang đứng trong sân ga tờ thông báo cúp điện này có gì,READ_TEXT,1,READ_TEXT,READ_TEXT
+làm ơn ngắt chế độ mô tả được hông,END_SESSION,4,END_SESSION,END_SESSION
+không gian ở đây răng,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tả lại ngân hàng này cho bà xem nào,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+con lạ chỗ này quá ngoài ban công có gì vậy bạn,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+biên lai tôi vừa nhận tổng cộng bao nhiêu tiền,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+mình đang đứng trong khách sạn pin còn bao nhiêu phần trăm nghen,UNKNOWN,5,UNKNOWN,UNKNOWN
+theo bảng chỉ dẫn các khoa bên kia đường thang máy ở hướng mô,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+đặt xe grab đến nhà văn hóa nhé,UNKNOWN,5,UNKNOWN,UNKNOWN
+quanh đây có quán phở nào ngon hông,UNKNOWN,5,ANSWER_VISUAL_QUESTION,UNKNOWN
+tờ quảng cáo trước mặt cô có gì,READ_TEXT,1,READ_TEXT,DESCRIBE_SCENE
+làm ơn tắt trợ lý,END_SESSION,4,END_SESSION,END_SESSION
+phía trước là cảnh gì hả,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tìm quầy thuốc gần đây được không,UNKNOWN,5,UNKNOWN,ANSWER_VISUAL_QUESTION
+bên phải tôi có những gì nhỉ,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+bạn ơi tả lại ngã tư này cho tớ,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+chị hông cần giúp nữa nha bạn,END_SESSION,4,END_SESSION,END_SESSION
+dì đang đứng trong bưu điện dì đang nói chuyện với người khác,UNKNOWN,5,UNKNOWN,UNKNOWN
+lọ nước hoa ni dùng để làm chi,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+bạn ơi ngoài đường bây giờ trông ra sao,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tả lại phòng tắm này cho con nhé,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+má vừa vào công viên trước mặt có gì,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+để coi xem cho anh quả dưa hấu này chín chưa,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+thôi để mình tự lo tắt đi,END_SESSION,4,END_SESSION,END_SESSION
+để coi bạn ơi tui không cần giúp nữa vậy,END_SESSION,4,END_SESSION,END_SESSION
+anh mới tới cầu thang mô tả xung quanh anh,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+trợ lý ơi đọc một bài thơ cho tôi nghe,UNKNOWN,5,UNKNOWN,UNKNOWN
+không có ai để hỏi gửi vị trí của tôi cho vợ với,UNKNOWN,5,UNKNOWN,UNKNOWN
+ông không cần giúp nữa,END_SESSION,4,END_SESSION,END_SESSION
+hina ơi mắt tôi không nhìn rõ lương hưu tháng này về chưa vậy ạ,UNKNOWN,5,UNKNOWN,UNKNOWN
+cho dì thoát ra nha,END_SESSION,4,END_SESSION,END_SESSION
+phiếu thu trên tay tôi là của cửa hàng nào,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+chị đã hướng camera vào lọ thuốc ho trên ghế rồi đó đọc giúp chị,READ_TEXT,1,READ_TEXT,READ_TEXT
+đọc mặt sau của bảng hiệu cửa hàng bên trái nữa,READ_TEXT,1,READ_TEXT,READ_TEXT
+mình lạ chỗ này quá mình đã hướng camera vào quyển vở đó rồi đó đọc giúp mình nha,READ_TEXT,1,READ_TEXT,READ_TEXT
+thôi để bà tự lo dừng đi,END_SESSION,4,END_SESSION,END_SESSION
+anh đưa điện thoại lên rồi bên phải anh có những gì nhỉ bạn,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tôi lạ chỗ này quá tả rộng ra một chút cảnh xung quanh giùm nha,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+ơi bạn thôi tắt hẳn chương trình đi,END_SESSION,4,END_SESSION,END_SESSION
+phiếu khám bệnh đó có nội dung gì hả,READ_TEXT,1,READ_TEXT,READ_TEXT
+đọc kỹ hợp đồng thuê nhà tôi chuẩn bị ký tôi không muốn bị thiệt,READ_TEXT,1,READ_TEXT,READ_TEXT
+chị đang đứng chờ dừng bài hát lại,UNKNOWN,5,END_SESSION,UNKNOWN
+căn phòng cháu đang đứng ra sao đó,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tả lại tiệm cắt tóc này cho con nghen,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+dì đã hướng camera vào bảng sơ đồ tầng kia rồi đó đọc giúp dì giùm nha,READ_TEXT,1,READ_TEXT,READ_TEXT
+mô tả phía trên anh cái,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+lịch sử sử việt nam có bao nhiêu triều đại,UNKNOWN,5,UNKNOWN,UNKNOWN
+để coi không có ai để hỏi phía trước là cảnh gì thế,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+thôi bỏ đi ê hina,END_SESSION,4,END_SESSION,END_SESSION
+bác không cần giúp nữa nhé,END_SESSION,4,END_SESSION,END_SESSION
+à này tôi đã hướng camera vào số nhà trên cột cổng trước mặt rồi đó đọc giúp tôi,READ_TEXT,1,READ_TEXT,READ_TEXT
+hóa đơn tiền nước là của cửa hàng nào,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+đau đầu thì nên làm gì hina,UNKNOWN,5,UNKNOWN,UNKNOWN
+thôi dừng ứng dụng hina đi,END_SESSION,4,END_SESSION,END_SESSION
+hina ơi thôi kết thúc ứng dụng đi,END_SESSION,4,END_SESSION,END_SESSION
+hina thôi để tui tự lo tắt đi,END_SESSION,4,END_SESSION,END_SESSION
+ờ thì biên lai gửi xe đó có tính phí phục vụ không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+khoan đã tả lại công viên nước này cho bác ạ bạn,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+cảm ơn bạn chào bạn,END_SESSION,4,END_SESSION,END_SESSION
+đặt xe grab đến bến xe đi bạn,UNKNOWN,5,UNKNOWN,UNKNOWN
+bạn à má lạ chỗ này quá bên phải má có những gì,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+hina đọc nguyên văn biển đèn led đó,READ_TEXT,1,READ_TEXT,READ_TEXT
+mô tả sau lưng mình đi,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tắt giùm cái máy hỉ,END_SESSION,4,END_SESSION,END_SESSION
+ờ thì dừng bài hát lại,UNKNOWN,5,END_SESSION,END_SESSION
+hina ơi đọc mặt sau của biển báo sàn trơn này,READ_TEXT,1,READ_TEXT,READ_TEXT
+cảm ơn bạn chào nhé ơi bạn,END_SESSION,4,END_SESSION,END_SESSION
+má hông cần giúp nữa,END_SESSION,4,END_SESSION,END_SESSION
+anh đã hướng camera vào sổ tiết kiệm anh đang cầm rồi đó đọc giúp anh nhá,READ_TEXT,1,READ_TEXT,READ_TEXT
+pin còn bao nhiêu phần trăm,UNKNOWN,5,UNKNOWN,UNKNOWN
+ở đây ồn quá căn phòng mình đang đứng ra sao,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+đọc to rõ chính xác biên lai tui đang giơ lên tui rất cần,READ_TEXT,1,READ_TEXT,READ_TEXT
+cảm ơn bạn hẹn gặp lại hina,END_SESSION,4,END_SESSION,END_SESSION
+ơi bạn lưu số điện thoại này lại,UNKNOWN,5,UNKNOWN,UNKNOWN
+tờ thông báo có gì,READ_TEXT,1,READ_TEXT,READ_TEXT
+chữ trên bảng tên trên cửa trên tường là gì đó,READ_TEXT,1,ANSWER_VISUAL_QUESTION,READ_TEXT
+mình đang vội xung quanh mình đang có chuyện gì xảy ra vậy ta,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+không có ai để hỏi tuýp thuốc mỡ trên kệ dùng cho người lớn hay trẻ em,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+tả lại chợ này cho tôi giùm nha,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+thẻ lên máy bay ni khởi hành lúc mấy giờ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+anh không nhìn thấy gì dừng bài hát lại,UNKNOWN,5,END_SESSION,UNKNOWN
+tui đang vội pin còn bao nhiêu phần trăm,UNKNOWN,5,UNKNOWN,UNKNOWN
+ừm bạn có nớ nớ không,UNKNOWN,5,UNKNOWN,UNKNOWN
+nói nhỏ lại ê hina,UNKNOWN,5,UNKNOWN,UNKNOWN
+con đang đi trong phòng làm việc gửi vị trí của con cho dì út,UNKNOWN,5,UNKNOWN,UNKNOWN
+ghi gì đây nhỉ bạn,READ_TEXT,1,READ_TEXT,READ_TEXT
+bên trái tui có chi,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+ờ thì đọc một bài thơ cho mình nghe,UNKNOWN,5,UNKNOWN,UNKNOWN
+mình không cần giúp nữa,END_SESSION,4,END_SESSION,END_SESSION
+anh không nhìn thấy gì tả rộng ra một chút cảnh xung quanh cái,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+con đang đi trong tiệm bánh lọ siro này còn hạn không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+hóa đơn này có nội dung gì trợ lý,READ_TEXT,1,READ_TEXT,READ_TEXT
+thế anh mới tới đây lần đầu quả chuối chín có màu gì nhỉ bạn,UNKNOWN,5,ANSWER_VISUAL_QUESTION,UNKNOWN
+mẹ ơi con về rồi,UNKNOWN,5,END_SESSION,END_SESSION
+chai sữa tắm trong tủ lạnh trẻ em dùng được không ạ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+thôi để tui tự lo tắt hẳn đi,END_SESSION,4,END_SESSION,END_SESSION
+tả rộng ra một chút cảnh xung quanh nhé,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+cô đang đứng trong sân trường mô tả sau lưng cô đi,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+vỉ thuốc trên bàn viết chi mà dài rứa đọc mình nghe,READ_TEXT,1,READ_TEXT,READ_TEXT
+ơ không gian ở đây ra sao,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+gói kẹo đó dùng để làm gì nhỉ,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+cho cho chị thoát ra cái,END_SESSION,4,END_SESSION,UNKNOWN
+thôi tắt chương trình đi,END_SESSION,4,END_SESSION,END_SESSION
+o đang đứng trong thư viện hợp đồng lao động có chỗ mô bị sửa không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+chị đang nói chuyện với người khác,UNKNOWN,5,UNKNOWN,UNKNOWN
+xung quanh hồ gươm có gì chơi vậy ạ,UNKNOWN,5,DESCRIBE_SCENE,UNKNOWN
+cho dì thoát ra,END_SESSION,4,END_SESSION,END_SESSION
+chữ trên đơn hàng là chi,READ_TEXT,1,READ_TEXT,READ_TEXT
+tờ hóa đơn đó in ngày nào,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+cảm ơn bạn bye,END_SESSION,4,END_SESSION,END_SESSION
+đọc tên người gửi trên mẩu giấy này,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+xung quanh có chữ chi thì đọc hết cho tôi,READ_TEXT,1,READ_TEXT,READ_TEXT
+quả chuối chín có màu gì vậy bạn này bạn,UNKNOWN,5,ANSWER_VISUAL_QUESTION,UNKNOWN
+bạn ơi chị đang nói chuyện với người khác,UNKNOWN,5,UNKNOWN,UNKNOWN
+bên phải anh có những gì,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+xung quanh em đang có chuyện chi xảy ra,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tôi mới tới đây lần đầu mô tả ngoài cửa tôi với,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+bạn ơi bảng thông báo này có gì,READ_TEXT,1,READ_TEXT,DESCRIBE_SCENE
+trợ lý ơi bà vừa xuống xe trước mặt có gì,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+tờ hóa đơn trên ghế có được giảm giá không thế,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+bạn à vậy thôi nha,END_SESSION,4,END_SESSION,END_SESSION
+chỗ này hơi tối giấy mời họp tui vừa nhận ghi gì,READ_TEXT,1,READ_TEXT,READ_TEXT
+thôi để cháu tự lo tắt hẳn đi đi hina,END_SESSION,4,END_SESSION,END_SESSION
+em đang ở phòng làm việc bên trái em có gì,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+chỗ ni hơi tối có ai đang đi theo sau lưng em không,ANSWER_VISUAL_QUESTION,3,ANSWER_VISUAL_QUESTION,ANSWER_VISUAL_QUESTION
+bạn à trên phiếu giao hàng có gì,READ_TEXT,1,READ_TEXT,DESCRIBE_SCENE
+tả lại phòng chờ sân bay này cho má,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+con đã hướng camera vào vé xe khách này rồi đó đọc giúp con đi bạn,READ_TEXT,1,READ_TEXT,READ_TEXT
+tôi đang đứng chờ căn phòng tôi đang đứng ra sao đấy hina,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+bạn à không gian ở đây thế nào,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE
+chỗ này hơi tối xung quanh em đang có chuyện gì xảy ra vậy hả,DESCRIBE_SCENE,2,DESCRIBE_SCENE,DESCRIBE_SCENE

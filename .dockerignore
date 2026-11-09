@@ -4,3 +4,4 @@ outputs
 **/__pycache__
 model/phobert-base-v2
 .venv-serve
+.venv-*

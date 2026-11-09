@@ -1,14 +1,19 @@
 """Cấu hình dùng chung cho tiền xử lý, huấn luyện và dự đoán."""
 
+import os
 import unicodedata
 from pathlib import Path
 
 # Đường dẫn tính từ thư mục dự án, không phụ thuộc nơi mở terminal.
 ROOT_DIR = Path(__file__).resolve().parent.parent
-DATA_DIR = ROOT_DIR / "dataset"
+# NLU_DATA_DIR: train trên bộ dữ liệu khác (vd dataset/v3) mà không đụng dataset gốc.
+DATA_DIR = Path(os.environ.get("NLU_DATA_DIR", ROOT_DIR / "dataset"))
 PROCESSED_DIR = DATA_DIR / "processed"
 BASE_MODEL_DIR = ROOT_DIR / "model" / "phobert-base-v2"
-TRAINED_MODEL_DIR = ROOT_DIR / "outputs" / "phobert_intent" / "final_model"
+# NLU_MODEL_DIR: chọn model cho predict/api/select_threshold (vd outputs/phobert_intent_v3/final_model).
+TRAINED_MODEL_DIR = Path(
+    os.environ.get("NLU_MODEL_DIR", ROOT_DIR / "outputs" / "phobert_intent" / "final_model")
+).resolve()
 VNCORENLP_JAR = ROOT_DIR / "model" / "vncorenlp" / "VnCoreNLP-1.2.jar"
 MAX_LENGTH = 128
 SEED = 42

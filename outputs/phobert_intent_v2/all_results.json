@@ -1,0 +1,18 @@
+{
+    "test_accuracy": 0.948,
+    "test_loss": 0.23507747054100037,
+    "test_macro_f1": 0.9469581013897374,
+    "test_macro_precision": 0.9507925094134808,
+    "test_macro_recall": 0.9480000000000001,
+    "test_runtime": 0.8395,
+    "test_samples_per_second": 1191.162,
+    "test_steps_per_second": 38.117,
+    "validation_accuracy": 0.962,
+    "validation_loss": 0.18128134310245514,
+    "validation_macro_f1": 0.961949109602233,
+    "validation_macro_precision": 0.9625361613480081,
+    "validation_macro_recall": 0.962,
+    "validation_runtime": 0.9951,
+    "validation_samples_per_second": 1004.954,
+    "validation_steps_per_second": 32.159
+}

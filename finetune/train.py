@@ -2,6 +2,7 @@
 
 import argparse
 
+import torch
 from datasets import load_dataset
 from transformers import (
     AutoModelForSequenceClassification,
@@ -96,14 +97,17 @@ def load_model():
 
 
 def build_training_args(output_dir, smoke=False):
+    # Batch hiệu dụng luôn là 16: GPU chạy 16x1, CPU chạy 2x8 như cấu hình cũ.
+    gpu = torch.cuda.is_available()
     return TrainingArguments(
         output_dir=str(output_dir),
-        use_cpu=True,
+        use_cpu=not gpu,
+        fp16=gpu,
         num_train_epochs=3,
         max_steps=2 if smoke else -1,
-        per_device_train_batch_size=2,
-        per_device_eval_batch_size=4,
-        gradient_accumulation_steps=8,
+        per_device_train_batch_size=16 if gpu else 2,
+        per_device_eval_batch_size=32 if gpu else 4,
+        gradient_accumulation_steps=1 if gpu else 8,
         learning_rate=2e-5,
         weight_decay=0.01,
         eval_strategy="epoch",
@@ -112,6 +116,7 @@ def build_training_args(output_dir, smoke=False):
         metric_for_best_model="macro_f1",
         greater_is_better=True,
         save_total_limit=1,
+        save_only_model=True,  # không lưu optimizer (~1 GB/checkpoint); không cần resume
         logging_steps=1 if smoke else 50,
         dataloader_num_workers=0,
         dataloader_pin_memory=False,
@@ -123,10 +128,15 @@ def build_training_args(output_dir, smoke=False):
 def main():
     parser = argparse.ArgumentParser(description="Fine-tune PhoBERT cho 5 ý định.")
     parser.add_argument("--smoke", action="store_true", help="Chạy thử 2 bước.")
+    parser.add_argument(
+        "--run-name",
+        default="phobert_intent",
+        help="Thư mục con trong outputs/. Đặt tên mới để không ghi đè model đang dùng.",
+    )
     args = parser.parse_args()
     set_seed(SEED)
 
-    run_name = "smoke_test" if args.smoke else "phobert_intent"
+    run_name = "smoke_test" if args.smoke else args.run_name
     output_dir = ROOT_DIR / "outputs" / run_name
 
     # 1. Chuẩn bị dữ liệu và model.

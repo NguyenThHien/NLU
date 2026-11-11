@@ -1,15 +1,27 @@
 """Nhập câu qua terminal và dự đoán một trong năm ý định."""
 
 import json
+import re
 
 import torch
-from transformers import AutoModelForSequenceClassification, AutoTokenizer
+from transformers import AutoModelForSequenceClassification, AutoModelForTokenClassification, AutoTokenizer
 from vncorenlp import VnCoreNLP
 
-from common import LABEL2ID, MAX_LENGTH, TRAINED_MODEL_DIR, VNCORENLP_JAR, segment_text
+from common import (
+    LABEL2ID,
+    MAX_LENGTH,
+    SLOT_MODEL_DIR,
+    TRAINED_MODEL_DIR,
+    VNCORENLP_JAR,
+    bio_spans,
+    encode_words,
+    expand_word_tags,
+    normalize_text,
+    segment_text,
+)
 
 
-def load_classifier(model_dir=TRAINED_MODEL_DIR):
+def load_classifier(model_dir=TRAINED_MODEL_DIR, model_class=AutoModelForSequenceClassification):
     if not model_dir.is_dir():
         raise FileNotFoundError(f"Không tìm thấy model: {model_dir}")
 
@@ -18,13 +30,41 @@ def load_classifier(model_dir=TRAINED_MODEL_DIR):
         use_fast=False,
         local_files_only=True,
     )
-    model = AutoModelForSequenceClassification.from_pretrained(
+    model = model_class.from_pretrained(
         str(model_dir),
         local_files_only=True,
     )
     model.to("cpu")
     model.eval()
     return tokenizer, model
+
+
+def load_slot_tagger(model_dir=SLOT_MODEL_DIR):
+    return load_classifier(model_dir, AutoModelForTokenClassification)
+
+
+def original_syllables(text, segmented):
+    """Âm tiết theo câu gốc (VnCoreNLP đổi 'hóa' → 'hoá'); số âm tiết lệch thì dùng bản đã tách từ."""
+    original = re.findall(r"\w+|[^\w\s]", normalize_text(text))
+    segmented_syllables = segmented.replace("_", " ").split()
+    return original if len(original) == len(segmented_syllables) else segmented_syllables
+
+
+def extract_slots(text, segmented, tokenizer, model):
+    """Câu gốc + câu đã tách từ → [{"type": "OBJECT", "value": "hóa đơn"}, ...] theo thứ tự xuất hiện."""
+    words = segmented.split()
+    input_ids, first_positions = encode_words(words, tokenizer)
+    with torch.inference_mode():
+        predicted = model(input_ids=torch.tensor([input_ids])).logits[0].argmax(-1).tolist()
+
+    word_tags = [model.config.id2label[predicted[i]] for i in first_positions]
+    _, tags = expand_word_tags(words[:len(word_tags)], word_tags)
+    syllables = original_syllables(text, segmented)
+    return [{"type": name, "value": " ".join(syllables[start:end])} for name, start, end in bio_spans(tags)]
+
+
+def target_object(slots):
+    return next((slot["value"] for slot in slots if slot["type"] == "OBJECT"), None)
 
 
 THRESHOLDS_FILE = "thresholds.json"
@@ -119,6 +159,7 @@ def main():
     print("Đang nạp model...", flush=True)
     tokenizer, model = load_classifier()
     thresholds = load_thresholds()
+    slot_tokenizer, slot_model = load_slot_tagger()
 
     with VnCoreNLP(
         str(VNCORENLP_JAR),
@@ -140,6 +181,9 @@ def main():
                 print(error)
                 continue
             print_prediction(*result, thresholds)
+            slots = extract_slots(text, result[0], slot_tokenizer, slot_model)
+            print(f"\nSlots: {slots}")
+            print(f"target_obj: {target_object(slots)}")
 
 
 if __name__ == "__main__":

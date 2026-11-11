@@ -14,6 +14,11 @@ CASES = {
     "đóng phiên trợ giúp hiện tại giúp tôi": "END_SESSION",
     "làm sao để luộc trứng lòng đào": "UNKNOWN",
 }
+# target_obj mong đợi (None = không có vật thể).
+TARGETS = {
+    "đọc nội dung hóa đơn thành tiếng cho mình": "hóa đơn",
+    "làm sao để luộc trứng lòng đào": None,
+}
 
 
 def call(path, payload=None):
@@ -35,8 +40,10 @@ def main():
     for text, expected in CASES.items():
         status, body = call("/v1/predict", {"text": text})
         assert status == 200, f"{text!r}: HTTP {status} {body}"
-        label = json.loads(body)["label"]
-        assert label == expected, f"{text!r}: nhận {label}, cần {expected}"
+        result = json.loads(body)
+        assert result["label"] == expected, f"{text!r}: nhận {result['label']}, cần {expected}"
+        if text in TARGETS:
+            assert result["target_obj"] == TARGETS[text], f"{text!r}: target_obj {result['target_obj']!r}"
 
     status, _ = call("/v1/predict", {"text": ""})
     assert status == 422, f"câu rỗng phải trả 422, nhận {status}"
@@ -45,7 +52,7 @@ def main():
 
     status, body = call("/metrics")
     assert status == 200 and "nlu_predictions_total" in body, "/metrics thiếu counter"
-    print(f"OK: {len(CASES)} câu đúng nhãn, validate đầu vào và /metrics hoạt động")
+    print(f"OK: {len(CASES)} câu đúng nhãn, target_obj đúng, validate đầu vào và /metrics hoạt động")
 
 
 if __name__ == "__main__":

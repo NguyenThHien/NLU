@@ -11,9 +11,19 @@ from pydantic import BaseModel, Field
 from vncorenlp import VnCoreNLP
 
 from common import LABEL2ID, VNCORENLP_JAR
-from predict import apply_thresholds, load_classifier, load_thresholds, predict_text
+from predict import (
+    apply_thresholds,
+    extract_slots,
+    load_classifier,
+    load_slot_tagger,
+    load_thresholds,
+    predict_text,
+    target_object,
+)
 
 MAX_TEXT_CHARS = 500
+# Chỉ các ý định cần biết người dùng nhắm vào đâu mới chạy model slot.
+SLOT_INTENTS = {"READ_TEXT", "DESCRIBE_SCENE", "ANSWER_VISUAL_QUESTION"}
 MODEL_VERSION = os.environ.get("MODEL_VERSION", "local")
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
@@ -22,6 +32,7 @@ logger = logging.getLogger("nlu-intent")
 PREDICTIONS = Counter("nlu_predictions_total", "Số dự đoán theo nhãn cuối", ["label"])
 FALLBACKS = Counter("nlu_threshold_fallbacks_total", "Số lần dưới ngưỡng, chuyển UNKNOWN", ["model_label"])
 LATENCY = Histogram("nlu_predict_seconds", "Thời gian xử lý một request /v1/predict")
+SLOT_LATENCY = Histogram("nlu_slot_seconds", "Thời gian trích slot")
 CONFIDENCE = Histogram(
     "nlu_confidence", "Điểm softmax top-1",
     buckets=(0.5, 0.7, 0.8, 0.9, 0.95, 0.98, 0.99, 0.995, 0.999, 1.0),
@@ -34,6 +45,7 @@ state = {}
 async def lifespan(app: FastAPI):
     state["tokenizer"], state["model"] = load_classifier()
     state["thresholds"] = load_thresholds()
+    state["slot_tokenizer"], state["slot_model"] = load_slot_tagger()
     logger.info("model_version=%s thresholds=%s", MODEL_VERSION, state["thresholds"])
     with VnCoreNLP(
         str(VNCORENLP_JAR),
@@ -55,7 +67,7 @@ class PredictRequest(BaseModel):
 def predict(request: PredictRequest) -> dict:
     started = time.perf_counter()
     try:
-        _, ranked_scores, was_truncated = predict_text(
+        segmented, ranked_scores, was_truncated = predict_text(
             request.text, state["segmenter"], state["tokenizer"], state["model"]
         )
     except ValueError as error:
@@ -63,6 +75,10 @@ def predict(request: PredictRequest) -> dict:
 
     model_label, confidence = ranked_scores[0]
     label = apply_thresholds(ranked_scores, state["thresholds"])
+    slots = []
+    if label in SLOT_INTENTS:
+        with SLOT_LATENCY.time():
+            slots = extract_slots(request.text, segmented, state["slot_tokenizer"], state["slot_model"])
     elapsed = time.perf_counter() - started
 
     PREDICTIONS.labels(label).inc()
@@ -70,9 +86,9 @@ def predict(request: PredictRequest) -> dict:
     LATENCY.observe(elapsed)
     if label != model_label:
         FALLBACKS.labels(model_label).inc()
-    # Không log nguyên văn câu người dùng (có thể chứa dữ liệu cá nhân).
-    logger.info("label=%s model_label=%s confidence=%.4f latency_ms=%.1f",
-                label, model_label, confidence, elapsed * 1000)
+    # Không log nguyên văn câu hay giá trị slot (có thể chứa dữ liệu cá nhân).
+    logger.info("label=%s model_label=%s confidence=%.4f slots=%d latency_ms=%.1f",
+                label, model_label, confidence, len(slots), elapsed * 1000)
 
     return {
         "label": label,
@@ -80,6 +96,7 @@ def predict(request: PredictRequest) -> dict:
         "model_label": model_label,
         "confidence": confidence,
         "scores": dict(ranked_scores),
+        "target_obj": target_object(slots),
         "truncated": was_truncated,
         "model_version": MODEL_VERSION,
     }

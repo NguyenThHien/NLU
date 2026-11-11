@@ -22,18 +22,23 @@ COPY model/vncorenlp model/vncorenlp
 # Model lấy từ Hugging Face theo tag/commit; token chỉ dùng lúc build, không lưu trong image.
 ARG HF_REPO=Hienne/phobert-vi-intent
 ARG HF_REVISION=v1.0
+ARG HF_SLOT_REPO=Hienne/phobert-vi-slots
+ARG HF_SLOT_REVISION=v1.0
 RUN --mount=type=secret,id=hf_token \
     HF_TOKEN="$(cat /run/secrets/hf_token)" python -c "\
 from huggingface_hub import snapshot_download; \
+skip = ['README.md', '.gitattributes']; \
 snapshot_download('${HF_REPO}', revision='${HF_REVISION}', \
-local_dir='outputs/phobert_intent/final_model', ignore_patterns=['README.md', '.gitattributes'])"
+local_dir='outputs/phobert_intent/final_model', ignore_patterns=skip); \
+snapshot_download('${HF_SLOT_REPO}', revision='${HF_SLOT_REVISION}', \
+local_dir='outputs/phobert_slots/final_model', ignore_patterns=skip)"
 
 COPY finetune/common.py finetune/predict.py finetune/api.py finetune/
 
 RUN useradd --system app
 USER app
 ENV HF_HOME=/tmp/hf \
-    MODEL_VERSION=${HF_REVISION}
+    MODEL_VERSION=${HF_REVISION}+slots-${HF_SLOT_REVISION}
 WORKDIR /app/finetune
 EXPOSE 8000
 CMD ["uvicorn", "api:app", "--host", "0.0.0.0", "--port", "8000"]

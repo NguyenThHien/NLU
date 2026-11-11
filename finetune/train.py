@@ -96,7 +96,7 @@ def load_model():
     return model
 
 
-def build_training_args(output_dir, smoke=False):
+def build_training_args(output_dir, smoke=False, metric="macro_f1"):
     # Batch hiệu dụng luôn là 16: GPU chạy 16x1, CPU chạy 2x8 như cấu hình cũ.
     gpu = torch.cuda.is_available()
     return TrainingArguments(
@@ -113,7 +113,7 @@ def build_training_args(output_dir, smoke=False):
         eval_strategy="epoch",
         save_strategy="epoch",
         load_best_model_at_end=True,
-        metric_for_best_model="macro_f1",
+        metric_for_best_model=metric,
         greater_is_better=True,
         save_total_limit=1,
         save_only_model=True,  # không lưu optimizer (~1 GB/checkpoint); không cần resume

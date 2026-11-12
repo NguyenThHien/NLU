@@ -1,0 +1,146 @@
+﻿text,target_obj,category,author
+"Hina ơi, cái hộp màu xanh trên bàn là hộp gì vậy?",cái hộp,do_gia_dung,claude
+Đọc giúp mình tờ giấy dán ở tủ lạnh với.,tờ giấy,giay_to,claude
+Ờm… cái lọ thuốc nhỏ mắt này hết hạn chưa nhỉ?,cái lọ thuốc nhỏ mắt,thuoc,claude
+Chó nhà bên đang làm gì thế?,chó,con_vat,claude
+Trên kệ còn hộp sữa nào không?,hộp sữa,ton_tai,claude
+Cái xe màu trắng đỗ trước nhà là xe của ai vậy?,cái xe,xe,claude
+Bạn xem giúp tôi chiếc áo này có bị ố vàng không,chiếc áo,quan_ao,claude
+Đọc chữ trên chai rượu vang này cho tôi nghe.,chai rượu vang,do_an,claude
+Trời hôm nay có nắng không bạn?,trời,thien_nhien,claude
+Đèn tín hiệu đã chuyển xanh chưa?,đèn tín hiệu,canh_vat,claude
+Con mèo nhà mình đang nằm ở đâu?,con mèo,con_vat,claude
+Đọc hết những gì có trên màn hình đi.,màn hình,thiet_bi,claude
+"Chữ to quá, à không, nhỏ quá, đọc giúp tôi với.",,khong_vat,claude
+Mô tả xung quanh tôi đi.,,khong_vat,claude
+Quyển sổ khám bệnh của bà để đâu rồi con?,quyển sổ khám bệnh,giay_to,claude
+Bánh mì trong túi có bị mốc không?,bánh mì,do_an,claude
+Ly trà đá của tôi còn đá không?,ly trà đá,do_an,claude
+Cái cây trong chậu ngoài ban công còn sống không?,cái cây,thien_nhien,claude
+Đồng hồ treo tường đang chỉ mấy giờ?,đồng hồ treo tường,do_gia_dung,claude
+Thằng bé đang chơi với cái gì vậy?,thằng bé,nguoi,claude
+Mấy người ngồi bàn bên cạnh đang ăn gì?,mấy người,nguoi,claude
+Cô bán hàng đang đếm tiền hả?,cô bán hàng,nguoi,claude
+Đọc số điện thoại trên tấm danh thiếp này.,tấm danh thiếp,giay_to,claude
+Mặt đường phía trước có bị ngập không?,mặt đường,canh_vat,claude
+Phía trước có xe đang tới không?,xe,ton_tai,claude
+Trong ngăn tủ có cái bật lửa không?,cái bật lửa,ton_tai,claude
+Đèn bàn trong phòng ngủ đã tắt chưa?,đèn bàn,do_gia_dung,claude
+Bé ơi coi giùm bà cái nồi cháo trên bếp sôi chưa,cái nồi cháo,do_an,claude
+Cuốn lịch treo tường đang để tháng mấy?,cuốn lịch treo tường,giay_to,claude
+Ổ khóa cửa có bị gỉ không vậy em,ổ khóa cửa,do_gia_dung,claude
+Màn hình máy ATM đang hiện thông báo gì?,màn hình máy ATM,thiet_bi,claude
+Đọc giùm tôi biên lai chuyển tiền vừa in ra,biên lai chuyển tiền,giay_to,claude
+Con gà trong lồng là gà trống hay gà mái?,con gà,con_vat,claude
+Cái quạt trần trong phòng khách có đang quay không?,cái quạt trần,do_gia_dung,claude
+Người đàn ông đang đi về phía tôi có đội mũ không?,người đàn ông,nguoi,claude
+Hũ đường trong tủ còn nhiều không?,hũ đường,do_an,claude
+Tờ hóa đơn tiền điện tháng này bao nhiêu tiền vậy?,tờ hóa đơn tiền điện,giay_to,claude
+Đọc tên con đường trên biển xanh ở góc phố,biển,canh_vat,claude
+Quả mít này chín chưa?,quả mít,do_an,claude
+Bức tranh trên tường vẽ gì vậy?,bức tranh,do_gia_dung,claude
+Tấm ảnh trong khung là ảnh ai đó?,tấm ảnh,do_gia_dung,claude
+Chiếc ô của tôi để ở chỗ nào rồi?,chiếc ô,quan_ao,claude
+Cái điều hòa đang để bao nhiêu độ?,cái điều hòa,thiet_bi,claude
+Trong bể cá còn bao nhiêu con cá?,con cá,ton_tai,claude
+Bé gái mặc váy hồng đang khóc à?,bé gái,nguoi,claude
+Đọc dòng chữ nhỏ dưới đáy hộp sữa bột,hộp sữa bột,do_an,claude
+Cánh cửa sổ phòng tôi đang mở hay đóng?,cánh cửa sổ,canh_vat,claude
+Xem giùm mình cái vòi hoa sen có bị rỉ nước không,cái vòi hoa sen,do_gia_dung,claude
+"Ê, cái thứ màu đen dưới chân tôi là gì vậy?",cái thứ,khac,claude
+Cái này là cái gì vậy?,,khong_vat,claude
+Đọc cái này cho tôi.,,khong_vat,claude
+Nhìn xem đằng trước có gì nguy hiểm không,,khong_vat,claude
+Trên bàn có bao nhiêu cái cốc?,cái cốc,ton_tai,claude
+Bao thuốc lá trên bàn là của ai thế?,bao thuốc lá,khac,claude
+Cái loa bluetooth đang bật hay tắt?,cái loa bluetooth,thiet_bi,claude
+Đọc to mục hướng dẫn trên tờ giấy bảo hành giúp mình.,tờ giấy bảo hành,giay_to,claude
+Con chim ở trên mái nhà là con gì vậy,con chim,con_vat,claude
+Cái balo của em có đang mở khóa kéo không ạ?,cái balo,quan_ao,claude
+ừ thì cái cái hộp này hộp gì vậy ta,cái hộp,asr,claude
+à ờ mình muốn hỏi là cái chai trên bàn ấy nó là chai gì,cái chai,asr,claude
+đọc giùm cái cái tờ giấy này cái,tờ giấy,asr,claude
+hina hina ơi con chó nó đang ở đâu rồi,con chó,asr,claude
+ờm bạn ơi cho mình hỏi cái áo mình đang mặc nó màu gì thế,cái áo,asr,claude
+cái ly cái ly nước của tôi để đâu rồi nhỉ,cái ly nước,asr,claude
+nãy giờ mình tìm hoài không thấy cái chìa khóa xe không biết nó có nằm trên bàn không,cái chìa khóa xe,dai_dong,claude
+tui mới đi chợ về mua được bó rau mà không biết rau này còn tươi hông bạn coi giùm,bó rau,dai_dong,claude
+hôm qua con gái tôi để lại một tờ giấy trên tủ lạnh nhưng tôi không đọc được bạn đọc giúp tôi với,tờ giấy,dai_dong,claude
+bà ngoại tôi gửi cho tôi một gói quà tôi muốn biết bên ngoài gói quà có ghi gì không,gói quà,dai_dong,claude
+lúc nãy có người gõ cửa rồi để lại cái hộp trước cửa cái hộp đó có ghi tên ai không,cái hộp,dai_dong,claude
+tôi đang đứng ở bến xe mà không biết chiếc xe trước mặt có phải xe đi đà lạt không,chiếc xe,dai_dong,claude
+cái này là cái gì dzậy,,phuong_ngu,claude
+cái bình nước nè còn nước hông,cái bình nước,phuong_ngu,claude
+coi giùm tui con mèo nó nằm chỗ nào dị,con mèo,phuong_ngu,claude
+cái đồng hồ trên vách mấy giờ rồi bây,cái đồng hồ,phuong_ngu,claude
+trái xoài ni chín chưa rứa,trái xoài,phuong_ngu,claude
+cái nồi ni nấu xong chưa hè,cái nồi,phuong_ngu,claude
+coi thử cái bao gạo ni còn nhiều không ri,cái bao gạo,phuong_ngu,claude
+đọc cho tau cái tờ lịch ni hôm ni ngày mấy,tờ lịch,phuong_ngu,claude
+cái ghế nhựa ở đằng nớ có ai ngồi chưa,cái ghế nhựa,phuong_ngu,claude
+mấy cái chén trong rổ rửa sạch chưa mậy,mấy cái chén,phuong_ngu,claude
+check giùm mình cái bill này tổng bao nhiêu tiền,cái bill,tron_anh,claude
+cái remote máy lạnh để đâu rồi,cái remote máy lạnh,tron_anh,claude
+đọc giùm cái menu này có món nào vegan không,cái menu,tron_anh,claude
+cái laptop của mình đang sạc pin không,cái laptop,tron_anh,claude
+cái mask mình đang đeo có bị lộn mặt không,cái mask,tron_anh,claude
+đọc giúp tôi cái note dán trên màn hình,cái note,tron_anh,claude
+cái app trên điện thoại đang báo gì vậy,điện thoại,tron_anh,claude
+cái voucher này hết hạn chưa,cái voucher,tron_anh,claude
+màn hình tivi đang chiếu phim gì vậy,màn hình tivi,thiet_bi,claude
+đọc thông báo trên điện thoại cho tôi,điện thoại,thiet_bi,claude
+cái máy giặt chạy xong chưa,cái máy giặt,thiet_bi,claude
+cái bếp từ đang để mức mấy,cái bếp từ,thiet_bi,claude
+đèn báo trên cục sạc màu gì,cục sạc,thiet_bi,claude
+cái router wifi có đèn đỏ không,cái router wifi,tron_anh,claude
+đọc số trên cái cân này giúp tôi,cái cân,thiet_bi,claude
+đọc hướng dẫn trên vỉ thuốc này,vỉ thuốc,thuoc,claude
+lọ thuốc ho này uống mấy lần một ngày,lọ thuốc ho,thuoc,claude
+hộp thuốc của ông còn mấy viên,hộp thuốc,thuoc,claude
+cái đơn thuốc bác sĩ ghi cho tôi uống thuốc gì,cái đơn thuốc,thuoc,claude
+túi thuốc này của ai vậy có ghi tên không,túi thuốc,thuoc,claude
+chai dầu gió này còn nhiều không,chai dầu gió,thuoc,claude
+ông già ngồi ghế đá kia đang đọc báo hả,ông già,nguoi,claude
+cô gái tóc dài ngồi bàn bên kia có phải chị lan không,cô gái,nguoi,claude
+mấy đứa nhỏ ngoài sân đang chơi gì mà ồn quá,mấy đứa nhỏ,nguoi,claude
+có ai đang đứng sau lưng tôi không,,khong_vat,claude
+anh nhân viên giao hàng đến chưa,anh nhân viên giao hàng,nguoi,claude
+người đứng trước mặt tôi mặc đồng phục gì,người,nguoi,claude
+thằng cu nhà tôi đang làm gì trong phòng,thằng cu,nguoi,claude
+con chó đen ngoài cổng có đang sủa không,con chó,con_vat,claude
+con cá vàng trong bể còn sống không,con cá vàng,con_vat,claude
+con chim trong lồng có nước uống chưa,con chim,con_vat,claude
+có con gì đang bò trên tay tôi vậy,,khong_vat,claude
+con thạch sùng trên tường kìa nó to không,con thạch sùng,con_vat,claude
+bánh mì trên bàn còn ăn được không,bánh mì,do_an,claude
+tô cơm của tôi có cá hay thịt,tô cơm,do_an,claude
+hộp sữa chua này hết hạn chưa,hộp sữa chua,do_an,claude
+đọc thành phần trên bịch snack này,bịch snack,tron_anh,claude
+trái chuối này chín quá chưa,trái chuối,do_an,claude
+nồi cơm điện đã nhảy nút chưa,nồi cơm điện,do_gia_dung,claude
+cốc nước trên bàn là nước lọc hay nước ngọt,cốc nước,do_an,claude
+trời ngoài kia có mưa không,trời,thien_nhien,claude
+ngoài kia trời tối chưa,trời,thien_nhien,claude
+hôm nay trời nắng hay râm,trời,thien_nhien,claude
+cây mai trước nhà nở hoa chưa,cây mai,thien_nhien,claude
+đường phía trước có bị kẹt xe không,,khong_vat,claude
+đèn giao thông bên kia đường đang màu gì,đèn giao thông,canh_vat,claude
+vạch qua đường ở đâu vậy,vạch qua đường,canh_vat,claude
+trước mặt có bậc thang không,bậc thang,ton_tai,claude
+cửa thang máy mở chưa,cửa thang máy,canh_vat,claude
+biển tên đường ở góc này ghi gì,biển tên đường,canh_vat,claude
+có cột điện nào trước mặt tôi không,cột điện,ton_tai,claude
+trên bàn có cái điện thoại nào không,cái điện thoại,ton_tai,claude
+trong túi tôi còn tờ tiền nào không,tờ tiền,ton_tai,claude
+dưới ghế có rơi cái gì không,,khong_vat,claude
+trong tủ còn sữa không,sữa,ton_tai,claude
+đọc to giùm,,khong_vat,claude
+cái này ghi gì,,khong_vat,claude
+xung quanh có gì không,,khong_vat,claude
+mô tả giúp tôi chỗ này,,khong_vat,claude
+trước mặt có gì thế,,khong_vat,claude
+cái áo với cái quần này mặc chung được không,cái áo,hai_vat,claude
+giữa cái ly xanh với ly đỏ ly nào đầy hơn,cái ly xanh,hai_vat,claude
+chữ trên nắp hộp sữa ghi gì,hộp sữa,hai_vat,claude
+giá tiền trên cái nhãn của đôi giày này bao nhiêu,đôi giày,hai_vat,claude
+số điện thoại trên cái danh thiếp này là số mấy,cái danh thiếp,hai_vat,claude

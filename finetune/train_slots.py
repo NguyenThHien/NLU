@@ -6,6 +6,8 @@ VnCoreNLP (nhãn từ = nhãn âm tiết đầu) để khớp đầu vào lúc d
 
 import argparse
 import json
+import random
+from pathlib import Path
 
 import numpy as np
 from datasets import Dataset
@@ -28,6 +30,7 @@ from common import (
     bio_spans,
     encode_words,
 )
+from augment import augment
 from train import build_training_args
 
 SPLITS = {"train": "train", "validation": "val", "test": "test"}
@@ -50,10 +53,19 @@ def align_to_words(syllables, syllable_tags, segmenter):
     return words, word_tags, crossing
 
 
-def load_split(name, segmenter, tokenizer, smoke):
-    rows = [json.loads(line) for line in (ROOT_DIR / "dataset" / f"{name}.jsonl").open(encoding="utf-8")]
+def load_split(path, segmenter, tokenizer, smoke, augment_fraction=0.0):
+    rows = [json.loads(line) for line in path.open(encoding="utf-8")]
     if smoke:
         rows = rows[:16]
+    if augment_fraction:
+        rng = random.Random(SEED)
+        extra = []
+        for row in rows:
+            if row["tags"] and rng.random() < augment_fraction:
+                tokens, tags = augment(row["tokens"], row["tags"], rng)
+                extra.append({"tokens": tokens, "tags": tags})
+        print(f"{path.name}: thêm {len(extra)} câu tăng cường")
+        rows = rows + extra
 
     records, skipped, crossing, total_words = [], 0, 0, 0
     for row in rows:
@@ -71,7 +83,7 @@ def load_split(name, segmenter, tokenizer, smoke):
             labels[position] = SLOT_LABEL2ID[tag]
         records.append({"input_ids": input_ids, "labels": labels})
 
-    print(f"{name}: {len(records)} câu, bỏ {skipped} câu lệch âm tiết, "
+    print(f"{path.name}: {len(records)} câu, bỏ {skipped} câu lệch âm tiết, "
           f"{crossing}/{total_words} từ cắt ngang ranh giới slot ({crossing / max(total_words, 1):.2%})")
     return Dataset.from_list(records)
 
@@ -112,6 +124,9 @@ def main():
     parser = argparse.ArgumentParser(description="Fine-tune PhoBERT gán nhãn slot.")
     parser.add_argument("--smoke", action="store_true", help="Chạy thử 2 bước.")
     parser.add_argument("--run-name", default="phobert_slots", help="Thư mục con trong outputs/.")
+    parser.add_argument("--augment", type=float, default=0.0,
+                        help="Tỉ lệ câu train được thêm bản tăng cường (vd 0.5). Chỉ áp cho train.")
+    parser.add_argument("--data-dir", default=str(ROOT_DIR / "dataset"), help="Thư mục chứa train/val/test.jsonl.")
     args = parser.parse_args()
     set_seed(SEED)
 
@@ -119,7 +134,9 @@ def main():
     tokenizer = AutoTokenizer.from_pretrained(str(BASE_MODEL_DIR), use_fast=False, local_files_only=True)
 
     with VnCoreNLP(str(VNCORENLP_JAR), annotators="wseg", max_heap_size="-Xmx1g") as segmenter:
-        datasets = {split: load_split(name, segmenter, tokenizer, args.smoke) for split, name in SPLITS.items()}
+        datasets = {split: load_split(Path(args.data_dir) / f"{name}.jsonl", segmenter, tokenizer, args.smoke,
+                                   args.augment if split == "train" else 0.0)
+                    for split, name in SPLITS.items()}
 
     model = AutoModelForTokenClassification.from_pretrained(
         str(BASE_MODEL_DIR),

@@ -18,3 +18,7 @@ outputs/smoke_test/
 outputs/**/*.safetensors
 outputs/**/*.pt
 outputs/**/*.bin
+
+# Data slot sinh tự động (apply_label_fixes / merge_slot_drafts / split_slots) và log
+dataset/slots_*/
+outputs/*.log

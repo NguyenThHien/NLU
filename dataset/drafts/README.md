@@ -41,3 +41,30 @@ test thì hai bộ cùng một văn phong, nên điểm trên bộ thử thách 
 
 So sánh lại bằng:
 `python finetune/compare_models.py --data dataset/drafts/challenge_draft.csv --models <model1> <model2>`
+
+## Nháp slot vật thể: `slot_objects_draft.csv` (213 câu, AI sinh)
+
+Bổ sung nhóm vật thể thiếu trong data gốc (gốc chỉ có 250 vật, chủ yếu giấy tờ và biển bảng):
+`nguoi`, `con_vat`, `xe`, `do_an`, `quan_ao`, `do_gia_dung`. Đã bỏ câu có vật thể trùng test.
+
+Cột slot là cụm cắt nguyên văn từ `text`; nhiều OBJECT ngăn bằng `|`. Quy ước theo data gốc:
+- OBJECT **không** kèm từ chỉ định: "cái áo này" → `cái áo`.
+- ATTRIBUTE: câu "có X không" → `X`; câu có từ hỏi → cụm hỏi (`màu gì`, `ở đâu`).
+
+`review` hiện là `ok_ai` (chỉ để train thử `phobert_slots_v2`). **Người cần duyệt lại** trước khi dùng v2
+thật: sửa cột slot nếu cắt sai, hoặc `xoa`. Sau đó gộp lại:
+`python finetune/merge_slot_drafts.py --draft dataset/drafts/slot_objects_draft.csv --name slots_v2`
+
+## Nháp slot đợt 2: `slot_objects_draft2.csv` (116 câu, AI sinh)
+Nhóm: `canh_vat` (vạch kẻ đường, ổ gà…), `thien_nhien`, `do_an`, `nguoi_vi_tri` (quy tắc O5), `hai_vat` (O6–O8).
+Gán theo `dataset/LABELING_GUIDE.md`. Đã bỏ vật thể trùng test gốc và val/test của `dataset/slots_split`.
+
+## Sửa nhãn data gốc: `label_fixes.csv`
+Sinh bởi `python finetune/check_labels.py`: 195 chỗ vi phạm guideline (O4 = OBJECT gộp cụm vị trí,
+L1 = LOCATION thiếu đại từ, O2 = OBJECT kèm từ chỉ định). Cột `suggestion` là gợi ý tự động;
+người duyệt điền `review`: `ok` (theo gợi ý) / cách gán đúng / `giu` (nhãn cũ đúng).
+
+## Bộ test do người viết: `human_test_template.csv`
+**Người trong nhóm tự viết** 50–100 câu (không dùng AI), giống cách người dùng thật nói với Hina: có dấu câu, nói vòng,
+vật thể đa dạng. `target_obj` để trống nếu câu không nhắc vật. Không được đưa bộ này vào train.
+Chấm: `python finetune/eval_slots.py --data dataset/drafts/human_test.csv --models <model...>`

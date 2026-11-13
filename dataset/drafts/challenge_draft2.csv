@@ -1,0 +1,66 @@
+﻿text,label,error_type
+thôi,END_SESSION,end_short
+được rồi cảm ơn nhé,END_SESSION,end_short
+ok xong,END_SESSION,end_short
+hết việc rồi,END_SESSION,end_short
+không cần nữa đâu,END_SESSION,end_short
+thoi tat di,END_SESSION,end_nodau
+ket thuc nhe,END_SESSION,end_nodau
+tạm biệt nha em,END_SESSION,end_short
+mình đi đây hẹn gặp lại,END_SESSION,end_implicit
+tôi tự xoay xở được rồi bạn nghỉ đi,END_SESSION,end_implicit
+cám ơn hina hôm nay vậy là đủ,END_SESSION,end_implicit
+đủ rồi không cần đọc thêm đâu,END_SESSION,end_implicit
+tôi tới nơi rồi tắt đi,END_SESSION,end_implicit
+cảm ơn bạn đã đọc giúp tôi,END_SESSION,end_implicit
+đọc xong rồi thì đóng app luôn,END_SESSION,end_multi
+mô tả nốt căn phòng rồi tắt nhé,DESCRIBE_SCENE,end_multi
+đừng tắt vội,UNKNOWN,end_negation
+chưa xong đâu đừng thoát,UNKNOWN,end_negation
+khoan đã tôi chưa muốn kết thúc,UNKNOWN,end_negation
+tắt đèn phòng khách giùm,UNKNOWN,unk_action
+hủy đơn hàng shopee hôm qua,UNKNOWN,unk_action
+kết thúc cuộc gọi với mẹ,UNKNOWN,unk_action
+bạn tên gì,UNKNOWN,unk_chitchat
+hôm nay bạn khỏe không,UNKNOWN,unk_chitchat
+mấy giờ rồi,UNKNOWN,unk_chitchat
+ừ,UNKNOWN,unk_chitchat
+bạn nghe tôi nói không,UNKNOWN,unk_chitchat
+đặt báo thức 6 giờ sáng,UNKNOWN,unk_action
+gọi taxi về nhà,UNKNOWN,unk_action
+mở nhạc trịnh công sơn,UNKNOWN,unk_action
+đọc tin tức hôm nay,UNKNOWN,unk_read_kw
+đọc truyện cổ tích cho cháu nghe,UNKNOWN,unk_read_kw
+đọc lại tin nhắn cuối của con gái,UNKNOWN,unk_read_kw
+tả con mèo nhà hàng xóm cho tôi nghe đi,UNKNOWN,unk_scene_kw
+hồ gươm trông như thế nào,UNKNOWN,unk_scene_kw
+cái bàn nhà tôi màu gì bạn nhớ không,UNKNOWN,unk_avq_kw
+thuốc hạ sốt uống mấy viên,UNKNOWN,unk_avq_kw
+con chó bị nôn thì làm sao,UNKNOWN,unk_avq_kw
+1 cộng 1 bằng mấy,UNKNOWN,unk_avq_kw
+asdfgh,UNKNOWN,unk_noise
+... ,UNKNOWN,unk_noise
+cái này là gì,ANSWER_VISUAL_QUESTION,avq_short
+màu gì vậy,ANSWER_VISUAL_QUESTION,avq_short
+còn hạn không,ANSWER_VISUAL_QUESTION,avq_short
+bao nhiêu tiền,ANSWER_VISUAL_QUESTION,avq_short
+cái nào là muối cái nào là đường,ANSWER_VISUAL_QUESTION,avq_short
+cai nay mau gi,ANSWER_VISUAL_QUESTION,avq_nodau
+trc mat co ai ko,ANSWER_VISUAL_QUESTION,avq_nodau
+áo này với quần này có hợp nhau không,ANSWER_VISUAL_QUESTION,avq_judge
+tôi cầm đúng hộp sữa chưa,ANSWER_VISUAL_QUESTION,avq_judge
+đèn giao thông đang xanh hay đỏ,ANSWER_VISUAL_QUESTION,avq_judge
+có bậc thang phía trước không,ANSWER_VISUAL_QUESTION,avq_judge
+người đứng trước tôi đang làm gì,ANSWER_VISUAL_QUESTION,avq_judge
+miếng thịt này còn tươi không,ANSWER_VISUAL_QUESTION,avq_judge
+tờ tiền này mệnh giá bao nhiêu,ANSWER_VISUAL_QUESTION,avq_vs_read
+trên lọ thuốc ghi uống mấy viên,ANSWER_VISUAL_QUESTION,avq_vs_read
+hạn sử dụng hộp sữa là ngày nào,ANSWER_VISUAL_QUESTION,avq_vs_read
+số nhà trước mặt là số mấy,ANSWER_VISUAL_QUESTION,avq_vs_read
+xe buýt vừa tới là tuyến số mấy,ANSWER_VISUAL_QUESTION,avq_vs_read
+trong phòng có mấy cái ghế,ANSWER_VISUAL_QUESTION,avq_vs_scene
+phía trước có gì cản đường không,ANSWER_VISUAL_QUESTION,avq_vs_scene
+ở đây có chỗ ngồi trống không,ANSWER_VISUAL_QUESTION,avq_vs_scene
+nhìn xem tôi đang ở đâu,DESCRIBE_SCENE,ctrl
+đọc cái nhãn này,READ_TEXT,ctrl
+đọc giúp tờ giấy,READ_TEXT,ctrl

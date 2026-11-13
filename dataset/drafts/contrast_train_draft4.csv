@@ -1,0 +1,117 @@
+﻿text,label,label_id,error_type,review,source
+phía trước có gì chắn lối không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+trước mặt có gì cản không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+đường đi có gì chặn ngang không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+có gì cản trước mặt tôi không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+lối ra có gì chắn không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+bên phải có gì vướng chân không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+dưới đất có gì trơn không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+trước xe lăn có gì cản không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+có gì chắn cửa không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+hành lang có gì bày bừa không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+trên lối đi có gì nhô ra không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+phía trên có gì treo thấp không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+cầu thang có gì để trên bậc không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+có gì sắc nhọn gần tay tôi không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+quanh chân tôi có gì dễ vấp không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+trước mặt có gì đang chuyển động không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+bên cạnh có gì đang cháy không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+trên bếp có gì đang nấu không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+trong ly có gì không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+trong hộp có gì không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+trên bàn có gì đổ ra không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+sau cánh cửa có gì không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+trên giường có gì không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+đường trước mặt có thông không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+lối đi bên trái có trống không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+tôi đi thẳng được không có vướng gì không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+bước tiếp có đụng gì không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+vỉa hè này có bị chiếm không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+có ai chắn lối không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+có xe nào chắn trước cổng không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+phía trước có gì nói tôi nghe,DESCRIBE_SCENE,2,Q_canh_vs_hoi,ok_ai,claude_draft
+trước mặt có những gì,DESCRIBE_SCENE,2,Q_canh_vs_hoi,ok_ai,claude_draft
+bên phải tôi có gì vậy,DESCRIBE_SCENE,2,Q_canh_vs_hoi,ok_ai,claude_draft
+đằng trước là gì,DESCRIBE_SCENE,2,Q_canh_vs_hoi,ok_ai,claude_draft
+xung quanh chân tôi có những gì,DESCRIBE_SCENE,2,Q_canh_vs_hoi,ok_ai,claude_draft
+trong phòng này có gì,DESCRIBE_SCENE,2,Q_canh_vs_hoi,ok_ai,claude_draft
+hành lang này có gì kể đi,DESCRIBE_SCENE,2,Q_canh_vs_hoi,ok_ai,claude_draft
+ngoài sân có gì,DESCRIBE_SCENE,2,Q_canh_vs_hoi,ok_ai,claude_draft
+lối đi này trông ra sao,DESCRIBE_SCENE,2,Q_canh_vs_hoi,ok_ai,claude_draft
+cái bàn ở nhà tôi làm bằng gì,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+bàn ăn nhà tôi mấy chỗ ngồi,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+tủ lạnh nhà tôi hãng gì,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+nhà tôi cửa màu gì bạn biết không,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+bạn nhớ phòng tôi có gì không,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+bạn có nhớ hôm qua tôi cầm gì không,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+bạn còn nhớ cái hộp lúc sáng không,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+cái áo tôi hỏi lần trước là màu gì,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+lúc nãy tôi cho bạn xem cái gì ấy nhỉ,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+hôm qua bạn tả căn phòng nào thế,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+cái ghế ở văn phòng tôi màu gì,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+xe đạp của con tôi màu gì bạn nhớ không,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+bạn nhớ mặt chồng tôi không,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+túi xách tôi hay dùng màu gì,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+đôi giày tôi để ở nhà màu gì,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+cái cốc tôi thích có hình gì,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+bạn biết nhà tôi mấy tầng không,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+phòng khách nhà bố mẹ tôi rộng không,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+sân nhà tôi có cây gì,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+mèo nhà tôi mắt màu gì bạn nhớ chứ,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+cái đồng hồ tôi làm mất trông thế nào,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+bàn học của con gái tôi có gọn không,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+bạn còn nhớ biển số xe tôi không,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+cái chăn ở nhà màu gì ta,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+hồi sáng tôi mặc áo gì ấy nhỉ,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+tuần trước bạn đọc cho tôi tờ giấy gì,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+nhà hàng xóm tôi sơn màu gì,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+cái bàn tôi đặt mua trên mạng màu gì,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+bạn nhớ tôi để chìa khóa ở đâu không,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+quán quen của tôi biển hiệu màu gì,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+cái bàn này làm bằng gì,ANSWER_VISUAL_QUESTION,3,U_tri_nho,ok_ai,claude_draft
+bàn ăn này mấy chỗ ngồi,ANSWER_VISUAL_QUESTION,3,U_tri_nho,ok_ai,claude_draft
+tủ lạnh này hãng gì,ANSWER_VISUAL_QUESTION,3,U_tri_nho,ok_ai,claude_draft
+cái ghế trước mặt màu gì,ANSWER_VISUAL_QUESTION,3,U_tri_nho,ok_ai,claude_draft
+túi xách tôi đang đeo màu gì,ANSWER_VISUAL_QUESTION,3,U_tri_nho,ok_ai,claude_draft
+đôi giày dưới chân tôi màu gì,ANSWER_VISUAL_QUESTION,3,U_tri_nho,ok_ai,claude_draft
+cái cốc này có hình gì,ANSWER_VISUAL_QUESTION,3,U_tri_nho,ok_ai,claude_draft
+ngôi nhà trước mặt mấy tầng,ANSWER_VISUAL_QUESTION,3,U_tri_nho,ok_ai,claude_draft
+con mèo này mắt màu gì,ANSWER_VISUAL_QUESTION,3,U_tri_nho,ok_ai,claude_draft
+cái đồng hồ tôi đang đeo trông thế nào,ANSWER_VISUAL_QUESTION,3,U_tri_nho,ok_ai,claude_draft
+cái chăn này màu gì,ANSWER_VISUAL_QUESTION,3,U_tri_nho,ok_ai,claude_draft
+cái bàn trước mặt tôi màu gì,ANSWER_VISUAL_QUESTION,3,U_tri_nho,ok_ai,claude_draft
+cửa này màu gì bạn thấy không,ANSWER_VISUAL_QUESTION,3,U_tri_nho,ok_ai,claude_draft
+bạn thấy tôi đang cầm gì không,ANSWER_VISUAL_QUESTION,3,U_tri_nho,ok_ai,claude_draft
+tờ rơi này có gì,READ_TEXT,1,R_co_gi,ok_ai,claude_draft
+trên hóa đơn có gì vậy,READ_TEXT,1,R_co_gi,ok_ai,claude_draft
+tấm thiệp tôi đang cầm có gì,READ_TEXT,1,R_co_gi,ok_ai,claude_draft
+nhãn chai dầu gội có gì đó,READ_TEXT,1,R_co_gi,ok_ai,claude_draft
+trên bìa hộp sữa có gì,READ_TEXT,1,R_co_gi,ok_ai,claude_draft
+tờ lịch trên tường có gì,READ_TEXT,1,R_co_gi,ok_ai,claude_draft
+giấy mời này có gì thế,READ_TEXT,1,R_co_gi,ok_ai,claude_draft
+trên phiếu khám có gì,READ_TEXT,1,R_co_gi,ok_ai,claude_draft
+bảng giá trước quầy có gì,READ_TEXT,1,R_co_gi,ok_ai,claude_draft
+biển tên phố kia có gì,READ_TEXT,1,R_co_gi,ok_ai,claude_draft
+tờ đơn thuốc này có gì bạn,READ_TEXT,1,R_co_gi,ok_ai,claude_draft
+trên vé xe có gì,READ_TEXT,1,R_co_gi,ok_ai,claude_draft
+thẻ nhân viên này có gì,READ_TEXT,1,R_co_gi,ok_ai,claude_draft
+bìa cuốn truyện có gì,READ_TEXT,1,R_co_gi,ok_ai,claude_draft
+tờ báo trên bàn có gì,READ_TEXT,1,R_co_gi,ok_ai,claude_draft
+bảng chỉ dẫn phía trước có gì,READ_TEXT,1,R_co_gi,ok_ai,claude_draft
+trên tem dán ở hộp có gì,READ_TEXT,1,R_co_gi,ok_ai,claude_draft
+tờ giấy dán trong thang máy có gì,READ_TEXT,1,R_co_gi,ok_ai,claude_draft
+ngoài phong bì có gì,READ_TEXT,1,R_co_gi,ok_ai,claude_draft
+trên tấm băng rôn có chi rứa,READ_TEXT,1,R_co_gi,ok_ai,claude_draft
+tờ nội quy treo ở cổng có gì hả,READ_TEXT,1,R_co_gi,ok_ai,claude_draft
+trên màn hình cây atm có gì,READ_TEXT,1,R_co_gi,ok_ai,claude_draft
+giấy hẹn bác sĩ đưa có gì,READ_TEXT,1,R_co_gi,ok_ai,claude_draft
+bảng tên trước phòng có gì vậy,READ_TEXT,1,R_co_gi,ok_ai,claude_draft
+trên nhãn gói mì có chi,READ_TEXT,1,R_co_gi,ok_ai,claude_draft
+cho tôi tắt đi,END_SESSION,4,E_cho_thoat,ok_ai,claude_draft
+cho bác nghỉ ở đây,END_SESSION,4,E_cho_thoat,ok_ai,claude_draft
+cho mình dừng nhé,END_SESSION,4,E_cho_thoat,ok_ai,claude_draft
+cho em kết thúc,END_SESSION,4,E_cho_thoat,ok_ai,claude_draft
+cho ông thoát,END_SESSION,4,E_cho_thoat,ok_ai,claude_draft
+cho chị đóng phiên,END_SESSION,4,E_cho_thoat,ok_ai,claude_draft
+cho tui tắt máy,END_SESSION,4,E_cho_thoat,ok_ai,claude_draft
+cho con nghỉ thôi,END_SESSION,4,E_cho_thoat,ok_ai,claude_draft

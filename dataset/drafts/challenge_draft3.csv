@@ -1,0 +1,31 @@
+﻿text,label,label_id,error_type
+lối này có gì chặn không,ANSWER_VISUAL_QUESTION,3,canh_vs_hoi
+dưới chân có gì vướng không,ANSWER_VISUAL_QUESTION,3,canh_vs_hoi
+bên trái có gì nguy hiểm không,ANSWER_VISUAL_QUESTION,3,canh_vs_hoi
+trên bàn có gì dễ vỡ không,ANSWER_VISUAL_QUESTION,3,canh_vs_hoi
+có gì nằm giữa lối đi không,ANSWER_VISUAL_QUESTION,3,canh_vs_hoi
+đằng trước có gì đang chạy tới không,ANSWER_VISUAL_QUESTION,3,canh_vs_hoi
+trên đầu có gì thấp không,ANSWER_VISUAL_QUESTION,3,canh_vs_hoi
+sau lưng tôi có gì không,ANSWER_VISUAL_QUESTION,3,canh_vs_hoi
+đường phía trước có trống không,ANSWER_VISUAL_QUESTION,3,canh_vs_hoi
+có gì trên ghế này không,ANSWER_VISUAL_QUESTION,3,canh_vs_hoi
+phía trước có gì,DESCRIBE_SCENE,2,canh_vs_hoi
+bên trái tôi có những gì,DESCRIBE_SCENE,2,canh_vs_hoi
+trước mặt là gì thế,DESCRIBE_SCENE,2,canh_vs_hoi
+đằng sau có gì kể xem,DESCRIBE_SCENE,2,canh_vs_hoi
+dưới sân có những gì,DESCRIBE_SCENE,2,canh_vs_hoi
+cái tủ nhà tôi màu gì bạn nhớ không,UNKNOWN,5,tri_nho
+ghế sofa phòng khách nhà tôi màu gì,UNKNOWN,5,tri_nho
+bạn còn nhớ cái áo tôi hỏi hôm qua màu gì không,UNKNOWN,5,tri_nho
+xe máy của tôi màu gì ấy nhỉ,UNKNOWN,5,tri_nho
+cửa nhà mẹ tôi sơn màu gì,UNKNOWN,5,tri_nho
+con tôi hôm nay đi học mặc áo gì,UNKNOWN,5,tri_nho
+cái cặp tôi mất hôm nọ hình dáng thế nào,UNKNOWN,5,tri_nho
+bàn làm việc ở công ty tôi có mấy ngăn,UNKNOWN,5,tri_nho
+lúc sáng bạn thấy gì ở bếp,UNKNOWN,5,tri_nho
+hôm kia tôi hỏi bạn hộp thuốc gì thế,UNKNOWN,5,tri_nho
+cái bàn này màu gì,ANSWER_VISUAL_QUESTION,3,tri_nho
+ghế sofa trước mặt màu gì,ANSWER_VISUAL_QUESTION,3,tri_nho
+cái cặp trên ghế hình dáng thế nào,ANSWER_VISUAL_QUESTION,3,tri_nho
+xe máy đang dựng kia màu gì,ANSWER_VISUAL_QUESTION,3,tri_nho
+cửa nhà này sơn màu gì,ANSWER_VISUAL_QUESTION,3,tri_nho

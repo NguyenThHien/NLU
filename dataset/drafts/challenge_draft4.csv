@@ -1,0 +1,18 @@
+﻿text,label,label_id,error_type
+Có 5 con chó ở phía trước,UNKNOWN,5,khang_dinh
+phía trước có một cái ghế,UNKNOWN,5,khang_dinh
+cái áo này màu đỏ,UNKNOWN,5,khang_dinh
+trên bàn có hai cái cốc,UNKNOWN,5,khang_dinh
+tôi đang cầm hộp sữa,UNKNOWN,5,khang_dinh
+tờ giấy này ghi địa chỉ nhà tôi,UNKNOWN,5,khang_dinh
+xung quanh đây đông người lắm,UNKNOWN,5,khang_dinh
+căn phòng này rộng thật,UNKNOWN,5,khang_dinh
+đèn đang đỏ,UNKNOWN,5,khang_dinh
+tôi thấy có người đứng trước cửa,UNKNOWN,5,khang_dinh
+trời hôm nay đẹp quá,UNKNOWN,5,khang_dinh
+con mèo đang nằm trên ghế,UNKNOWN,5,khang_dinh
+có mấy con chó ở phía trước,ANSWER_VISUAL_QUESTION,3,khang_dinh
+phía trước có cái ghế nào không,ANSWER_VISUAL_QUESTION,3,khang_dinh
+cái áo này màu đỏ phải không,ANSWER_VISUAL_QUESTION,3,khang_dinh
+đèn đang đỏ à,ANSWER_VISUAL_QUESTION,3,khang_dinh
+con mèo đang nằm ở đâu,ANSWER_VISUAL_QUESTION,3,khang_dinh

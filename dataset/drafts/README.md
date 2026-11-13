@@ -68,3 +68,27 @@ người duyệt điền `review`: `ok` (theo gợi ý) / cách gán đúng / `g
 **Người trong nhóm tự viết** 50–100 câu (không dùng AI), giống cách người dùng thật nói với Hina: có dấu câu, nói vòng,
 vật thể đa dạng. `target_obj` để trống nếu câu không nhắc vật. Không được đưa bộ này vào train.
 Chấm: `python finetune/eval_slots.py --data dataset/drafts/human_test.csv --models <model...>`
+
+## Đợt 2: `contrast_train_draft2.csv` (126 câu, train) + `challenge_draft2.csv` (65 câu, chỉ đánh giá)
+
+AI sinh, `review` **để trống** — cần người duyệt. Đã bỏ câu trùng với `dataset/v3`.
+Nền v3 trên `challenge_draft2.csv`: accuracy 84,6%, macro-F1 78,7%.
+
+| `error_type` | Lỗi của v3 | Quy ước nhãn đề xuất (cần nhóm chốt) |
+|---|---|---|
+| `E_phu_dinh` | "đừng tắt", "khoan kết thúc" → `END_SESSION` | Phủ định yêu cầu kết thúc → `UNKNOWN` (giữ phiên). Có kèm yêu cầu khác → nhãn của yêu cầu đó |
+| `E_ghep` | "mô tả … rồi tắt" → `END_SESSION` | Làm X rồi kết thúc → nhãn của X (giống "khoan kết thúc, mô tả … đã") |
+| `Q_ngan` | "bao nhiêu tiền", "cái nào là muối" → `UNKNOWN` | Câu hỏi ngắn có chỉ định ngầm vật trước camera → `ANSWER_VISUAL_QUESTION` |
+| `Q_khong_dau` | "cai nay mau gi" → `DESCRIBE_SCENE` | Theo nghĩa câu (train cũ chỉ có 6 câu không dấu, đều `END_SESSION`) |
+| `Q_canh_vs_hoi` | "phía trước có gì cản đường không" → `DESCRIBE_SCENE` | Hỏi có/không hoặc một chi tiết → `ANSWER_VISUAL_QUESTION`; tả tổng thể → `DESCRIBE_SCENE` |
+| `U_tri_nho` | "cái bàn nhà tôi màu gì bạn nhớ không" → `ANSWER_VISUAL_QUESTION` | Hỏi vật không ở trước camera / hỏi trí nhớ → `UNKNOWN` |
+
+## Đợt 3: `contrast_train_draft3.csv` (368 câu, train)
+
+Cùng 6 `error_type` và quy ước nhãn như đợt 2; `review` **để trống** — cần người duyệt.
+Đã bỏ câu trùng với `dataset/v3`, hai bộ challenge và hai bản nháp contrast trước.
+
+- `source=claude_draft` (218 câu): AI viết tay theo từng nhóm lỗi.
+- `source=strip_diacritics` (150 câu, nhóm `Q_khong_dau`): bỏ dấu 30 câu/nhãn lấy ngẫu nhiên
+  (`seed=42`) từ `dataset/v3/train.csv`, giữ nguyên nhãn gốc. Nhãn gốc sai thì bản bỏ dấu cũng sai —
+  khi duyệt nên soát cả nhãn, không chỉ cách viết.

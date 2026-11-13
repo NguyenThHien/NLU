@@ -1,0 +1,369 @@
+﻿text,label,label_id,error_type,review,source
+đừng tắt,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+đừng thoát nha,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+khoan đừng đóng,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+chưa tắt được đâu,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+tôi chưa xong đừng kết thúc,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+đừng dừng lại tôi còn hỏi nữa,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+ai bảo tắt đâu,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+tôi có nói thoát đâu,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+không phải kết thúc đâu nhé,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+từ từ đã đừng tắt máy,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+đừng tắt camera nha hina,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+chưa cần kết thúc đâu,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+để yên đấy đừng thoát,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+đừng có đóng phiên của tôi,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+khoan hẵng tắt,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+chờ tí đừng kết thúc vội,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+tôi vẫn còn cần đừng tắt,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+đừng ngắt giữa chừng,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+chưa nghỉ được đâu hina,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+đừng tạm biệt vội tôi còn việc,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+không tắt nhé,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+đừng thoát ứng dụng nha con,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+bác chưa muốn tắt đâu cháu,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+chưa xong việc mà đừng dừng,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+nhầm rồi đừng kết thúc,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+tôi nói nhầm đừng thoát nhé,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+hủy lệnh tắt đi,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+thôi đừng tắt nữa,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+đừng vội chào tôi chưa xong,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+giữ máy đừng tắt,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+cứ để đó chưa cần đóng,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+ê khoan chưa thoát đâu,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+đừng tắt đọc tiếp đi,READ_TEXT,1,E_phu_dinh,ok_ai,claude_draft
+khoan thoát đọc nốt trang này đã,READ_TEXT,1,E_phu_dinh,ok_ai,claude_draft
+chưa tắt đâu đọc lại số điện thoại trên tờ này,READ_TEXT,1,E_phu_dinh,ok_ai,claude_draft
+đừng kết thúc tả tiếp cảnh ngoài sân đi,DESCRIBE_SCENE,2,E_phu_dinh,ok_ai,claude_draft
+khoan đóng đã cho tôi biết quanh đây có gì,DESCRIBE_SCENE,2,E_phu_dinh,ok_ai,claude_draft
+đừng tắt vội xem giúp cái này màu gì,ANSWER_VISUAL_QUESTION,3,E_phu_dinh,ok_ai,claude_draft
+chưa thoát đâu cửa trước mặt đang mở hay đóng,ANSWER_VISUAL_QUESTION,3,E_phu_dinh,ok_ai,claude_draft
+khoan dừng đã trên bàn có điện thoại không,ANSWER_VISUAL_QUESTION,3,E_phu_dinh,ok_ai,claude_draft
+không cần giữ phiên nữa thoát đi,END_SESSION,4,E_phu_dinh,ok_ai,claude_draft
+không đọc nữa tắt giùm,END_SESSION,4,E_phu_dinh,ok_ai,claude_draft
+tôi không hỏi gì thêm đâu kết thúc nhé,END_SESSION,4,E_phu_dinh,ok_ai,claude_draft
+khỏi cần tả nữa dừng ở đây thôi,END_SESSION,4,E_phu_dinh,ok_ai,claude_draft
+không còn gì nữa tạm biệt,END_SESSION,4,E_phu_dinh,ok_ai,claude_draft
+đọc dòng cuối rồi thoát,READ_TEXT,1,E_ghep,ok_ai,claude_draft
+đọc hết trang này rồi tắt nhé,READ_TEXT,1,E_ghep,ok_ai,claude_draft
+đọc tên thuốc xong thì kết thúc,READ_TEXT,1,E_ghep,ok_ai,claude_draft
+đọc biển hiệu này rồi đóng phiên,READ_TEXT,1,E_ghep,ok_ai,claude_draft
+đọc cho bà cái đơn này rồi tắt cũng được,READ_TEXT,1,E_ghep,ok_ai,claude_draft
+đọc nốt số tiền trên hóa đơn là xong,READ_TEXT,1,E_ghep,ok_ai,claude_draft
+đọc giá trên thực đơn xong tôi sẽ thoát,READ_TEXT,1,E_ghep,ok_ai,claude_draft
+trước khi kết thúc đọc lại địa chỉ trên phong bì,READ_TEXT,1,E_ghep,ok_ai,claude_draft
+trước khi tắt đọc dòng chữ in trên hộp,READ_TEXT,1,E_ghep,ok_ai,claude_draft
+lần cuối nhé đọc tấm biển trước mặt,READ_TEXT,1,E_ghep,ok_ai,claude_draft
+tả căn phòng rồi tắt,DESCRIBE_SCENE,2,E_ghep,ok_ai,claude_draft
+mô tả ngoài đường một lượt rồi thoát,DESCRIBE_SCENE,2,E_ghep,ok_ai,claude_draft
+tả cảnh trước mặt xong là kết thúc nhé,DESCRIBE_SCENE,2,E_ghep,ok_ai,claude_draft
+nói qua xung quanh có gì rồi đóng app,DESCRIBE_SCENE,2,E_ghep,ok_ai,claude_draft
+cho tôi biết khung cảnh ở đây rồi tắt cũng được,DESCRIBE_SCENE,2,E_ghep,ok_ai,claude_draft
+lần cuối tả giúp tôi cái công viên này,DESCRIBE_SCENE,2,E_ghep,ok_ai,claude_draft
+trước khi tắt mô tả lại chỗ tôi đang đứng,DESCRIBE_SCENE,2,E_ghep,ok_ai,claude_draft
+trước khi thoát nói xem xung quanh thế nào,DESCRIBE_SCENE,2,E_ghep,ok_ai,claude_draft
+tả nhanh quán cà phê này rồi nghỉ,DESCRIBE_SCENE,2,E_ghep,ok_ai,claude_draft
+xem giúp áo này màu gì rồi tắt,ANSWER_VISUAL_QUESTION,3,E_ghep,ok_ai,claude_draft
+kiểm tra đèn đã tắt chưa rồi thoát,ANSWER_VISUAL_QUESTION,3,E_ghep,ok_ai,claude_draft
+cho hỏi còn mấy quả trứng trong khay rồi kết thúc,ANSWER_VISUAL_QUESTION,3,E_ghep,ok_ai,claude_draft
+xem trước mặt có ai không rồi đóng phiên,ANSWER_VISUAL_QUESTION,3,E_ghep,ok_ai,claude_draft
+hỏi nốt câu này cái ly này sạch chưa,ANSWER_VISUAL_QUESTION,3,E_ghep,ok_ai,claude_draft
+câu cuối cửa hàng này còn mở không,ANSWER_VISUAL_QUESTION,3,E_ghep,ok_ai,claude_draft
+trước khi tắt xem bếp đã khóa ga chưa,ANSWER_VISUAL_QUESTION,3,E_ghep,ok_ai,claude_draft
+trước khi thoát cho biết túi này màu gì,ANSWER_VISUAL_QUESTION,3,E_ghep,ok_ai,claude_draft
+xem giùm đôi dép có cùng đôi không xong thì tắt,ANSWER_VISUAL_QUESTION,3,E_ghep,ok_ai,claude_draft
+đọc xong rồi đó tắt đi,END_SESSION,4,E_ghep,ok_ai,claude_draft
+tả vậy được rồi thoát thôi,END_SESSION,4,E_ghep,ok_ai,claude_draft
+nghe đủ rồi kết thúc nhé,END_SESSION,4,E_ghep,ok_ai,claude_draft
+biết rồi cảm ơn tắt giùm,END_SESSION,4,E_ghep,ok_ai,claude_draft
+trả lời vậy là rõ rồi đóng phiên đi,END_SESSION,4,E_ghep,ok_ai,claude_draft
+xong hết rồi không cần đọc hay tả gì nữa,END_SESSION,4,E_ghep,ok_ai,claude_draft
+tôi hỏi xong rồi tạm biệt hina,END_SESSION,4,E_ghep,ok_ai,claude_draft
+ok hiểu rồi dừng ở đây,END_SESSION,4,E_ghep,ok_ai,claude_draft
+được rồi đọc thế đủ rồi nghỉ thôi,END_SESSION,4,E_ghep,ok_ai,claude_draft
+gì đây,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+cái gì thế,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+đây là gì,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+kia là gì,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+ai vậy,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+ai kia,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+màu gì,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+màu nào đây,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+mấy người,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+có ai không,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+có người không,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+bao nhiêu cái,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+mấy quả,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+đủ đôi chưa,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+cầm đúng chưa,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+lọ nào đây,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+hộp gì đây,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+chai gì thế,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+thuốc gì đây,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+tiền gì đây,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+tờ này bao nhiêu,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+mệnh giá bao nhiêu,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+cái này bao nhiêu,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+món gì đây,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+xe gì kia,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+cây gì đây,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+hoa gì vậy,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+chó hay mèo,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+đỏ hay xanh,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+sống hay chín,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+còn tươi không,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+hỏng chưa,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+rách không,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+có vết bẩn không,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+ướt không,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+khô chưa,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+đầy chưa,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+còn nước không,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+cửa mở không,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+đèn sáng không,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+bếp tắt chưa,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+khóa chưa,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+ủi phẳng chưa,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+cái nào đỏ,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+bên nào là mặt phải,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+áo hay quần,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+dài hay ngắn,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+nhiệt kế này chỉ mấy độ,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+bao nhiêu tuổi,UNKNOWN,5,Q_ngan,ok_ai,claude_draft
+ngoài trời bao nhiêu độ,UNKNOWN,5,Q_ngan,ok_ai,claude_draft
+hôm nay ngày mấy,UNKNOWN,5,Q_ngan,ok_ai,claude_draft
+mai thứ mấy,UNKNOWN,5,Q_ngan,ok_ai,claude_draft
+giá xăng bao nhiêu,UNKNOWN,5,Q_ngan,ok_ai,claude_draft
+vé xe bao nhiêu,UNKNOWN,5,Q_ngan,ok_ai,claude_draft
+ai là thủ tướng,UNKNOWN,5,Q_ngan,ok_ai,claude_draft
+màu gì hợp mệnh thủy,UNKNOWN,5,Q_ngan,ok_ai,claude_draft
+mấy giờ có xe,UNKNOWN,5,Q_ngan,ok_ai,claude_draft
+bao giờ tết,UNKNOWN,5,Q_ngan,ok_ai,claude_draft
+sao cơ,UNKNOWN,5,Q_ngan,ok_ai,claude_draft
+nói lại đi,UNKNOWN,5,Q_ngan,ok_ai,claude_draft
+trước mặt có cột điện không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+bên phải có tường không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+có ai đang đi tới không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+phía trước là đường hay vỉa hè,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+chỗ tôi đứng có mái che không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+trên vỉa hè có xe máy đậu không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+bậc thềm này cao không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+người ngồi đối diện là nam hay nữ,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+em bé kia đang khóc à,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+anh áo đỏ đang cầm cái gì thế,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+bà cụ bên kia đang vẫy tôi phải không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+có mấy xe đang chờ đèn đỏ,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+con chó đằng kia có buộc dây không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+trong phòng đèn đang bật hay tắt,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+cửa sổ đang mở à,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+bàn bên cạnh có người chưa,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+quầy thu ngân ở phía nào,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+nhà vệ sinh bên trái hay bên phải,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+trước cửa có bao nhiêu bậc,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+có vũng nước nào phía trước không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+đường này có đông người không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+chiếc xe trước mặt màu gì,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+ông kia đang đọc báo hay xem điện thoại,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+trên kệ còn hàng không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+thang cuốn đang đi lên hay đi xuống,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+có chỗ nào để vịn tay không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+hàng người phía trước còn dài không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+trời ngoài cửa sổ đang mưa à,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+có biển báo nào gần đây không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+ngoài cửa sổ trông ra sao,DESCRIBE_SCENE,2,Q_canh_vs_hoi,ok_ai,claude_draft
+căn phòng này thế nào tả đi,DESCRIBE_SCENE,2,Q_canh_vs_hoi,ok_ai,claude_draft
+cho tôi biết tổng quan chỗ này,DESCRIBE_SCENE,2,Q_canh_vs_hoi,ok_ai,claude_draft
+ở đây có những thứ gì kể hết xem,DESCRIBE_SCENE,2,Q_canh_vs_hoi,ok_ai,claude_draft
+nói cho tôi nghe mọi thứ bạn thấy,DESCRIBE_SCENE,2,Q_canh_vs_hoi,ok_ai,claude_draft
+trước mặt tôi là gì vậy tả chung chung thôi,DESCRIBE_SCENE,2,Q_canh_vs_hoi,ok_ai,claude_draft
+đường phố lúc này ra sao,DESCRIBE_SCENE,2,Q_canh_vs_hoi,ok_ai,claude_draft
+không gian quán này như thế nào,DESCRIBE_SCENE,2,Q_canh_vs_hoi,ok_ai,claude_draft
+bạn thấy gì thì nói hết đi,DESCRIBE_SCENE,2,Q_canh_vs_hoi,ok_ai,claude_draft
+nhìn một vòng rồi tả cho tôi,DESCRIBE_SCENE,2,Q_canh_vs_hoi,ok_ai,claude_draft
+khung cảnh bên ngoài hôm nay thế nào,DESCRIBE_SCENE,2,Q_canh_vs_hoi,ok_ai,claude_draft
+trong nhà đang bày biện ra sao,DESCRIBE_SCENE,2,Q_canh_vs_hoi,ok_ai,claude_draft
+chỗ này là chỗ nào trông thế nào,DESCRIBE_SCENE,2,Q_canh_vs_hoi,ok_ai,claude_draft
+tả giúp cái chợ tôi đang đứng,DESCRIBE_SCENE,2,Q_canh_vs_hoi,ok_ai,claude_draft
+bao quát xung quanh giúp tôi,DESCRIBE_SCENE,2,Q_canh_vs_hoi,ok_ai,claude_draft
+nhà tôi sơn màu gì,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+phòng ngủ của tôi có mấy cái gối,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+áo hôm qua tôi mua màu gì,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+lần trước bạn tả cái gì nhỉ,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+hồi nãy trên biển ghi gì bạn còn nhớ không,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+tôi để kính ở đâu rồi,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+con gái tôi tóc dài hay ngắn,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+xe của anh tôi biển số bao nhiêu,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+quê tôi có mấy cây cầu,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+cái tủ ở nhà cũ cao bao nhiêu,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+vợ tôi hôm nay mặc gì đi làm,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+bức tranh ở nhà bà ngoại vẽ gì,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+hôm trước bạn đọc hóa đơn hết bao nhiêu tiền,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+con chó nhà bác hàng xóm giống gì,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+trường của cháu tôi sơn màu gì,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+ngày mai tôi nên mặc áo màu gì,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+cái ghế tôi định mua trông ra sao,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+sân bay nội bài trông thế nào,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+tháp eiffel màu gì,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+con hổ có mấy chân,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+lá cờ nhật bản hình gì,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+áo dài truyền thống trông ra sao,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+biển cấm đỗ xe hình dạng thế nào,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+tờ năm trăm nghìn màu gì,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+quả bơ chín thì vỏ màu gì,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+tờ tiền tôi đang cầm màu gì,ANSWER_VISUAL_QUESTION,3,U_tri_nho,ok_ai,claude_draft
+cái tủ trước mặt cao tới đâu,ANSWER_VISUAL_QUESTION,3,U_tri_nho,ok_ai,claude_draft
+cái ghế này trông có chắc không,ANSWER_VISUAL_QUESTION,3,U_tri_nho,ok_ai,claude_draft
+biển báo trước mặt hình gì,ANSWER_VISUAL_QUESTION,3,U_tri_nho,ok_ai,claude_draft
+quả bơ này chín chưa,ANSWER_VISUAL_QUESTION,3,U_tri_nho,ok_ai,claude_draft
+con chó này giống gì,ANSWER_VISUAL_QUESTION,3,U_tri_nho,ok_ai,claude_draft
+bức tranh trên tường vẽ gì,ANSWER_VISUAL_QUESTION,3,U_tri_nho,ok_ai,claude_draft
+lai suat trong hop dong lao dong chau dang gio len la bao nhieu nhi,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,strip_diacritics
+toi dung dung cho xep hang chua vay a,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,strip_diacritics
+nay ban bang menu nay co may loai nuoc,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,strip_diacritics
+em be dang ngu hay thuc,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,strip_diacritics
+tui dang dung cho tui dua dung to nam tram nghin chua,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,strip_diacritics
+doc ma giao dich tren phieu tinh tien tren tay tui,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,strip_diacritics
+giay chuyen vien ni co chi so nao bat thuong khong rua,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,strip_diacritics
+chai dau an voi cai ben canh khac gi nhau ha,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,strip_diacritics
+chu nho qua trong thang may co cho nao ban nuoc khong,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,strip_diacritics
+bang dien tu goi so truoc mat dang de bao nhieu do,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,strip_diacritics
+bang dien tu goi so ngay day dang hien so bao nhieu vay,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,strip_diacritics
+khong co ai de hoi mon re nhat tren to menu tren tay toi la chi,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,strip_diacritics
+theo bang chi dan do khoa noi o tang may oi ban,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,strip_diacritics
+giay moi hop do co co thoi han bao lau,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,strip_diacritics
+o day on qua hop dong thue nha tren ban dung ten ai do ban,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,strip_diacritics
+phieu tinh tien do da tinh thue chua,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,strip_diacritics
+man hinh may ban nuoc nay dang de bao nhieu do do ban,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,strip_diacritics
+um thi ve xem phim ma vua in ra con han khong vay ban,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,strip_diacritics
+doc han su dung cua hop sua dac voi a,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,strip_diacritics
+chi dang dung trong cang tin bien bao ngay cua ra vao la bien cam gi,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,strip_diacritics
+ve xem phim nay co phai ngay hom nay hong,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,strip_diacritics
+cua phia truoc dang mo hay dong,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,strip_diacritics
+giay ra vien nay co chi so nao bat thuong hong,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,strip_diacritics
+phieu tam tinh ni thanh toan bang chi hi,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,strip_diacritics
+toi khong nhin thay gi quan ao phoi ngoai kia kho chua,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,strip_diacritics
+hina oi o day on qua truoc mat chau la vat gi vay a,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,strip_diacritics
+cuon tieu thuyet tren gia sach dang mo trang so may,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,strip_diacritics
+tui dua dien thoai len roi bien bao giao thong co cam di bo khong,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,strip_diacritics
+bang huong dan xep hang ni ghi con bao nhieu met nua ri,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,strip_diacritics
+o day on qua tra sua tren thuc don nguoi ta vua dua con gia bao nhieu vay a,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,strip_diacritics
+quanh day co nhung chi,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,strip_diacritics
+cho nay hoi toi co lac mat phuong huong roi ta xung quanh giup co,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,strip_diacritics
+minh vua vao phong cho san bay truoc mat minh dang dien ra chuyen gi,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,strip_diacritics
+con dua dien thoai len roi cho con dang dung trong ra rang,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,strip_diacritics
+toi dang dung giua phong ngu ke toi nghe xung quanh ban,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,strip_diacritics
+hong co ai de hoi nhin quanh mot vong roi ke minh nghe,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,strip_diacritics
+hina oi khong co ai de hoi mieu ta can phong nay,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,strip_diacritics
+mo ta canh rap phim cho bac nghe,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,strip_diacritics
+vay em moi toi nha van hoa o day co co gi,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,strip_diacritics
+mo ta xung quanh cho toi di,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,strip_diacritics
+um mieu ta thang may dum toi duoc hong,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,strip_diacritics
+hina oi chau khong thay gi ca ke chau nghe xung quanh di,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,strip_diacritics
+khu ni trong ra rang,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,strip_diacritics
+anh dang o ga tau phia truoc co gi,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,strip_diacritics
+ong moi toi day lan dau ta so qua cho nay cho ong,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,strip_diacritics
+khong co ai de hoi tren duong co nhung gi,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,strip_diacritics
+camera dang thay nhung gi the nhi,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,strip_diacritics
+chi chi dang voi ban dang nhin thay gi day,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,strip_diacritics
+xem quanh cho nay roi ke toi nghe,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,strip_diacritics
+minh dua dien thoai len roi ta can bep giup,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,strip_diacritics
+anh dang dung trong via he mo ta lai khong gian lan nua nao,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,strip_diacritics
+ta cho co dang dung,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,strip_diacritics
+ma to mo xung quanh co chi,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,strip_diacritics
+phia truoc toi co co gi vay ha,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,strip_diacritics
+ta xung quanh cho toi,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,strip_diacritics
+ta nhung chi bay tren ban,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,strip_diacritics
+tro ly oi gioi thieu gium tui khong gian cho ni,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,strip_diacritics
+toi moi toi hieu sach chua quen ta cho toi cai,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,strip_diacritics
+u ta di,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,strip_diacritics
+nhin xem xem o day trong ra sao di ban,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,strip_diacritics
+con toi toi don roi toi tat may day hina,END_SESSION,4,Q_khong_dau,ok_ai,strip_diacritics
+chau len xe roi bye,END_SESSION,4,Q_khong_dau,ok_ai,strip_diacritics
+ong muon ket thuc phan mem,END_SESSION,4,Q_khong_dau,ok_ai,strip_diacritics
+thoi tui tat day vay,END_SESSION,4,Q_khong_dau,ok_ai,strip_diacritics
+minh tat nha,END_SESSION,4,Q_khong_dau,ok_ai,strip_diacritics
+e hina chi di day chao ban,END_SESSION,4,Q_khong_dau,ok_ai,strip_diacritics
+u thoi dong camera nha ban,END_SESSION,4,Q_khong_dau,ok_ai,strip_diacritics
+cam on nhieu thoat duoc roi,END_SESSION,4,Q_khong_dau,ok_ai,strip_diacritics
+hina oi khong can nua bye bye,END_SESSION,4,Q_khong_dau,ok_ai,strip_diacritics
+con hieu roi tam biet,END_SESSION,4,Q_khong_dau,ok_ai,strip_diacritics
+ban a khong can doc tiep dau,END_SESSION,4,Q_khong_dau,ok_ai,strip_diacritics
+xong roi roi cam on,END_SESSION,4,Q_khong_dau,ok_ai,strip_diacritics
+tat cai may di con ba toi don roi hen,END_SESSION,4,Q_khong_dau,ok_ai,strip_diacritics
+cam on ban da giup anh hen gap lai,END_SESSION,4,Q_khong_dau,ok_ai,strip_diacritics
+du roi cam on ban nhieu,END_SESSION,4,Q_khong_dau,ok_ai,strip_diacritics
+dong che do mo ta di khong can nua hi,END_SESSION,4,Q_khong_dau,ok_ai,strip_diacritics
+cam on tui kham xong roi,END_SESSION,4,Q_khong_dau,ok_ai,strip_diacritics
+toi muon tat han cai may di nao,END_SESSION,4,Q_khong_dau,ok_ai,strip_diacritics
+hom nay toi day thoi,END_SESSION,4,Q_khong_dau,ok_ai,strip_diacritics
+ban a toi muon dung o day,END_SESSION,4,Q_khong_dau,ok_ai,strip_diacritics
+tam biet minh den noi roi,END_SESSION,4,Q_khong_dau,ok_ai,strip_diacritics
+ba xong roi ba tat may day,END_SESSION,4,Q_khong_dau,ok_ai,strip_diacritics
+ngung camera nha,END_SESSION,4,Q_khong_dau,ok_ai,strip_diacritics
+khong can nua gap lai sau,END_SESSION,4,Q_khong_dau,ok_ai,strip_diacritics
+u thoi dung tro ly,END_SESSION,4,Q_khong_dau,ok_ai,strip_diacritics
+dong chuong trinh gium minh nha,END_SESSION,4,Q_khong_dau,ok_ai,strip_diacritics
+the u thoi dong ung dung,END_SESSION,4,Q_khong_dau,ok_ai,strip_diacritics
+tat camera di toi tim duoc roi,END_SESSION,4,Q_khong_dau,ok_ai,strip_diacritics
+ma muon dung o day,END_SESSION,4,Q_khong_dau,ok_ai,strip_diacritics
+thoi du roi xem nao,END_SESSION,4,Q_khong_dau,ok_ai,strip_diacritics
+a doc chu phia truoc giup ong di nao,READ_TEXT,1,Q_khong_dau,ok_ai,strip_diacritics
+doc dong chu in tren mac ao nha,READ_TEXT,1,Q_khong_dau,ok_ai,strip_diacritics
+toi toi dang o khu kham benh goi thuoc bot toi dang cam in chu gi vay ta,READ_TEXT,1,Q_khong_dau,ok_ai,strip_diacritics
+doc tung chu tren tui gao nay,READ_TEXT,1,Q_khong_dau,ok_ai,strip_diacritics
+doc mat sau to giay do,READ_TEXT,1,Q_khong_dau,ok_ai,strip_diacritics
+tren hop sua dac nay nguoi ta viet gi vay ta,READ_TEXT,1,Q_khong_dau,ok_ai,strip_diacritics
+a em quay dien thoai ve phia man hinh may giat nay roi doc noi dung giup em,READ_TEXT,1,Q_khong_dau,ok_ai,strip_diacritics
+bien bao san tron ni viet viet gi,READ_TEXT,1,Q_khong_dau,ok_ai,strip_diacritics
+doc noi dung bien bao giao thong tren quay ho toi,READ_TEXT,1,Q_khong_dau,ok_ai,strip_diacritics
+chau dang dung trong thang may doc dong dau tien tren cuon sach chau moi mua di,READ_TEXT,1,Q_khong_dau,ok_ai,strip_diacritics
+ban oi doc nguyen van cho minh dung tom tat xem nao,READ_TEXT,1,Q_khong_dau,ok_ai,strip_diacritics
+doc cham quyen kinh tren ke cho em,READ_TEXT,1,Q_khong_dau,ok_ai,strip_diacritics
+bien chi dan trong sieu thi viet nhung chu chi rua,READ_TEXT,1,Q_khong_dau,ok_ai,strip_diacritics
+toi quay dien thoai ve phia man hinh may giat ngay day roi doc ro noi dung giup toi,READ_TEXT,1,Q_khong_dau,ok_ai,strip_diacritics
+chau moi toi day lan dau doc that cham to khuyen mai ngay cua ra vao de chau ghi lai,READ_TEXT,1,Q_khong_dau,ok_ai,strip_diacritics
+doc dong dau tien tren goi keo do,READ_TEXT,1,Q_khong_dau,ok_ai,strip_diacritics
+toi hong nhin thay gi tren bien chi dan o ga truoc mat toi co chu gi,READ_TEXT,1,Q_khong_dau,ok_ai,strip_diacritics
+doc bang ten khoa te tung dong mot nghe ban,READ_TEXT,1,Q_khong_dau,ok_ai,strip_diacritics
+minh vua vao cang tin doc chuong nay cua tap chi do ban,READ_TEXT,1,Q_khong_dau,ok_ai,strip_diacritics
+noi cho toi biet tren bang ron ngay cua ra vao ghi nhung gi duoc khong,READ_TEXT,1,Q_khong_dau,ok_ai,strip_diacritics
+man hinh may ban nuoc ben phai chu nho qua con con khong doc duoc ban doc gium hina,READ_TEXT,1,Q_khong_dau,ok_ai,strip_diacritics
+o day on qua bien hieu tiem vang noi gi,READ_TEXT,1,Q_khong_dau,ok_ai,strip_diacritics
+e hina minh khong nhin thay gi doc to len cho minh nghe voi,READ_TEXT,1,Q_khong_dau,ok_ai,strip_diacritics
+khoan da doc doan cuoi lo vitamin trong tu thuoc voi a,READ_TEXT,1,Q_khong_dau,ok_ai,strip_diacritics
+doc het chu truoc mat tui,READ_TEXT,1,Q_khong_dau,ok_ai,strip_diacritics
+a ma doc noi dung sach giao khoa gium minh,READ_TEXT,1,Q_khong_dau,ok_ai,strip_diacritics
+doc nguyen van cho con dung tom tat tro ly,READ_TEXT,1,Q_khong_dau,ok_ai,strip_diacritics
+tui muon nghe noi dung bang gio xe buyt do,READ_TEXT,1,Q_khong_dau,ok_ai,strip_diacritics
+toi vua vao thu vien doc to giay moi hop tren ban cho toi nghe,READ_TEXT,1,Q_khong_dau,ok_ai,strip_diacritics
+doc lai hoa don tien mang em vua nhan mot lan nua,READ_TEXT,1,Q_khong_dau,ok_ai,strip_diacritics
+mo ta cho ma biet thac ban gioc trong ra sao coi,UNKNOWN,5,Q_khong_dau,ok_ai,strip_diacritics
+hina mat chau khong nhin ro bao hiem y te di kham trai tuyen co duoc khong,UNKNOWN,5,Q_khong_dau,ok_ai,strip_diacritics
+chau hoi linh tinh thoi,UNKNOWN,5,Q_khong_dau,ok_ai,strip_diacritics
+bao cho con trai biet minh dang o nha sach gium nha,UNKNOWN,5,Q_khong_dau,ok_ai,strip_diacritics
+ban co biet minh la ai khong vay a,UNKNOWN,5,Q_khong_dau,ok_ai,strip_diacritics
+uong thuoc ha sot cach nhau bao lau,UNKNOWN,5,Q_khong_dau,ok_ai,strip_diacritics
+oi ban viet gium con bai van ta me nhe ban,UNKNOWN,5,Q_khong_dau,ok_ai,strip_diacritics
+ban co biet to la ai khong a,UNKNOWN,5,Q_khong_dau,ok_ai,strip_diacritics
+o day on qua dat hen gio muoi phut coi,UNKNOWN,5,Q_khong_dau,ok_ai,strip_diacritics
+ha ha,UNKNOWN,5,Q_khong_dau,ok_ai,strip_diacritics
+dat hen gio muoi phut nao,UNKNOWN,5,Q_khong_dau,ok_ai,strip_diacritics
+chup anh gui cho bo nha ban,UNKNOWN,5,Q_khong_dau,ok_ai,strip_diacritics
+duong co tot cho nguoi tieu duong khong,UNKNOWN,5,Q_khong_dau,ok_ai,strip_diacritics
+toi moi toi day lan dau toi hong ngu duoc nha ban,UNKNOWN,5,Q_khong_dau,ok_ai,strip_diacritics
+nhan tin cho anh tuan la toi sap ve ve a,UNKNOWN,5,Q_khong_dau,ok_ai,strip_diacritics
+toi khong ngu duoc,UNKNOWN,5,Q_khong_dau,ok_ai,strip_diacritics
+hina la ai a,UNKNOWN,5,Q_khong_dau,ok_ai,strip_diacritics
+thoi roi troi mua to qua,UNKNOWN,5,Q_khong_dau,ok_ai,strip_diacritics
+tu day den ben pha bao xa,UNKNOWN,5,Q_khong_dau,ok_ai,strip_diacritics
+anh oi cho em voi,UNKNOWN,5,Q_khong_dau,ok_ai,strip_diacritics
+toi nay nen an gi hen,UNKNOWN,5,Q_khong_dau,ok_ai,strip_diacritics
+di tu nghe an ra nghe an mat bao lau,UNKNOWN,5,Q_khong_dau,ok_ai,strip_diacritics
+ban oi doc truyen co tich cho di nghe,UNKNOWN,5,Q_khong_dau,ok_ai,strip_diacritics
+minh dang dung cho chao buoi sang,UNKNOWN,5,Q_khong_dau,ok_ai,strip_diacritics
+de di nghi da,UNKNOWN,5,Q_khong_dau,ok_ai,strip_diacritics
+dung xe lai bac bac tai oi,UNKNOWN,5,Q_khong_dau,ok_ai,strip_diacritics
+e hina em moi toi day lan dau dong ung dung zalo voi a,UNKNOWN,5,Q_khong_dau,ok_ai,strip_diacritics
+bien so xe can tho la bao nhieu the,UNKNOWN,5,Q_khong_dau,ok_ai,strip_diacritics
+a ma ke minh nghe mot cau chuyen cai,UNKNOWN,5,Q_khong_dau,ok_ai,strip_diacritics
+thoi tiet ca mau hom nay the nao,UNKNOWN,5,Q_khong_dau,ok_ai,strip_diacritics

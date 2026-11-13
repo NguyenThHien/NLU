@@ -13,7 +13,9 @@ from sklearn.metrics import classification_report, f1_score
 from common import LABEL2ID, MAX_LENGTH, PROCESSED_DIR, TRAINED_MODEL_DIR
 from predict import FALLBACK_LABEL, THRESHOLDS_FILE, apply_thresholds, load_classifier
 
-GRID = [0.0, 0.5, 0.6, 0.7, 0.8, 0.9, 0.95, 0.98, 0.99, 0.995, 0.998]
+# Dừng ở 0.99: softmax của câu kết thúc rõ ràng ("bye", "tạm biệt") bão hòa quanh 0.998,
+# ngưỡng sát trần đó chặn cả câu hơi lạ ("buy" = 0.997) để đổi lấy 1 câu trên validation.
+GRID = [0.0, 0.5, 0.6, 0.7, 0.8, 0.9, 0.95, 0.98, 0.99]
 GUARDED_LABEL = "END_SESSION"
 BUSINESS_LABELS = [name for name in LABEL2ID if name != FALLBACK_LABEL]
 

@@ -1,0 +1,127 @@
+﻿text,label,label_id,error_type,review,source
+đừng tắt nhé tôi còn cần,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+khoan tắt đã,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+chưa được thoát đâu,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+hina đừng kết thúc phiên vội,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+tôi chưa muốn dừng,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+đừng đóng app nha,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+khoan khoan đừng tắt camera,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+ơ chưa xong mà sao tắt,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+không phải tắt đâu,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+tôi đâu có bảo thoát,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+đừng có tắt máy,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+khoan kết thúc đã nhé,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+giữ phiên này lại đừng thoát,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+chưa đâu đừng dừng hỗ trợ,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+ấy đừng tắt tôi lỡ nói nhầm,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+tôi chưa muốn kết thúc đâu,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+đợi chút đừng thoát vội,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+không không đừng đóng phiên,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+đừng tắt camera tôi đang cần nhìn,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+khoan đã chưa kết thúc được,UNKNOWN,5,E_phu_dinh,ok_ai,claude_draft
+khoan tắt đã đọc hộ tôi cái nhãn này,READ_TEXT,1,E_phu_dinh,ok_ai,claude_draft
+đừng thoát vội mô tả cho tôi xung quanh đã,DESCRIBE_SCENE,2,E_phu_dinh,ok_ai,claude_draft
+chưa tắt đâu cái cốc này màu gì,ANSWER_VISUAL_QUESTION,3,E_phu_dinh,ok_ai,claude_draft
+không cần giữ nữa đâu tắt đi,END_SESSION,4,E_phu_dinh,ok_ai,claude_draft
+thôi khỏi chờ tắt luôn đi,END_SESSION,4,E_phu_dinh,ok_ai,claude_draft
+đọc nốt dòng này rồi tắt,READ_TEXT,1,E_ghep,ok_ai,claude_draft
+đọc tờ giấy này xong thì thoát,READ_TEXT,1,E_ghep,ok_ai,claude_draft
+đọc giúp hóa đơn rồi kết thúc phiên,READ_TEXT,1,E_ghep,ok_ai,claude_draft
+tả cho tôi cái sân trước rồi đóng app,DESCRIBE_SCENE,2,E_ghep,ok_ai,claude_draft
+nói xem quanh tôi có gì rồi thoát nhé,DESCRIBE_SCENE,2,E_ghep,ok_ai,claude_draft
+mô tả căn bếp xong là tắt được rồi,DESCRIBE_SCENE,2,E_ghep,ok_ai,claude_draft
+xem cảnh trước mặt lần cuối rồi tắt,DESCRIBE_SCENE,2,E_ghep,ok_ai,claude_draft
+cho tôi hỏi cái áo này màu gì rồi tắt,ANSWER_VISUAL_QUESTION,3,E_ghep,ok_ai,claude_draft
+hộp sữa này còn hạn không trả lời xong thì thoát,ANSWER_VISUAL_QUESTION,3,E_ghep,ok_ai,claude_draft
+xem giúp có bậc thềm không rồi kết thúc,ANSWER_VISUAL_QUESTION,3,E_ghep,ok_ai,claude_draft
+câu cuối nhé chai này là chai gì,ANSWER_VISUAL_QUESTION,3,E_ghep,ok_ai,claude_draft
+trước khi tắt đọc tôi nghe tên thuốc,READ_TEXT,1,E_ghep,ok_ai,claude_draft
+trước khi thoát tả lại phòng khách giúp,DESCRIBE_SCENE,2,E_ghep,ok_ai,claude_draft
+đọc xong rồi giờ tắt đi,END_SESSION,4,E_ghep,ok_ai,claude_draft
+mô tả vậy đủ rồi kết thúc thôi,END_SESSION,4,E_ghep,ok_ai,claude_draft
+hỏi vậy đủ rồi thoát nhé,END_SESSION,4,E_ghep,ok_ai,claude_draft
+nghe xong rồi cảm ơn tắt nha,END_SESSION,4,E_ghep,ok_ai,claude_draft
+bao nhiêu đây,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+giá bao nhiêu,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+mấy giờ trên đồng hồ này,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+con gì vậy,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+ai đấy,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+quả gì đây,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+to hay nhỏ,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+mới hay cũ,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+sạch chưa,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+chín chưa,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+hết hạn chưa,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+có bẩn không,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+mặt nào là mặt trước,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+cái nào to hơn,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+lọ nào là nước mắm,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+chai nào là dầu ăn chai nào là giấm,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+đôi này cùng màu không,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+đây là tiền gì,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+nắp mở chưa,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+đèn bật chưa,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+cửa đóng chưa,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+mấy cái,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+màu gì thế,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+hình gì đây,ANSWER_VISUAL_QUESTION,3,Q_ngan,ok_ai,claude_draft
+giá vàng bao nhiêu,UNKNOWN,5,Q_ngan,ok_ai,claude_draft
+một đô bao nhiêu tiền việt,UNKNOWN,5,Q_ngan,ok_ai,claude_draft
+mấy giờ rồi nhỉ,UNKNOWN,5,Q_ngan,ok_ai,claude_draft
+ai hát bài này,UNKNOWN,5,Q_ngan,ok_ai,claude_draft
+cai gi day,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,claude_draft
+cai ao nay mau gi,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,claude_draft
+hop sua con han khong,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,claude_draft
+phia truoc co bac thang ko,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,claude_draft
+toi cam dung lo muoi chua,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,claude_draft
+to tien nay bao nhieu,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,claude_draft
+co may nguoi trong phong,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,claude_draft
+den do hay xanh,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,claude_draft
+qua chuoi nay chin chua,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,claude_draft
+ai dang dung truoc mat toi,ANSWER_VISUAL_QUESTION,3,Q_khong_dau,ok_ai,claude_draft
+doc giup toi cai nhan nay,READ_TEXT,1,Q_khong_dau,ok_ai,claude_draft
+doc chu tren hop thuoc,READ_TEXT,1,Q_khong_dau,ok_ai,claude_draft
+doc to hoa don nay,READ_TEXT,1,Q_khong_dau,ok_ai,claude_draft
+tren bien ghi gi doc di,READ_TEXT,1,Q_khong_dau,ok_ai,claude_draft
+doc dong chu tren cua,READ_TEXT,1,Q_khong_dau,ok_ai,claude_draft
+mo ta xung quanh toi,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,claude_draft
+toi dang o dau ta canh di,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,claude_draft
+xung quanh co gi vay,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,claude_draft
+ke cho toi nghe can phong nay,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,claude_draft
+nhin xem truoc mat co gi,DESCRIBE_SCENE,2,Q_khong_dau,ok_ai,claude_draft
+mo nhac di,UNKNOWN,5,Q_khong_dau,ok_ai,claude_draft
+goi cho con trai toi,UNKNOWN,5,Q_khong_dau,ok_ai,claude_draft
+hom nay troi mua khong,UNKNOWN,5,Q_khong_dau,ok_ai,claude_draft
+ban ten gi,UNKNOWN,5,Q_khong_dau,ok_ai,claude_draft
+tat den phong ngu,UNKNOWN,5,Q_khong_dau,ok_ai,claude_draft
+dung tat voi,UNKNOWN,5,Q_khong_dau,ok_ai,claude_draft
+xong roi tat di,END_SESSION,4,Q_khong_dau,ok_ai,claude_draft
+cam on hina nhe tam biet,END_SESSION,4,Q_khong_dau,ok_ai,claude_draft
+người kia đang cầm gì,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+chú bên cạnh đang nhìn tôi à,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+mấy đứa trẻ đang chơi gì vậy,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+trên đường có ổ gà không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+lối đi có vướng gì không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+cửa ra ở bên trái hay bên phải,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+trong quán còn bàn trống không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+có xe nào đang tới không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+chỗ này có chó không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+cô bán hàng đang làm gì,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+ghế trước mặt có ai ngồi chưa,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+thang máy đang mở hay đóng,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+có gì chắn trước bánh xe lăn không,ANSWER_VISUAL_QUESTION,3,Q_canh_vs_hoi,ok_ai,claude_draft
+mọi người xung quanh đang làm gì,DESCRIBE_SCENE,2,Q_canh_vs_hoi,ok_ai,claude_draft
+khung cảnh ngoài kia ra sao,DESCRIBE_SCENE,2,Q_canh_vs_hoi,ok_ai,claude_draft
+nói chung chỗ này trông thế nào,DESCRIBE_SCENE,2,Q_canh_vs_hoi,ok_ai,claude_draft
+tả sơ cái quán này đi,DESCRIBE_SCENE,2,Q_canh_vs_hoi,ok_ai,claude_draft
+phía trước tôi là cảnh gì,DESCRIBE_SCENE,2,Q_canh_vs_hoi,ok_ai,claude_draft
+cái ví tôi để ở đâu bạn nhớ không,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+hôm qua tôi mặc áo màu gì,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+lúc nãy bạn đọc cái gì ấy nhỉ,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+xe tôi đậu ở tầng mấy,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+nhà tôi có mấy cái cửa sổ,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+chìa khóa nhà tôi hình gì,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+con mèo nhà tôi màu gì,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+tuần trước tôi mua hộp sữa nào,UNKNOWN,5,U_tri_nho,ok_ai,claude_draft
+cái ví trên bàn màu gì,ANSWER_VISUAL_QUESTION,3,U_tri_nho,ok_ai,claude_draft
+chìa khóa tôi đang cầm là chìa nào,ANSWER_VISUAL_QUESTION,3,U_tri_nho,ok_ai,claude_draft

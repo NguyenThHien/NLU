@@ -1,0 +1,1154 @@
+﻿text,label,label_id,text_clean,labels,text_segmented
+cái bác đang cầm là cái gì,ANSWER_VISUAL_QUESTION,3,cái bác đang cầm là cái gì,3,cái bác đang cầm là cái gì
+để hina nghỉ đi,END_SESSION,4,để hina nghỉ đi,4,để hina nghỉ đi
+tôi đưa điện thoại lên rồi đọc tờ này đi,READ_TEXT,1,tôi đưa điện thoại lên rồi đọc tờ này đi,1,tôi đưa điện_thoại lên rồi đọc tờ này đi
+hina ơi cho mình biết khung cảnh nơi này,DESCRIBE_SCENE,2,hina ơi cho mình biết khung cảnh nơi này,2,hina ơi cho mình biết khung_cảnh nơi này
+ừm thì bạn ơi dừng mọi mọi thứ lại,END_SESSION,4,ừm thì bạn ơi dừng mọi mọi thứ lại,4,ừm thì bạn ơi dừng mọi mọi thứ lại
+à quang cảnh trước mặt tôi thế nào,DESCRIBE_SCENE,2,à quang cảnh trước mặt tôi thế nào,2,à quang_cảnh trước mặt tôi thế_nào
+bạn bạn có thích tui không,UNKNOWN,5,bạn bạn có thích tui không,5,bạn bạn có thích tui không
+hina scan túi đường này rồi đọc cho bà,READ_TEXT,1,hina scan túi đường này rồi đọc cho bà,1,hina scan túi đường này rồi đọc cho bà
+scan biển quảng cáo trên cửa rồi đọc cho cháu,READ_TEXT,1,scan biển quảng cáo trên cửa rồi đọc cho cháu,1,scan biển quảng_cáo trên cửa rồi đọc cho cháu
+cho mình biết khung cảnh nơi này nè,DESCRIBE_SCENE,2,cho mình biết khung cảnh nơi này nè,2,cho mình biết khung_cảnh nơi này nè
+hông biết ngân hàng này trông ra sao nhỉ,DESCRIBE_SCENE,2,hông biết ngân hàng này trông ra sao nhỉ,2,hông biết ngân_hàng này trông ra sao nhỉ
+ta cho co dang dung,DESCRIBE_SCENE,2,ta cho co dang dung,2,ta cho co dang dung
+nhìn giúp tôi xung quanh sân nhà,DESCRIBE_SCENE,2,nhìn giúp tôi xung quanh sân nhà,2,nhìn giúp tôi xung_quanh sân_nhà
+thôi chào anh nha,UNKNOWN,5,thôi chào anh nha,5,thôi chào anh nha
+mình vừa bước vào hiệu sách tả dùm mình với,DESCRIBE_SCENE,2,mình vừa bước vào hiệu sách tả dùm mình với,2,mình vừa bước vào hiệu sách tả dùm mình với
+nhìn quanh xem có gì rồi nói tui nghe,DESCRIBE_SCENE,2,nhìn quanh xem có gì rồi nói tui nghe,2,nhìn quanh xem có gì rồi nói tui nghe
+ừ thoát giùm tôi cái trợ lý,END_SESSION,4,ừ thoát giùm tôi cái trợ lý,4,ừ thoát giùm tôi cái trợ_lý
+chị mới tới đây lần đầu tắt tivi đi,UNKNOWN,5,chị mới tới đây lần đầu tắt tivi đi,5,chị mới tới đây lần đầu tắt tivi đi
+thôi thôi được rồi không cần nữa cảm ơn hen,END_SESSION,4,thôi thôi được rồi không cần nữa cảm ơn hen,4,thôi thôi được rồi không cần nữa cảm_ơn hen
+bảng chỉ dẫn lối ra đó ghi những gì hả,READ_TEXT,1,bảng chỉ dẫn lối ra đó ghi những gì hả,1,bảng chỉ_dẫn lối ra đó ghi những gì hả
+đọc lịch hẹn ngày mai của o,UNKNOWN,5,đọc lịch hẹn ngày mai của o,5,đọc lịch hẹn ngày_mai của o
+kể em nghe xung quanh đang có gì,DESCRIBE_SCENE,2,kể em nghe xung quanh đang có gì,2,kể em nghe xung_quanh đang có gì
+thôi hông cần nữa,END_SESSION,4,thôi hông cần nữa,4,thôi hông cần nữa
+dừng giùm tôi cái cái máy nhé bạn,END_SESSION,4,dừng giùm tôi cái cái máy nhé bạn,4,dừng giùm tôi cái cái máy nhé bạn
+tui giơ camera lên rồi bạn thấy cảnh vật quanh tui ra sao,DESCRIBE_SCENE,2,tui giơ camera lên rồi bạn thấy cảnh vật quanh tui ra sao,2,tui giơ camera lên rồi bạn thấy cảnh_vật quanh tui ra sao
+chỗ này hơi tối nhìn quanh xem có gì rồi nói chị nghe,DESCRIBE_SCENE,2,chỗ này hơi tối nhìn quanh xem có gì rồi nói chị nghe,2,chỗ này hơi tối nhìn quanh xem có gì rồi nói chị nghe
+con voi voi trông như thế nào,UNKNOWN,5,con voi voi trông như thế nào,5,con voi voi trông như_thế_nào
+ai đó dán tờ quảng cáo phía trên ở đây đọc xem viết gì,READ_TEXT,1,ai đó dán tờ quảng cáo phía trên ở đây đọc xem viết gì,1,ai đó dán tờ quảng_cáo phía trên ở đây đọc xem viết gì
+bạn à ngừng nói đi,END_SESSION,4,bạn à ngừng nói đi,4,bạn à ngừng nói đi
+bạn ơi bạn có thích tôi không,UNKNOWN,5,bạn ơi bạn có thích tôi không,5,bạn ơi bạn có thích tôi không
+kể tôi nghe xung quanh đang có chi hỉ,DESCRIBE_SCENE,2,kể tôi nghe xung quanh đang có chi hỉ,2,kể tôi nghe xung_quanh đang có chi hỉ
+kể con nghe xung quanh đang có gì giùm nha,DESCRIBE_SCENE,2,kể con nghe xung quanh đang có gì giùm nha,2,kể con nghe xung_quanh đang có gì giùm nha
+trợ lý ơi phát tiếp chương sau của sách nói,UNKNOWN,5,trợ lý ơi phát tiếp chương sau của sách nói,5,trợ_lý ơi phát tiếp chương sau của sách nói
+hina không làm gì nữa đâu tắt đi,END_SESSION,4,hina không làm gì nữa đâu tắt đi,4,hina không làm gì nữa đâu tắt đi
+chữ mờ quá đọc phần chữ nhỏ ở dưới biển báo giao thông ngay cửa ra vào nhá,READ_TEXT,1,chữ mờ quá đọc phần chữ nhỏ ở dưới biển báo giao thông ngay cửa ra vào nhá,1,chữ mờ quá đọc phần chữ nhỏ ở dưới biển_báo giao_thông ngay cửa ra vào nhá
+ơi bạn biển chỉ dẫn ở ga kia ghi những gì,READ_TEXT,1,ơi bạn biển chỉ dẫn ở ga kia ghi những gì,1,ơi bạn biển chỉ_dẫn ở ga kia ghi những gì
+mạ mới tới cổng trường bật wifi nghe bạn,UNKNOWN,5,mạ mới tới cổng trường bật wifi nghe bạn,5,mạ mới tới cổng trường bật wifi nghe bạn
+còn tươi không,ANSWER_VISUAL_QUESTION,3,còn tươi không,3,còn tươi không
+số trên hợp đồng lao động trên tay con là bao nhiêu đó,ANSWER_VISUAL_QUESTION,3,số trên hợp đồng lao động trên tay con là bao nhiêu đó,3,số trên hợp_đồng lao_động trên tay con là bao_nhiêu đó
+con mới tới đây lần đầu mô tả khung cảnh trước camera đi nào,DESCRIBE_SCENE,2,con mới tới đây lần đầu mô tả khung cảnh trước camera đi nào,2,con mới tới đây lần đầu mô_tả khung_cảnh trước camera đi nào
+hina lá thư này viết tay hay đánh máy,ANSWER_VISUAL_QUESTION,3,hina lá thư này viết tay hay đánh máy,3,hina lá thư này viết_tay hay đánh_máy
+tôi đang đứng trong quán ăn biển báo sàn trơn đó cảnh báo nguy hiểm gì đấy,ANSWER_VISUAL_QUESTION,3,tôi đang đứng trong quán ăn biển báo sàn trơn đó cảnh báo nguy hiểm gì đấy,3,tôi đang đứng trong quán ăn biển_báo sàn trơn đó cảnh_báo nguy_hiểm gì đấy
+khoan đã mô tả những chi camera đang thấy đi,DESCRIBE_SCENE,2,khoan đã mô tả những chi camera đang thấy đi,2,khoan đã mô_tả những chi camera đang thấy đi
+đọc chữ nổi braille thế nào,UNKNOWN,5,đọc chữ nổi braille thế nào,5,đọc chữ_nổi braille thế_nào
+con đang ở lớp học scan gói xúc xích này rồi đọc cho con nha,READ_TEXT,1,con đang ở lớp học scan gói xúc xích này rồi đọc cho con nha,1,con đang ở lớp_học scan gói xúc_xích này rồi đọc cho con nha
+scan vé tham quan em vừa in ra rồi đọc cho em,READ_TEXT,1,scan vé tham quan em vừa in ra rồi đọc cho em,1,scan vé tham_quan em vừa in ra rồi đọc cho em
+tớ đang vội kể lại những gì bạn đang nhìn thấy cái,DESCRIBE_SCENE,2,tớ đang vội kể lại những gì bạn đang nhìn thấy cái,2,tớ đang vội kể lại những gì bạn đang nhìn thấy cái
+ăn gà luộc có béo không,UNKNOWN,5,ăn gà luộc có béo không,5,ăn gà luộc có béo không
+tôi cô đơn quá nói chuyện với tôi đi,UNKNOWN,5,tôi cô đơn quá nói chuyện với tôi đi,5,tôi cô_đơn quá nói_chuyện với tôi đi
+ừm bếp ga đã tắt chưa,ANSWER_VISUAL_QUESTION,3,ừm bếp ga đã tắt chưa,3,ừm bếp ga đã tắt chưa
+tắt định vị trên máy giúp tôi,UNKNOWN,5,tắt định vị trên máy giúp tôi,5,tắt định_vị trên máy giúp tôi
+mô tả những chi camera đang thấy,DESCRIBE_SCENE,2,mô tả những chi camera đang thấy,2,mô_tả những chi camera đang thấy
+ừm phát tiếp chương sau của sách nói đi nào,UNKNOWN,5,ừm phát tiếp chương sau của sách nói đi nào,5,ừm phát tiếp chương sau của sách nói đi nào
+bạn có đọc được chữ trên bao bì tôi vừa lấy trên kệ không vậy hả,READ_TEXT,1,bạn có đọc được chữ trên bao bì tôi vừa lấy trên kệ không vậy hả,1,bạn có đọc được chữ trên bao_bì tôi vừa lấy trên kệ không vậy hả
+ni bạn ok xong rồi đó,END_SESSION,4,ni bạn ok xong rồi đó,4,ni bạn ok xong rồi đó
+tôi vừa bước vào nhà thờ tả hộ tôi với,DESCRIBE_SCENE,2,tôi vừa bước vào nhà thờ tả hộ tôi với,2,tôi vừa bước vào nhà_thờ tả hộ tôi với
+cho hina nghỉ đi,END_SESSION,4,cho hina nghỉ đi,4,cho hina nghỉ đi
+tả cảnh vật xung quanh,DESCRIBE_SCENE,2,tả cảnh vật xung quanh,2,tả cảnh_vật xung_quanh
+con vừa xuống xe tóc con có rối không,ANSWER_VISUAL_QUESTION,3,con vừa xuống xe tóc con có rối không,3,con vừa xuống xe tóc con có rối không
+hina ơi bạn có thích mình không,UNKNOWN,5,hina ơi bạn có thích mình không,5,hina ơi bạn có thích mình không
+cúp máy giúp tôi,UNKNOWN,5,cúp máy giúp tôi,5,cúp máy giúp tôi
+ơi bạn tui đang ở sân bay cách nấu gà luộc ra sao,UNKNOWN,5,ơi bạn tui đang ở sân bay cách nấu gà luộc ra sao,5,ơi bạn tui đang ở sân_bay cách nấu gà luộc ra sao
+tui tự làm được rồi không cần nữa đâu,END_SESSION,4,tui tự làm được rồi không cần nữa đâu,4,tui tự làm được rồi không cần nữa đâu
+theo bảng chỉ dẫn lối ra phía trước quầy thu ngân ở mô hè,ANSWER_VISUAL_QUESTION,3,theo bảng chỉ dẫn lối ra phía trước quầy thu ngân ở mô hè,3,theo bảng chỉ_dẫn lối ra phía trước quầy thu_ngân ở mô hè
+không làm gì nữa đâu thoát đi,END_SESSION,4,không làm gì nữa đâu thoát đi,4,không làm gì nữa đâu thoát đi
+ok xong rồi đó đó,END_SESSION,4,ok xong rồi đó đó,4,ok xong rồi đó đó
+đọc lướt tờ giấy mời đó,READ_TEXT,1,đọc lướt tờ giấy mời đó,1,đọc lướt tờ giấy mời đó
+tờ sao kê tôi đang cầm trả bằng thẻ hay tiền mặt,ANSWER_VISUAL_QUESTION,3,tờ sao kê tôi đang cầm trả bằng thẻ hay tiền mặt,3,tờ sao kê tôi đang cầm trả bằng thẻ hay tiền_mặt
+alo,UNKNOWN,5,alo,5,alo
+bang dien tu goi so truoc mat dang de bao nhieu do,ANSWER_VISUAL_QUESTION,3,bang dien tu goi so truoc mat dang de bao nhieu do,3,bang dien tu goi so truoc mat dang de bao nhieu do
+cháu vừa bước vào bưu điện tả giúp cháu với,DESCRIBE_SCENE,2,cháu vừa bước vào bưu điện tả giúp cháu với,2,cháu vừa bước vào bưu_điện tả giúp cháu với
+trong ví tui có tờ hai trăm nghìn không,ANSWER_VISUAL_QUESTION,3,trong ví tui có tờ hai trăm nghìn không,3,trong ví tui có tờ hai trăm_nghìn không
+đọc lịch hẹn ngày mai của mình nha,UNKNOWN,5,đọc lịch hẹn ngày mai của mình nha,5,đọc lịch hẹn ngày_mai của mình nha
+chỗ ni có nhà vệ sinh không,ANSWER_VISUAL_QUESTION,3,chỗ ni có nhà vệ sinh không,3,chỗ ni có nhà_vệ_sinh không
+trong ví bà có tờ hai trăm nghìn không vậy bạn,ANSWER_VISUAL_QUESTION,3,trong ví bà có tờ hai trăm nghìn không vậy bạn,3,trong ví bà có tờ hai trăm nghìn không vậy bạn
+hina em đang vội cái hố trước mặt có sâu không,ANSWER_VISUAL_QUESTION,3,hina em đang vội cái hố trước mặt có sâu không,3,hina em đang vội cái hố trước mặt có sâu không
+ừ cách nấu bún bò huế thế nào,UNKNOWN,5,ừ cách nấu bún bò huế thế nào,5,ừ cách nấu bún_bò huế thế_nào
+ê hina thôi không cần nữa vậy hả,END_SESSION,4,ê hina thôi không cần nữa vậy hả,4,ê hina thôi không cần nữa vậy hả
+để coi ơi bạn đọc lướt hộp bánh quy đó,READ_TEXT,1,để coi ơi bạn đọc lướt hộp bánh quy đó,1,để coi ơi bạn_đọc lướt hộp bánh_quy đó
+làm ơn đọc biển hiệu quán cà phê bên trái,READ_TEXT,1,làm ơn đọc biển hiệu quán cà phê bên trái,1,làm_ơn đọc biển_hiệu quán cà_phê bên trái
+nhìn quanh xem có chi rồi nói tui nghe,DESCRIBE_SCENE,2,nhìn quanh xem có chi rồi nói tui nghe,2,nhìn quanh xem có chi rồi nói tui nghe
+biển cấm hút thuốc tê hình tròn hay tam giác nớ,ANSWER_VISUAL_QUESTION,3,biển cấm hút thuốc tê hình tròn hay tam giác nớ,3,biển cấm hút thuốc tê hình_tròn hay tam_giác nớ
+hộp sữa này hết hạn rồi,UNKNOWN,5,hộp sữa này hết hạn rồi,5,hộp sữa này hết hạn rồi
+quanh tôi có thùng rác không,ANSWER_VISUAL_QUESTION,3,quanh tôi có thùng rác không,3,quanh tôi có thùng rác không
+để coi con vừa bước vào sân vận động tả cho con với,DESCRIBE_SCENE,2,để coi con vừa bước vào sân vận động tả cho con với,2,để coi con vừa bước vào sân_vận_động tả cho con với
+hina ơi áo con mặc có bị ngược không nhỉ bạn,ANSWER_VISUAL_QUESTION,3,hina ơi áo con mặc có bị ngược không nhỉ bạn,3,hina ơi áo con mặc có bị ngược không nhỉ bạn
+dừng mọi mọi thứ lại,END_SESSION,4,dừng mọi mọi thứ lại,4,dừng mọi mọi thứ lại
+kể tôi nghe xung quanh đang có gì,DESCRIBE_SCENE,2,kể tôi nghe xung quanh đang có gì,2,kể tôi nghe xung_quanh đang có gì
+ok xong rồi nớ,END_SESSION,4,ok xong rồi nớ,4,ok xong rồi nớ
+tắt tivi đi,UNKNOWN,5,tắt tivi đi,5,tắt tivi đi
+cho anh biết khung cảnh nơi này,DESCRIBE_SCENE,2,cho anh biết khung cảnh nơi này,2,cho anh biết khung_cảnh nơi này
+thôi được rồi hông cần nữa cảm ơn vậy bạn,END_SESSION,4,thôi được rồi hông cần nữa cảm ơn vậy bạn,4,thôi được rồi hông cần nữa cảm_ơn vậy bạn
+hina cô đang đứng chờ kể lại những gì bạn đang nhìn thấy,DESCRIBE_SCENE,2,hina cô đang đứng chờ kể lại những gì bạn đang nhìn thấy,2,hina cô đang đứng chờ kể lại những gì bạn đang nhìn thấy
+ok xong rồi nớ hina,END_SESSION,4,ok xong rồi nớ hina,4,ok xong rồi nớ hina
+biển lối thoát hiểm đó ghi những gì,READ_TEXT,1,biển lối thoát hiểm đó ghi những gì,1,biển lối_thoát hiểm đó ghi những gì
+theo bảng hướng dẫn xếp hàng quầy thu ngân ở đâu thế nhỉ,ANSWER_VISUAL_QUESTION,3,theo bảng hướng dẫn xếp hàng quầy thu ngân ở đâu thế nhỉ,3,theo bảng hướng_dẫn xếp_hàng quầy thu_ngân ở đâu thế nhỉ
+chị đang vội bật wifi nghen,UNKNOWN,5,chị đang vội bật wifi nghen,5,chị đang vội bật wifi nghen
+bạn ơi phát tiếp chương sau của sách nói nhé bạn,UNKNOWN,5,bạn ơi phát tiếp chương sau của sách nói nhé bạn,5,bạn ơi phát tiếp chương sau của sách nói nhé bạn
+chị đang đứng chờ kể lại những gì bạn đang nhìn thấy được hông,DESCRIBE_SCENE,2,chị đang đứng chờ kể lại những gì bạn đang nhìn thấy được hông,2,chị đang đứng chờ kể lại những gì bạn đang nhìn thấy được hông
+ni bạn ngừng nói đi,END_SESSION,4,ni bạn ngừng nói đi,4,ni bạn ngừng nói đi
+mô tả từ trái sang phải những gì đang có đi,DESCRIBE_SCENE,2,mô tả từ trái sang phải những gì đang có đi,2,mô_tả từ trái sang phải những gì đang có đi
+không biết quán cà phê này trông thế nào nhỉ,DESCRIBE_SCENE,2,không biết quán cà phê này trông thế nào nhỉ,2,không biết quán cà_phê này trông thế_nào nhỉ
+đọc đọc hết chữ trong khung hình,READ_TEXT,1,đọc đọc hết chữ trong khung hình,1,đọc đọc hết chữ trong khung hình
+đọc tên tác giả của quyển kinh tôi đang cầm,ANSWER_VISUAL_QUESTION,3,đọc tên tác giả của quyển kinh tôi đang cầm,3,đọc tên tác_giả của quyển kinh tôi đang cầm
+khoan đã ngắt giùm tôi cái ứng dụng hina,END_SESSION,4,khoan đã ngắt giùm tôi cái ứng dụng hina,4,khoan đã ngắt giùm tôi cái ứng_dụng hina
+em mới tới bưu điện biển chỉ dẫn ở ga này ghi những gì đó bạn,READ_TEXT,1,em mới tới bưu điện biển chỉ dẫn ở ga này ghi những gì đó bạn,1,em mới tới bưu_điện biển chỉ_dẫn ở ga này ghi những gì đó bạn
+bạn thấy cảnh vật quanh tôi ra sao,DESCRIBE_SCENE,2,bạn thấy cảnh vật quanh tôi ra sao,2,bạn thấy cảnh_vật quanh tôi ra sao
+ơ bà đang vội bạn thấy gì trước mặt bà đó,DESCRIBE_SCENE,2,ơ bà đang vội bạn thấy gì trước mặt bà đó,2,ơ bà đang vội bạn thấy gì trước mặt bà đó
+con chị tới tới đón rồi không cần nữa đâu,END_SESSION,4,con chị tới tới đón rồi không cần nữa đâu,4,con chị tới_tới đón rồi không cần nữa đâu
+trợ lý ơi đọc lướt biển hiệu quán cà phê trên tường,READ_TEXT,1,trợ lý ơi đọc lướt biển hiệu quán cà phê trên tường,1,trợ_lý ơi đọc lướt biển_hiệu quán cà_phê trên tường
+ờ đọc tờ này đi,READ_TEXT,1,ờ đọc tờ này đi,1,ờ đọc tờ này đi
+màn hình lò vi sóng kia còn bao nhiêu phút thế,ANSWER_VISUAL_QUESTION,3,màn hình lò vi sóng kia còn bao nhiêu phút thế,3,màn_hình lò_vi_sóng kia còn bao_nhiêu phút thế
+hina ơi đọc phần chữ nhỏ ở dưới lon nước ngọt đó,READ_TEXT,1,hina ơi đọc phần chữ nhỏ ở dưới lon nước ngọt đó,1,hina ơi đọc phần chữ nhỏ ở dưới lon nước_ngọt đó
+trước khi tắt mô tả lại chỗ tôi đang đứng,DESCRIBE_SCENE,2,trước khi tắt mô tả lại chỗ tôi đang đứng,2,trước khi tắt mô_tả lại chỗ tôi đang đứng
+bạn có thích cô không,UNKNOWN,5,bạn có thích cô không,5,bạn có thích cô không
+đọc hết chữ trong khung hình nha,READ_TEXT,1,đọc hết chữ trong khung hình nha,1,đọc hết chữ trong khung hình nha
+trận bóng tối qua kết thúc tỉ số bao nhiêu,UNKNOWN,5,trận bóng tối qua kết thúc tỉ số bao nhiêu,5,trận bóng_tối qua kết_thúc tỉ_số bao_nhiêu
+đọc lại cho tôi tôi số điện thoại của chú tư nhá,UNKNOWN,5,đọc lại cho tôi tôi số điện thoại của chú tư nhá,5,đọc lại cho tôi tôi số điện_thoại của chú tư nhá
+à mà dạy tui nấu canh bí đỏ,UNKNOWN,5,à mà dạy tui nấu canh bí đỏ,5,à mà dạy tui nấu canh bí_đỏ
+tôi mới tới đây lần đầu cái hố trước mặt có sâu không ạ,ANSWER_VISUAL_QUESTION,3,tôi mới tới đây lần đầu cái hố trước mặt có sâu không ạ,3,tôi mới tới đây lần đầu cái hố trước mặt có sâu không ạ
+cái váy này có bị bẩn không nhỉ,ANSWER_VISUAL_QUESTION,3,cái váy này có bị bẩn không nhỉ,3,cái váy này có bị bẩn không nhỉ
+không có ai để hỏi kể lại những gì bạn đang nhìn thấy,DESCRIBE_SCENE,2,không có ai để hỏi kể lại những gì bạn đang nhìn thấy,2,không có ai để hỏi kể lại những gì bạn đang nhìn thấy
+ờ đọc điều khoản trong biên bản cháu vừa nhận đi,READ_TEXT,1,ờ đọc điều khoản trong biên bản cháu vừa nhận đi,1,ờ đọc điều_khoản trong biên_bản cháu vừa nhận đi
+trợ lý ơi trời ơi nóng quá nhỉ bạn,UNKNOWN,5,trợ lý ơi trời ơi nóng quá nhỉ bạn,5,trợ_lý ơi trời_ơi nóng quá nhỉ bạn
+cái ví trên bàn màu gì,ANSWER_VISUAL_QUESTION,3,cái ví trên bàn màu gì,3,cái ví trên bàn màu gì
+chị cô đơn quá nói chuyện với chị đi,UNKNOWN,5,chị cô đơn quá nói chuyện với chị đi,5,chị cô_đơn quá nói_chuyện với chị đi
+bạn ơi phiền bạn đọc bảng giá dịch vụ tôi đang giơ lên nha bạn,READ_TEXT,1,bạn ơi phiền bạn đọc bảng giá dịch vụ tôi đang giơ lên nha bạn,1,bạn ơi phiền bạn_đọc bảng giá dịch_vụ tôi đang giơ lên nha bạn
+ông đang ở văn phòng tắt báo thức ạ,UNKNOWN,5,ông đang ở văn phòng tắt báo thức ạ,5,ông đang ở văn_phòng tắt báo_thức ạ
+mở sách nói,UNKNOWN,5,mở sách nói,5,mở sách nói
+mình cô đơn quá nói chuyện với mình đi,UNKNOWN,5,mình cô đơn quá nói chuyện với mình đi,5,mình cô_đơn quá nói_chuyện với mình đi
+thôi thôi được rồi hông cần nữa cảm ơn,END_SESSION,4,thôi thôi được rồi hông cần nữa cảm ơn,4,thôi thôi được rồi hông cần nữa cảm_ơn
+tắt giùm tôi cái camera tề,END_SESSION,4,tắt giùm tôi cái camera tề,4,tắt giùm tôi cái camera tề
+bạn thấy gì trước mặt cháu,DESCRIBE_SCENE,2,bạn thấy gì trước mặt cháu,2,bạn thấy gì trước mặt cháu
+bạn thấy cảnh vật quanh tôi răng,DESCRIBE_SCENE,2,bạn thấy cảnh vật quanh tôi răng,2,bạn thấy cảnh_vật quanh tôi răng
+đọc lướt lọ thuốc anh đang cầm với,READ_TEXT,1,đọc lướt lọ thuốc anh đang cầm với,1,đọc lướt lọ thuốc anh đang cầm với
+ok xong rồi đó,END_SESSION,4,ok xong rồi đó,4,ok xong rồi đó
+mắt tôi không nhìn rõ bạn thấy cảnh vật quanh tôi thế nào,DESCRIBE_SCENE,2,mắt tôi không nhìn rõ bạn thấy cảnh vật quanh tôi thế nào,2,mắt tôi không nhìn rõ bạn thấy cảnh_vật quanh tôi thế_nào
+cái hố trước mặt có sâu không,ANSWER_VISUAL_QUESTION,3,cái hố trước mặt có sâu không,3,cái hố trước mặt có sâu không
+trong ví bà có tờ hai trăm nghìn không,ANSWER_VISUAL_QUESTION,3,trong ví bà có tờ hai trăm nghìn không,3,trong ví bà có tờ hai trăm_nghìn không
+tấm biển phía trước màu vàng,UNKNOWN,5,tấm biển phía trước màu vàng,5,tấm biển phía trước màu vàng
+bảng hiệu là là quán gì,ANSWER_VISUAL_QUESTION,3,bảng hiệu là là quán gì,3,bảng_hiệu là là quán gì
+ai vậy,ANSWER_VISUAL_QUESTION,3,ai vậy,3,ai vậy
+hông biết phòng chờ bệnh viện này trông ra sao nhỉ,DESCRIBE_SCENE,2,hông biết phòng chờ bệnh viện này trông ra sao nhỉ,2,hông biết phòng chờ bệnh_viện này trông ra sao nhỉ
+không làm gì nữa đâu đóng đi bạn,END_SESSION,4,không làm gì nữa đâu đóng đi bạn,4,không làm gì nữa đâu đóng đi bạn
+ơ hina ơi biển báo đó cảnh báo nguy hiểm gì,ANSWER_VISUAL_QUESTION,3,ơ hina ơi biển báo đó cảnh báo nguy hiểm gì,3,ơ hina ơi biển_báo đó cảnh_báo nguy_hiểm gì
+dạy tôi nấu bánh chưng,UNKNOWN,5,dạy tôi nấu bánh chưng,5,dạy tôi nấu bánh_chưng
+chữ mờ quá bà cần biết bảng giá dịch vụ người ta vừa đưa bà ghi những gì một cách chính xác,READ_TEXT,1,chữ mờ quá bà cần biết bảng giá dịch vụ người ta vừa đưa bà ghi những gì một cách chính xác,1,chữ mờ quá bà cần biết bảng giá dịch_vụ người ta vừa đưa bà ghi những gì một_cách chính_xác
+toa thuốc bác sĩ vừa đưa do bác sĩ nào ký,ANSWER_VISUAL_QUESTION,3,toa thuốc bác sĩ vừa đưa do bác sĩ nào ký,3,toa thuốc bác_sĩ vừa đưa do bác_sĩ nào ký
+đọc tờ này đi,READ_TEXT,1,đọc tờ này đi,1,đọc tờ này đi
+tôi vừa bước vào ngân hàng tả giúp tôi với,DESCRIBE_SCENE,2,tôi vừa bước vào ngân hàng tả giúp tôi với,2,tôi vừa bước vào ngân_hàng tả giúp tôi với
+à mình đang ở văn phòng chữ chi đây,READ_TEXT,1,à mình đang ở văn phòng chữ chi đây,1,à mình đang ở văn_phòng chữ_chi đây
+để coi đọc lại cho cô số điện thoại của bác sĩ minh,UNKNOWN,5,để coi đọc lại cho cô số điện thoại của bác sĩ minh,5,để coi đọc lại cho cô số điện_thoại của bác_sĩ_minh
+bạn à bác đang đứng trong nhà văn hóa cái bác đang cầm là cái gì vậy ạ,ANSWER_VISUAL_QUESTION,3,bạn à bác đang đứng trong nhà văn hóa cái bác đang cầm là cái gì vậy ạ,3,bạn à bác đang đứng trong nhà_văn_hoá cái bác đang cầm là cái gì vậy ạ
+số trên công văn là bao nhiêu,ANSWER_VISUAL_QUESTION,3,số trên công văn là bao nhiêu,3,số trên công_văn là bao_nhiêu
+bà hông nhìn thấy gì đọc lịch hẹn ngày mai của bà,UNKNOWN,5,bà hông nhìn thấy gì đọc lịch hẹn ngày mai của bà,5,bà hông nhìn thấy gì đọc lịch hẹn ngày_mai của bà
+cô cần biết bảng hiệu phía trước ghi những gì một cách chính xác,READ_TEXT,1,cô cần biết bảng hiệu phía trước ghi những gì một cách chính xác,1,cô cần biết bảng_hiệu phía trước ghi những gì một_cách chính_xác
+hina nhìn quanh xem có chi rồi nói mình nghe,DESCRIBE_SCENE,2,hina nhìn quanh xem có chi rồi nói mình nghe,2,hina nhìn quanh xem có chi rồi nói mình nghe
+tui vừa xuống xe mô tả khung cảnh trước camera giùm nha,DESCRIBE_SCENE,2,tui vừa xuống xe mô tả khung cảnh trước camera giùm nha,2,tui vừa xuống xe mô_tả khung_cảnh trước camera giùm nha
+ông vừa vào nhà thuốc mở sách nói,UNKNOWN,5,ông vừa vào nhà thuốc mở sách nói,5,ông vừa vào nhà_thuốc mở sách nói
+trời ơi nóng quá hina,UNKNOWN,5,trời ơi nóng quá hina,5,trời_ơi nóng quá hina
+ăn canh chua có béo không,UNKNOWN,5,ăn canh chua có béo không,5,ăn canh chua có béo không
+tấm thiệp cưới ni có ghi số điện thoại không rứa bạn,ANSWER_VISUAL_QUESTION,3,tấm thiệp cưới ni có ghi số điện thoại không rứa bạn,3,tấm thiệp cưới ni có ghi số điện_thoại không rứa bạn
+đọc tờ này giúp tôi,READ_TEXT,1,đọc tờ này giúp tôi,1,đọc tờ này giúp tôi
+đọc phần chữ nhỏ ở dưới bảng giờ xe buýt trên cao nhá,READ_TEXT,1,đọc phần chữ nhỏ ở dưới bảng giờ xe buýt trên cao nhá,1,đọc phần chữ nhỏ ở dưới bảng giờ xe_buýt trên cao nhá
+ơ tắt bài hát ni hỉ,UNKNOWN,5,ơ tắt bài hát ni hỉ,5,ơ tắt bài hát ni hỉ
+tôi nghe đủ rồi không cần nữa đâu,END_SESSION,4,tôi nghe đủ rồi không cần nữa đâu,4,tôi nghe đủ rồi không cần nữa đâu
+dat hen gio muoi phut nao,UNKNOWN,5,dat hen gio muoi phut nao,5,dat hen gio muoi phut nao
+ơ có ai ở đây không,ANSWER_VISUAL_QUESTION,3,ơ có ai ở đây không,3,ơ có ai ở đây không
+hướng dẫn mình dùng ứng dụng này,UNKNOWN,5,hướng dẫn mình dùng ứng dụng này,5,hướng_dẫn mình dùng ứng_dụng này
+đọc phần chữ nhỏ ở dưới biển tên hẻm được không,READ_TEXT,1,đọc phần chữ nhỏ ở dưới biển tên hẻm được không,1,đọc phần chữ nhỏ ở dưới biển tên hẻm được không
+tui mới tới đây lần đầu cho tui biết khung cảnh nơi này nè bạn,DESCRIBE_SCENE,2,tui mới tới đây lần đầu cho tui biết khung cảnh nơi này nè bạn,2,tui mới tới đây lần đầu cho tui biết khung_cảnh nơi này nè bạn
+mình không dùng nữa không cần nữa đâu,END_SESSION,4,mình không dùng nữa không cần nữa đâu,4,mình không dùng nữa không cần nữa đâu
+ơ màn hình máy tính tiền tê còn bao nhiêu phút,ANSWER_VISUAL_QUESTION,3,ơ màn hình máy tính tiền tê còn bao nhiêu phút,3,ơ màn_hình máy_tính tiền tê còn bao_nhiêu phút
+bạn nhìn thấy nội dung biển đèn led kia là gì thế bạn,READ_TEXT,1,bạn nhìn thấy nội dung biển đèn led kia là gì thế bạn,1,bạn nhìn thấy nội_dung biển đèn led kia là gì thế bạn
+chưa xong việc mà đừng dừng,UNKNOWN,5,chưa xong việc mà đừng dừng,5,chưa xong việc mà đừng dừng
+bạn nhìn thấy nội dung biển quảng cáo bên kia đường là gì,READ_TEXT,1,bạn nhìn thấy nội dung biển quảng cáo bên kia đường là gì,1,bạn nhìn thấy nội_dung biển quảng_cáo bên kia đường là gì
+cho tui biết khung cảnh nơi ni với,DESCRIBE_SCENE,2,cho tui biết khung cảnh nơi ni với,2,cho tui biết khung_cảnh nơi ni với
+không biết nhà hàng này trông thế nào nhỉ,DESCRIBE_SCENE,2,không biết nhà hàng này trông thế nào nhỉ,2,không biết nhà_hàng này trông thế_nào nhỉ
+làm ơn đọc biển chỉ dẫn nhà vệ sinh ở đầu hẻm giùm nha,READ_TEXT,1,làm ơn đọc biển chỉ dẫn nhà vệ sinh ở đầu hẻm giùm nha,1,làm_ơn đọc biển chỉ_dẫn nhà_vệ_sinh ở đầu hẻm giùm nha
+mô tả những gì camera đang thấy,DESCRIBE_SCENE,2,mô tả những gì camera đang thấy,2,mô_tả những gì camera đang thấy
+trong ví tôi có tờ hai trăm nghìn không,ANSWER_VISUAL_QUESTION,3,trong ví tôi có tờ hai trăm nghìn không,3,trong ví tôi có tờ hai trăm_nghìn không
+tóc tôi có rối hông vậy hả,ANSWER_VISUAL_QUESTION,3,tóc tôi có rối hông vậy hả,3,tóc tôi có rối hông vậy hả
+phở bò trên bảng giá dịch vụ người ta vừa đưa chị bao nhiêu tiền đó bạn,ANSWER_VISUAL_QUESTION,3,phở bò trên bảng giá dịch vụ người ta vừa đưa chị bao nhiêu tiền đó bạn,3,phở bò trên bảng giá dịch_vụ người ta vừa đưa chị bao_nhiêu tiền đó bạn
+dạy tôi nấu mì quảng,UNKNOWN,5,dạy tôi nấu mì quảng,5,dạy tôi nấu mì quảng
+ai đó dán tờ thông báo cúp điện đó ở đây đọc xem viết gì,READ_TEXT,1,ai đó dán tờ thông báo cúp điện đó ở đây đọc xem viết gì,1,ai đó dán tờ thông_báo cúp điện đó ở đây đọc xem viết gì
+cửa đang mở phải không,ANSWER_VISUAL_QUESTION,3,cửa đang mở phải không,3,cửa đang mở phải không
+xong việc rồi nghỉ nghỉ đi,END_SESSION,4,xong việc rồi nghỉ nghỉ đi,4,xong việc rồi nghỉ nghỉ đi
+mô tả từ từ trái sang phải những gì đang có nghen,DESCRIBE_SCENE,2,mô tả từ từ trái sang phải những gì đang có nghen,2,mô_tả từ_từ trái sang phải những gì đang có nghen
+má lạ chỗ này quá đọc các dòng trên bảng sơ đồ tầng trước mặt má,READ_TEXT,1,má lạ chỗ này quá đọc các dòng trên bảng sơ đồ tầng trước mặt má,1,má lạ chỗ này quá đọc các dòng trên bảng sơ_đồ tầng trước mặt má
+để coi ơi bạn kiểm tra giùm cửa khóa chưa với,ANSWER_VISUAL_QUESTION,3,để coi ơi bạn kiểm tra giùm cửa khóa chưa với,3,để coi ơi bạn kiểm_tra giùm cửa khoá chưa với
+à ni kể tui nghe xung quanh đang có chi,DESCRIBE_SCENE,2,à ni kể tui nghe xung quanh đang có chi,2,à ni kể tui nghe xung_quanh đang có chi
+đèn ở đây tối khó đọc quá ai đó dán tờ rơi chỗ ngã ba ở đây đọc xem viết gì,READ_TEXT,1,đèn ở đây tối khó đọc quá ai đó dán tờ rơi chỗ ngã ba ở đây đọc xem viết gì,1,đèn ở đây tối khó đọc quá ai đó dán tờ_rơi chỗ ngã ba ở đây đọc xem viết gì
+hina ơi mắt mình không nhìn rõ phiếu xét nghiệm máu trong tay mình do bác sĩ nào ký đấy,ANSWER_VISUAL_QUESTION,3,hina ơi mắt mình không nhìn rõ phiếu xét nghiệm máu trong tay mình do bác sĩ nào ký đấy,3,hina ơi mắt mình không nhìn rõ phiếu xét_nghiệm máu trong tay mình do bác_sĩ nào ký đấy
+hina ơi đọc lướt biển số nhà tê nghe bạn,READ_TEXT,1,hina ơi đọc lướt biển số nhà tê nghe bạn,1,hina ơi đọc lướt biển số nhà tê nghe bạn
+à này hina ơi đèn ở đây tối khó đọc quá trang sách người ta vừa đưa mình tên là gì hả,ANSWER_VISUAL_QUESTION,3,à này hina ơi đèn ở đây tối khó đọc quá trang sách người ta vừa đưa mình tên là gì hả,3,à này hina ơi đèn ở đây tối khó đọc quá trang sách người ta vừa đưa mình tên là gì hả
+mắt em em không nhìn rõ sách giáo khoa này tên là gì nhỉ bạn,ANSWER_VISUAL_QUESTION,3,mắt em em không nhìn rõ sách giáo khoa này tên là gì nhỉ bạn,3,mắt em_em không nhìn rõ sách_giáo_khoa này tên là gì nhỉ bạn
+phở bò trên bảng menu bao nhiêu tiền,ANSWER_VISUAL_QUESTION,3,phở bò trên bảng menu bao nhiêu tiền,3,phở bò trên bảng menu bao_nhiêu tiền
+tui đưa điện thoại lên rồi đọc phần chữ nhỏ ở dưới tờ thông báo đó,READ_TEXT,1,tui đưa điện thoại lên rồi đọc phần chữ nhỏ ở dưới tờ thông báo đó,1,tui đưa điện_thoại lên rồi đọc phần chữ nhỏ ở dưới tờ thông_báo đó
+bạn có đọc được chữ trên gói bột giặt trong tủ lạnh không,READ_TEXT,1,bạn có đọc được chữ trên gói bột giặt trong tủ lạnh không,1,bạn có đọc được chữ trên gói bột_giặt trong tủ_lạnh không
+kể về lịch sử cà mau đi,UNKNOWN,5,kể về lịch sử cà mau đi,5,kể về lịch_sử cà_mau đi
+chỗ này hơi tối cái tui đang cầm là cái gì đó bạn,ANSWER_VISUAL_QUESTION,3,chỗ này hơi tối cái tui đang cầm là cái gì đó bạn,3,chỗ này hơi tối cái tui đang cầm là cái gì đó bạn
+phiếu tính tiền này ghi tên khách hàng là ai nhỉ bạn,ANSWER_VISUAL_QUESTION,3,phiếu tính tiền này ghi tên khách hàng là ai nhỉ bạn,3,phiếu tính tiền này ghi tên khách_hàng là ai nhỉ bạn
+đóng giùm con cái cái máy đi nào,END_SESSION,4,đóng giùm con cái cái máy đi nào,4,đóng giùm con_cái cái máy đi nào
+ở đây ồn quá đặt lịch khám bệnh ngày mai,UNKNOWN,5,ở đây ồn quá đặt lịch khám bệnh ngày mai,5,ở đây ồn quá đặt lịch khám bệnh ngày_mai
+trong ví bà có tờ hai trăm nghìn không hả,ANSWER_VISUAL_QUESTION,3,trong ví bà có tờ hai trăm nghìn không hả,3,trong ví bà có tờ hai trăm nghìn không hả
+đọc lịch hẹn ngày mai của con dùm cái,UNKNOWN,5,đọc lịch hẹn ngày mai của con dùm cái,5,đọc lịch hẹn ngày_mai của con dùm cái
+biển báo tốc độ đó đó có nghĩa là chi hina,ANSWER_VISUAL_QUESTION,3,biển báo tốc độ đó đó có nghĩa là chi hina,3,biển_báo tốc_độ đó đó có nghĩa là chi hina
+mô tả từ trái sang phải những chi đang có nghe,DESCRIBE_SCENE,2,mô tả từ trái sang phải những chi đang có nghe,2,mô_tả từ trái sang phải những chi đang có nghe
+sân bay nội bài trông thế nào,UNKNOWN,5,sân bay nội bài trông thế nào,5,sân_bay nội bài trông thế_nào
+noi cho toi biet tren bang ron ngay cua ra vao ghi nhung gi duoc khong,READ_TEXT,1,noi cho toi biet tren bang ron ngay cua ra vao ghi nhung gi duoc khong,1,noi cho toi biet tren bang ron ngay cua ra vao ghi nhung gi duoc khong
+trong ví ông có tờ hai trăm nghìn không,ANSWER_VISUAL_QUESTION,3,trong ví ông có tờ hai trăm nghìn không,3,trong ví ông có tờ hai trăm_nghìn không
+hina ơi không có ai để hỏi cái điều khiển ni có bị bẩn không ri,ANSWER_VISUAL_QUESTION,3,hina ơi không có ai để hỏi cái điều khiển ni có bị bẩn không ri,3,hina ơi không có ai để hỏi cái điều_khiển ni có bị bẩn không ri
+à cái hố trước mặt có sâu không,ANSWER_VISUAL_QUESTION,3,à cái hố trước mặt có sâu không,3,à cái hố trước mặt có sâu không
+tui đang vội ngày mai buôn ma thuột có mưa không,UNKNOWN,5,tui đang vội ngày mai buôn ma thuột có mưa không,5,tui đang vội ngày_mai buôn_ma_thuột có mưa không
+nhìn quanh xem có chi rồi nói o nghe,DESCRIBE_SCENE,2,nhìn quanh xem có chi rồi nói o nghe,2,nhìn quanh xem có chi rồi nói o nghe
+tôi mới tới hành lang cách nấu canh chua thế nào,UNKNOWN,5,tôi mới tới hành lang cách nấu canh chua thế nào,5,tôi mới tới hành_lang cách nấu canh chua thế_nào
+ai đó dán tờ thông báo ở đây đọc xem viết gì ạ,READ_TEXT,1,ai đó dán tờ thông báo ở đây đọc xem viết gì ạ,1,ai đó dán tờ thông_báo ở đây đọc xem viết gì ạ
+o day on qua bien hieu tiem vang noi gi,READ_TEXT,1,o day on qua bien hieu tiem vang noi gi,1,o day on qua bien hieu tiem vang noi gi
+ông vừa nhặt được vé tàu này không biết ghi gì,READ_TEXT,1,ông vừa nhặt được vé tàu này không biết ghi gì,1,ông vừa nhặt được vé tàu này không biết ghi gì
+mua vé tàu tết ở đâu,UNKNOWN,5,mua vé tàu tết ở đâu,5,mua vé tàu tết ở đâu
+bạn thấy chi trước mặt tui hỉ,DESCRIBE_SCENE,2,bạn thấy chi trước mặt tui hỉ,2,bạn thấy chi trước mặt tui hỉ
+hoa gì vậy,ANSWER_VISUAL_QUESTION,3,hoa gì vậy,3,hoa gì vậy
+tui xong rồi không cần nữa đâu đó,END_SESSION,4,tui xong rồi không cần nữa đâu đó,4,tui xong rồi không cần nữa đâu_đó
+xong việc rồi rồi nghỉ đi,END_SESSION,4,xong việc rồi rồi nghỉ đi,4,xong việc rồi rồi nghỉ đi
+ờ ê hina cô mới tới đây lần đầu xem tờ tiền này mệnh giá bao nhiêu nhá,ANSWER_VISUAL_QUESTION,3,ờ ê hina cô mới tới đây lần đầu xem tờ tiền này mệnh giá bao nhiêu nhá,3,ờ ê hina cô mới tới đây lần đầu xem tờ tiền này mệnh_giá bao_nhiêu nhá
+giá vàng bao nhiêu,UNKNOWN,5,giá vàng bao nhiêu,5,giá vàng bao_nhiêu
+tôi vừa nhặt được cuốn tiểu thuyết đó hông biết ghi gì,READ_TEXT,1,tôi vừa nhặt được cuốn tiểu thuyết đó hông biết ghi gì,1,tôi vừa nhặt được cuốn tiểu_thuyết đó hông biết ghi gì
+biển cấm hút thuốc đó cảnh báo nguy hiểm gì,ANSWER_VISUAL_QUESTION,3,biển cấm hút thuốc đó cảnh báo nguy hiểm gì,3,biển cấm hút thuốc đó cảnh_báo nguy_hiểm gì
+ơi bạn chỗ ni hơi tối nói lại câu vừa rồi coi,UNKNOWN,5,ơi bạn chỗ ni hơi tối nói lại câu vừa rồi coi,5,ơi bạn chỗ ni hơi tối nói lại câu vừa_rồi coi
+thoi tiet ca mau hom nay the nao,UNKNOWN,5,thoi tiet ca mau hom nay the nao,5,thoi tiet ca mau hom nay the nao
+pin yếu rồi không cần nữa đâu nè,END_SESSION,4,pin yếu rồi không cần nữa đâu nè,4,pin yếu rồi không cần nữa đâu nè
+tôi không nhìn thấy chi phát tiếp chương sau của sách nói,UNKNOWN,5,tôi không nhìn thấy chi phát tiếp chương sau của sách nói,5,tôi không nhìn thấy chi phát tiếp chương sau của sách nói
+tôi giơ camera lên rồi mô tả khung cảnh trước camera,DESCRIBE_SCENE,2,tôi giơ camera lên rồi mô tả khung cảnh trước camera,2,tôi giơ camera lên rồi mô_tả khung_cảnh trước camera
+tôi không nhìn thấy gì màn hình máy tính tiền đó còn bao nhiêu phút nhỉ nhỉ,ANSWER_VISUAL_QUESTION,3,tôi không nhìn thấy gì màn hình máy tính tiền đó còn bao nhiêu phút nhỉ nhỉ,3,tôi không nhìn thấy gì màn_hình máy_tính tiền đó còn bao_nhiêu phút nhỉ nhỉ
+quả cà chua trong tay tôi chín chưa,ANSWER_VISUAL_QUESTION,3,quả cà chua trong tay tôi chín chưa,3,quả cà_chua trong tay tôi chín chưa
+tôi mới tới đây lần đầu tắt tivi đi,UNKNOWN,5,tôi mới tới đây lần đầu tắt tivi đi,5,tôi mới tới đây lần đầu tắt tivi đi
+ờ thì chị lạ chỗ này quá trong ví chị có tờ hai trăm nghìn không nè,ANSWER_VISUAL_QUESTION,3,ờ thì chị lạ chỗ này quá trong ví chị có tờ hai trăm nghìn không nè,3,ờ thì chị lạ chỗ này quá trong ví chị có tờ hai trăm nghìn không nè
+biển chỉ dẫn trong siêu thị này ghi những chi,READ_TEXT,1,biển chỉ dẫn trong siêu thị này ghi những chi,1,biển chỉ_dẫn trong siêu_thị này ghi những chi
+ơ chị giơ camera lên rồi con voi trông như thế nào,UNKNOWN,5,ơ chị giơ camera lên rồi con voi trông như thế nào,5,ơ chị giơ camera lên rồi con voi trông như_thế_nào
+mình mới tới đây lần đầu kể lại những gì bạn đang nhìn thấy nhá,DESCRIBE_SCENE,2,mình mới tới đây lần đầu kể lại những gì bạn đang nhìn thấy nhá,2,mình mới tới đây lần đầu kể lại những gì bạn đang nhìn thấy nhá
+hina ơi biển chỉ dẫn nhà vệ sinh đó ghi những gì vậy bạn,READ_TEXT,1,hina ơi biển chỉ dẫn nhà vệ sinh đó ghi những gì vậy bạn,1,hina ơi biển chỉ_dẫn nhà_vệ_sinh đó ghi những gì vậy bạn
+chỗ ni hơi tối con voi trông ra răng,UNKNOWN,5,chỗ ni hơi tối con voi trông ra răng,5,chỗ ni hơi tối con voi trông ra răng
+con cô đơn quá nói chuyện với con đi,UNKNOWN,5,con cô đơn quá nói chuyện với con đi,5,con cô_đơn quá nói_chuyện với con đi
+hông làm gì nữa đâu đóng đi,END_SESSION,4,hông làm gì nữa đâu đóng đi,4,hông làm gì nữa đâu đóng đi
+không làm chi nữa mô kết thúc đi hina,END_SESSION,4,không làm chi nữa mô kết thúc đi hina,4,không làm_chi nữa mô kết_thúc đi hina
+bàn bên cạnh có người chưa,ANSWER_VISUAL_QUESTION,3,bàn bên cạnh có người chưa,3,bàn bên cạnh có người chưa
+bật wifi xem nào,UNKNOWN,5,bật wifi xem nào,5,bật wifi xem nào
+hướng dẫn tôi dùng ứng dụng này dùm cái,UNKNOWN,5,hướng dẫn tôi dùng ứng dụng này dùm cái,5,hướng_dẫn tôi dùng ứng_dụng này dùm cái
+kể mình nghe xung quanh đang có gì,DESCRIBE_SCENE,2,kể mình nghe xung quanh đang có gì,2,kể mình nghe xung_quanh đang có gì
+hông làm gì nữa đâu thoát đi,END_SESSION,4,hông làm gì nữa đâu thoát đi,4,hông làm gì nữa đâu thoát đi
+mạ không nhìn thấy chi kể mạ nghe xung quanh đang có chi với,DESCRIBE_SCENE,2,mạ không nhìn thấy chi kể mạ nghe xung quanh đang có chi với,2,mạ không nhìn thấy chi kể mạ nghe xung_quanh đang có chi với
+làm ơn đọc bảng tin tê,READ_TEXT,1,làm ơn đọc bảng tin tê,1,làm_ơn đọc bảng tin tê
+hina ơi chữ in bé tí hợp đồng thuê nhà người ta vừa đưa anh có đóng dấu đỏ chưa,ANSWER_VISUAL_QUESTION,3,hina ơi chữ in bé tí hợp đồng thuê nhà người ta vừa đưa anh có đóng dấu đỏ chưa,3,hina ơi chữ in bé tí hợp_đồng thuê nhà người ta vừa đưa anh có đóng_dấu đỏ chưa
+cách nấu bánh xèo thế nào,UNKNOWN,5,cách nấu bánh xèo thế nào,5,cách nấu bánh_xèo thế_nào
+mô tả khung cảnh trước camera,DESCRIBE_SCENE,2,mô tả khung cảnh trước camera,2,mô_tả khung_cảnh trước camera
+thôi được rồi không không cần nữa cảm ơn,END_SESSION,4,thôi được rồi không không cần nữa cảm ơn,4,thôi được rồi không không cần nữa cảm_ơn
+cái áo kia đẹp quá,UNKNOWN,5,cái áo kia đẹp quá,5,cái áo kia đẹp quá
+ờ thì tui cô đơn quá nói chuyện với tui đi,UNKNOWN,5,ờ thì tui cô đơn quá nói chuyện với tui đi,5,ờ thì tui cô_đơn quá nói_chuyện với tui đi
+xem tờ tiền này mệnh giá bao nhiêu được hông,ANSWER_VISUAL_QUESTION,3,xem tờ tiền này mệnh giá bao nhiêu được hông,3,xem tờ tiền này mệnh_giá bao_nhiêu được hông
+bạn ơi dừng cho con bú lúc mấy tháng,UNKNOWN,5,bạn ơi dừng cho con bú lúc mấy tháng,5,bạn ơi dừng cho con bú lúc mấy tháng
+chữ mờ quá số trên tờ đơn người ta vừa đưa bà là bao nhiêu đó bạn,ANSWER_VISUAL_QUESTION,3,chữ mờ quá số trên tờ đơn người ta vừa đưa bà là bao nhiêu đó bạn,3,chữ mờ quá số trên tờ đơn người ta vừa đưa bà là bao_nhiêu đó bạn
+ê mày đi đâu đó,UNKNOWN,5,ê mày đi đâu đó,5,ê mày đi đâu_đó
+cháu hông nhìn thấy gì bạn thấy cảnh vật quanh cháu ra sao,DESCRIBE_SCENE,2,cháu hông nhìn thấy gì bạn thấy cảnh vật quanh cháu ra sao,2,cháu hông nhìn thấy gì bạn thấy cảnh_vật quanh cháu ra sao
+tắt hẳn giùm tôi cái trợ lý nha bạn,END_SESSION,4,tắt hẳn giùm tôi cái trợ lý nha bạn,4,tắt hẳn giùm tôi cái trợ_lý nha bạn
+ai đó dán bảng thông báo kia ở đây đọc xem viết gì đó,READ_TEXT,1,ai đó dán bảng thông báo kia ở đây đọc xem viết gì đó,1,ai đó dán bảng thông_báo kia ở đây đọc xem viết gì đó
+đừng tắt vội xem giúp cái này màu gì,ANSWER_VISUAL_QUESTION,3,đừng tắt vội xem giúp cái này màu gì,3,đừng tắt vội xem giúp cái này màu gì
+để lúc khác không cần nữa đâu,END_SESSION,4,để lúc khác không cần nữa đâu,4,để lúc khác không cần nữa đâu
+kể lại những chi bạn đang nhìn thấy giùm với,DESCRIBE_SCENE,2,kể lại những chi bạn đang nhìn thấy giùm với,2,kể lại những chi bạn đang nhìn thấy giùm với
+bạn thấy cảnh vật quanh mình thế nào bạn,DESCRIBE_SCENE,2,bạn thấy cảnh vật quanh mình thế nào bạn,2,bạn thấy cảnh_vật quanh mình thế_nào bạn
+bạn ơi tôi vừa nhặt được tờ hóa đơn tôi đang cầm không biết ghi chi rứa bạn,READ_TEXT,1,bạn ơi tôi vừa nhặt được tờ hóa đơn tôi đang cầm không biết ghi chi rứa bạn,1,bạn ơi tôi vừa nhặt được tờ hoá_đơn tôi đang cầm không biết ghi chi rứa bạn
+bạn có thích tôi không,UNKNOWN,5,bạn có thích tôi không,5,bạn có thích tôi không
+hina ơi tôi đang vội cho tôi biết khung cảnh nơi này,DESCRIBE_SCENE,2,hina ơi tôi đang vội cho tôi biết khung cảnh nơi này,2,hina ơi tôi đang vội cho tôi biết khung_cảnh nơi này
+mình mới tới đây lần đầu bật wifi nha,UNKNOWN,5,mình mới tới đây lần đầu bật wifi nha,5,mình mới tới đây lần đầu bật wifi nha
+đọc lại cho chị số điện thoại của dì út coi,UNKNOWN,5,đọc lại cho chị số điện thoại của dì út coi,5,đọc lại cho chị số điện_thoại của dì út coi
+khoan khoan đã thôi không cần nữa,END_SESSION,4,khoan khoan đã thôi không cần nữa,4,khoan khoan đã thôi không cần nữa
+em lạ chỗ này quá tóc em có rối không,ANSWER_VISUAL_QUESTION,3,em lạ chỗ này quá tóc em có rối không,3,em lạ chỗ này quá tóc em có rối không
+đọc các dòng trên bảng chỉ dẫn đó,READ_TEXT,1,đọc các dòng trên bảng chỉ dẫn đó,1,đọc các dòng trên bảng chỉ_dẫn đó
+tôi vừa bước vào quảng trường tả giùm với,DESCRIBE_SCENE,2,tôi vừa bước vào quảng trường tả giùm với,2,tôi vừa bước vào quảng_trường tả giùm với
+tôi tôi xong rồi không cần nữa đâu,END_SESSION,4,tôi tôi xong rồi không cần nữa đâu,4,tôi tôi xong rồi không cần nữa đâu
+à mà bạn thấy cảnh vật quanh tôi ra sao,DESCRIBE_SCENE,2,à mà bạn thấy cảnh vật quanh tôi ra sao,2,à mà bạn thấy cảnh_vật quanh tôi ra sao
+tờ giấy báo trong phong bì có ghi số điện thoại không nhỉ,ANSWER_VISUAL_QUESTION,3,tờ giấy báo trong phong bì có ghi số điện thoại không nhỉ,3,tờ giấy_báo trong phong_bì có ghi số điện_thoại không nhỉ
+vỉ thuốc này uống mấy viên một lần hen,ANSWER_VISUAL_QUESTION,3,vỉ thuốc này uống mấy viên một lần hen,3,vỉ thuốc này uống mấy viên một lần hen
+bạn nhìn thấy nội dung biển đèn led là gì,READ_TEXT,1,bạn nhìn thấy nội dung biển đèn led là gì,1,bạn nhìn thấy nội_dung biển đèn led là gì
+ở đây ồn quá nhìn quanh xem có gì rồi nói má nghe,DESCRIBE_SCENE,2,ở đây ồn quá nhìn quanh xem có gì rồi nói má nghe,2,ở đây ồn quá nhìn quanh xem có gì rồi nói má nghe
+bạn thấy thấy chi trước mặt tôi,DESCRIBE_SCENE,2,bạn thấy thấy chi trước mặt tôi,2,bạn thấy thấy chi trước mặt tôi
+ở đây ồn quá mô tả từ trái sang phải những gì đang có với bạn bạn,DESCRIBE_SCENE,2,ở đây ồn quá mô tả từ trái sang phải những gì đang có với bạn bạn,2,ở đây ồn quá mô_tả từ trái sang phải những gì đang có với bạn bạn
+hina ơi dừng mọi thứ lại,END_SESSION,4,hina ơi dừng mọi thứ lại,4,hina ơi dừng mọi thứ lại
+hina hina không làm gì nữa đâu dừng đi,END_SESSION,4,hina hina không làm gì nữa đâu dừng đi,4,hina hina không làm gì nữa đâu dừng đi
+trời ơi nóng quá,UNKNOWN,5,trời ơi nóng quá,5,trời_ơi nóng quá
+hina ơi con xong rồi không cần nữa đâu đi nào,END_SESSION,4,hina ơi con xong rồi không cần nữa đâu đi nào,4,hina ơi con xong rồi không cần nữa đâu đi nào
+cháu đang đứng trong siêu thị không biết phòng khám này trông ra sao nhỉ,DESCRIBE_SCENE,2,cháu đang đứng trong siêu thị không biết phòng khám này trông ra sao nhỉ,2,cháu đang đứng trong siêu_thị không biết phòng_khám này trông ra sao nhỉ
+xong việc việc rồi nghỉ đi,END_SESSION,4,xong việc việc rồi nghỉ đi,4,xong việc việc rồi nghỉ đi
+trong ban công đang có những ai và những chi,DESCRIBE_SCENE,2,trong ban công đang có những ai và những chi,2,trong ban_công đang có những_ai và những chi
+phiền bạn đọc bằng lái xe trên kệ,READ_TEXT,1,phiền bạn đọc bằng lái xe trên kệ,1,phiền bạn_đọc bằng lái_xe trên kệ
+ê mày đi mô đó,UNKNOWN,5,ê mày đi mô đó,5,ê mày đi mô đó
+khoan đã chỗ này có nhà vệ sinh không ạ,ANSWER_VISUAL_QUESTION,3,khoan đã chỗ này có nhà vệ sinh không ạ,3,khoan đã chỗ này có nhà_vệ_sinh không ạ
+cái áo tôi đang mặc màu gì,ANSWER_VISUAL_QUESTION,3,cái áo tôi đang mặc màu gì,3,cái áo tôi đang mặc màu gì
+scan cuốn tiểu thuyết trên tay con rồi đọc cho con hen,READ_TEXT,1,scan cuốn tiểu thuyết trên tay con rồi đọc cho con hen,1,scan cuốn tiểu_thuyết trên tay con rồi đọc cho con hen
+ê mày đi mô nớ,UNKNOWN,5,ê mày đi mô nớ,5,ê mày đi mô nớ
+đọc tin tức kinh tế hôm nay,UNKNOWN,5,đọc tin tức kinh tế hôm nay,5,đọc tin_tức kinh_tế hôm_nay
+cho tôi biết khung cảnh nơi này,DESCRIBE_SCENE,2,cho tôi biết khung cảnh nơi này,2,cho tôi biết khung_cảnh nơi này
+hina ơi phở bò trên tờ menu trên kệ bao nhiêu tiền vậy bạn,ANSWER_VISUAL_QUESTION,3,hina ơi phở bò trên tờ menu trên kệ bao nhiêu tiền vậy bạn,3,hina ơi phở bò trên tờ menu trên kệ bao_nhiêu tiền vậy bạn
+biển chỉ dẫn đằng trước ghi những gì,READ_TEXT,1,biển chỉ dẫn đằng trước ghi những gì,1,biển chỉ_dẫn đằng trước ghi những gì
+mô tả khung cảnh trước camera nào,DESCRIBE_SCENE,2,mô tả khung cảnh trước camera nào,2,mô_tả khung_cảnh trước camera nào
+bạn có đọc được chữ trên hộp thuốc huyết áp trên ghế không,READ_TEXT,1,bạn có đọc được chữ trên hộp thuốc huyết áp trên ghế không,1,bạn có đọc được chữ trên hộp thuốc huyết_áp trên ghế không
+biển cảnh báo bên trái có nghĩa là gì vậy,ANSWER_VISUAL_QUESTION,3,biển cảnh báo bên trái có nghĩa là gì vậy,3,biển cảnh_báo bên trái có nghĩa là gì vậy
+cho bác nghỉ ở đây,END_SESSION,4,cho bác nghỉ ở đây,4,cho bác nghỉ ở đây
+scan hộp thuốc tôi đang giơ lên rồi đọc cho tôi bạn,READ_TEXT,1,scan hộp thuốc tôi đang giơ lên rồi đọc cho tôi bạn,1,scan hộp thuốc tôi đang giơ lên rồi đọc cho tôi bạn
+bà lạ chỗ này quá nhìn quanh xem có gì rồi nói bà nghe,DESCRIBE_SCENE,2,bà lạ chỗ này quá nhìn quanh xem có gì rồi nói bà nghe,2,bà lạ chỗ này quá nhìn quanh xem có gì rồi nói bà nghe
+bạn thấy cảnh vật quanh mình thế nào,DESCRIBE_SCENE,2,bạn thấy cảnh vật quanh mình thế nào,2,bạn thấy cảnh_vật quanh mình thế_nào
+ê hina ông đang đi trong sảnh khách sạn ông vừa bước vào chùa tả hộ ông với,DESCRIBE_SCENE,2,ê hina ông đang đi trong sảnh khách sạn ông vừa bước vào chùa tả hộ ông với,2,ê hina ông đang đi trong sảnh khách_sạn ông vừa bước vào chùa tả hộ ông với
+bạn ơi cháu mới tới sảnh bệnh viện tóc cháu có rối không,ANSWER_VISUAL_QUESTION,3,bạn ơi cháu mới tới sảnh bệnh viện tóc cháu có rối không,3,bạn ơi cháu mới tới sảnh bệnh_viện tóc cháu có rối không
+cô đi ngủ đây không cần nữa đâu,END_SESSION,4,cô đi ngủ đây không cần nữa đâu,4,cô đi ngủ đây không cần nữa đâu
+hộp thuốc trên kệ có phải thuốc huyết áp không,ANSWER_VISUAL_QUESTION,3,hộp thuốc trên kệ có phải thuốc huyết áp không,3,hộp thuốc trên kệ có phải thuốc huyết_áp không
+má đưa điện thoại lên rồi nhìn quanh xem có gì rồi nói má nghe,DESCRIBE_SCENE,2,má đưa điện thoại lên rồi nhìn quanh xem có gì rồi nói má nghe,2,má đưa điện_thoại lên rồi nhìn quanh xem có gì rồi nói má nghe
+bạn nhìn thấy nội dung bảng hiệu nhà thuốc là chi,READ_TEXT,1,bạn nhìn thấy nội dung bảng hiệu nhà thuốc là chi,1,bạn nhìn thấy nội_dung bảng_hiệu nhà_thuốc là chi
+bạn ơi tui vừa bước vào chợ hoa tả giùm với,DESCRIBE_SCENE,2,bạn ơi tui vừa bước vào chợ hoa tả giùm với,2,bạn ơi tui vừa bước vào chợ hoa tả giùm với
+đọc phần chữ nhỏ ở dưới tờ thông báo cúp điện,READ_TEXT,1,đọc phần chữ nhỏ ở dưới tờ thông báo cúp điện,1,đọc phần chữ nhỏ ở dưới tờ thông_báo cúp điện
+scan biển báo giao thông ngay cửa ra vào rồi đọc cho mình nhá,READ_TEXT,1,scan biển báo giao thông ngay cửa ra vào rồi đọc cho mình nhá,1,scan biển_báo giao_thông ngay cửa ra vào rồi đọc cho mình nhá
+đọc chữ nổi braille ra sao,UNKNOWN,5,đọc chữ nổi braille ra sao,5,đọc chữ_nổi braille ra sao
+thôi hông cần cần nữa,END_SESSION,4,thôi hông cần cần nữa,4,thôi hông cần cần nữa
+đọc điều khoản trong giấy biên nhận hồ sơ đó,READ_TEXT,1,đọc điều khoản trong giấy biên nhận hồ sơ đó,1,đọc điều_khoản trong giấy biên_nhận hồ_sơ đó
+tôi không dùng nữa không cần nữa mô,END_SESSION,4,tôi không dùng nữa không cần nữa mô,4,tôi không dùng nữa không cần nữa mô
+bạn có thích ông không,UNKNOWN,5,bạn có thích ông không,5,bạn có thích ông không
+ban oi doc nguyen van cho minh dung tom tat xem nao,READ_TEXT,1,ban oi doc nguyen van cho minh dung tom tat xem nao,1,ban oi doc nguyen van cho minh dung tom tat xem nao
+thoát giùm anh cái chế độ đọc,END_SESSION,4,thoát giùm anh cái chế độ đọc,4,thoát giùm anh cái chế_độ đọc
+đọc lại cho tôi số điện thoại của ông nội ạ,UNKNOWN,5,đọc lại cho tôi số điện thoại của ông nội ạ,5,đọc lại cho tôi số điện_thoại của ông nội ạ
+đọc tên tác giả của sách hướng dẫn đó,ANSWER_VISUAL_QUESTION,3,đọc tên tác giả của sách hướng dẫn đó,3,đọc tên tác_giả của sách hướng_dẫn đó
+bạn thấy cảnh vật quanh cô thế nào,DESCRIBE_SCENE,2,bạn thấy cảnh vật quanh cô thế nào,2,bạn thấy cảnh_vật quanh cô_thế_nào
+đọc lướt gói kẹo đó,READ_TEXT,1,đọc lướt gói kẹo đó,1,đọc lướt gói kẹo đó
+hina ơi nhìn quanh xem có gì rồi nói má nghe,DESCRIBE_SCENE,2,hina ơi nhìn quanh xem có gì rồi nói má nghe,2,hina ơi nhìn quanh xem có gì rồi nói má nghe
+mô tả từ trái sang phải những gì đang có,DESCRIBE_SCENE,2,mô tả từ trái sang phải những gì đang có,2,mô_tả từ trái sang phải những gì đang có
+này bạn đọc phần chữ nhỏ ở dưới cuốn sách nấu ăn này với,READ_TEXT,1,này bạn đọc phần chữ nhỏ ở dưới cuốn sách nấu ăn này với,1,này bạn_đọc phần chữ nhỏ ở dưới cuốn sách nấu_ăn này với
+cái tôi đang cầm là cái gì nè,ANSWER_VISUAL_QUESTION,3,cái tôi đang cầm là cái gì nè,3,cái tôi đang cầm là cái gì nè
+trợ lý ơi đọc điều khoản trong biên bản tui chuẩn bị ký,READ_TEXT,1,trợ lý ơi đọc điều khoản trong biên bản tui chuẩn bị ký,1,trợ_lý ơi đọc điều_khoản trong biên_bản tui chuẩn_bị ký
+kể tui nghe xung quanh đang có chi,DESCRIBE_SCENE,2,kể tui nghe xung quanh đang có chi,2,kể tui nghe xung_quanh đang có chi
+xong xong việc rồi nghỉ đi,END_SESSION,4,xong xong việc rồi nghỉ đi,4,xong xong việc rồi nghỉ đi
+bảng chỉ dẫn lối ra kia ghi những gì,READ_TEXT,1,bảng chỉ dẫn lối ra kia ghi những gì,1,bảng chỉ_dẫn lối ra kia ghi những gì
+mình đến nơi rồi không cần nữa đâu,END_SESSION,4,mình đến nơi rồi không cần nữa đâu,4,mình đến_nơi rồi không cần nữa đâu
+ừm ok xong xong rồi đó,END_SESSION,4,ừm ok xong xong rồi đó,4,ừm ok xong xong rồi đó
+tôi đang đi trong trạm xe buýt biên lai tôi vừa nhận trả bằng thẻ hay tiền mặt đấy,ANSWER_VISUAL_QUESTION,3,tôi đang đi trong trạm xe buýt biên lai tôi vừa nhận trả bằng thẻ hay tiền mặt đấy,3,tôi đang đi trong trạm xe_buýt biên_lai tôi vừa nhận trả bằng thẻ hay tiền_mặt đấy
+ơ xong việc rồi nghỉ đi,END_SESSION,4,ơ xong việc rồi nghỉ đi,4,ơ xong việc rồi nghỉ đi
+hina ơi quả cà chua trong tay tôi chín chưa,ANSWER_VISUAL_QUESTION,3,hina ơi quả cà chua trong tay tôi chín chưa,3,hina ơi quả cà_chua trong tay tôi chín chưa
+màn hình máy bán nước tê đang gọi số mấy,ANSWER_VISUAL_QUESTION,3,màn hình máy bán nước tê đang gọi số mấy,3,màn_hình máy bán nước tê đang gọi số mấy
+bạn thấy cảnh vật quanh tui ra sao,DESCRIBE_SCENE,2,bạn thấy cảnh vật quanh tui ra sao,2,bạn thấy cảnh_vật quanh tui ra sao
+kể về lịch sử nghệ an đi,UNKNOWN,5,kể về lịch sử nghệ an đi,5,kể về lịch_sử nghệ_an đi
+bạn ơi đọc lướt màn hình điều hòa trước mặt mình,READ_TEXT,1,bạn ơi đọc lướt màn hình điều hòa trước mặt mình,1,bạn ơi đọc lướt màn_hình điều_hoà trước mặt mình
+thôi được được rồi không cần nữa cảm ơn,END_SESSION,4,thôi được được rồi không cần nữa cảm ơn,4,thôi được được rồi không cần nữa cảm_ơn
+trang sách này tên là gì nhỉ bạn,ANSWER_VISUAL_QUESTION,3,trang sách này tên là gì nhỉ bạn,3,trang sách này tên là gì nhỉ bạn
+có ai ở đây hông vậy bạn,ANSWER_VISUAL_QUESTION,3,có ai ở đây hông vậy bạn,3,có ai ở đây hông vậy bạn
+hina ơi đọc hết chữ trong khung hình dùm cái,READ_TEXT,1,hina ơi đọc hết chữ trong khung hình dùm cái,1,hina ơi đọc hết chữ trong khung hình dùm cái
+bảng chỉ dẫn ghi những gì,READ_TEXT,1,bảng chỉ dẫn ghi những gì,1,bảng chỉ_dẫn ghi những gì
+tôi đang vội tả cảnh vật xung quanh,DESCRIBE_SCENE,2,tôi đang vội tả cảnh vật xung quanh,2,tôi đang vội tả cảnh_vật xung_quanh
+à mà số trên giấy vay nợ trên bàn là bao nhiêu vậy ạ,ANSWER_VISUAL_QUESTION,3,à mà số trên giấy vay nợ trên bàn là bao nhiêu vậy ạ,3,à mà số trên giấy vay nợ trên bàn_là bao_nhiêu vậy ạ
+hina cho tôi nhờ đọc kết quả xét nghiệm này nhé,READ_TEXT,1,hina cho tôi nhờ đọc kết quả xét nghiệm này nhé,1,hina cho tôi nhờ đọc kết_quả xét_nghiệm này nhé
+ơ đọc lướt tấm thiệp cưới trên bàn giùm nha,READ_TEXT,1,ơ đọc lướt tấm thiệp cưới trên bàn giùm nha,1,ơ đọc lướt tấm thiệp cưới trên bàn giùm nha
+ơ ơi bạn đặt lịch khám bệnh ngày mai nhé,UNKNOWN,5,ơ ơi bạn đặt lịch khám bệnh ngày mai nhé,5,ơ ơi bạn đặt lịch khám bệnh ngày_mai nhé
+trợ lý ơi bạn nhìn thấy nội dung biển hiệu tiệm vàng đó là gì,READ_TEXT,1,trợ lý ơi bạn nhìn thấy nội dung biển hiệu tiệm vàng đó là gì,1,trợ_lý ơi bạn nhìn thấy nội_dung biển_hiệu tiệm vàng đó là gì
+à này cho hina nghỉ đi,END_SESSION,4,à này cho hina nghỉ đi,4,à này cho hina nghỉ đi
+tôi đang đi trong chùa mở sách nói,UNKNOWN,5,tôi đang đi trong chùa mở sách nói,5,tôi đang đi trong chùa mở sách nói
+biển cảnh báo ngay cửa ra vào có nghĩa là gì vậy,ANSWER_VISUAL_QUESTION,3,biển cảnh báo ngay cửa ra vào có nghĩa là gì vậy,3,biển cảnh_báo ngay cửa ra vào có nghĩa là gì vậy
+hóa đơn tiền nước này này trả bằng thẻ hay tiền mặt ạ,ANSWER_VISUAL_QUESTION,3,hóa đơn tiền nước này này trả bằng thẻ hay tiền mặt ạ,3,hoá_đơn tiền nước này này trả bằng thẻ hay tiền_mặt ạ
+ai đó dán bảng tin bên kia đường ở đây đọc xem viết gì,READ_TEXT,1,ai đó dán bảng tin bên kia đường ở đây đọc xem viết gì,1,ai đó dán bảng tin bên kia đường ở đây đọc xem viết gì
+không không đừng đóng phiên,UNKNOWN,5,không không đừng đóng phiên,5,không không đừng đóng phiên
+đọc chữ đang hiện trên màn hình máy bán nước trên tường cái hina,READ_TEXT,1,đọc chữ đang hiện trên màn hình máy bán nước trên tường cái hina,1,đọc chữ đang hiện trên màn_hình máy bán nước trên tường cái hina
+hina bác đang đi trong phòng làm việc hướng dẫn bác dùng ứng dụng này,UNKNOWN,5,hina bác đang đi trong phòng làm việc hướng dẫn bác dùng ứng dụng này,5,hina bác đang đi trong phòng làm_việc hướng_dẫn bác dùng ứng_dụng này
+phở bò trên trên bảng menu này bao nhiêu tiền,ANSWER_VISUAL_QUESTION,3,phở bò trên trên bảng menu này bao nhiêu tiền,3,phở bò trên trên bảng menu này bao_nhiêu tiền
+thế hina tả cảnh vật xung quanh nhé,DESCRIBE_SCENE,2,thế hina tả cảnh vật xung quanh nhé,2,thế hina tả cảnh_vật xung_quanh nhé
+tiền điện tháng này tính thế nào,UNKNOWN,5,tiền điện tháng này tính thế nào,5,tiền điện tháng này tính thế_nào
+ờ không làm gì nữa đâu đóng đi,END_SESSION,4,ờ không làm gì nữa đâu đóng đi,4,ờ không làm gì nữa đâu đóng đi
+hina ơi cô mới tới đây lần đầu cô vừa bước vào ga tàu tả giúp cô với,DESCRIBE_SCENE,2,hina ơi cô mới tới đây lần đầu cô vừa bước vào ga tàu tả giúp cô với,2,hina ơi cô mới tới đây lần đầu cô vừa bước vào ga tàu tả giúp cô với
+có vật cản nào trước mặt tôi không vậy hả,ANSWER_VISUAL_QUESTION,3,có vật cản nào trước mặt tôi không vậy hả,3,có vật cản nào trước mặt tôi không vậy hả
+có vật cản nào trước mặt mình không vậy,ANSWER_VISUAL_QUESTION,3,có vật cản nào trước mặt mình không vậy,3,có vật cản nào trước mặt mình không vậy
+áo chị mặc có bị ngược hông,ANSWER_VISUAL_QUESTION,3,áo chị mặc có bị ngược hông,3,áo chị mặc có bị ngược hông
+tôi vừa bước vào trường học tả giúp tôi với bạn,DESCRIBE_SCENE,2,tôi vừa bước vào trường học tả giúp tôi với bạn,2,tôi vừa bước vào trường_học tả giúp tôi với bạn
+bạn ơi thôi hông cần nữa,END_SESSION,4,bạn ơi thôi hông cần nữa,4,bạn ơi thôi hông cần nữa
+không làm gì nữa đâu ngắt đi,END_SESSION,4,không làm gì nữa đâu ngắt đi,4,không làm gì nữa đâu ngắt đi
+chiếc xe trước mặt màu gì,ANSWER_VISUAL_QUESTION,3,chiếc xe trước mặt màu gì,3,chiếc xe trước mặt màu gì
+hông biết bãi đỗ xe này trông ra sao nhỉ,DESCRIBE_SCENE,2,hông biết bãi đỗ xe này trông ra sao nhỉ,2,hông biết bãi đỗ xe này trông ra sao nhỉ
+cái ví tôi để ở đâu bạn nhớ không,UNKNOWN,5,cái ví tôi để ở đâu bạn nhớ không,5,cái ví tôi để ở đâu bạn nhớ không
+mặt nào là mặt trước,ANSWER_VISUAL_QUESTION,3,mặt nào là mặt trước,3,mặt nào là mặt trước
+ngoài sân có gì,DESCRIBE_SCENE,2,ngoài sân có gì,2,ngoài sân có gì
+trong nhà đang bày biện ra sao,DESCRIBE_SCENE,2,trong nhà đang bày biện ra sao,2,trong nhà đang bày_biện ra sao
+không làm gì nữa đâu ngắt đi hina,END_SESSION,4,không làm gì nữa đâu ngắt đi hina,4,không làm gì nữa đâu ngắt đi hina
+này bạn ok xong rồi đó,END_SESSION,4,này bạn ok xong rồi đó,4,này bạn ok xong rồi đó
+bạn có đọc được chữ trên biển báo công trường ở đầu hẻm không hả,READ_TEXT,1,bạn có đọc được chữ trên biển báo công trường ở đầu hẻm không hả,1,bạn có đọc được chữ trên biển_báo công_trường ở đầu hẻm không hả
+ngừng giùm bác cái camera với,END_SESSION,4,ngừng giùm bác cái camera với,4,ngừng giùm bác cái camera với
+mắt cháu không nhìn rõ bật wifi,UNKNOWN,5,mắt cháu không nhìn rõ bật wifi,5,mắt cháu không nhìn rõ bật wifi
+nhìn quanh xem có gì rồi nói con nghe,DESCRIBE_SCENE,2,nhìn quanh xem có gì rồi nói con nghe,2,nhìn quanh xem có gì rồi nói con nghe
+ăn đậu sốt cà chua có béo không nhỉ,UNKNOWN,5,ăn đậu sốt cà chua có béo không nhỉ,5,ăn đậu sốt cà_chua có béo không nhỉ
+cam on ban da giup anh hen gap lai,END_SESSION,4,cam on ban da giup anh hen gap lai,4,cam on ban da giup anh hen gap lai
+cứ để đó chưa cần đóng,UNKNOWN,5,cứ để đó chưa cần đóng,5,cứ để đó chưa cần đóng
+bạn ơi tả cảnh vật xung quanh được hông,DESCRIBE_SCENE,2,bạn ơi tả cảnh vật xung quanh được hông,2,bạn ơi tả cảnh_vật xung_quanh được hông
+bạn ơi cách nấu canh chua răng,UNKNOWN,5,bạn ơi cách nấu canh chua răng,5,bạn ơi cách nấu canh chua răng
+đồ ăn trong đĩa là món chi,ANSWER_VISUAL_QUESTION,3,đồ ăn trong đĩa là món chi,3,đồ_ăn trong đĩa là món chi
+không biết cầu thang này trông ra sao nhỉ,DESCRIBE_SCENE,2,không biết cầu thang này trông ra sao nhỉ,2,không biết cầu_thang này trông ra sao nhỉ
+ở đây ồn quá phát tiếp chương sau của sách nói bạn,UNKNOWN,5,ở đây ồn quá phát tiếp chương sau của sách nói bạn,5,ở đây ồn quá phát tiếp chương sau của sách nói bạn
+đọc tên tác giả của quyển kinh đó,ANSWER_VISUAL_QUESTION,3,đọc tên tác giả của quyển kinh đó,3,đọc tên tác_giả của quyển kinh đó
+alo alo,UNKNOWN,5,alo alo,5,alo alo
+đọc phần chữ nhỏ ở dưới biên lai chuyển tiền tôi đang giơ lên,READ_TEXT,1,đọc phần chữ nhỏ ở dưới biên lai chuyển tiền tôi đang giơ lên,1,đọc phần chữ nhỏ ở dưới biên_lai chuyển tiền tôi đang giơ lên
+ờ thì cho tui nhờ đọc bảng hiệu cửa hàng trên tường đi,READ_TEXT,1,ờ thì cho tui nhờ đọc bảng hiệu cửa hàng trên tường đi,1,ờ thì cho tui nhờ đọc bảng_hiệu cửa_hàng trên tường đi
+cho tui nhờ đọc sách hướng dẫn người ta vừa đưa tui,READ_TEXT,1,cho tui nhờ đọc sách hướng dẫn người ta vừa đưa tui,1,cho tui nhờ đọc sách hướng_dẫn người ta vừa đưa tui
+không gian quán này như thế nào,DESCRIBE_SCENE,2,không gian quán này như thế nào,2,không_gian quán này như_thế_nào
+này tả lại căn nhà mơ ước của bạn đi,UNKNOWN,5,này tả lại căn nhà mơ ước của bạn đi,5,này tả lại căn nhà mơ_ước của bạn đi
+bạn có đọc được chữ trên thẻ lên máy bay nớ không,READ_TEXT,1,bạn có đọc được chữ trên thẻ lên máy bay nớ không,1,bạn có đọc được chữ trên thẻ lên máy_bay nớ không
+mắt chị không nhìn rõ đọc hết chữ trong khung hình,READ_TEXT,1,mắt chị không nhìn rõ đọc hết chữ trong khung hình,1,mắt chị không nhìn rõ đọc hết chữ trong khung hình
+mở sách nói nè,UNKNOWN,5,mở sách nói nè,5,mở sách nói nè
+ờ thì xong việc rồi nghỉ đi,END_SESSION,4,ờ thì xong việc rồi nghỉ đi,4,ờ thì xong việc rồi nghỉ đi
+cho bác biết khung cảnh nơi này nhé,DESCRIBE_SCENE,2,cho bác biết khung cảnh nơi này nhé,2,cho bác biết khung_cảnh nơi này nhé
+à này gói bánh trên kệ hàng có đang giảm giá không,ANSWER_VISUAL_QUESTION,3,à này gói bánh trên kệ hàng có đang giảm giá không,3,à này gói bánh trên kệ hàng có đang giảm_giá không
+bạn ơi đọc tin tức sức khỏe hôm nay,UNKNOWN,5,bạn ơi đọc tin tức sức khỏe hôm nay,5,bạn ơi đọc tin_tức sức_khoẻ hôm_nay
+không biết phòng tắm này trông ra sao nhỉ,DESCRIBE_SCENE,2,không biết phòng tắm này trông ra sao nhỉ,2,không biết phòng tắm này trông ra sao nhỉ
+mã số của phiếu tạm tính này là gì,ANSWER_VISUAL_QUESTION,3,mã số của phiếu tạm tính này là gì,3,mã_số của phiếu tạm tính này là gì
+hông làm gì nữa đâu kết thúc đi,END_SESSION,4,hông làm gì nữa đâu kết thúc đi,4,hông làm gì nữa đâu kết_thúc đi
+camera dang thay nhung gi the nhi,DESCRIBE_SCENE,2,camera dang thay nhung gi the nhi,2,camera dang thay nhung gi the nhi
+ông vừa nhặt được biển chỉ dẫn ở ga trên cột không biết ghi gì,READ_TEXT,1,ông vừa nhặt được biển chỉ dẫn ở ga trên cột không biết ghi gì,1,ông vừa nhặt được biển chỉ_dẫn ở ga trên cột không biết ghi gì
+không làm gì nữa đâu tắt đi,END_SESSION,4,không làm gì nữa đâu tắt đi,4,không làm gì nữa đâu tắt đi
+à mà không làm gì nữa đâu kết thúc đi,END_SESSION,4,à mà không làm gì nữa đâu kết thúc đi,4,à mà không làm gì nữa đâu kết_thúc đi
+bà mới tới phòng họp kể lại những gì bạn đang nhìn thấy đi,DESCRIBE_SCENE,2,bà mới tới phòng họp kể lại những gì bạn đang nhìn thấy đi,2,bà mới tới phòng họp kể lại những gì bạn đang nhìn thấy đi
+dạy dì nấu cơm chiên được hông,UNKNOWN,5,dạy dì nấu cơm chiên được hông,5,dạy dì nấu cơm_chiên được hông
+hina biên bản trên bàn có đóng dấu đỏ chưa,ANSWER_VISUAL_QUESTION,3,hina biên bản trên bàn có đóng dấu đỏ chưa,3,hina biên_bản trên bàn có đóng_dấu đỏ chưa
+scan biển cấm kia rồi đọc cho bà,READ_TEXT,1,scan biển cấm kia rồi đọc cho bà,1,scan biển cấm kia rồi đọc cho bà
+bạn nhìn thấy nội dung bảng hiệu đó là gì nè,READ_TEXT,1,bạn nhìn thấy nội dung bảng hiệu đó là gì nè,1,bạn nhìn thấy nội_dung bảng_hiệu đó là gì nè
+kể anh nghe xung quanh đang có gì,DESCRIBE_SCENE,2,kể anh nghe xung quanh đang có gì,2,kể anh nghe xung_quanh đang có gì
+mô tả những chi camera đang thấy nghe bạn,DESCRIBE_SCENE,2,mô tả những chi camera đang thấy nghe bạn,2,mô_tả những chi camera đang thấy nghe bạn
+đọc tin tức bóng đá hôm nay,UNKNOWN,5,đọc tin tức bóng đá hôm nay,5,đọc tin_tức bóng_đá hôm_nay
+tôi không nhìn thấy gì đọc các dòng trên biển hướng dẫn nhá,READ_TEXT,1,tôi không nhìn thấy gì đọc các dòng trên biển hướng dẫn nhá,1,tôi không nhìn thấy gì đọc các dòng trên biển hướng_dẫn nhá
+tôi vừa xuống xe tờ sao kê này ghi tên khách hàng là ai vậy bạn,ANSWER_VISUAL_QUESTION,3,tôi vừa xuống xe tờ sao kê này ghi tên khách hàng là ai vậy bạn,3,tôi vừa xuống xe tờ sao kê này ghi tên khách_hàng là ai vậy bạn
+ừm kết thúc hợp đồng thuê nhà cần làm gì,UNKNOWN,5,ừm kết thúc hợp đồng thuê nhà cần làm gì,5,ừm kết_thúc hợp_đồng thuê nhà cần làm_gì
+không biết cổng trường này trông thế nào nhỉ,DESCRIBE_SCENE,2,không biết cổng trường này trông thế nào nhỉ,2,không biết cổng trường này trông thế_nào nhỉ
+áo tui mặc có bị ngược không,ANSWER_VISUAL_QUESTION,3,áo tui mặc có bị ngược không,3,áo tui mặc có bị ngược không
+ê hina anh mua xong rồi không cần nữa đâu,END_SESSION,4,ê hina anh mua xong rồi không cần nữa đâu,4,ê hina anh mua xong rồi không cần nữa đâu
+đừng tắt đọc tiếp đi,READ_TEXT,1,đừng tắt đọc tiếp đi,1,đừng tắt đọc tiếp đi
+để coi dì đang đứng chờ cách nấu rau muống xào ra sao,UNKNOWN,5,để coi dì đang đứng chờ cách nấu rau muống xào ra sao,5,để coi dì đang đứng chờ cách nấu rau_muống xào ra sao
+tôi vừa vào trạm dừng chân mô tả khung cảnh trước camera,DESCRIBE_SCENE,2,tôi vừa vào trạm dừng chân mô tả khung cảnh trước camera,2,tôi vừa vào trạm dừng chân mô_tả khung_cảnh trước camera
+này bạn bạn thấy gì trước mặt tôi thế bạn,DESCRIBE_SCENE,2,này bạn bạn thấy gì trước mặt tôi thế bạn,2,này bạn bạn thấy gì trước mặt tôi thế bạn
+hồi sáng tôi mặc áo gì ấy nhỉ,UNKNOWN,5,hồi sáng tôi mặc áo gì ấy nhỉ,5,hồi sáng tôi mặc áo gì ấy nhỉ
+để để hina nghỉ đi,END_SESSION,4,để để hina nghỉ đi,4,để để hina nghỉ đi
+dạy mình nấu gà luộc,UNKNOWN,5,dạy mình nấu gà luộc,5,dạy mình nấu gà luộc
+dong che do mo ta di khong can nua hi,END_SESSION,4,dong che do mo ta di khong can nua hi,4,dong che do mo ta di khong can nua hi
+ờ chữ gì đây thế bạn,READ_TEXT,1,ờ chữ gì đây thế bạn,1,ờ chữ gì đây thế bạn
+bạn có thích tớ không,UNKNOWN,5,bạn có thích tớ không,5,bạn có thích tớ không
+ừm ngừng giùm anh cái hina,END_SESSION,4,ừm ngừng giùm anh cái hina,4,ừm ngừng giùm anh cái hina
+kể chị nghe xung quanh đang có gì,DESCRIBE_SCENE,2,kể chị nghe xung quanh đang có gì,2,kể chị nghe xung_quanh đang có gì
+chữ nhỏ quá đọc hết chữ trong khung hình,READ_TEXT,1,chữ nhỏ quá đọc hết chữ trong khung hình,1,chữ nhỏ quá đọc hết chữ trong khung hình
+cái xe trước mặt có đang nổ máy không nhỉ,ANSWER_VISUAL_QUESTION,3,cái xe trước mặt có đang nổ máy không nhỉ,3,cái xe trước mặt có đang nổ máy không nhỉ
+bác vừa xuống xe chữ gì đây thế,READ_TEXT,1,bác vừa xuống xe chữ gì đây thế,1,bác vừa xuống xe chữ gì đây thế
+đủ rồi không cần nữa đâu,END_SESSION,4,đủ rồi không cần nữa đâu,4,đủ rồi không cần nữa đâu
+hina không làm gì nữa đâu ngắt đi,END_SESSION,4,hina không làm gì nữa đâu ngắt đi,4,hina không làm gì nữa đâu ngắt đi
+bà mới tới đây lần đầu đọc lướt bảng hướng dẫn xếp hàng bên kia đường,READ_TEXT,1,bà mới tới đây lần đầu đọc lướt bảng hướng dẫn xếp hàng bên kia đường,1,bà mới tới đây lần đầu_đọc lướt bảng hướng_dẫn xếp_hàng bên kia đường
+ừm thì o đang vội ngày mai hạ long có mưa không,UNKNOWN,5,ừm thì o đang vội ngày mai hạ long có mưa không,5,ừm thì o đang vội ngày_mai hạ_long có mưa không
+đọc chữ đang hiện trên bảng điện tử gọi số nớ,READ_TEXT,1,đọc chữ đang hiện trên bảng điện tử gọi số nớ,1,đọc chữ đang hiện trên bảng điện_tử gọi số nớ
+bao nhiêu đây,ANSWER_VISUAL_QUESTION,3,bao nhiêu đây,3,bao_nhiêu đây
+khoan đã đọc điều khoản trong tờ đơn người ta vừa đưa em cho em nha bạn,READ_TEXT,1,khoan đã đọc điều khoản trong tờ đơn người ta vừa đưa em cho em nha bạn,1,khoan đã đọc điều_khoản trong tờ đơn người ta vừa đưa em cho em nha bạn
+cho mình nhờ đọc bảng điện tử ở bến xe kia,READ_TEXT,1,cho mình nhờ đọc bảng điện tử ở bến xe kia,1,cho mình nhờ đọc bảng điện_tử ở bến_xe kia
+ngày mai phú quốc có mưa không,UNKNOWN,5,ngày mai phú quốc có mưa không,5,ngày_mai phú_quốc có mưa không
+ơ em đang đứng trong tiệm cắt tóc em cần biết biển tên đường kia ghi những gì một cách chính xác,READ_TEXT,1,ơ em đang đứng trong tiệm cắt tóc em cần biết biển tên đường kia ghi những gì một cách chính xác,1,ơ em đang đứng trong tiệm cắt tóc em cần biết biển tên đường kia ghi những gì một_cách chính_xác
+trong quán cà phê đang có những ai và những chi rứa,DESCRIBE_SCENE,2,trong quán cà phê đang có những ai và những chi rứa,2,trong quán cà_phê đang có những_ai và những chi rứa
+ban co biet to la ai khong a,UNKNOWN,5,ban co biet to la ai khong a,5,ban co biet to la ai khong a
+bạn ơi dừng giùm tui cái chương trình nghen,END_SESSION,4,bạn ơi dừng giùm tui cái chương trình nghen,4,bạn ơi dừng giùm tui cái chương_trình nghen
+trong lớp học đang có những ai và những gì,DESCRIBE_SCENE,2,trong lớp học đang có những ai và những gì,2,trong lớp_học đang có những_ai và những gì
+bạn nhìn thấy nội dung biển hiệu quán ăn là chi hè hè này bạn,READ_TEXT,1,bạn nhìn thấy nội dung biển hiệu quán ăn là chi hè hè này bạn,1,bạn nhìn thấy nội_dung biển_hiệu quán ăn là chi hè hè này bạn
+ừm biển hiệu kia là quán gì vậy hả,ANSWER_VISUAL_QUESTION,3,ừm biển hiệu kia là quán gì vậy hả,3,ừm biển_hiệu kia là quán gì vậy hả
+tôi vừa vào chùa mở sách nói,UNKNOWN,5,tôi vừa vào chùa mở sách nói,5,tôi vừa vào chùa mở sách nói
+bạn có thích tôi không ơi bạn,UNKNOWN,5,bạn có thích tôi không ơi bạn,5,bạn có thích tôi không ơi bạn
+ok hiểu rồi dừng ở đây,END_SESSION,4,ok hiểu rồi dừng ở đây,4,ok hiểu rồi dừng ở đây
+hina ơi tắt báo thức giùm nha,UNKNOWN,5,hina ơi tắt báo thức giùm nha,5,hina ơi tắt báo_thức giùm nha
+chỉ tớ chỗ ổ cắm điện đi,ANSWER_VISUAL_QUESTION,3,chỉ tớ chỗ ổ cắm điện đi,3,chỉ tớ chỗ ổ_cắm điện đi
+tả cảnh biển lúc bình minh cho bài văn của con,UNKNOWN,5,tả cảnh biển lúc bình minh cho bài văn của con,5,tả cảnh biển lúc bình_minh cho bài văn của con
+hina ơi mô tả khung cảnh trước camera,DESCRIBE_SCENE,2,hina ơi mô tả khung cảnh trước camera,2,hina ơi mô_tả khung_cảnh trước camera
+tat camera di toi tim duoc roi,END_SESSION,4,tat camera di toi tim duoc roi,4,tat camera di toi tim duoc roi
+thôi đừng tắt nữa,UNKNOWN,5,thôi đừng tắt nữa,5,thôi đừng tắt nữa
+ơ mô tả từ trái sang phải những gì đang có được không,DESCRIBE_SCENE,2,ơ mô tả từ trái sang phải những gì đang có được không,2,ơ mô_tả từ trái sang phải những gì đang có được không
+theo biển chỉ dẫn ở ga đó quầy thu ngân ở đâu,ANSWER_VISUAL_QUESTION,3,theo biển chỉ dẫn ở ga đó quầy thu ngân ở đâu,3,theo biển chỉ_dẫn ở ga đó quầy thu_ngân ở đâu
+um mieu ta thang may dum toi duoc hong,DESCRIBE_SCENE,2,um mieu ta thang may dum toi duoc hong,2,um mieu ta thang may dum toi duoc hong
+nhìn quanh xem có gì rồi nói mình nghe,DESCRIBE_SCENE,2,nhìn quanh xem có gì rồi nói mình nghe,2,nhìn quanh xem có gì rồi nói mình nghe
+tôi biết cái này là hộp bánh,UNKNOWN,5,tôi biết cái này là hộp bánh,5,tôi biết cái này là hộp bánh
+hina ơi ơi đóng lại,END_SESSION,4,hina ơi ơi đóng lại,4,hina ơi ơi đóng lại
+để coi xung quanh có xe nào đang chạy không,ANSWER_VISUAL_QUESTION,3,để coi xung quanh có xe nào đang chạy không,3,để coi xung_quanh có xe nào đang chạy không
+có ai ở đây không,ANSWER_VISUAL_QUESTION,3,có ai ở đây không,3,có ai ở đây không
+tắt bài hát ni,UNKNOWN,5,tắt bài hát ni,5,tắt bài hát ni
+mình đang đi trong phòng khám tắt tivi đi,UNKNOWN,5,mình đang đi trong phòng khám tắt tivi đi,5,mình đang đi trong phòng_khám tắt tivi đi
+phiền bạn đọc bảng tên trên cửa ở đầu hẻm nè,READ_TEXT,1,phiền bạn đọc bảng tên trên cửa ở đầu hẻm nè,1,phiền bạn_đọc bảng tên trên cửa ở đầu hẻm nè
+bà vừa vào ủy ban phường bảng chỉ dẫn đó ghi những gì,READ_TEXT,1,bà vừa vào ủy ban phường bảng chỉ dẫn đó ghi những gì,1,bà vừa vào uỷ_ban phường bảng chỉ_dẫn đó ghi những gì
+bạn ơi không làm gì nữa đâu kết thúc đi,END_SESSION,4,bạn ơi không làm gì nữa đâu kết thúc đi,4,bạn ơi không làm gì nữa đâu kết_thúc đi
+tắt hẳn giùm tôi cái chế độ mô tả,END_SESSION,4,tắt hẳn giùm tôi cái chế độ mô tả,4,tắt hẳn giùm tôi cái chế_độ mô_tả
+để coi mình nghỉ đây không cần nữa đâu,END_SESSION,4,để coi mình nghỉ đây không cần nữa đâu,4,để coi mình nghỉ đây không cần nữa đâu
+trước mặt có phải cầu thang không,ANSWER_VISUAL_QUESTION,3,trước mặt có phải cầu thang không,3,trước mặt có phải cầu_thang không
+cháu đang vội kể lại những gì bạn đang nhìn thấy,DESCRIBE_SCENE,2,cháu đang vội kể lại những gì bạn đang nhìn thấy,2,cháu đang vội kể lại những gì bạn đang nhìn thấy
+biển báo đằng kia hình tròn hay tam giác nè,ANSWER_VISUAL_QUESTION,3,biển báo đằng kia hình tròn hay tam giác nè,3,biển_báo đằng kia hình_tròn hay tam_giác nè
+nắp mở chưa,ANSWER_VISUAL_QUESTION,3,nắp mở chưa,3,nắp mở chưa
+hina ơi cháu đưa điện thoại lên rồi ngày mai cần thơ có mưa không nhỉ,UNKNOWN,5,hina ơi cháu đưa điện thoại lên rồi ngày mai cần thơ có mưa không nhỉ,5,hina ơi cháu đưa điện_thoại lên rồi ngày_mai cần_thơ có mưa không nhỉ
+dừng báo thức giúp tôi,UNKNOWN,5,dừng báo thức giúp tôi,5,dừng báo_thức giúp tôi
+bạn thấy cảnh vật quanh tui răng,DESCRIBE_SCENE,2,bạn thấy cảnh vật quanh tui răng,2,bạn thấy cảnh_vật quanh tui răng
+bạn ơi con tôi tới đón rồi không cần nữa đâu,END_SESSION,4,bạn ơi con tôi tới đón rồi không cần nữa đâu,4,bạn ơi con tôi tới đón rồi không cần nữa đâu
+à ni ai nớ dán tờ khuyến mãi đằng kia ở đây đọc xem viết chi,READ_TEXT,1,à ni ai nớ dán tờ khuyến mãi đằng kia ở đây đọc xem viết chi,1,à ni ai nớ dán tờ khuyến_mãi đằng kia ở đây đọc xem viết chi
+ở đây ồn quá chữ gì đây,READ_TEXT,1,ở đây ồn quá chữ gì đây,1,ở đây ồn quá chữ gì đây
+đọc lướt cái bill tui vừa nhận,READ_TEXT,1,đọc lướt cái bill tui vừa nhận,1,đọc lướt cái bill tui vừa nhận
+tôi vừa vào thư viện bạn có thích tôi không,UNKNOWN,5,tôi vừa vào thư viện bạn có thích tôi không,5,tôi vừa vào thư_viện bạn có thích tôi không
+ngung camera nha,END_SESSION,4,ngung camera nha,4,ngung camera nha
+áo tôi mặc có bị ngược không,ANSWER_VISUAL_QUESTION,3,áo tôi mặc có bị ngược không,3,áo tôi mặc có bị ngược không
+mình lạ chỗ này quá nói lại câu vừa rồi coi,UNKNOWN,5,mình lạ chỗ này quá nói lại câu vừa rồi coi,5,mình lạ chỗ này quá nói lại câu vừa_rồi coi
+con vừa nhặt được gói mì con mới mua không biết ghi gì,READ_TEXT,1,con vừa nhặt được gói mì con mới mua không biết ghi gì,1,con vừa nhặt được gói mì con mới mua không biết ghi gì
+quê tôi có mấy cây cầu,UNKNOWN,5,quê tôi có mấy cây cầu,5,quê tôi có mấy cây cầu
+thoát khỏi ứng dụng nè,END_SESSION,4,thoát khỏi ứng dụng nè,4,thoát khỏi ứng_dụng nè
+ngừng giùm tui cái chế độ này,END_SESSION,4,ngừng giùm tui cái chế độ này,4,ngừng giùm tui cái chế_độ này
+đọc chữ nổi braille răng,UNKNOWN,5,đọc chữ nổi braille răng,5,đọc chữ_nổi braille răng
+khoan khoan khoan,UNKNOWN,5,khoan khoan khoan,5,khoan khoan khoan
+cách nấu bánh chưng thế nào,UNKNOWN,5,cách nấu bánh chưng thế nào,5,cách nấu bánh_chưng thế_nào
+đọc điều khoản trong hợp đồng bảo hiểm người ta vừa đưa mình,READ_TEXT,1,đọc điều khoản trong hợp đồng bảo hiểm người ta vừa đưa mình,1,đọc điều_khoản trong hợp_đồng bảo_hiểm người ta vừa đưa mình
+tôi vừa xuống xe túi thuốc uống mấy viên một lần,ANSWER_VISUAL_QUESTION,3,tôi vừa xuống xe túi thuốc uống mấy viên một lần,3,tôi vừa xuống xe túi thuốc uống mấy viên một lần
+tôi giơ camera lên rồi tôi cần biết bản hợp đồng này ghi những gì một cách chính xác,READ_TEXT,1,tôi giơ camera lên rồi tôi cần biết bản hợp đồng này ghi những gì một cách chính xác,1,tôi giơ camera lên rồi tôi cần biết bản hợp_đồng này ghi những gì một_cách chính_xác
+tôi đang đi trong vỉa hè tả cảnh vật xung quanh,DESCRIBE_SCENE,2,tôi đang đi trong vỉa hè tả cảnh vật xung quanh,2,tôi đang đi trong vỉa_hè tả cảnh_vật xung_quanh
+à đọc phần chữ nhỏ ở dưới giấy khai sinh trên ghế,READ_TEXT,1,à đọc phần chữ nhỏ ở dưới giấy khai sinh trên ghế,1,à đọc phần chữ nhỏ ở dưới giấy khai_sinh trên ghế
+kết quả siêu âm tui đang giơ lên do bác sĩ mô ký,ANSWER_VISUAL_QUESTION,3,kết quả siêu âm tui đang giơ lên do bác sĩ mô ký,3,kết_quả siêu_âm tui đang giơ lên do bác_sĩ mô ký
+bạn thấy cảnh vật quanh mình ra sao,DESCRIBE_SCENE,2,bạn thấy cảnh vật quanh mình ra sao,2,bạn thấy cảnh_vật quanh mình ra sao
+đọc tin tức giá vàng hôm nay,UNKNOWN,5,đọc tin tức giá vàng hôm nay,5,đọc tin_tức giá vàng hôm_nay
+bạn có thích chị không,UNKNOWN,5,bạn có thích chị không,5,bạn có thích chị không
+chai nước mắm trên tay mình có đang giảm giá không đấy,ANSWER_VISUAL_QUESTION,3,chai nước mắm trên tay mình có đang giảm giá không đấy,3,chai nước_mắm trên tay mình có đang giảm_giá không đấy
+trợ lý ơi con đang đứng trong nhà hàng ngày mai vinh có mưa không,UNKNOWN,5,trợ lý ơi con đang đứng trong nhà hàng ngày mai vinh có mưa không,5,trợ_lý ơi con đang đứng trong nhà_hàng ngày_mai vinh có mưa không
+hina ơi tóc tui có rối không,ANSWER_VISUAL_QUESTION,3,hina ơi tóc tui có rối không,3,hina ơi tóc tui có rối không
+thoát khỏi ứng dụng cái,END_SESSION,4,thoát khỏi ứng dụng cái,4,thoát khỏi ứng_dụng cái
+lọ siro người ta vừa đưa tôi có phải thuốc huyết áp không ạ,ANSWER_VISUAL_QUESTION,3,lọ siro người ta vừa đưa tôi có phải thuốc huyết áp không ạ,3,lọ siro người ta vừa đưa tôi có phải thuốc huyết_áp không ạ
+ờ số trên giấy ủy quyền ni là bao nhiêu,ANSWER_VISUAL_QUESTION,3,ờ số trên giấy ủy quyền ni là bao nhiêu,3,ờ số trên giấy uỷ_quyền ni là bao_nhiêu
+chữ mờ quá trong ví má có tờ hai trăm nghìn không,ANSWER_VISUAL_QUESTION,3,chữ mờ quá trong ví má có tờ hai trăm nghìn không,3,chữ mờ quá trong ví má có tờ hai trăm_nghìn không
+này nghỉ thôi tắt hina giúp tôi,END_SESSION,4,này nghỉ thôi tắt hina giúp tôi,4,này nghỉ thôi tắt hina giúp tôi
+ngày mai hải phòng có mưa không,UNKNOWN,5,ngày mai hải phòng có mưa không,5,ngày_mai hải_phòng có mưa không
+bạn có thích bà hông,UNKNOWN,5,bạn có thích bà hông,5,bạn có thích bà hông
+cho cho hina nghỉ đi,END_SESSION,4,cho cho hina nghỉ đi,4,cho cho hina nghỉ đi
+thoát giùm tôi cái cái máy,END_SESSION,4,thoát giùm tôi cái cái máy,4,thoát giùm tôi cái cái máy
+tui mới tới đây lần đầu đọc lịch hẹn ngày mai của tui,UNKNOWN,5,tui mới tới đây lần đầu đọc lịch hẹn ngày mai của tui,5,tui mới tới đây lần đầu_đọc lịch hẹn ngày_mai của tui
+đọc phần chữ nhỏ ở dưới biển chỉ dẫn trên tường,READ_TEXT,1,đọc phần chữ nhỏ ở dưới biển chỉ dẫn trên tường,1,đọc phần chữ nhỏ ở dưới biển chỉ_dẫn trên tường
+bạn à trong quán ăn đang có những ai và những gì,DESCRIBE_SCENE,2,bạn à trong quán ăn đang có những ai và những gì,2,bạn à trong quán ăn đang có những_ai và những gì
+tả tả cảnh vật xung quanh,DESCRIBE_SCENE,2,tả tả cảnh vật xung quanh,2,tả tả cảnh_vật xung_quanh
+ông lạ chỗ này quá bạn thấy gì trước mặt ông thế bạn,DESCRIBE_SCENE,2,ông lạ chỗ này quá bạn thấy gì trước mặt ông thế bạn,2,ông lạ chỗ này quá bạn thấy gì trước mặt ông thế bạn
+bạn nhìn thấy nội dung biển hiệu tiệm vàng đó là gì nhỉ,READ_TEXT,1,bạn nhìn thấy nội dung biển hiệu tiệm vàng đó là gì nhỉ,1,bạn nhìn thấy nội_dung biển_hiệu tiệm vàng đó là gì nhỉ
+ơi bạn để hina nghỉ đi,END_SESSION,4,ơi bạn để hina nghỉ đi,4,ơi bạn để hina nghỉ đi
+tờ khai đó có đóng dấu đỏ chưa vậy,ANSWER_VISUAL_QUESTION,3,tờ khai đó có đóng dấu đỏ chưa vậy,3,tờ khai đó có đóng_dấu đỏ chưa vậy
+má đưa điện thoại lên rồi ngày mai biên hòa có mưa không,UNKNOWN,5,má đưa điện thoại lên rồi ngày mai biên hòa có mưa không,5,má đưa điện_thoại lên rồi ngày_mai biên_hoà có mưa không
+toi hong nhin thay gi tren bien chi dan o ga truoc mat toi co chu gi,READ_TEXT,1,toi hong nhin thay gi tren bien chi dan o ga truoc mat toi co chu gi,1,toi hong nhin thay gi tren bien chi dan o ga truoc mat toi co chu gi
+thôi được rồi rồi hông cần nữa cảm ơn,END_SESSION,4,thôi được rồi rồi hông cần nữa cảm ơn,4,thôi được rồi rồi hông cần nữa cảm_ơn
+này bạn trong siêu thị đang có những ai và những gì,DESCRIBE_SCENE,2,này bạn trong siêu thị đang có những ai và những gì,2,này bạn trong siêu_thị đang có những_ai và những gì
+ê hina cháu đang đứng chờ scan cuốn tiểu thuyết trên đùi cháu rồi đọc cho cháu ạ,READ_TEXT,1,ê hina cháu đang đứng chờ scan cuốn tiểu thuyết trên đùi cháu rồi đọc cho cháu ạ,1,ê hina cháu đang đứng chờ scan cuốn tiểu_thuyết trên đùi cháu rồi đọc cho cháu ạ
+đọc lại cho tôi số điện thoại của ông nội,UNKNOWN,5,đọc lại cho tôi số điện thoại của ông nội,5,đọc lại cho tôi số điện_thoại của ông nội
+cho tui nhờ đọc kết quả siêu âm trên tay tui tề,READ_TEXT,1,cho tui nhờ đọc kết quả siêu âm trên tay tui tề,1,cho tui nhờ đọc kết_quả siêu_âm trên tay tui tề
+chai nước rửa chén trên ghế giá bao nhiêu,ANSWER_VISUAL_QUESTION,3,chai nước rửa chén trên ghế giá bao nhiêu,3,chai nước rửa chén trên ghế giá bao_nhiêu
+cô cô đơn quá nói chuyện với cô đi,UNKNOWN,5,cô cô đơn quá nói chuyện với cô đi,5,cô cô_đơn quá nói_chuyện với cô đi
+biển chỉ dẫn đằng trước ghi những chi rứa bạn,READ_TEXT,1,biển chỉ dẫn đằng trước ghi những chi rứa bạn,1,biển chỉ_dẫn đằng trước ghi những chi rứa bạn
+tôi vừa bước vào phòng chờ bệnh viện tả cho tôi với,DESCRIBE_SCENE,2,tôi vừa bước vào phòng chờ bệnh viện tả cho tôi với,2,tôi vừa bước vào phòng chờ bệnh_viện tả cho tôi với
+ừm trợ lý lý ơi ngừng nói đi,END_SESSION,4,ừm trợ lý lý ơi ngừng nói đi,4,ừm trợ_lý lý ơi ngừng nói đi
+ni bạn bạn thấy gì trước mặt tôi,DESCRIBE_SCENE,2,ni bạn bạn thấy gì trước mặt tôi,2,ni bạn bạn thấy gì trước mặt tôi
+anh mới tới đây lần đầu bạn nhìn thấy nội dung bảng hiệu phòng khám đó là gì,READ_TEXT,1,anh mới tới đây lần đầu bạn nhìn thấy nội dung bảng hiệu phòng khám đó là gì,1,anh mới tới đây lần đầu bạn nhìn thấy nội_dung bảng_hiệu phòng_khám đó là gì
+trợ lý ơi bạn có đọc được chữ trên kết quả xét nghiệm tôi đang giơ lên hông,READ_TEXT,1,trợ lý ơi bạn có đọc được chữ trên kết quả xét nghiệm tôi đang giơ lên hông,1,trợ_lý ơi bạn có đọc được chữ trên kết_quả xét_nghiệm tôi đang giơ lên hông
+bạn có đọc được chữ trên biển số nhà không nhỉ bạn,READ_TEXT,1,bạn có đọc được chữ trên biển số nhà không nhỉ bạn,1,bạn có đọc được chữ trên biển số nhà không nhỉ bạn
+em cô đơn quá nói chuyện với em đi,UNKNOWN,5,em cô đơn quá nói chuyện với em đi,5,em cô_đơn quá nói_chuyện với em đi
+chữ nhỏ quá biển hiệu tiệm vàng này là quán gì hen,ANSWER_VISUAL_QUESTION,3,chữ nhỏ quá biển hiệu tiệm vàng này là quán gì hen,3,chữ nhỏ quá biển_hiệu tiệm vàng này là quán gì hen
+hina tấm thiệp cưới đó viết tay hay đánh máy,ANSWER_VISUAL_QUESTION,3,hina tấm thiệp cưới đó viết tay hay đánh máy,3,hina tấm thiệp cưới đó viết_tay hay đánh_máy
+ừ không làm gì nữa đâu tắt đi,END_SESSION,4,ừ không làm gì nữa đâu tắt đi,4,ừ không làm gì nữa đâu tắt đi
+gói kẹo trên bàn có đang giảm giá không nhỉ,ANSWER_VISUAL_QUESTION,3,gói kẹo trên bàn có đang giảm giá không nhỉ,3,gói kẹo trên bàn có đang giảm_giá không nhỉ
+này bạn đọc chữ nổi braille ra sao,UNKNOWN,5,này bạn đọc chữ nổi braille ra sao,5,này bạn_đọc chữ_nổi braille ra sao
+à này bạn ơi xong việc rồi nghỉ đi,END_SESSION,4,à này bạn ơi xong việc rồi nghỉ đi,4,à này bạn ơi xong việc rồi nghỉ đi
+cháu tìm được rồi không cần nữa đâu vậy ạ,END_SESSION,4,cháu tìm được rồi không cần nữa đâu vậy ạ,4,cháu tìm được rồi không cần nữa đâu vậy ạ
+ừm quanh đây có phòng gym nào giá rẻ,UNKNOWN,5,ừm quanh đây có phòng gym nào giá rẻ,5,ừm quanh đây có phòng gym nào giá rẻ
+tôi vừa bước vào sân bay tả hộ tôi với,DESCRIBE_SCENE,2,tôi vừa bước vào sân bay tả hộ tôi với,2,tôi vừa bước vào sân_bay tả hộ tôi với
+con cần biết túi thuốc này ghi những gì một cách chính xác,READ_TEXT,1,con cần biết túi thuốc này ghi những gì một cách chính xác,1,con cần biết túi thuốc này ghi những gì một_cách chính_xác
+con cần biết biết bảng điện tử gọi số bên trái ghi những gì một cách chính xác,READ_TEXT,1,con cần biết biết bảng điện tử gọi số bên trái ghi những gì một cách chính xác,1,con cần biết biết bảng điện_tử gọi số bên trái ghi những gì một_cách chính_xác
+tắt hẳn giùm con cái cái máy nghe bạn,END_SESSION,4,tắt hẳn giùm con cái cái máy nghe bạn,4,tắt hẳn giùm con_cái cái máy nghe bạn
+màn hình điều hòa bên phải còn bao nhiêu phút hen,ANSWER_VISUAL_QUESTION,3,màn hình điều hòa bên phải còn bao nhiêu phút hen,3,màn_hình điều_hoà bên phải còn bao_nhiêu phút hen
+đọc lịch hẹn ngày mai của con nè,UNKNOWN,5,đọc lịch hẹn ngày mai của con nè,5,đọc lịch hẹn ngày_mai của con nè
+kể về lịch sử đà nẵng đi,UNKNOWN,5,kể về lịch sử đà nẵng đi,5,kể về lịch_sử đà_nẵng đi
+biển báo giao thông trên cột có nghĩa là gì,ANSWER_VISUAL_QUESTION,3,biển báo giao thông trên cột có nghĩa là gì,3,biển_báo giao_thông trên cột có nghĩa là gì
+hina không làm gì nữa đâu ngừng đi,END_SESSION,4,hina không làm gì nữa đâu ngừng đi,4,hina không làm gì nữa đâu ngừng đi
+dừng giùm anh cái cái máy với,END_SESSION,4,dừng giùm anh cái cái máy với,4,dừng giùm anh cái cái máy với
+chỗ này hơi tối cho con biết khung cảnh nơi này nha bạn,DESCRIBE_SCENE,2,chỗ này hơi tối cho con biết khung cảnh nơi này nha bạn,2,chỗ này hơi tối cho con biết khung_cảnh nơi này nha bạn
+kể o nghe xung quanh đang có chi,DESCRIBE_SCENE,2,kể o nghe xung quanh đang có chi,2,kể o nghe xung_quanh đang có chi
+ừm thì tôi tôi vừa vào nhà văn hóa dạy tôi nấu cá kho nhé bạn,UNKNOWN,5,ừm thì tôi tôi vừa vào nhà văn hóa dạy tôi nấu cá kho nhé bạn,5,ừm thì tôi tôi vừa vào nhà_văn_hoá dạy tôi nấu cá kho nhé bạn
+đọc các dòng trên biển lối thoát hiểm kia,READ_TEXT,1,đọc các dòng trên biển lối thoát hiểm kia,1,đọc các dòng trên biển lối_thoát hiểm kia
+hina ơi dạy tôi nấu bánh chưng nha,UNKNOWN,5,hina ơi dạy tôi nấu bánh chưng nha,5,hina ơi dạy tôi nấu bánh_chưng nha
+bạn có đọc được chữ trên bảng tên tòa nhà này không vậy ạ,READ_TEXT,1,bạn có đọc được chữ trên bảng tên tòa nhà này không vậy ạ,1,bạn có đọc được chữ trên bảng tên toà nhà này không vậy ạ
+scan bảng giá dịch vụ trên tay tui rồi đọc cho tui,READ_TEXT,1,scan bảng giá dịch vụ trên tay tui rồi đọc cho tui,1,scan bảng giá dịch_vụ trên tay tui rồi đọc cho tui
+scan biển hiệu rồi đọc cho mạ,READ_TEXT,1,scan biển hiệu rồi đọc cho mạ,1,scan biển_hiệu rồi đọc cho mạ
+đọc tin tức giải trí hôm nay,UNKNOWN,5,đọc tin tức giải trí hôm nay,5,đọc tin_tức giải_trí hôm_nay
+ở đây ồn quá đọc chữ nổi braille răng,UNKNOWN,5,ở đây ồn quá đọc chữ nổi braille răng,5,ở đây ồn quá đọc chữ_nổi braille răng
+u thoi dong camera nha ban,END_SESSION,4,u thoi dong camera nha ban,4,u thoi dong camera nha ban
+cho tui biết khung cảnh nơi này hen,DESCRIBE_SCENE,2,cho tui biết khung cảnh nơi này hen,2,cho tui biết khung_cảnh nơi này hen
+đọc chữ đang hiện trên màn hình điều hòa ngay đây,READ_TEXT,1,đọc chữ đang hiện trên màn hình điều hòa ngay đây,1,đọc chữ đang hiện trên màn_hình điều_hoà ngay đây
+tắt giùm má cái chế độ mô tả,END_SESSION,4,tắt giùm má cái chế độ mô tả,4,tắt giùm má cái chế_độ mô_tả
+đọc các dòng trên bảng hướng dẫn xếp hàng kia nha,READ_TEXT,1,đọc các dòng trên bảng hướng dẫn xếp hàng kia nha,1,đọc các dòng trên bảng hướng_dẫn xếp_hàng kia nha
+mình đang vội trời ơi nóng quá,UNKNOWN,5,mình đang vội trời ơi nóng quá,5,mình đang vội trời_ơi nóng quá
+kể anh nghe xung quanh đang có gì nha bạn,DESCRIBE_SCENE,2,kể anh nghe xung quanh đang có gì nha bạn,2,kể anh nghe xung_quanh đang có gì nha bạn
+tôi vừa nhặt được tấm áp phích này không biết ghi gì,READ_TEXT,1,tôi vừa nhặt được tấm áp phích này không biết ghi gì,1,tôi vừa nhặt được tấm áp_phích này không biết ghi gì
+kể về lịch sử thanh hóa đi,UNKNOWN,5,kể về lịch sử thanh hóa đi,5,kể về lịch_sử thanh_hoá đi
+tôi vừa nhặt được bảng tên trên cửa đó hông biết ghi gì,READ_TEXT,1,tôi vừa nhặt được bảng tên trên cửa đó hông biết ghi gì,1,tôi vừa nhặt được bảng tên trên cửa đó hông biết ghi gì
+cầu thang có gì để trên bậc không,ANSWER_VISUAL_QUESTION,3,cầu thang có gì để trên bậc không,3,cầu_thang có gì để trên bậc không
+xem tờ tiền này mệnh giá bao nhiêu xem nào,ANSWER_VISUAL_QUESTION,3,xem tờ tiền này mệnh giá bao nhiêu xem nào,3,xem tờ tiền này mệnh_giá bao_nhiêu xem nào
+thôi được rồi hông cần nữa cảm ơn,END_SESSION,4,thôi được rồi hông cần nữa cảm ơn,4,thôi được rồi hông cần nữa cảm_ơn
+dì lạ chỗ này quá scan hộp ngũ cốc trên kệ rồi đọc cho dì với,READ_TEXT,1,dì lạ chỗ này quá scan hộp ngũ cốc trên kệ rồi đọc cho dì với,1,dì lạ chỗ này quá scan hộp ngũ_cốc trên kệ rồi đọc cho dì với
+bạn thấy gì trước mặt cháu ạ,DESCRIBE_SCENE,2,bạn thấy gì trước mặt cháu ạ,2,bạn thấy gì trước mặt cháu ạ
+chỗ này hơi tối ăn canh chua có béo hông,UNKNOWN,5,chỗ này hơi tối ăn canh chua có béo hông,5,chỗ này hơi tối ăn canh chua có béo hông
+đọc phần chữ nhỏ ở dưới hóa đơn tiền nước mình đang cầm với,READ_TEXT,1,đọc phần chữ nhỏ ở dưới hóa đơn tiền nước mình đang cầm với,1,đọc phần chữ nhỏ ở dưới hoá_đơn tiền nước mình đang cầm với
+hôm nay vậy thôi không cần nữa đâu,END_SESSION,4,hôm nay vậy thôi không cần nữa đâu,4,hôm_nay vậy thôi không cần nữa đâu
+ừm thì kể về lịch sử bến tre đi,UNKNOWN,5,ừm thì kể về lịch sử bến tre đi,5,ừm thì kể về lịch_sử bến_tre đi
+hina ơi đặt lịch khám bệnh ngày mai ạ,UNKNOWN,5,hina ơi đặt lịch khám bệnh ngày mai ạ,5,hina ơi đặt lịch khám bệnh ngày_mai ạ
+bà đang đi trong sảnh chung cư mở sách nói,UNKNOWN,5,bà đang đi trong sảnh chung cư mở sách nói,5,bà đang đi trong sảnh chung_cư mở sách nói
+này bạn scan bảng hiệu cửa hàng này rồi đọc cho chị nha bạn,READ_TEXT,1,này bạn scan bảng hiệu cửa hàng này rồi đọc cho chị nha bạn,1,này bạn scan bảng_hiệu cửa_hàng này rồi đọc cho chị nha bạn
+bạn nhìn thấy nội dung biển hiệu tiệm vàng trên cửa là gì đó bạn,READ_TEXT,1,bạn nhìn thấy nội dung biển hiệu tiệm vàng trên cửa là gì đó bạn,1,bạn nhìn thấy nội_dung biển_hiệu tiệm vàng trên cửa là gì đó bạn
+không làm chi nữa mô thoát đi,END_SESSION,4,không làm chi nữa mô thoát đi,4,không làm_chi nữa mô thoát đi
+mình vừa vào nhà ga tàu điện scan bảng giờ xe buýt đó rồi đọc cho mình,READ_TEXT,1,mình vừa vào nhà ga tàu điện scan bảng giờ xe buýt đó rồi đọc cho mình,1,mình vừa vào nhà_ga tàu_điện scan bảng giờ xe_buýt đó rồi đọc cho mình
+trước khi thoát cho biết túi này màu gì,ANSWER_VISUAL_QUESTION,3,trước khi thoát cho biết túi này màu gì,3,trước khi thoát cho biết túi này màu gì
+scan màn hình máy giặt kia rồi đọc cho con được hông,READ_TEXT,1,scan màn hình máy giặt kia rồi đọc cho con được hông,1,scan màn_hình máy_giặt kia rồi đọc cho con được hông
+thoát khỏi khỏi ứng dụng,END_SESSION,4,thoát khỏi khỏi ứng dụng,4,thoát khỏi khỏi ứng_dụng
+hông biết quảng trường này trông ra sao nhỉ,DESCRIBE_SCENE,2,hông biết quảng trường này trông ra sao nhỉ,2,hông biết quảng_trường này trông ra sao nhỉ
+hina ơi cháu đang ở sảnh bệnh viện tờ giấy này có chữ ký không vậy,ANSWER_VISUAL_QUESTION,3,hina ơi cháu đang ở sảnh bệnh viện tờ giấy này có chữ ký không vậy,3,hina ơi cháu đang ở sảnh bệnh_viện tờ giấy này có chữ_ký không vậy
+vitamin c có nhiều trong quả gì,UNKNOWN,5,vitamin c có nhiều trong quả gì,5,vitamin c có nhiều trong quả gì
+mình vừa bước vào ngân hàng tả cho mình với,DESCRIBE_SCENE,2,mình vừa bước vào ngân hàng tả cho mình với,2,mình vừa bước vào ngân_hàng tả cho mình với
+pin yếu rồi không cần nữa đâu,END_SESSION,4,pin yếu rồi không cần nữa đâu,4,pin yếu rồi không cần nữa đâu
+dì đang đứng chờ trong cổng trường đang có những ai và những gì hen,DESCRIBE_SCENE,2,dì đang đứng chờ trong cổng trường đang có những ai và những gì hen,2,dì đang đứng chờ trong cổng trường đang có những_ai và những gì hen
+anh có người giúp rồi không cần nữa đâu,END_SESSION,4,anh có người giúp rồi không cần nữa đâu,4,anh có người giúp rồi không cần nữa đâu
+à mà ok xong rồi đó,END_SESSION,4,à mà ok xong rồi đó,4,à mà ok xong rồi đó
+khoan đã cái xe trước mặt có đang nổ máy không thế nhỉ,ANSWER_VISUAL_QUESTION,3,khoan đã cái xe trước mặt có đang nổ máy không thế nhỉ,3,khoan đã cái xe trước mặt có đang nổ máy không thế nhỉ
+vỉ thuốc đó có phải thuốc huyết áp không hen,ANSWER_VISUAL_QUESTION,3,vỉ thuốc đó có phải thuốc huyết áp không hen,3,vỉ thuốc đó có phải thuốc huyết_áp không hen
+thôi thôi không cần nữa,END_SESSION,4,thôi thôi không cần nữa,4,thôi thôi không cần nữa
+để coi bạn ơi bạn có thích tui không,UNKNOWN,5,để coi bạn ơi bạn có thích tui không,5,để coi bạn ơi bạn có thích tui không
+ngừng nói đi,END_SESSION,4,ngừng nói đi,4,ngừng nói đi
+ngắt giùm em cái hina,END_SESSION,4,ngắt giùm em cái hina,4,ngắt giùm em cái hina
+trước khi kết thúc đọc lại địa chỉ trên phong bì,READ_TEXT,1,trước khi kết thúc đọc lại địa chỉ trên phong bì,1,trước khi kết_thúc đọc lại địa_chỉ trên phong_bì
+em mới tới khu chung cư theo biển chỉ dẫn trong siêu thị đó quầy thu ngân ở đâu,ANSWER_VISUAL_QUESTION,3,em mới tới khu chung cư theo biển chỉ dẫn trong siêu thị đó quầy thu ngân ở đâu,3,em mới tới khu chung_cư theo biển chỉ_dẫn trong siêu_thị đó quầy thu_ngân ở đâu
+phiếu thu anh đang giơ lên trả bằng thẻ hay tiền mặt hina,ANSWER_VISUAL_QUESTION,3,phiếu thu anh đang giơ lên trả bằng thẻ hay tiền mặt hina,3,phiếu thu anh đang giơ lên trả bằng thẻ hay tiền_mặt hina
+thoát giùm mình cái chương trình,END_SESSION,4,thoát giùm mình cái chương trình,4,thoát giùm mình cái chương_trình
+ừm đọc tờ này đi,READ_TEXT,1,ừm đọc tờ này đi,1,ừm đọc tờ này đi
+không biết tầng hầm để xe này trông thế nào nhỉ,DESCRIBE_SCENE,2,không biết tầng hầm để xe này trông thế nào nhỉ,2,không biết tầng hầm để xe này trông thế_nào nhỉ
+kết quả xét nghiệm trên bàn do bác sĩ nào ký,ANSWER_VISUAL_QUESTION,3,kết quả xét nghiệm trên bàn do bác sĩ nào ký,3,kết_quả xét_nghiệm trên bàn do bác_sĩ nào ký
+ngày mai đà lạt có mưa không,UNKNOWN,5,ngày mai đà lạt có mưa không,5,ngày_mai đà_lạt có mưa không
+hina ơi mô tả những gì camera đang thấy,DESCRIBE_SCENE,2,hina ơi mô tả những gì camera đang thấy,2,hina ơi mô_tả những gì camera đang thấy
+trong ví chị có tờ hai trăm nghìn không,ANSWER_VISUAL_QUESTION,3,trong ví chị có tờ hai trăm nghìn không,3,trong ví chị có tờ hai trăm_nghìn không
+man hinh may ban nuoc nay dang de bao nhieu do do ban,ANSWER_VISUAL_QUESTION,3,man hinh may ban nuoc nay dang de bao nhieu do do ban,3,man hinh may ban nuoc nay dang de bao nhieu do do ban
+ngừng nói nói đi,END_SESSION,4,ngừng nói nói đi,4,ngừng nói nói đi
+ni bạn cho tui biết khung cảnh nơi ni,DESCRIBE_SCENE,2,ni bạn cho tui biết khung cảnh nơi ni,2,ni bạn cho tui biết khung_cảnh nơi ni
+quanh đây có phòng gym nào giá rẻ,UNKNOWN,5,quanh đây có phòng gym nào giá rẻ,5,quanh đây có phòng gym nào giá rẻ
+bạn nhìn thấy nội dung biển tên quán trước mặt em là gì ạ,READ_TEXT,1,bạn nhìn thấy nội dung biển tên quán trước mặt em là gì ạ,1,bạn nhìn thấy nội_dung biển tên quán trước mặt em là gì ạ
+đọc phần chữ nhỏ ở dưới vé xem phim tôi đang giơ lên,READ_TEXT,1,đọc phần chữ nhỏ ở dưới vé xem phim tôi đang giơ lên,1,đọc phần chữ nhỏ ở dưới vé xem phim tôi đang giơ lên
+không làm gì nữa đâu ngừng đi này bạn,END_SESSION,4,không làm gì nữa đâu ngừng đi này bạn,4,không làm gì nữa đâu ngừng đi này bạn
+chữ nhỏ quá bảng tên trên cửa trên tường có bị che mất không,ANSWER_VISUAL_QUESTION,3,chữ nhỏ quá bảng tên trên cửa trên tường có bị che mất không,3,chữ nhỏ quá bảng tên trên cửa trên tường có bị che mất không
+giá vàng hôm nay bao nhiêu,UNKNOWN,5,giá vàng hôm nay bao nhiêu,5,giá vàng hôm_nay bao_nhiêu
+ni bạn thôi được rồi không cần nữa cảm ơn,END_SESSION,4,ni bạn thôi được rồi không cần nữa cảm ơn,4,ni bạn thôi được rồi không cần nữa cảm_ơn
+hina ơi tôi giơ camera lên rồi đọc tờ này đi,READ_TEXT,1,hina ơi tôi giơ camera lên rồi đọc tờ này đi,1,hina ơi tôi giơ camera lên rồi đọc tờ này đi
+em vừa bước vào phố đi bộ tả giùm với,DESCRIBE_SCENE,2,em vừa bước vào phố đi bộ tả giùm với,2,em vừa bước vào phố đi bộ tả giùm với
+cho tôi biết khung cảnh nơi này giùm nha,DESCRIBE_SCENE,2,cho tôi biết khung cảnh nơi này giùm nha,2,cho tôi biết khung_cảnh nơi này giùm nha
+hông làm gì nữa đâu ngừng đi,END_SESSION,4,hông làm gì nữa đâu ngừng đi,4,hông làm gì nữa đâu ngừng đi
+giấy hẹn tái khám trên ghế do bác sĩ nào ký đấy,ANSWER_VISUAL_QUESTION,3,giấy hẹn tái khám trên ghế do bác sĩ nào ký đấy,3,giấy hẹn tái khám trên ghế do bác_sĩ nào ký đấy
+có vật cản nào trước mặt chị hông,ANSWER_VISUAL_QUESTION,3,có vật cản nào trước mặt chị hông,3,có vật cản nào trước mặt chị hông
+con giơ camera lên rồi bạn thấy gì trước mặt con,DESCRIBE_SCENE,2,con giơ camera lên rồi bạn thấy gì trước mặt con,2,con giơ camera lên rồi bạn thấy gì trước mặt con
+cho tôi biết khung cảnh ở đây rồi tắt cũng được,DESCRIBE_SCENE,2,cho tôi biết khung cảnh ở đây rồi tắt cũng được,2,cho tôi biết khung_cảnh ở đây rồi tắt cũng được
+nhà tôi cửa màu gì bạn biết không,UNKNOWN,5,nhà tôi cửa màu gì bạn biết không,5,nhà tôi cửa màu gì bạn biết không
+bạn ơi bảng hiệu ngân hàng là quán gì ạ,ANSWER_VISUAL_QUESTION,3,bạn ơi bảng hiệu ngân hàng là quán gì ạ,3,bạn ơi bảng_hiệu ngân_hàng là quán gì ạ
+hông làm gì nữa đâu ngắt đi,END_SESSION,4,hông làm gì nữa đâu ngắt đi,4,hông làm gì nữa đâu ngắt đi
+đọc chữ đang hiện trên màn hình điều hòa trước mặt,READ_TEXT,1,đọc chữ đang hiện trên màn hình điều hòa trước mặt,1,đọc chữ đang hiện trên màn_hình điều_hoà trước mặt
+dừng mọi thứ lại ơi bạn,END_SESSION,4,dừng mọi thứ lại ơi bạn,4,dừng mọi thứ lại ơi bạn
+em đang đứng chờ đọc tờ này giúp em nè,READ_TEXT,1,em đang đứng chờ đọc tờ này giúp em nè,1,em đang đứng chờ đọc tờ này giúp em nè
+cho em nhờ đọc bảng hiệu phòng khám kia,READ_TEXT,1,cho em nhờ đọc bảng hiệu phòng khám kia,1,cho em nhờ đọc bảng_hiệu phòng_khám kia
+thôi không cần nữa nữa,END_SESSION,4,thôi không cần nữa nữa,4,thôi không cần nữa nữa
+bạn ơi tôi đang đứng trong trong bãi biển bạn có thích tôi không,UNKNOWN,5,bạn ơi tôi đang đứng trong trong bãi biển bạn có thích tôi không,5,bạn ơi tôi đang đứng trong trong bãi biển bạn có thích tôi không
+kể về lịch sử sài gòn đi,UNKNOWN,5,kể về lịch sử sài gòn đi,5,kể về lịch_sử sài_gòn đi
+bà vừa bước vào thang máy tả giúp với,DESCRIBE_SCENE,2,bà vừa bước vào thang máy tả giúp với,2,bà vừa bước vào thang_máy tả giúp với
+tả cảnh vật xung quanh với,DESCRIBE_SCENE,2,tả cảnh vật xung quanh với,2,tả cảnh_vật xung_quanh với
+túi thuốc trên ghế có phải thuốc huyết áp không,ANSWER_VISUAL_QUESTION,3,túi thuốc trên ghế có phải thuốc huyết áp không,3,túi thuốc trên ghế có phải thuốc huyết_áp không
+ờ thì em lạ chỗ ni quá mô tả từ trái sang phải những chi đang có,DESCRIBE_SCENE,2,ờ thì em lạ chỗ ni quá mô tả từ trái sang phải những chi đang có,2,ờ thì em lạ chỗ ni quá mô_tả từ trái sang phải những chi đang có
+hina ơi ai đó dán poster trên cột ở đây đọc xem viết gì,READ_TEXT,1,hina ơi ai đó dán poster trên cột ở đây đọc xem viết gì,1,hina ơi ai đó dán poster trên cột ở đây đọc xem viết gì
+dạy o nấu rau muống xào,UNKNOWN,5,dạy o nấu rau muống xào,5,dạy o nấu rau_muống xào
+kể lại những gì bạn đang nhìn thấy với,DESCRIBE_SCENE,2,kể lại những gì bạn đang nhìn thấy với,2,kể lại những gì bạn đang nhìn thấy với
+phát tiếp chương sau của sách nói,UNKNOWN,5,phát tiếp chương sau của sách nói,5,phát tiếp chương sau của sách nói
+chìa khóa nhà tôi hình gì,UNKNOWN,5,chìa khóa nhà tôi hình gì,5,chìa_khoá nhà tôi hình gì
+bạn ơi ơi dừng mọi thứ lại,END_SESSION,4,bạn ơi ơi dừng mọi thứ lại,4,bạn ơi ơi dừng mọi thứ lại
+không biết phòng cấp cứu ni trông răng nhỉ,DESCRIBE_SCENE,2,không biết phòng cấp cứu ni trông răng nhỉ,2,không biết phòng cấp_cứu ni trông răng nhỉ
+chị lạ chỗ này quá màn hình atm trên tường còn bao nhiêu phút,ANSWER_VISUAL_QUESTION,3,chị lạ chỗ này quá màn hình atm trên tường còn bao nhiêu phút,3,chị lạ chỗ này quá màn_hình atm trên tường còn bao_nhiêu phút
+đọc lại cho tôi số điện thoại của vợ,UNKNOWN,5,đọc lại cho tôi số điện thoại của vợ,5,đọc lại cho tôi số điện_thoại của vợ
+không biết phòng khám ni trông răng nhỉ,DESCRIBE_SCENE,2,không biết phòng khám ni trông răng nhỉ,2,không biết phòng_khám ni trông răng nhỉ
+đọc các dòng trên biển lối thoát hiểm nè,READ_TEXT,1,đọc các dòng trên biển lối thoát hiểm nè,1,đọc các dòng trên biển lối_thoát hiểm nè
+hina kể lại những gì bạn đang nhìn thấy được không,DESCRIBE_SCENE,2,hina kể lại những gì bạn đang nhìn thấy được không,2,hina kể lại những gì bạn đang nhìn thấy được không
+ăn rau muống xào có béo không vậy hả,UNKNOWN,5,ăn rau muống xào có béo không vậy hả,5,ăn rau_muống xào có béo không vậy hả
+bạn ơi cách nấu bánh xèo ra sao,UNKNOWN,5,bạn ơi cách nấu bánh xèo ra sao,5,bạn ơi cách nấu bánh_xèo ra sao
+trợ lý ơi phiếu giao hàng này ghi tên khách hàng là ai ạ,ANSWER_VISUAL_QUESTION,3,trợ lý ơi phiếu giao hàng này ghi tên khách hàng là ai ạ,3,trợ_lý ơi phiếu giao hàng này ghi tên khách_hàng là ai ạ
+thôi được rồi không cần nữa cảm ơn nha,END_SESSION,4,thôi được rồi không cần nữa cảm ơn nha,4,thôi được rồi không cần nữa cảm_ơn nha
+không có ai để hỏi đọc điều khoản trong bản hợp đồng này hina,READ_TEXT,1,không có ai để hỏi đọc điều khoản trong bản hợp đồng này hina,1,không có ai để hỏi đọc điều_khoản trong bản hợp_đồng này hina
+tôi đang vội mô tả những gì camera đang thấy với,DESCRIBE_SCENE,2,tôi đang vội mô tả những gì camera đang thấy với,2,tôi đang vội mô_tả những gì camera đang thấy với
+đọc tờ này giúp tôi nhá,READ_TEXT,1,đọc tờ này giúp tôi nhá,1,đọc tờ này giúp tôi nhá
+ê hina không làm gì nữa đâu ngừng đi,END_SESSION,4,ê hina không làm gì nữa đâu ngừng đi,4,ê hina không làm gì nữa đâu ngừng đi
+tôi đang đứng chờ tả cảnh vật xung quanh được không,DESCRIBE_SCENE,2,tôi đang đứng chờ tả cảnh vật xung quanh được không,2,tôi đang đứng chờ tả cảnh_vật xung_quanh được không
+đọc các dòng trên biển chỉ dẫn trước mặt đi bạn,READ_TEXT,1,đọc các dòng trên biển chỉ dẫn trước mặt đi bạn,1,đọc các dòng trên biển chỉ_dẫn trước mặt đi bạn
+hina ơi ngừng nói đi,END_SESSION,4,hina ơi ngừng nói đi,4,hina ơi ngừng nói đi
+dừng giùm cô cái phiên làm việc ạ,END_SESSION,4,dừng giùm cô cái phiên làm việc ạ,4,dừng giùm cô cái phiên làm_việc ạ
+bạn ơi cháu đang vội trong sảnh bệnh viện đang có những ai và những gì vậy ạ,DESCRIBE_SCENE,2,bạn ơi cháu đang vội trong sảnh bệnh viện đang có những ai và những gì vậy ạ,2,bạn ơi cháu đang vội trong sảnh bệnh_viện đang có những_ai và những gì vậy ạ
+mình vừa nhặt được bảng menu này không biết ghi gì,READ_TEXT,1,mình vừa nhặt được bảng menu này không biết ghi gì,1,mình vừa nhặt được bảng menu này không biết ghi gì
+cho hina nghỉ đi ni bạn,END_SESSION,4,cho hina nghỉ đi ni bạn,4,cho hina nghỉ đi ni bạn
+đọc chữ đang hiện trên màn hình atm kia,READ_TEXT,1,đọc chữ đang hiện trên màn hình atm kia,1,đọc chữ đang hiện trên màn_hình atm kia
+ờ kể chị nghe xung quanh đang có gì coi,DESCRIBE_SCENE,2,ờ kể chị nghe xung quanh đang có gì coi,2,ờ kể chị nghe xung_quanh đang có gì coi
+trong trung tâm thương mại đang có những ai và những gì,DESCRIBE_SCENE,2,trong trung tâm thương mại đang có những ai và những gì,2,trong trung_tâm thương_mại đang có những_ai và những gì
+doc noi dung bien bao giao thong tren quay ho toi,READ_TEXT,1,doc noi dung bien bao giao thong tren quay ho toi,1,doc noi dung bien bao giao thong tren quay ho toi
+xung quanh có xe nào đang chạy không đó bạn,ANSWER_VISUAL_QUESTION,3,xung quanh có xe nào đang chạy không đó bạn,3,xung_quanh có xe nào đang chạy không đó bạn
+bạn có thích anh không,UNKNOWN,5,bạn có thích anh không,5,bạn có thích anh không
+hina ơi không làm gì nữa đâu thoát đi,END_SESSION,4,hina ơi không làm gì nữa đâu thoát đi,4,hina ơi không làm gì nữa đâu thoát đi
+này quanh tôi có thùng rác không,ANSWER_VISUAL_QUESTION,3,này quanh tôi có thùng rác không,3,này quanh tôi có thùng rác không
+hina ơi không biết ngân hàng này trông ra sao nhỉ,DESCRIBE_SCENE,2,hina ơi không biết ngân hàng này trông ra sao nhỉ,2,hina ơi không biết ngân_hàng này trông ra sao nhỉ
+số trên giấy vay nợ bác vừa nhận là bao nhiêu,ANSWER_VISUAL_QUESTION,3,số trên giấy vay nợ bác vừa nhận là bao nhiêu,3,số trên giấy vay nợ bác vừa nhận là bao_nhiêu
+ừm tóc con có rối không,ANSWER_VISUAL_QUESTION,3,ừm tóc con có rối không,3,ừm tóc con có rối không
+em vừa bước vào sân trường tả giúp với,DESCRIBE_SCENE,2,em vừa bước vào sân trường tả giúp với,2,em vừa bước vào sân trường tả giúp với
+có ba người đang đứng ở cổng,UNKNOWN,5,có ba người đang đứng ở cổng,5,có ba người đang đứng ở cổng
+mình vừa vào thang máy mô tả khung cảnh trước camera hen,DESCRIBE_SCENE,2,mình vừa vào thang máy mô tả khung cảnh trước camera hen,2,mình vừa vào thang_máy mô_tả khung_cảnh trước camera hen
+tôi không đọc được chữ màn hình điều hòa phía trước còn bao nhiêu phút nớ,ANSWER_VISUAL_QUESTION,3,tôi không đọc được chữ màn hình điều hòa phía trước còn bao nhiêu phút nớ,3,tôi không đọc được chữ màn_hình điều_hoà phía trước còn bao_nhiêu phút nớ
+bạn nhìn thấy nội dung biển hiệu quán cà phê trên cửa là là gì vậy hả,READ_TEXT,1,bạn nhìn thấy nội dung biển hiệu quán cà phê trên cửa là là gì vậy hả,1,bạn nhìn thấy nội_dung biển_hiệu quán cà_phê trên cửa là_là gì vậy hả
+đọc chữ nổi braille ra sao bạn,UNKNOWN,5,đọc chữ nổi braille ra sao bạn,5,đọc chữ_nổi braille ra sao bạn
+nhìn quanh xem có gì rồi nói bà nghe,DESCRIBE_SCENE,2,nhìn quanh xem có gì rồi nói bà nghe,2,nhìn quanh xem có gì rồi nói bà nghe
+chữ chi đây,READ_TEXT,1,chữ chi đây,1,chữ_chi đây
+kể bà nghe xung quanh đang có gì ê hina,DESCRIBE_SCENE,2,kể bà nghe xung quanh đang có gì ê hina,2,kể bà nghe xung_quanh đang có gì ê hina
+chị cần biết hộp sữa chua đó ghi những gì một cách chính xác,READ_TEXT,1,chị cần biết hộp sữa chua đó ghi những gì một cách chính xác,1,chị cần biết hộp sữa_chua đó ghi những gì một_cách chính_xác
+số trên biên bản là bao nhiêu bạn,ANSWER_VISUAL_QUESTION,3,số trên biên bản là bao nhiêu bạn,3,số trên biên_bản là bao_nhiêu bạn
+ngày mai biên hòa có mưa không nhỉ bạn,UNKNOWN,5,ngày mai biên hòa có mưa không nhỉ bạn,5,ngày_mai biên_hoà có mưa không nhỉ bạn
+đọc lướt phiếu thu này được không,READ_TEXT,1,đọc lướt phiếu thu này được không,1,đọc lướt phiếu thu này được không
+à không biết khu vui chơi ni trông răng nhỉ,DESCRIBE_SCENE,2,à không biết khu vui chơi ni trông răng nhỉ,2,à không biết khu vui_chơi ni trông răng nhỉ
+hina đọc tin tức tức thể thao hôm nay với,UNKNOWN,5,hina đọc tin tức tức thể thao hôm nay với,5,hina đọc tin_tức tức thể_thao hôm_nay với
+bạn ơi hông làm gì nữa đâu tắt đi,END_SESSION,4,bạn ơi hông làm gì nữa đâu tắt đi,4,bạn ơi hông làm gì nữa đâu tắt đi
+cháu cô đơn quá nói chuyện với cháu đi,UNKNOWN,5,cháu cô đơn quá nói chuyện với cháu đi,5,cháu cô_đơn quá nói_chuyện với cháu đi
+chị vừa bước vào trạm xe buýt tả giúp chị với,DESCRIBE_SCENE,2,chị vừa bước vào trạm xe buýt tả giúp chị với,2,chị vừa bước vào trạm xe_buýt tả giúp chị với
+thế ông đưa điện thoại lên rồi trời ơi nóng quá,UNKNOWN,5,thế ông đưa điện thoại lên rồi trời ơi nóng quá,5,thế ông đưa điện_thoại lên rồi trời_ơi nóng quá
+khoan đã đọc lại cho em số điện thoại của bà ngoại,UNKNOWN,5,khoan đã đọc lại cho em số điện thoại của bà ngoại,5,khoan đã đọc lại cho em số điện_thoại của bà ngoại
+tôi đang vội tôi vừa bước vào bãi biển tả giúp tôi với,DESCRIBE_SCENE,2,tôi đang vội tôi vừa bước vào bãi biển tả giúp tôi với,2,tôi đang vội tôi vừa bước vào bãi biển tả giúp tôi với
+hướng dẫn tôi dùng ứng dụng này,UNKNOWN,5,hướng dẫn tôi dùng ứng dụng này,5,hướng_dẫn tôi dùng ứng_dụng này
+doc ma giao dich tren phieu tinh tien tren tay tui,ANSWER_VISUAL_QUESTION,3,doc ma giao dich tren phieu tinh tien tren tay tui,3,doc ma giao dich tren phieu tinh tien tren tay tui
+hướng dẫn bà dùng ứng dụng này đi nào,UNKNOWN,5,hướng dẫn bà dùng ứng dụng này đi nào,5,hướng_dẫn bà dùng ứng_dụng này đi nào
+tôi đưa điện thoại lên rồi đọc phần chữ nhỏ ở dưới tờ tuyển dụng được không,READ_TEXT,1,tôi đưa điện thoại lên rồi đọc phần chữ nhỏ ở dưới tờ tuyển dụng được không,1,tôi đưa điện_thoại lên rồi đọc phần chữ nhỏ ở dưới tờ tuyển_dụng được không
+ngừng ngừng nói đi,END_SESSION,4,ngừng ngừng nói đi,4,ngừng ngừng nói đi
+bạn ơi nhìn quanh xem có gì rồi nói tôi nghe,DESCRIBE_SCENE,2,bạn ơi nhìn quanh xem có gì rồi nói tôi nghe,2,bạn ơi nhìn quanh xem có gì rồi nói tôi nghe
+dừng giùm em cái hina hỉ,END_SESSION,4,dừng giùm em cái hina hỉ,4,dừng giùm em cái hina hỉ
+đọc lướt hộp sữa bột ni,READ_TEXT,1,đọc lướt hộp sữa bột ni,1,đọc lướt hộp sữa bột ni
+đọc các dòng trên bảng sơ đồ tầng phía trên cái,READ_TEXT,1,đọc các dòng trên bảng sơ đồ tầng phía trên cái,1,đọc các dòng trên bảng sơ_đồ tầng phía trên cái
+cách nấu chè đậu xanh thế nào,UNKNOWN,5,cách nấu chè đậu xanh thế nào,5,cách nấu chè đậu_xanh thế_nào
+o vừa vào nhà văn hóa o vừa bước vào ủy ban phường tả giùm o với,DESCRIBE_SCENE,2,o vừa vào nhà văn hóa o vừa bước vào ủy ban phường tả giùm o với,2,o vừa vào nhà_văn_hoá o vừa bước vào uỷ_ban phường tả giùm o với
+mình nghỉ đây không cần nữa đâu,END_SESSION,4,mình nghỉ đây không cần nữa đâu,4,mình nghỉ đây không cần nữa đâu
+bạn ơi tờ giấy trong tay má viết tay hay đánh máy nè,ANSWER_VISUAL_QUESTION,3,bạn ơi tờ giấy trong tay má viết tay hay đánh máy nè,3,bạn ơi tờ giấy trong tay má viết_tay hay đánh_máy nè
+tui nghỉ đây không cần nữa mô,END_SESSION,4,tui nghỉ đây không cần nữa mô,4,tui nghỉ đây không cần nữa mô
+nhìn quanh xem có gì rồi nói tôi nghe,DESCRIBE_SCENE,2,nhìn quanh xem có gì rồi nói tôi nghe,2,nhìn quanh xem có gì rồi nói tôi nghe
+đóng giùm tui cái camera,END_SESSION,4,đóng giùm tui cái camera,4,đóng giùm tui cái camera
+dừng cho con bú lúc mấy tháng,UNKNOWN,5,dừng cho con bú lúc mấy tháng,5,dừng cho con bú lúc mấy tháng
+bạn ơi thoát khỏi khỏi ứng dụng,END_SESSION,4,bạn ơi thoát khỏi khỏi ứng dụng,4,bạn ơi thoát khỏi khỏi ứng_dụng
+tôi vừa bước vào vỉa hè tả cho tôi với,DESCRIBE_SCENE,2,tôi vừa bước vào vỉa hè tả cho tôi với,2,tôi vừa bước vào vỉa_hè tả cho tôi với
+cháu đang đi trong phòng chờ sân bay ăn mì quảng có béo không đấy,UNKNOWN,5,cháu đang đi trong phòng chờ sân bay ăn mì quảng có béo không đấy,5,cháu đang đi trong phòng chờ sân_bay ăn mì quảng có béo không đấy
+ê hina hông làm gì nữa đâu dừng đi,END_SESSION,4,ê hina hông làm gì nữa đâu dừng đi,4,ê hina hông làm gì nữa đâu dừng đi
+bao bì tôi đang giơ lên giá bao nhiêu,ANSWER_VISUAL_QUESTION,3,bao bì tôi đang giơ lên giá bao nhiêu,3,bao_bì tôi đang giơ lên giá bao_nhiêu
+đọc phần chữ nhỏ ở dưới tuýp thuốc mỡ này giùm với,READ_TEXT,1,đọc phần chữ nhỏ ở dưới tuýp thuốc mỡ này giùm với,1,đọc phần chữ nhỏ ở dưới tuýp thuốc_mỡ này giùm với
+minh dua dien thoai len roi ta can bep giup,DESCRIBE_SCENE,2,minh dua dien thoai len roi ta can bep giup,2,minh dua dien thoai len roi ta can bep giup
+thoát giùm anh cái phiên làm việc,END_SESSION,4,thoát giùm anh cái phiên làm việc,4,thoát giùm anh cái phiên làm_việc
+ê hina o vừa bước vào trạm dừng chân tả giùm với,DESCRIBE_SCENE,2,ê hina o vừa bước vào trạm dừng chân tả giùm với,2,ê hina o vừa bước vào trạm dừng chân tả giùm với
+nói lại câu vừa rồi xem nào,UNKNOWN,5,nói lại câu vừa rồi xem nào,5,nói lại câu vừa_rồi xem nào
+thoát khỏi ứng dụng,END_SESSION,4,thoát khỏi ứng dụng,4,thoát khỏi ứng_dụng
+bạn ơi tôi đang đứng trong công viên kể lại những chi bạn đang nhìn thấy,DESCRIBE_SCENE,2,bạn ơi tôi đang đứng trong công viên kể lại những chi bạn đang nhìn thấy,2,bạn ơi tôi đang đứng trong công_viên kể lại những chi bạn đang nhìn thấy
+để coi tắt giùm bà cái app xem nào hina,END_SESSION,4,để coi tắt giùm bà cái app xem nào hina,4,để coi tắt giùm bà cái app xem nào hina
+kết thúc giùm anh cái hina,END_SESSION,4,kết thúc giùm anh cái hina,4,kết_thúc giùm anh cái hina
+anh cô đơn quá nói chuyện với anh đi,UNKNOWN,5,anh cô đơn quá nói chuyện với anh đi,5,anh cô_đơn quá nói_chuyện với anh đi
+tôi vừa bước vào quán ăn tả giúp tôi với,DESCRIBE_SCENE,2,tôi vừa bước vào quán ăn tả giúp tôi với,2,tôi vừa bước vào quán ăn tả giúp tôi với
+đủ rồi kết thúc nhé bạn,END_SESSION,4,đủ rồi kết thúc nhé bạn,4,đủ rồi kết_thúc nhé bạn
+quang cảnh trước mặt tôi thế nào,DESCRIBE_SCENE,2,quang cảnh trước mặt tôi thế nào,2,quang_cảnh trước mặt tôi thế_nào
+hina ơi bà vừa xuống xe kể bà nghe xung quanh đang có gì nhá,DESCRIBE_SCENE,2,hina ơi bà vừa xuống xe kể bà nghe xung quanh đang có gì nhá,2,hina ơi bà vừa xuống xe kể bà nghe xung_quanh đang có gì nhá
+ở đây ồn quá mấy người đang ngồi bàn bên cạnh,ANSWER_VISUAL_QUESTION,3,ở đây ồn quá mấy người đang ngồi bàn bên cạnh,3,ở đây ồn quá mấy người đang ngồi bàn bên cạnh
+không làm gì nữa đâu tắt hẳn đi,END_SESSION,4,không làm gì nữa đâu tắt hẳn đi,4,không làm gì nữa đâu tắt hẳn đi
+khu vực quanh nhà ga có hay bị móc túi không,UNKNOWN,5,khu vực quanh nhà ga có hay bị móc túi không,5,khu_vực quanh nhà_ga có hay bị móc_túi không
+bảng tên trước phòng có gì vậy,READ_TEXT,1,bảng tên trước phòng có gì vậy,1,bảng tên trước phòng có gì vậy
+tui vừa bước vào phố đi bộ tả cho tui với,DESCRIBE_SCENE,2,tui vừa bước vào phố đi bộ tả cho tui với,2,tui vừa bước vào phố đi bộ tả cho tui với
+đọc phần chữ nhỏ ở dưới biển báo,READ_TEXT,1,đọc phần chữ nhỏ ở dưới biển báo,1,đọc phần chữ nhỏ ở dưới biển_báo
+kết thúc giùm anh cái phiên làm việc,END_SESSION,4,kết thúc giùm anh cái phiên làm việc,4,kết_thúc giùm anh cái phiên làm_việc
+bạn ơi tiền điện tháng này tính thế nào,UNKNOWN,5,bạn ơi tiền điện tháng này tính thế nào,5,bạn ơi tiền điện tháng này tính thế_nào
+tôi vừa vào sân ga đồ ăn trong đĩa là món gì thế bạn,ANSWER_VISUAL_QUESTION,3,tôi vừa vào sân ga đồ ăn trong đĩa là món gì thế bạn,3,tôi vừa vào sân ga đồ_ăn trong đĩa là món gì thế bạn
+tui đang đứng chờ không biết khu ẩm thực này trông ra sao nhỉ,DESCRIBE_SCENE,2,tui đang đứng chờ không biết khu ẩm thực này trông ra sao nhỉ,2,tui đang đứng chờ không biết khu ẩm_thực này trông ra sao nhỉ
+bật wifi,UNKNOWN,5,bật wifi,5,bật wifi
+mô tả khung cảnh trước camera đi nào,DESCRIBE_SCENE,2,mô tả khung cảnh trước camera đi nào,2,mô_tả khung_cảnh trước camera đi nào
+ê hina ngày mai hà nội có mưa hông,UNKNOWN,5,ê hina ngày mai hà nội có mưa hông,5,ê hina ngày_mai hà_nội có mưa hông
+ngắt giùm anh cái phiên làm việc,END_SESSION,4,ngắt giùm anh cái phiên làm việc,4,ngắt giùm anh cái phiên làm_việc
+con đang đứng chờ cho con biết khung cảnh nơi này coi,DESCRIBE_SCENE,2,con đang đứng chờ cho con biết khung cảnh nơi này coi,2,con đang đứng chờ cho con biết khung_cảnh nơi này coi
+đọc các các dòng trên biển hướng dẫn chỗ ngã ba,READ_TEXT,1,đọc các các dòng trên biển hướng dẫn chỗ ngã ba,1,đọc các các dòng trên biển hướng_dẫn chỗ ngã ba
+ờ bảng chỉ dẫn bên kia đường ghi những gì,READ_TEXT,1,ờ bảng chỉ dẫn bên kia đường ghi những gì,1,ờ bảng chỉ_dẫn bên kia đường ghi những gì
+phiền bạn đọc vỉ thuốc ni,READ_TEXT,1,phiền bạn đọc vỉ thuốc ni,1,phiền bạn_đọc vỉ thuốc ni
+à ni thôi không cần nữa hina,END_SESSION,4,à ni thôi không cần nữa hina,4,à ni thôi không cần nữa hina
+để coi số trên thẻ căn cước là bao nhiêu,ANSWER_VISUAL_QUESTION,3,để coi số trên thẻ căn cước là bao nhiêu,3,để coi số trên thẻ căn_cước là bao_nhiêu
+mô tả từ trái sang phải những chi đang có,DESCRIBE_SCENE,2,mô tả từ trái sang phải những chi đang có,2,mô_tả từ trái sang phải những chi đang có
+trong ví con có tờ hai trăm nghìn không,ANSWER_VISUAL_QUESTION,3,trong ví con có tờ hai trăm nghìn không,3,trong ví con có tờ hai trăm_nghìn không
+cháu vừa nhặt được biển báo sàn trơn không biết ghi gì,READ_TEXT,1,cháu vừa nhặt được biển báo sàn trơn không biết ghi gì,1,cháu vừa nhặt được biển_báo sàn trơn không biết ghi gì
+biển hiệu đó là quán gì vậy ta,ANSWER_VISUAL_QUESTION,3,biển hiệu đó là quán gì vậy ta,3,biển_hiệu đó là quán gì vậy ta
+ông đi ngủ đây không cần nữa đâu bạn,END_SESSION,4,ông đi ngủ đây không cần nữa đâu bạn,4,ông đi ngủ đây không cần nữa đâu bạn
+đóng lại lại,END_SESSION,4,đóng lại lại,4,đóng lại lại
+bạn nhớ tôi để chìa khóa ở đâu không,UNKNOWN,5,bạn nhớ tôi để chìa khóa ở đâu không,5,bạn nhớ tôi để chìa_khoá ở đâu không
+không làm gì nữa đâu dừng đi,END_SESSION,4,không làm gì nữa đâu dừng đi,4,không làm gì nữa đâu dừng đi
+kết thúc giùm má cái chế độ mô tả,END_SESSION,4,kết thúc giùm má cái chế độ mô tả,4,kết_thúc giùm má cái chế_độ mô_tả
+quán này trông thế nào tả đi,DESCRIBE_SCENE,2,quán này trông thế nào tả đi,2,quán này trông thế_nào tả đi
+chị đang đứng đứng trong phòng chờ bệnh viện chị vừa bước vào sân vận động tả giùm với hina,DESCRIBE_SCENE,2,chị đang đứng đứng trong phòng chờ bệnh viện chị vừa bước vào sân vận động tả giùm với hina,2,chị đang đứng đứng trong phòng chờ bệnh_viện chị vừa bước vào sân_vận_động tả giùm với hina
+hina ơi xong việc rồi nghỉ đi,END_SESSION,4,hina ơi xong việc rồi nghỉ đi,4,hina ơi xong việc rồi nghỉ đi
+làm ơn đọc tờ thông báo đó,READ_TEXT,1,làm ơn đọc tờ thông báo đó,1,làm_ơn đọc tờ thông_báo đó
+bạn ơi bạn thấy cảnh vật quanh tôi thế nào,DESCRIBE_SCENE,2,bạn ơi bạn thấy cảnh vật quanh tôi thế nào,2,bạn ơi bạn thấy cảnh_vật quanh tôi thế_nào
+anh ơi tính tiền,UNKNOWN,5,anh ơi tính tiền,5,anh ơi tính tiền
+tôi có người giúp rồi không cần nữa đâu,END_SESSION,4,tôi có người giúp rồi không cần nữa đâu,4,tôi có người giúp rồi không cần nữa đâu
+đọc các dòng trên biển hướng dẫn bên trái nha bạn,READ_TEXT,1,đọc các dòng trên biển hướng dẫn bên trái nha bạn,1,đọc các dòng trên biển hướng_dẫn bên trái nha bạn
+trợ lý ơi đọc chữ đang hiện trên màn hình máy đo huyết áp này,READ_TEXT,1,trợ lý ơi đọc chữ đang hiện trên màn hình máy đo huyết áp này,1,trợ_lý ơi đọc chữ đang hiện trên màn_hình máy đo huyết_áp này
+dịch câu tạm biệt sang tiếng nhật,UNKNOWN,5,dịch câu tạm biệt sang tiếng nhật,5,dịch câu tạm_biệt sang tiếng nhật
+tôi đang đứng trong chợ có ai ở đây không nhỉ bạn,ANSWER_VISUAL_QUESTION,3,tôi đang đứng trong chợ có ai ở đây không nhỉ bạn,3,tôi đang đứng trong chợ có ai ở đây không nhỉ bạn
+cái hố trước mặt có sâu không vậy,ANSWER_VISUAL_QUESTION,3,cái hố trước mặt có sâu không vậy,3,cái hố trước mặt có sâu không vậy
+tôi không nhìn thấy gì mô tả từ trái sang phải những gì đang có nha,DESCRIBE_SCENE,2,tôi không nhìn thấy gì mô tả từ trái sang phải những gì đang có nha,2,tôi không nhìn thấy gì mô_tả từ trái sang phải những gì đang có nha
+hina đọc các dòng trên biển lối thoát hiểm này,READ_TEXT,1,hina đọc các dòng trên biển lối thoát hiểm này,1,hina đọc các dòng trên biển lối_thoát hiểm này
+bạn à hướng dẫn tui dùng ứng dụng này coi,UNKNOWN,5,bạn à hướng dẫn tui dùng ứng dụng này coi,5,bạn à hướng_dẫn tui dùng ứng_dụng này coi
+bạn thấy chi trước mặt tui,DESCRIBE_SCENE,2,bạn thấy chi trước mặt tui,2,bạn thấy chi trước mặt tui
+người kia đang cầm gì,ANSWER_VISUAL_QUESTION,3,người kia đang cầm gì,3,người kia đang cầm gì
+số trên giấy vay nợ này là bao nhiêu,ANSWER_VISUAL_QUESTION,3,số trên giấy vay nợ này là bao nhiêu,3,số trên giấy vay nợ này là bao_nhiêu
+tui không nhìn thấy gì cho tui biết khung cảnh nơi này,DESCRIBE_SCENE,2,tui không nhìn thấy gì cho tui biết khung cảnh nơi này,2,tui không nhìn thấy gì cho tui biết khung_cảnh nơi này
+đọc tờ này đi trợ lý,READ_TEXT,1,đọc tờ này đi trợ lý,1,đọc tờ này đi trợ_lý
+kể cháu nghe xung quanh đang có gì,DESCRIBE_SCENE,2,kể cháu nghe xung quanh đang có gì,2,kể cháu nghe xung_quanh đang có gì
+đọc điều khoản trong hợp đồng bảo hiểm đó,READ_TEXT,1,đọc điều khoản trong hợp đồng bảo hiểm đó,1,đọc điều_khoản trong hợp_đồng bảo_hiểm đó
+tôi đưa điện thoại lên rồi tắt tivi đi,UNKNOWN,5,tôi đưa điện thoại lên rồi tắt tivi đi,5,tôi đưa điện_thoại lên rồi tắt tivi đi
+đóng đóng lại,END_SESSION,4,đóng đóng lại,4,đóng đóng lại
+tôi có nên mua điện thoại mới không,UNKNOWN,5,tôi có nên mua điện thoại mới không,5,tôi có nên mua điện_thoại mới không
+đọc lịch hẹn ngày mai của ông với với ạ,UNKNOWN,5,đọc lịch hẹn ngày mai của ông với với ạ,5,đọc lịch hẹn ngày_mai của ông với với ạ
+biển hiệu tiệm sửa xe ngay cửa ra vào là quán gì đó bạn,ANSWER_VISUAL_QUESTION,3,biển hiệu tiệm sửa xe ngay cửa ra vào là quán gì đó bạn,3,biển_hiệu tiệm sửa xe ngay cửa ra vào là quán gì đó bạn
+ni bạn đóng lại,END_SESSION,4,ni bạn đóng lại,4,ni bạn đóng lại
+ni bạn thôi được rồi không cần nữa cảm ơn nghe bạn,END_SESSION,4,ni bạn thôi được rồi không cần nữa cảm ơn nghe bạn,4,ni bạn thôi được rồi không cần nữa cảm_ơn nghe bạn
+dừng giùm cháu cái trợ lý dùm cái,END_SESSION,4,dừng giùm cháu cái trợ lý dùm cái,4,dừng giùm cháu cái trợ_lý dùm cái
+bếp ga đã tắt chưa,ANSWER_VISUAL_QUESTION,3,bếp ga đã tắt chưa,3,bếp ga đã tắt chưa
+chữ nhỏ quá kiểm tra dùm tôi cửa khóa chưa nha bạn,ANSWER_VISUAL_QUESTION,3,chữ nhỏ quá kiểm tra dùm tôi cửa khóa chưa nha bạn,3,chữ nhỏ quá kiểm_tra dùm tôi cửa khoá chưa nha bạn
+à mà tờ giấy báo mình đang giơ lên viết tay hay đánh máy hen,ANSWER_VISUAL_QUESTION,3,à mà tờ giấy báo mình đang giơ lên viết tay hay đánh máy hen,3,à mà tờ giấy_báo mình đang giơ lên viết_tay hay đánh_máy hen
+tôi đến nơi rồi không cần nữa mô,END_SESSION,4,tôi đến nơi rồi không cần nữa mô,4,tôi đến_nơi rồi không cần nữa mô
+hina ơi tắt định vị trên máy giúp tôi,UNKNOWN,5,hina ơi tắt định vị trên máy giúp tôi,5,hina ơi tắt định_vị trên máy giúp tôi
+vay em moi toi nha van hoa o day co co gi,DESCRIBE_SCENE,2,vay em moi toi nha van hoa o day co co gi,2,vay em moi toi nha van hoa o day co co gi
+thôi chào anh nhé,UNKNOWN,5,thôi chào anh nhé,5,thôi chào anh nhé
+toi nay nen an gi hen,UNKNOWN,5,toi nay nen an gi hen,5,toi nay nen an gi hen
+kể về lịch sử biên hòa đi,UNKNOWN,5,kể về lịch sử biên hòa đi,5,kể về lịch_sử biên_hoà đi
+đọc tên tác giả của cuốn sổ trên tay con nha,ANSWER_VISUAL_QUESTION,3,đọc tên tác giả của cuốn sổ trên tay con nha,3,đọc tên tác_giả của cuốn sổ trên tay con nha
+chữ gì đây,READ_TEXT,1,chữ gì đây,1,chữ gì đây
+cái xe trước mặt có đang nổ máy không ạ,ANSWER_VISUAL_QUESTION,3,cái xe trước mặt có đang nổ máy không ạ,3,cái xe trước mặt có đang nổ máy không ạ
+này bạn má mới tới lớp học mô tả từ trái sang phải những gì đang có,DESCRIBE_SCENE,2,này bạn má mới tới lớp học mô tả từ trái sang phải những gì đang có,2,này bạn má mới tới lớp_học mô_tả từ trái sang phải những gì đang có
+cái bàn này làm bằng gì,ANSWER_VISUAL_QUESTION,3,cái bàn này làm bằng gì,3,cái bàn này làm bằng gì
+không làm chi nữa đâu dừng đi,END_SESSION,4,không làm chi nữa đâu dừng đi,4,không làm_chi nữa đâu dừng đi
+ờ thì o cô đơn quá nói chuyện với o đi,UNKNOWN,5,ờ thì o cô đơn quá nói chuyện với o đi,5,ờ thì o cô_đơn quá nói_chuyện với o đi
+cái cốc này có hình gì,ANSWER_VISUAL_QUESTION,3,cái cốc này có hình gì,3,cái cốc này có hình gì
+đọc chữ đang hiện trên màn hình máy bán nước đi,READ_TEXT,1,đọc chữ đang hiện trên màn hình máy bán nước đi,1,đọc chữ đang hiện trên màn_hình máy bán nước đi
+kể bà nghe xung quanh đang có gì đi nào,DESCRIBE_SCENE,2,kể bà nghe xung quanh đang có gì đi nào,2,kể bà nghe xung_quanh đang có gì đi nào
+ngắt giùm tớ cái hina,END_SESSION,4,ngắt giùm tớ cái hina,4,ngắt giùm tớ cái hina
+mình cần biết biển báo phía trên ghi những gì một cách chính xác,READ_TEXT,1,mình cần biết biển báo phía trên ghi những gì một cách chính xác,1,mình cần biết biển_báo phía trên ghi những gì một_cách chính_xác
+đọc lướt chai nước tương,READ_TEXT,1,đọc lướt chai nước tương,1,đọc lướt chai nước_tương
+toi cam dung lo muoi chua,ANSWER_VISUAL_QUESTION,3,toi cam dung lo muoi chua,3,toi cam dung lo muoi chua
+đừng thoát ứng dụng nha con,UNKNOWN,5,đừng thoát ứng dụng nha con,5,đừng thoát ứng_dụng nha con
+rứa tờ giấy nhắn trên kệ có chữ ký không,ANSWER_VISUAL_QUESTION,3,rứa tờ giấy nhắn trên kệ có chữ ký không,3,rứa tờ giấy nhắn trên kệ có chữ_ký không
+thôi được rồi hông cần nữa cảm ơn ơi bạn,END_SESSION,4,thôi được rồi hông cần nữa cảm ơn ơi bạn,4,thôi được rồi hông cần nữa cảm_ơn ơi bạn
+tờ rơi này có gì,READ_TEXT,1,tờ rơi này có gì,1,tờ_rơi này có gì
+quả chuối tôi đang cầm đã chín chưa,ANSWER_VISUAL_QUESTION,3,quả chuối tôi đang cầm đã chín chưa,3,quả chuối tôi đang cầm đã chín chưa
+ừm thì nhìn quanh xem có gì rồi nói mình nghe,DESCRIBE_SCENE,2,ừm thì nhìn quanh xem có gì rồi nói mình nghe,2,ừm thì nhìn quanh xem có gì rồi nói mình nghe
+ê hina không có ai để hỏi nói lại câu vừa rồi coi,UNKNOWN,5,ê hina không có ai để hỏi nói lại câu vừa rồi coi,5,ê hina không có ai để hỏi nói lại câu vừa_rồi coi
+hina không có ai để hỏi nhìn quanh xem có chi rồi nói o nghe,DESCRIBE_SCENE,2,hina không có ai để hỏi nhìn quanh xem có chi rồi nói o nghe,2,hina không có ai để hỏi nhìn quanh xem có chi rồi nói o nghe
+ê hina o đưa điện thoại lên rồi phong bì ni viết tay hay đánh máy,ANSWER_VISUAL_QUESTION,3,ê hina o đưa điện thoại lên rồi phong bì ni viết tay hay đánh máy,3,ê hina o đưa điện_thoại lên rồi phong_bì ni viết_tay hay đánh_máy
+món gì đây,ANSWER_VISUAL_QUESTION,3,món gì đây,3,món gì đây
+à con voi trông như thế nào,UNKNOWN,5,à con voi trông như thế nào,5,à con voi trông như_thế_nào
+thôi được rồi không cần nữa cảm ơn đi nào,END_SESSION,4,thôi được rồi không cần nữa cảm ơn đi nào,4,thôi được rồi không cần nữa cảm_ơn đi nào
+bạn à mô tả những gì camera đang thấy,DESCRIBE_SCENE,2,bạn à mô tả những gì camera đang thấy,2,bạn à mô_tả những gì camera đang thấy
+bạn à kể tôi nghe xung quanh đang có gì,DESCRIBE_SCENE,2,bạn à kể tôi nghe xung quanh đang có gì,2,bạn à kể tôi nghe xung_quanh đang có gì
+không biết siêu thị ni trông răng nhỉ,DESCRIBE_SCENE,2,không biết siêu thị ni trông răng nhỉ,2,không biết siêu_thị ni trông răng nhỉ
+hina scan công văn tôi vừa nhận rồi đọc cho tôi,READ_TEXT,1,hina scan công văn tôi vừa nhận rồi đọc cho tôi,1,hina scan công_văn tôi vừa nhận rồi đọc cho tôi
+kiểm tra hộ ông cửa khóa chưa,ANSWER_VISUAL_QUESTION,3,kiểm tra hộ ông cửa khóa chưa,3,kiểm_tra hộ ông cửa khoá chưa
+kể lại những chi bạn đang nhìn thấy hina,DESCRIBE_SCENE,2,kể lại những chi bạn đang nhìn thấy hina,2,kể lại những chi bạn đang nhìn thấy hina
+mình không nhìn thấy gì hướng dẫn mình dùng ứng dụng này đi bạn,UNKNOWN,5,mình không nhìn thấy gì hướng dẫn mình dùng ứng dụng này đi bạn,5,mình không nhìn thấy gì hướng_dẫn mình dùng ứng_dụng này đi bạn
+thôi được rồi rồi không cần nữa cảm ơn,END_SESSION,4,thôi được rồi rồi không cần nữa cảm ơn,4,thôi được rồi rồi không cần nữa cảm_ơn
+ở đây ồn quá hóa đơn tiền mạng ni ghi tên khách hàng là ai,ANSWER_VISUAL_QUESTION,3,ở đây ồn quá hóa đơn tiền mạng ni ghi tên khách hàng là ai,3,ở đây ồn quá hoá_đơn tiền mạng ni ghi tên khách_hàng là ai
+mình đang đứng chờ cách nấu đậu sốt cà chua ra sao,UNKNOWN,5,mình đang đứng chờ cách nấu đậu sốt cà chua ra sao,5,mình đang đứng chờ cách nấu đậu sốt cà_chua ra sao
+cho chị biết khung cảnh nơi này cái,DESCRIBE_SCENE,2,cho chị biết khung cảnh nơi này cái,2,cho chị biết khung_cảnh nơi này cái
+thế thế hũ gia vị bà đang giơ lên giá bao nhiêu,ANSWER_VISUAL_QUESTION,3,thế thế hũ gia vị bà đang giơ lên giá bao nhiêu,3,thế thế hũ gia_vị bà đang giơ lên giá bao_nhiêu
+biển chỉ dẫn trên cửa ghi những gì,READ_TEXT,1,biển chỉ dẫn trên cửa ghi những gì,1,biển chỉ_dẫn trên cửa ghi những gì
+tờ giấy khen mình vừa nhặt được có chữ ký không vậy ạ,ANSWER_VISUAL_QUESTION,3,tờ giấy khen mình vừa nhặt được có chữ ký không vậy ạ,3,tờ giấy khen mình vừa nhặt được có chữ_ký không vậy ạ
+nhìn quanh xem có gì rồi nói cô nghe ê hina,DESCRIBE_SCENE,2,nhìn quanh xem có gì rồi nói cô nghe ê hina,2,nhìn quanh xem có gì rồi nói cô nghe ê hina
+kết thúc hợp đồng thuê nhà cần làm gì,UNKNOWN,5,kết thúc hợp đồng thuê nhà cần làm gì,5,kết_thúc hợp_đồng thuê nhà cần làm_gì
+bạn ơi biển quảng cáo phía trước là quán gì đó bạn,ANSWER_VISUAL_QUESTION,3,bạn ơi biển quảng cáo phía trước là quán gì đó bạn,3,bạn ơi biển quảng_cáo phía trước là quán gì đó bạn
+ăn đậu sốt cà chua có béo không,UNKNOWN,5,ăn đậu sốt cà chua có béo không,5,ăn đậu sốt cà_chua có béo không
+đọc lịch hẹn ngày mai của em đi,UNKNOWN,5,đọc lịch hẹn ngày mai của em đi,5,đọc lịch hẹn ngày_mai của em đi
+tắt báo thức với,UNKNOWN,5,tắt báo thức với,5,tắt báo_thức với
+để coi ông cần biết bảng hướng dẫn xếp hàng đằng kia ghi những gì một cách chính xác,READ_TEXT,1,để coi ông cần biết bảng hướng dẫn xếp hàng đằng kia ghi những gì một cách chính xác,1,để coi ông cần biết bảng hướng_dẫn xếp_hàng đằng kia ghi những gì một_cách chính_xác
+tờ này là hóa đơn tiền điện,UNKNOWN,5,tờ này là hóa đơn tiền điện,5,tờ này là hoá_đơn tiền điện
+ơi bạn bà vừa vào phòng làm việc cho bà nhờ đọc vé xem ca nhạc đó,READ_TEXT,1,ơi bạn bà vừa vào phòng làm việc cho bà nhờ đọc vé xem ca nhạc đó,1,ơi bạn bà vừa vào phòng làm_việc cho bà nhờ đọc vé xem ca_nhạc đó
+trên vỉa hè có xe máy đậu không,ANSWER_VISUAL_QUESTION,3,trên vỉa hè có xe máy đậu không,3,trên vỉa_hè có xe_máy đậu không
+tôi vừa vào quảng trường đọc các dòng trên biển chỉ đường đằng kia giùm nha,READ_TEXT,1,tôi vừa vào quảng trường đọc các dòng trên biển chỉ đường đằng kia giùm nha,1,tôi vừa vào quảng_trường đọc các dòng trên biển chỉ đường đằng kia giùm nha
+không cần giữ nữa đâu tắt đi,END_SESSION,4,không cần giữ nữa đâu tắt đi,4,không cần giữ nữa đâu tắt đi
+tôi lạ chỗ này quá tắt bài hát này,UNKNOWN,5,tôi lạ chỗ này quá tắt bài hát này,5,tôi lạ chỗ này quá tắt bài hát này
+đóng giùm tôi cái ứng dụng đi nào,END_SESSION,4,đóng giùm tôi cái ứng dụng đi nào,4,đóng giùm tôi cái ứng_dụng đi nào
+màn hình lò vi sóng trên tường đang gọi số mấy thế,ANSWER_VISUAL_QUESTION,3,màn hình lò vi sóng trên tường đang gọi số mấy thế,3,màn_hình lò_vi_sóng trên tường đang gọi số mấy thế
+trợ lý ơi tui cần biết tờ biên nhận này ghi những gì một cách chính xác,READ_TEXT,1,trợ lý ơi tui cần biết tờ biên nhận này ghi những gì một cách chính xác,1,trợ_lý ơi tui cần biết tờ biên_nhận này ghi những gì một_cách chính_xác
+chị nghe đủ rồi không cần nữa đâu,END_SESSION,4,chị nghe đủ rồi không cần nữa đâu,4,chị nghe đủ rồi không cần nữa đâu
+phở bò trên menu đó bao nhiêu tiền đấy,ANSWER_VISUAL_QUESTION,3,phở bò trên menu đó bao nhiêu tiền đấy,3,phở bò trên menu đó bao_nhiêu tiền đấy
+bạn có đọc được chữ trên màn hình máy đo huyết áp kia không,READ_TEXT,1,bạn có đọc được chữ trên màn hình máy đo huyết áp kia không,1,bạn có đọc được chữ trên màn_hình máy đo huyết_áp kia không
+thôi không cần cần nữa,END_SESSION,4,thôi không cần cần nữa,4,thôi không cần cần nữa
+chai nước tương trong tủ lạnh có đang giảm giá hông đó,ANSWER_VISUAL_QUESTION,3,chai nước tương trong tủ lạnh có đang giảm giá hông đó,3,chai nước_tương trong tủ_lạnh có đang giảm_giá hông đó
+theo biển chỉ dẫn nhà vệ sinh bên kia đường quầy thu ngân ở đâu,ANSWER_VISUAL_QUESTION,3,theo biển chỉ dẫn nhà vệ sinh bên kia đường quầy thu ngân ở đâu,3,theo biển chỉ_dẫn nhà_vệ_sinh bên kia đường quầy thu_ngân ở đâu
+khoan đã hina ơi đơn thuốc đó do bác sĩ nào ký hen,ANSWER_VISUAL_QUESTION,3,khoan đã hina ơi đơn thuốc đó do bác sĩ nào ký hen,3,khoan đã hina ơi đơn thuốc đó do bác_sĩ nào ký hen
+mạ nghỉ đây không cần nữa mô,END_SESSION,4,mạ nghỉ đây không cần nữa mô,4,mạ nghỉ đây không cần nữa mô
+cháu vừa nhặt được biển báo đó không biết ghi gì xem nào,READ_TEXT,1,cháu vừa nhặt được biển báo đó không biết ghi gì xem nào,1,cháu vừa nhặt được biển_báo đó không biết ghi gì xem nào
+không có ai để hỏi dạy chị nấu thịt kho trứng hina,UNKNOWN,5,không có ai để hỏi dạy chị nấu thịt kho trứng hina,5,không có ai để hỏi dạy chị nấu thịt kho trứng hina
+bạn thấy cảnh vật quanh bác thế nào,DESCRIBE_SCENE,2,bạn thấy cảnh vật quanh bác thế nào,2,bạn thấy cảnh_vật quanh bác thế_nào
+chỗ ni hơi tối đọc lại cho mình số điện thoại của chồng,UNKNOWN,5,chỗ ni hơi tối đọc lại cho mình số điện thoại của chồng,5,chỗ ni hơi tối đọc lại cho mình số điện_thoại của chồng
+cái cháu đang cầm là cái gì,ANSWER_VISUAL_QUESTION,3,cái cháu đang cầm là cái gì,3,cái cháu đang cầm là cái gì
+thoát giùm o cái camera,END_SESSION,4,thoát giùm o cái camera,4,thoát giùm o cái camera
+bạn ơi nói lại câu vừa rồi xem nào,UNKNOWN,5,bạn ơi nói lại câu vừa rồi xem nào,5,bạn ơi nói lại câu vừa_rồi xem nào
+chị mới tới ngân hàng biển báo trước mặt cảnh báo nguy hiểm gì,ANSWER_VISUAL_QUESTION,3,chị mới tới ngân hàng biển báo trước mặt cảnh báo nguy hiểm gì,3,chị mới tới ngân_hàng biển_báo trước mặt cảnh_báo nguy_hiểm gì
+giay chuyen vien ni co chi so nao bat thuong khong rua,ANSWER_VISUAL_QUESTION,3,giay chuyen vien ni co chi so nao bat thuong khong rua,3,giay chuyen vien ni co chi so nao bat thuong khong rua
+dừng giùm tui cái chế độ này,END_SESSION,4,dừng giùm tui cái chế độ này,4,dừng giùm tui cái chế_độ này
+hướng dẫn tôi dùng ứng dụng này coi,UNKNOWN,5,hướng dẫn tôi dùng ứng dụng này coi,5,hướng_dẫn tôi dùng ứng_dụng này coi
+quả táo này chín rồi,UNKNOWN,5,quả táo này chín rồi,5,quả táo này chín rồi
+có người không,ANSWER_VISUAL_QUESTION,3,có người không,3,có người không
+ừm tấm bưu thiếp em vừa nhặt được viết tay hay đánh máy vậy ạ,ANSWER_VISUAL_QUESTION,3,ừm tấm bưu thiếp em vừa nhặt được viết tay hay đánh máy vậy ạ,3,ừm tấm bưu_thiếp em vừa nhặt được viết_tay hay đánh_máy vậy ạ
+kết thúc cuộc trò chuyện này,END_SESSION,4,kết thúc cuộc trò chuyện này,4,kết_thúc cuộc trò_chuyện này
+thoát thoát khỏi ứng dụng,END_SESSION,4,thoát thoát khỏi ứng dụng,4,thoát thoát khỏi ứng_dụng
+để hina nghỉ nghỉ đi,END_SESSION,4,để hina nghỉ nghỉ đi,4,để hina nghỉ nghỉ đi
+hina mình không nhìn thấy chi mô tả những chi camera đang thấy,DESCRIBE_SCENE,2,hina mình không nhìn thấy chi mô tả những chi camera đang thấy,2,hina mình không nhìn thấy chi mô_tả những chi camera đang thấy
+hina ơi tôi có nên mua điện thoại mới không,UNKNOWN,5,hina ơi tôi có nên mua điện thoại mới không,5,hina ơi tôi có nên mua điện_thoại mới không
+đọc điều khoản trong công văn trong tay tôi đi bạn,READ_TEXT,1,đọc điều khoản trong công văn trong tay tôi đi bạn,1,đọc điều_khoản trong công_văn trong tay tôi đi bạn
+chị lạ chỗ này quá tắt báo thức được không,UNKNOWN,5,chị lạ chỗ này quá tắt báo thức được không,5,chị lạ chỗ này quá tắt báo_thức được không
+không làm gì nữa đâu kết thúc đi,END_SESSION,4,không làm gì nữa đâu kết thúc đi,4,không làm gì nữa đâu kết_thúc đi
+cháu cần biết vé máy bay trong tay cháu ghi những gì một cách chính xác,READ_TEXT,1,cháu cần biết vé máy bay trong tay cháu ghi những gì một cách chính xác,1,cháu cần biết vé máy_bay trong tay cháu ghi những gì một_cách chính_xác
+bà không nhìn thấy gì hướng dẫn bà dùng ứng dụng này với,UNKNOWN,5,bà không nhìn thấy gì hướng dẫn bà dùng ứng dụng này với,5,bà không nhìn thấy gì hướng_dẫn bà dùng ứng_dụng này với
+câu cuối cửa hàng này còn mở không,ANSWER_VISUAL_QUESTION,3,câu cuối cửa hàng này còn mở không,3,câu cuối cửa_hàng này còn mở không
+thoát thoát khỏi ứng dụng với,END_SESSION,4,thoát thoát khỏi ứng dụng với,4,thoát thoát khỏi ứng_dụng với
+bạn có đọc được chữ trên biên lai gửi xe trên kệ không,READ_TEXT,1,bạn có đọc được chữ trên biên lai gửi xe trên kệ không,1,bạn có đọc được chữ trên biên_lai gửi xe trên kệ không
+mình giơ camera lên rồi phát tiếp chương sau của sách nói,UNKNOWN,5,mình giơ camera lên rồi phát tiếp chương sau của sách nói,5,mình giơ camera lên rồi phát tiếp chương sau của sách nói
+này bạn em mới tới cầu thang giấy vay nợ trên bàn có đóng dấu đỏ chưa vậy,ANSWER_VISUAL_QUESTION,3,này bạn em mới tới cầu thang giấy vay nợ trên bàn có đóng dấu đỏ chưa vậy,3,này bạn em mới tới cầu_thang giấy vay nợ trên bàn có đóng_dấu đỏ chưa vậy
+đóng giùm anh cái ứng dụng hina,END_SESSION,4,đóng giùm anh cái ứng dụng hina,4,đóng giùm anh cái ứng_dụng hina
+trợ lý ơi cuốn tiểu thuyết tôi mượn được tên là gì,ANSWER_VISUAL_QUESTION,3,trợ lý ơi cuốn tiểu thuyết tôi mượn được tên là gì,3,trợ_lý ơi cuốn tiểu_thuyết tôi mượn được tên là gì
+tôi giơ camera lên rồi đọc tờ này giúp tôi,READ_TEXT,1,tôi giơ camera lên rồi đọc tờ này giúp tôi,1,tôi giơ camera lên rồi đọc tờ này giúp tôi
+một đô bao nhiêu tiền việt,UNKNOWN,5,một đô bao nhiêu tiền việt,5,một đô bao_nhiêu tiền việt
+đọc hết chữ trong khung hình coi,READ_TEXT,1,đọc hết chữ trong khung hình coi,1,đọc hết chữ trong khung hình coi
+hina ơi tắt tivi đi,UNKNOWN,5,hina ơi tắt tivi đi,5,hina ơi tắt tivi đi
+con cần biết quyển truyện này ghi những gì một cách chính xác xác,READ_TEXT,1,con cần biết quyển truyện này ghi những gì một cách chính xác xác,1,con cần biết quyển truyện này ghi những gì một_cách chính_xác xác
+bên phải tôi có gì vậy,DESCRIBE_SCENE,2,bên phải tôi có gì vậy,2,bên phải tôi có gì vậy
+mình đang đứng chờ hộp thuốc nớ uống mấy viên một lần,ANSWER_VISUAL_QUESTION,3,mình đang đứng chờ hộp thuốc nớ uống mấy viên một lần,3,mình đang đứng chờ hộp thuốc nớ uống mấy viên một lần
+à bạn ơi đóng lại,END_SESSION,4,à bạn ơi đóng lại,4,à bạn ơi đóng lại
+cho anh nhờ đọc phiếu tính tiền anh đang cầm,READ_TEXT,1,cho anh nhờ đọc phiếu tính tiền anh đang cầm,1,cho anh nhờ đọc phiếu tính tiền anh đang cầm
+dừng mọi thứ lại,END_SESSION,4,dừng mọi thứ lại,4,dừng mọi thứ lại
+thôi không cần nữa cái,END_SESSION,4,thôi không cần nữa cái,4,thôi không cần nữa cái
+à mà thoát khỏi ứng dụng,END_SESSION,4,à mà thoát khỏi ứng dụng,4,à mà thoát khỏi ứng_dụng
+vậy bà không nhìn thấy gì tả cảnh vật xung quanh đi,DESCRIBE_SCENE,2,vậy bà không nhìn thấy gì tả cảnh vật xung quanh đi,2,vậy bà không nhìn thấy gì tả cảnh_vật xung_quanh đi
+này quả chuối tôi đang cầm đã chín chưa,ANSWER_VISUAL_QUESTION,3,này quả chuối tôi đang cầm đã chín chưa,3,này quả chuối tôi đang cầm đã chín chưa
+nói lại câu vừa rồi coi,UNKNOWN,5,nói lại câu vừa rồi coi,5,nói lại câu vừa_rồi coi
+mạ vừa xuống xe tờ giấy ni có chữ ký không,ANSWER_VISUAL_QUESTION,3,mạ vừa xuống xe tờ giấy ni có chữ ký không,3,mạ vừa xuống xe tờ giấy ni có chữ_ký không
+ờ mô tả những gì camera đang thấy nha,DESCRIBE_SCENE,2,ờ mô tả những gì camera đang thấy nha,2,ờ mô_tả những gì camera đang thấy nha
+để lúc khác hông cần nữa đâu đi bạn,END_SESSION,4,để lúc khác hông cần nữa đâu đi bạn,4,để lúc khác hông cần nữa đâu đi bạn
+vậy kể tôi nghe xung quanh đang có gì,DESCRIBE_SCENE,2,vậy kể tôi nghe xung quanh đang có gì,2,vậy kể tôi nghe xung_quanh đang có gì
+con cần biết cuốn sách nấu ăn con mới mua ghi những gì một cách chính xác đó bạn,READ_TEXT,1,con cần biết cuốn sách nấu ăn con mới mua ghi những gì một cách chính xác đó bạn,1,con cần biết cuốn sách nấu_ăn con mới mua ghi những gì một_cách chính_xác đó bạn
+lọ siro uống mấy viên một lần rứa,ANSWER_VISUAL_QUESTION,3,lọ siro uống mấy viên một lần rứa,3,lọ siro uống mấy viên một lần rứa
+ông đang đi trong sân trường chữ gì đây,READ_TEXT,1,ông đang đi trong sân trường chữ gì đây,1,ông đang đi trong sân trường chữ gì đây
+tôi vừa vào phòng chờ sân bay bạn thấy chi trước mặt tôi,DESCRIBE_SCENE,2,tôi vừa vào phòng chờ sân bay bạn thấy chi trước mặt tôi,2,tôi vừa vào phòng chờ sân_bay bạn thấy chi trước mặt tôi
+ờ thì đóng lại,END_SESSION,4,ờ thì đóng lại,4,ờ thì đóng lại
+có mấy người đang đứng ở cổng,ANSWER_VISUAL_QUESTION,3,có mấy người đang đứng ở cổng,3,có mấy người đang đứng ở cổng
+scan tấm áp phích trên cửa rồi đọc cho tớ,READ_TEXT,1,scan tấm áp phích trên cửa rồi đọc cho tớ,1,scan tấm áp_phích trên cửa rồi đọc cho tớ
+đọc điều khoản trong giấy mời họp này cho bà đi,READ_TEXT,1,đọc điều khoản trong giấy mời họp này cho bà đi,1,đọc điều_khoản trong giấy mời họp này cho bà đi
+tờ giấy khen này có chữ ký không thế nhỉ,ANSWER_VISUAL_QUESTION,3,tờ giấy khen này có chữ ký không thế nhỉ,3,tờ giấy khen này có chữ_ký không thế nhỉ
+không làm gì nữa đâu đóng đi,END_SESSION,4,không làm gì nữa đâu đóng đi,4,không làm gì nữa đâu đóng đi
+ừm mắt mình không nhìn rõ áo mình mặc có bị ngược không hả bạn,ANSWER_VISUAL_QUESTION,3,ừm mắt mình không nhìn rõ áo mình mặc có bị ngược không hả bạn,3,ừm mắt mình không nhìn rõ áo mình mặc có bị ngược không hả bạn
+à cúp máy giúp tôi,UNKNOWN,5,à cúp máy giúp tôi,5,à cúp máy giúp tôi
+đóng lại,END_SESSION,4,đóng lại,4,đóng lại
+em không nhìn thấy gì trong ví em có tờ hai trăm nghìn không,ANSWER_VISUAL_QUESTION,3,em không nhìn thấy gì trong ví em có tờ hai trăm nghìn không,3,em không nhìn thấy gì trong ví em có tờ hai trăm_nghìn không
+dừng mọi thứ thứ lại,END_SESSION,4,dừng mọi thứ thứ lại,4,dừng mọi thứ thứ lại
+nay ban bang menu nay co may loai nuoc,ANSWER_VISUAL_QUESTION,3,nay ban bang menu nay co may loai nuoc,3,nay ban bang menu nay co may loai nuoc
+hina ơi kể lại những gì bạn đang nhìn thấy,DESCRIBE_SCENE,2,hina ơi kể lại những gì bạn đang nhìn thấy,2,hina ơi kể lại những gì bạn đang nhìn thấy
+hũ gia vị nớ giá bao nhiêu hỉ,ANSWER_VISUAL_QUESTION,3,hũ gia vị nớ giá bao nhiêu hỉ,3,hũ gia_vị nớ giá bao_nhiêu hỉ
+không biết bến phà này trông ra sao nhỉ,DESCRIBE_SCENE,2,không biết bến phà này trông ra sao nhỉ,2,không biết bến phà này trông ra sao nhỉ
+bạn thấy cảnh vật quanh chị ra sao,DESCRIBE_SCENE,2,bạn thấy cảnh vật quanh chị ra sao,2,bạn thấy cảnh_vật quanh chị ra sao
+ni bạn con voi trông ra răng,UNKNOWN,5,ni bạn con voi trông ra răng,5,ni bạn con voi trông ra răng
+tắt báo thức hỉ,UNKNOWN,5,tắt báo thức hỉ,5,tắt báo_thức hỉ
+hina biển báo đằng trước hình tròn hay tam giác vậy ta,ANSWER_VISUAL_QUESTION,3,hina biển báo đằng trước hình tròn hay tam giác vậy ta,3,hina biển_báo đằng trước hình_tròn hay tam_giác vậy ta
+bạn ơi hướng dẫn tớ dùng ứng dụng này nhé bạn,UNKNOWN,5,bạn ơi hướng dẫn tớ dùng ứng dụng này nhé bạn,5,bạn ơi hướng_dẫn tớ dùng ứng_dụng này nhé bạn
+đừng đóng app nha,UNKNOWN,5,đừng đóng app nha,5,đừng đóng app nha
+màn hình điều hòa trước mặt mình còn bao nhiêu phút,ANSWER_VISUAL_QUESTION,3,màn hình điều hòa trước mặt mình còn bao nhiêu phút,3,màn_hình điều_hoà trước mặt mình còn bao_nhiêu phút
+bệnh án người ta vừa đưa tôi do bác sĩ nào ký,ANSWER_VISUAL_QUESTION,3,bệnh án người ta vừa đưa tôi do bác sĩ nào ký,3,bệnh_án người ta vừa đưa tôi do bác_sĩ nào ký
+trên tem dán ở hộp có gì,READ_TEXT,1,trên tem dán ở hộp có gì,1,trên tem dán ở hộp có gì
+ăn gỏi cuốn có béo không nè,UNKNOWN,5,ăn gỏi cuốn có béo không nè,5,ăn_gỏi cuốn có béo không nè
+hóa đơn siêu thị trên tay bác ghi tên khách hàng là ai,ANSWER_VISUAL_QUESTION,3,hóa đơn siêu thị trên tay bác ghi tên khách hàng là ai,3,hoá_đơn siêu_thị trên tay bác ghi tên khách_hàng là ai
+bạn à không có ai để hỏi đọc lịch hẹn ngày mai của mình với ạ,UNKNOWN,5,bạn à không có ai để hỏi đọc lịch hẹn ngày mai của mình với ạ,5,bạn à không có ai để hỏi đọc lịch hẹn ngày_mai của mình với ạ
+à giá vàng hôm nay bao nhiêu,UNKNOWN,5,à giá vàng hôm nay bao nhiêu,5,à giá vàng hôm_nay bao_nhiêu
+chỗ này có nhà vệ sinh không,ANSWER_VISUAL_QUESTION,3,chỗ này có nhà vệ sinh không,3,chỗ này có nhà_vệ_sinh không
+không làm gì nữa mô tắt hẳn đi,END_SESSION,4,không làm gì nữa mô tắt hẳn đi,4,không làm gì nữa mô tắt hẳn đi
+theo biển lối thoát hiểm quầy thu ngân ở đâu vậy ạ,ANSWER_VISUAL_QUESTION,3,theo biển lối thoát hiểm quầy thu ngân ở đâu vậy ạ,3,theo biển lối_thoát hiểm quầy thu_ngân ở đâu vậy ạ
+bạn ơi ngừng nói đi,END_SESSION,4,bạn ơi ngừng nói đi,4,bạn ơi ngừng nói đi
+không có ai để hỏi bạn thấy cảnh vật quanh mình ra sao,DESCRIBE_SCENE,2,không có ai để hỏi bạn thấy cảnh vật quanh mình ra sao,2,không có ai để hỏi bạn thấy cảnh_vật quanh mình ra sao
+thoát khỏi khỏi ứng dụng nha,END_SESSION,4,thoát khỏi khỏi ứng dụng nha,4,thoát khỏi khỏi ứng_dụng nha
+à ni không làm chi nữa mô tắt hẳn đi bạn,END_SESSION,4,à ni không làm chi nữa mô tắt hẳn đi bạn,4,à ni không làm_chi nữa mô tắt hẳn đi bạn
+à không làm gì nữa mô tắt đi,END_SESSION,4,à không làm gì nữa mô tắt đi,4,à không làm gì nữa mô tắt đi
+cho mạ biết khung cảnh nơi ni,DESCRIBE_SCENE,2,cho mạ biết khung cảnh nơi ni,2,cho mạ biết khung_cảnh nơi ni
+bật wifi được không,UNKNOWN,5,bật wifi được không,5,bật wifi được không
+đọc lướt vé xem ca nhạc ông vừa mua nhé bạn,READ_TEXT,1,đọc lướt vé xem ca nhạc ông vừa mua nhé bạn,1,đọc lướt vé xem ca_nhạc ông vừa mua nhé bạn
+trợ lý ơi má đưa điện thoại lên rồi phát tiếp chương sau của sách nói,UNKNOWN,5,trợ lý ơi má đưa điện thoại lên rồi phát tiếp chương sau của sách nói,5,trợ_lý ơi má đưa điện_thoại lên rồi phát tiếp chương sau của sách nói
+kết quả xét nghiệm này do bác sĩ nào ký,ANSWER_VISUAL_QUESTION,3,kết quả xét nghiệm này do bác sĩ nào ký,3,kết_quả xét_nghiệm này do bác_sĩ nào ký
+khoan đã chưa kết thúc được,UNKNOWN,5,khoan đã chưa kết thúc được,5,khoan đã chưa kết_thúc được
+phong bì tôi vừa nhận viết tay hay đánh máy hè,ANSWER_VISUAL_QUESTION,3,phong bì tôi vừa nhận viết tay hay đánh máy hè,3,phong_bì tôi vừa nhận viết_tay hay đánh_máy hè
+bạn à đóng đóng lại,END_SESSION,4,bạn à đóng đóng lại,4,bạn à đóng đóng lại
+thoát khỏi thang máy khi bị kẹt thế nào,UNKNOWN,5,thoát khỏi thang máy khi bị kẹt thế nào,5,thoát khỏi thang_máy khi bị kẹt thế_nào
+thôi không không cần nữa,END_SESSION,4,thôi không không cần nữa,4,thôi không không cần nữa
+cái cái mình đang cầm là cái gì,ANSWER_VISUAL_QUESTION,3,cái cái mình đang cầm là cái gì,3,cái cái mình đang cầm là cái gì
+tớ đang đi trong bãi đỗ xe trong lớp học đang có những ai và những gì,DESCRIBE_SCENE,2,tớ đang đi trong bãi đỗ xe trong lớp học đang có những ai và những gì,2,tớ đang đi trong bãi đỗ xe trong lớp_học đang có những_ai và những gì
+hết việc rồi không cần nữa đâu ê hina,END_SESSION,4,hết việc rồi không cần nữa đâu ê hina,4,hết việc rồi không cần nữa đâu ê hina
+cửa mở không,ANSWER_VISUAL_QUESTION,3,cửa mở không,3,cửa_mở không
+để hina nghỉ đi bạn,END_SESSION,4,để hina nghỉ đi bạn,4,để hina nghỉ đi bạn
+ăn rau muống xào có béo không vậy ạ,UNKNOWN,5,ăn rau muống xào có béo không vậy ạ,5,ăn rau_muống xào có béo không vậy ạ
+tôi đang ở nhà hàng hóa đơn tiền nước tôi đang cầm trả bằng thẻ hay tiền mặt,ANSWER_VISUAL_QUESTION,3,tôi đang ở nhà hàng hóa đơn tiền nước tôi đang cầm trả bằng thẻ hay tiền mặt,3,tôi đang ở nhà_hàng hoá_đơn tiền nước tôi đang cầm trả bằng thẻ hay tiền_mặt
+trợ lý ơi tắt tivi đi,UNKNOWN,5,trợ lý ơi tắt tivi đi,5,trợ_lý ơi tắt tivi đi
+đọc lại cho tui số điện thoại của thằng nam,UNKNOWN,5,đọc lại cho tui số điện thoại của thằng nam,5,đọc lại cho tui số điện_thoại của thằng nam
+đôi tất đó có bị bẩn không đấy bạn à,ANSWER_VISUAL_QUESTION,3,đôi tất đó có bị bẩn không đấy bạn à,3,đôi tất đó có bị bẩn không đấy bạn à
+tóc tui có rối không hen,ANSWER_VISUAL_QUESTION,3,tóc tui có rối không hen,3,tóc tui có rối không hen
+ghế trước mặt có ai ngồi chưa,ANSWER_VISUAL_QUESTION,3,ghế trước mặt có ai ngồi chưa,3,ghế trước mặt có ai ngồi chưa
+con voi trông như thế nào,UNKNOWN,5,con voi trông như thế nào,5,con voi trông như_thế_nào
+đọc lại cho tôi số điện thoại của anh tuấn,UNKNOWN,5,đọc lại cho tôi số điện thoại của anh tuấn,5,đọc lại cho tôi số điện_thoại của anh_tuấn
+ơi bạn nói lại câu vừa rồi xem nào,UNKNOWN,5,ơi bạn nói lại câu vừa rồi xem nào,5,ơi bạn nói lại câu vừa_rồi xem nào
+cách nấu cơm chiên ra sao,UNKNOWN,5,cách nấu cơm chiên ra sao,5,cách nấu cơm_chiên ra sao
+có gì chắn cửa không,ANSWER_VISUAL_QUESTION,3,có gì chắn cửa không,3,có gì chắn cửa_không
+gần chỗ tôi có bậc thang không,ANSWER_VISUAL_QUESTION,3,gần chỗ tôi có bậc thang không,3,gần chỗ tôi có bậc thang không
+con vừa vào vỉa hè mấy người đang ngồi bàn bên cạnh vậy,ANSWER_VISUAL_QUESTION,3,con vừa vào vỉa hè mấy người đang ngồi bàn bên cạnh vậy,3,con vừa vào vỉa_hè mấy người đang ngồi bàn bên cạnh vậy
+mình hiểu rồi không cần nữa đâu,END_SESSION,4,mình hiểu rồi không cần nữa đâu,4,mình hiểu rồi không cần nữa đâu
+bằng lái xe mình vừa nhận có đóng dấu đỏ chưa,ANSWER_VISUAL_QUESTION,3,bằng lái xe mình vừa nhận có đóng dấu đỏ chưa,3,bằng lái_xe mình vừa nhận có đóng_dấu đỏ chưa
+o bận rồi không cần nữa mô,END_SESSION,4,o bận rồi không cần nữa mô,4,o bận rồi không cần nữa mô
+cái túi này màu đen đấy,UNKNOWN,5,cái túi này màu đen đấy,5,cái túi này màu đen đấy
+de di nghi da,UNKNOWN,5,de di nghi da,5,de di nghi da
+kể ông nghe xung quanh đang có gì,DESCRIBE_SCENE,2,kể ông nghe xung quanh đang có gì,2,kể ông nghe xung_quanh đang có gì
+mình giơ camera lên rồi đọc chữ nổi braille ra sao,UNKNOWN,5,mình giơ camera lên rồi đọc chữ nổi braille ra sao,5,mình giơ camera lên rồi đọc chữ_nổi braille ra sao
+trợ lý ơi không có ai để hỏi mấy người đang ngồi bàn bên cạnh thế bạn,ANSWER_VISUAL_QUESTION,3,trợ lý ơi không có ai để hỏi mấy người đang ngồi bàn bên cạnh thế bạn,3,trợ_lý ơi không có ai để hỏi mấy người đang ngồi bàn bên cạnh thế bạn
+thôi không cần nữa vậy ạ,END_SESSION,4,thôi không cần nữa vậy ạ,4,thôi không cần nữa vậy ạ
+bạn ơi đọc tin tức bóng đá hôm nay,UNKNOWN,5,bạn ơi đọc tin tức bóng đá hôm nay,5,bạn ơi đọc tin_tức bóng_đá hôm_nay
+hina ơi dạy mình nấu cá kho,UNKNOWN,5,hina ơi dạy mình nấu cá kho,5,hina ơi dạy mình nấu cá kho
+ừm thì mình vừa bước vào quảng trường tả giùm với,DESCRIBE_SCENE,2,ừm thì mình vừa bước vào quảng trường tả giùm với,2,ừm thì mình vừa bước vào quảng_trường tả giùm với
+nghỉ thôi tắt hina giúp tôi,END_SESSION,4,nghỉ thôi tắt hina giúp tôi,4,nghỉ thôi tắt hina giúp tôi
+biển chỉ dẫn trước mặt ghi những gì vậy,READ_TEXT,1,biển chỉ dẫn trước mặt ghi những gì vậy,1,biển chỉ_dẫn trước mặt ghi những gì vậy
+cô đưa điện thoại lên rồi đọc lướt tờ tuyển dụng kia,READ_TEXT,1,cô đưa điện thoại lên rồi đọc lướt tờ tuyển dụng kia,1,cô đưa điện_thoại lên rồi đọc lướt tờ tuyển_dụng kia
+xong việc rồi nghỉ đi,END_SESSION,4,xong việc rồi nghỉ đi,4,xong việc rồi nghỉ đi
+cách nấu phở bò ra sao,UNKNOWN,5,cách nấu phở bò ra sao,5,cách nấu phở bò ra sao
+bác cần biết quyển vở này ghi những gì một cách chính xác,READ_TEXT,1,bác cần biết quyển vở này ghi những gì một cách chính xác,1,bác cần biết quyển vở này ghi những gì một_cách chính_xác
+đọc tờ ni giúp tôi,READ_TEXT,1,đọc tờ ni giúp tôi,1,đọc tờ ni giúp tôi
+có gì chắn trước bánh xe lăn không,ANSWER_VISUAL_QUESTION,3,có gì chắn trước bánh xe lăn không,3,có gì chắn trước bánh_xe lăn không
+bạn ơi dừng mọi thứ lại,END_SESSION,4,bạn ơi dừng mọi thứ lại,4,bạn ơi dừng mọi thứ lại
+hina ơi hóa đơn tiền điện em đang giơ lên trả bằng thẻ hay tiền mặt,ANSWER_VISUAL_QUESTION,3,hina ơi hóa đơn tiền điện em đang giơ lên trả bằng thẻ hay tiền mặt,3,hina ơi hoá_đơn tiền điện em đang giơ lên trả bằng thẻ hay tiền_mặt
+quanh khu này có hay bị ngập khi mưa không,UNKNOWN,5,quanh khu này có hay bị ngập khi mưa không,5,quanh khu này có hay bị ngập khi mưa không
+để coi mô tả từ trái sang phải những gì đang có với,DESCRIBE_SCENE,2,để coi mô tả từ trái sang phải những gì đang có với,2,để coi mô_tả từ trái sang phải những gì đang có với
+à mà tôi mua xong rồi không cần nữa đâu,END_SESSION,4,à mà tôi mua xong rồi không cần nữa đâu,4,à mà tôi mua xong rồi không cần nữa đâu
+đặt lịch khám bệnh ngày mai,UNKNOWN,5,đặt lịch khám bệnh ngày mai,5,đặt lịch khám bệnh ngày_mai
+không làm chi nữa mô tắt hẳn đi,END_SESSION,4,không làm chi nữa mô tắt hẳn đi,4,không làm_chi nữa mô tắt hẳn đi
+này vitamin c có nhiều trong quả gì,UNKNOWN,5,này vitamin c có nhiều trong quả gì,5,này vitamin c có nhiều trong quả gì
+tắt báo thức ạ,UNKNOWN,5,tắt báo thức ạ,5,tắt báo_thức ạ
+mình có người giúp rồi không cần nữa đâu,END_SESSION,4,mình có người giúp rồi không cần nữa đâu,4,mình có người giúp rồi không cần nữa đâu
+em vừa bước vào phòng họp tả dùm em với,DESCRIBE_SCENE,2,em vừa bước vào phòng họp tả dùm em với,2,em vừa bước vào phòng họp tả dùm em với
+cách nấu canh chua thế nào,UNKNOWN,5,cách nấu canh chua thế nào,5,cách nấu canh chua thế_nào
+ăn gỏi cuốn có béo không vậy hả,UNKNOWN,5,ăn gỏi cuốn có béo không vậy hả,5,ăn_gỏi cuốn có béo không vậy hả
+à ni thoát khỏi ứng dụng,END_SESSION,4,à ni thoát khỏi ứng dụng,4,à ni thoát khỏi ứng_dụng
+hết hạn chưa,ANSWER_VISUAL_QUESTION,3,hết hạn chưa,3,hết hạn chưa
+hina ơi khu vực quanh nhà ga có hay bị móc túi không,UNKNOWN,5,hina ơi khu vực quanh nhà ga có hay bị móc túi không,5,hina ơi khu_vực quanh nhà_ga có hay bị móc_túi không
+hina bạn thấy thấy gì trước mặt tôi đó,DESCRIBE_SCENE,2,hina bạn thấy thấy gì trước mặt tôi đó,2,hina bạn thấy thấy gì trước mặt tôi đó
+chữ in bé tí xem tờ tiền này mệnh giá bao nhiêu,ANSWER_VISUAL_QUESTION,3,chữ in bé tí xem tờ tiền này mệnh giá bao nhiêu,3,chữ in bé tí xem tờ tiền này mệnh_giá bao_nhiêu
+đọc tin tức giá xăng hôm nay xem nào,UNKNOWN,5,đọc tin tức giá xăng hôm nay xem nào,5,đọc tin_tức giá xăng hôm_nay xem nào
+mã số của biên lai chuyển tiền tôi đang giơ lên là gì vậy ạ,ANSWER_VISUAL_QUESTION,3,mã số của biên lai chuyển tiền tôi đang giơ lên là gì vậy ạ,3,mã_số của biên_lai chuyển tiền tôi đang giơ lên là gì vậy ạ
+giấy ủy quyền này có đóng dấu đỏ chưa thế nhỉ,ANSWER_VISUAL_QUESTION,3,giấy ủy quyền này có đóng dấu đỏ chưa thế nhỉ,3,giấy uỷ_quyền này có đóng_dấu đỏ chưa thế nhỉ
+ni bạn thôi được rồi không cần nữa cảm ơn ơn,END_SESSION,4,ni bạn thôi được rồi không cần nữa cảm ơn ơn,4,ni bạn thôi được rồi không cần nữa cảm_ơn ơn
+trong ví em có tờ hai trăm nghìn không,ANSWER_VISUAL_QUESTION,3,trong ví em có tờ hai trăm nghìn không,3,trong ví em có tờ hai trăm_nghìn không
+ờ thì bao nhiêu tiền đây,ANSWER_VISUAL_QUESTION,3,ờ thì bao nhiêu tiền đây,3,ờ thì bao_nhiêu tiền đây
+giấy hẹn tái khám người ta vừa đưa bà do bác sĩ nào ký thế,ANSWER_VISUAL_QUESTION,3,giấy hẹn tái khám người ta vừa đưa bà do bác sĩ nào ký thế,3,giấy hẹn tái khám người ta vừa đưa bà do bác_sĩ nào ký thế
+ai đấy,ANSWER_VISUAL_QUESTION,3,ai đấy,3,ai đấy
+mình vừa nhặt được phiếu chỉ định đó không biết ghi gì,READ_TEXT,1,mình vừa nhặt được phiếu chỉ định đó không biết ghi gì,1,mình vừa nhặt được phiếu chỉ_định đó không biết ghi gì
+tờ giấy khen có ghi số điện thoại không,ANSWER_VISUAL_QUESTION,3,tờ giấy khen có ghi số điện thoại không,3,tờ giấy khen có ghi số điện_thoại không
+đọc các dòng trên biển hướng dẫn phía trước,READ_TEXT,1,đọc các dòng trên biển hướng dẫn phía trước,1,đọc các dòng trên biển hướng_dẫn phía trước
+chữ gì đây thế nhỉ,READ_TEXT,1,chữ gì đây thế nhỉ,1,chữ gì đây thế nhỉ
+giữ phiên này lại đừng thoát,UNKNOWN,5,giữ phiên này lại đừng thoát,5,giữ phiên này lại đừng thoát
+bao nhiêu tiền đây,ANSWER_VISUAL_QUESTION,3,bao nhiêu tiền đây,3,bao_nhiêu tiền đây
+tạm biệt nha mai mình dùng tiếp,END_SESSION,4,tạm biệt nha mai mình dùng tiếp,4,tạm_biệt nha mai mình dùng tiếp
+đọc lướt vé xem ca nhạc mình đang cầm,READ_TEXT,1,đọc lướt vé xem ca nhạc mình đang cầm,1,đọc lướt vé xem ca_nhạc mình đang cầm
+tôi hiểu rồi không cần nữa đâu,END_SESSION,4,tôi hiểu rồi không cần nữa đâu,4,tôi hiểu rồi không cần nữa đâu
+ni bạn thoát khỏi ứng dụng tề,END_SESSION,4,ni bạn thoát khỏi ứng dụng tề,4,ni bạn thoát khỏi ứng_dụng tề
+hina ơi đọc tin tức thể thao hôm nay,UNKNOWN,5,hina ơi đọc tin tức thể thao hôm nay,5,hina ơi đọc tin_tức thể_thao hôm_nay
+ê mày mày đi đâu đó,UNKNOWN,5,ê mày mày đi đâu đó,5,ê mày mày đi đâu_đó
+bạn à mình đang đứng trong bệnh viện mình cần biết bệnh án này ghi những gì một cách chính xác,READ_TEXT,1,bạn à mình đang đứng trong bệnh viện mình cần biết bệnh án này ghi những gì một cách chính xác,1,bạn à mình đang đứng trong bệnh_viện mình cần biết bệnh_án này ghi những gì một_cách chính_xác
+biển số nhà bên kia đường có bị che mất không,ANSWER_VISUAL_QUESTION,3,biển số nhà bên kia đường có bị che mất không,3,biển số nhà bên kia đường có bị che mất không
+nhờ bạn đọc màn hình máy lấy số phía trước nhé,READ_TEXT,1,nhờ bạn đọc màn hình máy lấy số phía trước nhé,1,nhờ bạn_đọc màn_hình máy lấy số phía trước nhé
+đọc các dòng trên bảng chỉ dẫn các khoa kia,READ_TEXT,1,đọc các dòng trên bảng chỉ dẫn các khoa kia,1,đọc các dòng trên bảng chỉ_dẫn các khoa kia
+bà đưa điện thoại lên rồi trong con hẻm đang có những ai và những gì nhỉ bạn,DESCRIBE_SCENE,2,bà đưa điện thoại lên rồi trong con hẻm đang có những ai và những gì nhỉ bạn,2,bà đưa điện_thoại lên rồi trong con hẻm đang có những_ai và những gì nhỉ bạn
+lối đi có vướng gì không,ANSWER_VISUAL_QUESTION,3,lối đi có vướng gì không,3,lối đi có vướng gì không
+màn hình atm trước mặt đang gọi số mấy đấy,ANSWER_VISUAL_QUESTION,3,màn hình atm trước mặt đang gọi số mấy đấy,3,màn_hình atm trước mặt đang gọi số mấy đấy
+kiểm tra giùm anh cửa khóa chưa,ANSWER_VISUAL_QUESTION,3,kiểm tra giùm anh cửa khóa chưa,3,kiểm_tra giùm anh cửa khoá chưa
+mô tả từ trái sang phải những chi đang có với,DESCRIBE_SCENE,2,mô tả từ trái sang phải những chi đang có với,2,mô_tả từ trái sang phải những chi đang có với
+ai đó dán bảng tin kia ở đây đọc xem viết gì,READ_TEXT,1,ai đó dán bảng tin kia ở đây đọc xem viết gì,1,ai đó dán bảng tin kia ở đây đọc xem viết gì
+tờ giấy báo trong hộp thư có ghi số điện thoại không ạ,ANSWER_VISUAL_QUESTION,3,tờ giấy báo trong hộp thư có ghi số điện thoại không ạ,3,tờ giấy_báo trong hộp_thư có ghi số điện_thoại không ạ
+tờ giấy nhắn đó viết tay hay đánh máy thế bạn,ANSWER_VISUAL_QUESTION,3,tờ giấy nhắn đó viết tay hay đánh máy thế bạn,3,tờ giấy nhắn đó viết_tay hay đánh_máy thế bạn
+đọc nốt số tiền trên hóa đơn là xong,READ_TEXT,1,đọc nốt số tiền trên hóa đơn là xong,1,đọc nốt số tiền trên hoá_đơn là xong
+anh giơ camera lên rồi bạn thấy cảnh vật quanh anh thế nào,DESCRIBE_SCENE,2,anh giơ camera lên rồi bạn thấy cảnh vật quanh anh thế nào,2,anh giơ camera lên rồi bạn thấy cảnh_vật quanh anh thế_nào
+dạy cháu nấu bánh chưng,UNKNOWN,5,dạy cháu nấu bánh chưng,5,dạy cháu nấu bánh_chưng
+hina em vừa nhặt được hợp đồng trên kệ không biết ghi chi,READ_TEXT,1,hina em vừa nhặt được hợp đồng trên kệ không biết ghi chi,1,hina em vừa nhặt được hợp_đồng trên kệ không biết ghi chi
+bạn ơi tắt tivi đi,UNKNOWN,5,bạn ơi tắt tivi đi,5,bạn ơi tắt tivi đi
+ừm kết thúc cuộc trò chuyện này,END_SESSION,4,ừm kết thúc cuộc trò chuyện này,4,ừm kết_thúc cuộc trò_chuyện này
+ờ nhìn quanh xem có gì rồi nói tui nghe,DESCRIBE_SCENE,2,ờ nhìn quanh xem có gì rồi nói tui nghe,2,ờ nhìn quanh xem có gì rồi nói tui nghe
+đọc điều khoản trong bằng lái xe con chuẩn bị ký cho con hen,READ_TEXT,1,đọc điều khoản trong bằng lái xe con chuẩn bị ký cho con hen,1,đọc điều_khoản trong bằng lái_xe con chuẩn_bị ký cho con hen
+hướng dẫn dì dùng ứng dụng này đi,UNKNOWN,5,hướng dẫn dì dùng ứng dụng này đi,5,hướng_dẫn dì dùng ứng_dụng này đi
+ơ ai đó dán thông báo dán trên cửa chỗ ngã ba ở đây đọc xem viết chi,READ_TEXT,1,ơ ai đó dán thông báo dán trên cửa chỗ ngã ba ở đây đọc xem viết chi,1,ơ ai đó dán thông_báo dán trên cửa chỗ ngã ba ở đây đọc xem viết chi
+thôi được rồi không cần nữa cảm cảm ơn,END_SESSION,4,thôi được rồi không cần nữa cảm cảm ơn,4,thôi được rồi không cần nữa cảm cảm_ơn
+đọc lịch hẹn ngày mai của tớ bạn,UNKNOWN,5,đọc lịch hẹn ngày mai của tớ bạn,5,đọc lịch hẹn ngày_mai của tớ bạn
+ngày mai hà nội có mưa không nhỉ bạn,UNKNOWN,5,ngày mai hà nội có mưa không nhỉ bạn,5,ngày_mai hà_nội có mưa không nhỉ bạn
+con mới tới nhà hàng áo con mặc có bị ngược không,ANSWER_VISUAL_QUESTION,3,con mới tới nhà hàng áo con mặc có bị ngược không,3,con mới tới nhà_hàng áo con mặc có bị ngược không
+nhìn quanh xem có gì rồi nói cô nghe,DESCRIBE_SCENE,2,nhìn quanh xem có gì rồi nói cô nghe,2,nhìn quanh xem có gì rồi nói cô nghe
+rứa bạn ơi em vừa vào phòng tắm phát tiếp chương sau của sách nói đi,UNKNOWN,5,rứa bạn ơi em vừa vào phòng tắm phát tiếp chương sau của sách nói đi,5,rứa bạn ơi em vừa vào phòng tắm phát tiếp chương sau của sách nói đi
+à quanh khu này có hay bị ngập khi mưa không,UNKNOWN,5,à quanh khu này có hay bị ngập khi mưa không,5,à quanh khu này có hay bị ngập khi mưa không
+tả lại căn nhà mơ ước của bạn đi,UNKNOWN,5,tả lại căn nhà mơ ước của bạn đi,5,tả lại căn nhà mơ_ước của bạn đi
+để coi bạn có đọc được chữ trên cuốn sách nấu ăn tui mượn được không,READ_TEXT,1,để coi bạn có đọc được chữ trên cuốn sách nấu ăn tui mượn được không,1,để coi bạn có đọc được chữ trên cuốn sách nấu_ăn tui mượn được không
+không có ai để hỏi xung quanh có xe nào đang chạy hông vậy hả ê hina,ANSWER_VISUAL_QUESTION,3,không có ai để hỏi xung quanh có xe nào đang chạy hông vậy hả ê hina,3,không có ai để hỏi xung_quanh có xe nào đang chạy hông vậy hả ê hina
+đọc điều khoản trong thẻ căn cước tôi vừa nhận cho tôi,READ_TEXT,1,đọc điều khoản trong thẻ căn cước tôi vừa nhận cho tôi,1,đọc điều_khoản trong thẻ căn_cước tôi vừa nhận cho tôi
+có ai ai ở đây không,ANSWER_VISUAL_QUESTION,3,có ai ai ở đây không,3,có ai_ai ở đây không
+bảng giá trước quầy có gì,READ_TEXT,1,bảng giá trước quầy có gì,1,bảng giá trước quầy có gì
+không làm gì nữa đâu đóng đi trợ lý,END_SESSION,4,không làm gì nữa đâu đóng đi trợ lý,4,không làm gì nữa đâu đóng đi trợ_lý
+bạn ơi xem tờ tiền này mệnh giá bao nhiêu đi nào,ANSWER_VISUAL_QUESTION,3,bạn ơi xem tờ tiền này mệnh giá bao nhiêu đi nào,3,bạn ơi xem tờ tiền này mệnh_giá bao_nhiêu đi nào
+dừng giùm tôi cái phiên này,END_SESSION,4,dừng giùm tôi cái phiên này,4,dừng giùm tôi cái phiên này
+cuốn sách đó tên là gì,ANSWER_VISUAL_QUESTION,3,cuốn sách đó tên là gì,3,cuốn sách đó tên là gì
+bạn có đọc được chữ trên tờ giấy tôi đang giơ lên không,READ_TEXT,1,bạn có đọc được chữ trên tờ giấy tôi đang giơ lên không,1,bạn có đọc được chữ trên tờ giấy tôi đang giơ lên không
+ok xong xong rồi đó,END_SESSION,4,ok xong xong rồi đó,4,ok xong xong rồi đó
+tôi hông đọc được chữ số trên hợp đồng bảo hiểm tôi đang giơ lên là bao nhiêu,ANSWER_VISUAL_QUESTION,3,tôi hông đọc được chữ số trên hợp đồng bảo hiểm tôi đang giơ lên là bao nhiêu,3,tôi hông đọc được chữ_số trên hợp_đồng bảo_hiểm tôi đang giơ lên là bao_nhiêu
+kết thúc giùm tôi cái cái máy,END_SESSION,4,kết thúc giùm tôi cái cái máy,4,kết_thúc giùm tôi cái cái máy
+đọc chữ đang hiện trên màn hình máy đo huyết áp nớ,READ_TEXT,1,đọc chữ đang hiện trên màn hình máy đo huyết áp nớ,1,đọc chữ đang hiện trên màn_hình máy đo huyết_áp nớ
+con con voi trông như thế nào,UNKNOWN,5,con con voi trông như thế nào,5,con_con voi trông như_thế_nào
+bạn ơi tóc tôi có rối không ri,ANSWER_VISUAL_QUESTION,3,bạn ơi tóc tôi có rối không ri,3,bạn ơi tóc tôi có rối không ri
+gói xúc xích này giá bao nhiêu,ANSWER_VISUAL_QUESTION,3,gói xúc xích này giá bao nhiêu,3,gói xúc_xích này giá bao_nhiêu
+tắt hẳn giùm mạ cái ứng dụng hỉ,END_SESSION,4,tắt hẳn giùm mạ cái ứng dụng hỉ,4,tắt hẳn giùm mạ cái ứng_dụng hỉ
+tui đang đứng trong sảnh chung cư bạn có thích tui không,UNKNOWN,5,tui đang đứng trong sảnh chung cư bạn có thích tui không,5,tui đang đứng trong sảnh chung_cư bạn có thích tui không
+thôi hông cần nữa coi,END_SESSION,4,thôi hông cần nữa coi,4,thôi hông cần nữa coi
+phía sau có một cái cây to,UNKNOWN,5,phía sau có một cái cây to,5,phía sau có một cái cây to
+ơ đọc lịch hẹn ngày mai của bác,UNKNOWN,5,ơ đọc lịch hẹn ngày mai của bác,5,ơ đọc lịch hẹn ngày_mai của bác
+hina ơi nhìn quanh xem có chi rồi nói con nghe,DESCRIBE_SCENE,2,hina ơi nhìn quanh xem có chi rồi nói con nghe,2,hina ơi nhìn quanh xem có chi rồi nói con nghe
+tôi không nhìn thấy gì cho tôi biết khung cảnh nơi này được không,DESCRIBE_SCENE,2,tôi không nhìn thấy gì cho tôi biết khung cảnh nơi này được không,2,tôi không nhìn thấy gì cho tôi biết khung_cảnh nơi này được không
+mắt tôi hông nhìn rõ tôi cô đơn quá nói chuyện với tôi đi,UNKNOWN,5,mắt tôi hông nhìn rõ tôi cô đơn quá nói chuyện với tôi đi,5,mắt tôi hông nhìn rõ tôi cô_đơn quá nói_chuyện với tôi đi
+hướng dẫn tui dùng ứng dụng này,UNKNOWN,5,hướng dẫn tui dùng ứng dụng này,5,hướng_dẫn tui dùng ứng_dụng này
+ni bạn thôi không cần nữa,END_SESSION,4,ni bạn thôi không cần nữa,4,ni bạn thôi không cần nữa
+xong hết rồi không cần đọc hay tả gì nữa,END_SESSION,4,xong hết rồi không cần đọc hay tả gì nữa,4,xong hết rồi không cần đọc hay tả gì nữa
+mắt ông không nhìn rõ ông cần biết vé xe buýt trên tay ông ghi những gì một cách chính xác,READ_TEXT,1,mắt ông không nhìn rõ ông cần biết vé xe buýt trên tay ông ghi những gì một cách chính xác,1,mắt ông không nhìn rõ ông cần biết vé xe_buýt trên tay ông ghi những gì một_cách chính_xác
+tôi vừa nhặt được kết quả xét nghiệm tôi vừa nhận không biết ghi gì ạ,READ_TEXT,1,tôi vừa nhặt được kết quả xét nghiệm tôi vừa nhận không biết ghi gì ạ,1,tôi vừa nhặt được kết_quả xét_nghiệm tôi vừa nhận không biết ghi gì ạ
+kết thúc giùm cháu cái chế độ này,END_SESSION,4,kết thúc giùm cháu cái chế độ này,4,kết_thúc giùm cháu cái chế_độ này
+tui vừa bước vào phòng họp tả giùm tui với,DESCRIBE_SCENE,2,tui vừa bước vào phòng họp tả giùm tui với,2,tui vừa bước vào phòng họp tả giùm tui với
+trong ngân hàng đang có những ai và những chi đó,DESCRIBE_SCENE,2,trong ngân hàng đang có những ai và những chi đó,2,trong ngân_hàng đang có những_ai và những chi đó
+trợ lý ơi trời ơi nóng quá,UNKNOWN,5,trợ lý ơi trời ơi nóng quá,5,trợ_lý ơi trời_ơi nóng quá
+hông cần nữa hông cần nữa đâu,END_SESSION,4,hông cần nữa hông cần nữa đâu,4,hông cần nữa hông cần nữa đâu
+tờ giấy mời này có ghi số điện thoại không thế,ANSWER_VISUAL_QUESTION,3,tờ giấy mời này có ghi số điện thoại không thế,3,tờ giấy mời này có ghi số điện_thoại không thế
+tôi đưa điện thoại lên rồi tả cảnh vật xung quanh nhé,DESCRIBE_SCENE,2,tôi đưa điện thoại lên rồi tả cảnh vật xung quanh nhé,2,tôi đưa điện_thoại lên rồi tả cảnh_vật xung_quanh nhé
+thôi không cần nữa,END_SESSION,4,thôi không cần nữa,4,thôi không cần nữa
+kiểm tra giúp anh với cửa khóa chưa với ạ,ANSWER_VISUAL_QUESTION,3,kiểm tra giúp anh với cửa khóa chưa với ạ,3,kiểm_tra giúp anh với cửa khoá chưa với ạ
+cái mạ đang cầm là cái chi,ANSWER_VISUAL_QUESTION,3,cái mạ đang cầm là cái chi,3,cái mạ đang cầm là cái chi
+trợ lý ơi bạn thấy cảnh vật quanh cô thế nào,DESCRIBE_SCENE,2,trợ lý ơi bạn thấy cảnh vật quanh cô thế nào,2,trợ_lý ơi bạn thấy cảnh_vật quanh cô_thế_nào
+biển cấm đỗ xe kia cảnh báo nguy hiểm gì,ANSWER_VISUAL_QUESTION,3,biển cấm đỗ xe kia cảnh báo nguy hiểm gì,3,biển cấm đỗ xe kia cảnh_báo nguy_hiểm gì
+bên phải có gì vướng chân không,ANSWER_VISUAL_QUESTION,3,bên phải có gì vướng chân không,3,bên phải có gì vướng chân_không
+hina ơi ok xong rồi nớ,END_SESSION,4,hina ơi ok xong rồi nớ,4,hina ơi ok xong rồi nớ
+bạn ơi tôi mới tới đây lần đầu nhìn quanh xem có gì rồi nói tôi nghe,DESCRIBE_SCENE,2,bạn ơi tôi mới tới đây lần đầu nhìn quanh xem có gì rồi nói tôi nghe,2,bạn ơi tôi mới tới đây lần đầu nhìn quanh xem có gì rồi nói tôi nghe
+tui vừa bước vào nhà bếp tả cho tui với,DESCRIBE_SCENE,2,tui vừa bước vào nhà bếp tả cho tui với,2,tui vừa bước vào nhà_bếp tả cho tui với
+bạn thấy cảnh vật quanh em ra sao,DESCRIBE_SCENE,2,bạn thấy cảnh vật quanh em ra sao,2,bạn thấy cảnh_vật quanh em ra sao
+à mua vé tàu tết ở đâu,UNKNOWN,5,à mua vé tàu tết ở đâu,5,à mua vé tàu tết ở đâu
+hồi nãy trên biển ghi gì bạn còn nhớ không,UNKNOWN,5,hồi nãy trên biển ghi gì bạn còn nhớ không,5,hồi nãy trên biển ghi gì bạn còn nhớ không
+cái ghế ở văn phòng tôi màu gì,UNKNOWN,5,cái ghế ở văn phòng tôi màu gì,5,cái ghế ở văn_phòng tôi màu gì
+cho dì biết khung cảnh nơi này nha bạn,DESCRIBE_SCENE,2,cho dì biết khung cảnh nơi này nha bạn,2,cho dì biết khung_cảnh nơi này nha bạn
+trên bàn có gì đổ ra không,ANSWER_VISUAL_QUESTION,3,trên bàn có gì đổ ra không,3,trên bàn có gì đổ ra không
